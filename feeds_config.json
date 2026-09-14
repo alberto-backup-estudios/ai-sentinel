@@ -1,0 +1,115 @@
+{
+  "feeds": [
+    {
+      "id": "harari_es",
+      "name": "Yuval Noah Harari (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Yuval+Noah+Harari%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Yuval Noah Harari",
+      "category": "sociedad",
+      "language": "es"
+    },
+    {
+      "id": "harari_en",
+      "name": "Yuval Noah Harari (English)",
+      "url": "https://news.google.com/rss/search?q=%22Yuval+Noah+Harari%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Yuval Noah Harari",
+      "category": "sociedad",
+      "language": "en"
+    },
+    {
+      "id": "hinton_bengio_es",
+      "name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Geoffrey+Hinton%22+OR+%22Yoshua+Bengio%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Hinton & Bengio",
+      "category": "seguridad",
+      "language": "es"
+    },
+    {
+      "id": "hinton_bengio_en",
+      "name": "Geoffrey Hinton & Yoshua Bengio (English)",
+      "url": "https://news.google.com/rss/search?q=%22Geoffrey+Hinton%22+OR+%22Yoshua+Bengio%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Hinton & Bengio",
+      "category": "seguridad",
+      "language": "en"
+    },
+    {
+      "id": "lecun_es",
+      "name": "Yann LeCun (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Yann+LeCun%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Yann LeCun",
+      "category": "opensource",
+      "language": "es"
+    },
+    {
+      "id": "lecun_en",
+      "name": "Yann LeCun (English)",
+      "url": "https://news.google.com/rss/search?q=%22Yann+LeCun%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Yann LeCun",
+      "category": "opensource",
+      "language": "en"
+    },
+    {
+      "id": "gobernanza_es",
+      "name": "Gobernanza y Regulación IA (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Ley+de+Inteligencia+Artificial%22+OR+%22Gobernanza+de+la+IA%22+OR+%22Regulaci%C3%B3n+IA%22&hl=es&gl=ES&ceid=ES:es",
+      "category": "gobernanza",
+      "language": "es"
+    },
+    {
+      "id": "gobernanza_en",
+      "name": "AI Governance & Policy (Global)",
+      "url": "https://news.google.com/rss/search?q=%22EU+AI+Act%22+OR+%22AI+Governance%22+OR+%22AI+Safety+Institute%22&hl=en-US&gl=US&ceid=US:en",
+      "category": "gobernanza",
+      "language": "en"
+    },
+    {
+      "id": "seguridad_es",
+      "name": "Seguridad y Riesgo Existencial (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Seguridad+de+la+IA%22+OR+%22Riesgo+existencial+IA%22+OR+%22Alineaci%C3%B3n+de+la+IA%22&hl=es&gl=ES&ceid=ES:es",
+      "category": "seguridad",
+      "language": "es"
+    },
+    {
+      "id": "seguridad_en",
+      "name": "AI Safety & Alignment (Global)",
+      "url": "https://news.google.com/rss/search?q=%22AI+safety%22+OR+%22catastrophic+AI+risk%22+OR+%22AI+alignment%22&hl=en-US&gl=US&ceid=US:en",
+      "category": "seguridad",
+      "language": "en"
+    },
+    {
+      "id": "import_ai",
+      "name": "Import AI (Jack Clark)",
+      "url": "https://importai.substack.com/feed",
+      "category": "newsletter",
+      "language": "en"
+    },
+    {
+      "id": "ai_snake_oil",
+      "name": "AI Snake Oil (Princeton)",
+      "url": "https://www.aisnakeoil.com/feed",
+      "category": "newsletter",
+      "language": "en"
+    },
+    {
+      "id": "future_of_life",
+      "name": "Future of Life Institute (FLI)",
+      "url": "https://futureoflife.org/feed/",
+      "category": "seguridad",
+      "language": "en"
+    },
+    {
+      "id": "humane_tech",
+      "name": "Center for Humane Technology",
+      "url": "https://www.humanetech.com/news?format=rss",
+      "category": "sociedad",
+      "language": "en"
+    },
+    {
+      "id": "alignment_forum",
+      "name": "Alignment Forum (Técnico)",
+      "url": "https://www.alignmentforum.org/feed.xml",
+      "category": "seguridad",
+      "language": "en"
+    }
+  ]
+}

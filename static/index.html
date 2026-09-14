@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="es" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Sentinel | Seguridad, Gobernanza & Pensadores de la IA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+            serif: ['"Newsreader"', 'Georgia', 'serif'],
+          },
+          colors: {
+            brand: {
+              50: '#f0f4ff',
+              100: '#dbe4ff',
+              500: '#3b66f5',
+              600: '#254ce0',
+              700: '#1d3bb8',
+              900: '#0f1f63',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="styles.css">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-sans transition-colors duration-200">
+
+  <!-- TOP NAVIGATION HEADER -->
+  <header class="sticky top-0 z-40 backdrop-blur-md bg-slate-950/80 border-b border-slate-800/80 px-4 lg:px-8 py-3.5 transition-colors">
+    <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
+      
+      <!-- Brand & Title -->
+      <div class="flex items-center gap-3 min-w-max">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-violet-500 flex items-center justify-center shadow-lg shadow-indigo-500/25">
+          <i data-lucide="shield-alert" class="w-5 h-5 text-white"></i>
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <h1 class="text-lg font-bold tracking-tight text-white flex items-center gap-2">
+              AI Sentinel
+              <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20">Monitor Especializado</span>
+            </h1>
+          </div>
+          <p class="text-xs text-slate-400 hidden sm:block">Seguridad para las personas, Gobernanza & Pensadores Clave</p>
+        </div>
+      </div>
+
+      <!-- Live Search Bar -->
+      <div class="flex-1 max-w-md relative hidden md:block">
+        <div class="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
+          <i data-lucide="search" class="w-4 h-4"></i>
+        </div>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Buscar por tema, concepto o autor... (Presiona '/' para buscar)" 
+          class="w-full pl-10 pr-10 py-2 bg-slate-900 border border-slate-800 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500/50 focus:border-indigo-500 transition-all shadow-inner"
+        >
+        <button id="clearSearchBtn" class="hidden absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-white">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <!-- Quick Actions (Translation Toggle, Refresh, Bookmarks, Theme) -->
+      <div class="flex items-center gap-2">
+        
+        <!-- TRANSLATION TOGGLE BUTTON -->
+        <button 
+          id="translateToggleBtn" 
+          class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-semibold transition shadow-sm bg-slate-900 border-slate-800 text-slate-300 hover:text-white"
+          title="Traducir noticias extranjeras al español"
+        >
+          <i data-lucide="languages" id="translateIcon" class="w-3.5 h-3.5 text-indigo-400"></i>
+          <span class="hidden sm:inline" id="translateToggleText">Traducir al Español</span>
+          <span id="translateStatusPill" class="px-1.5 py-0.2 rounded text-[10px] uppercase font-bold bg-slate-800 text-slate-400">OFF</span>
+        </button>
+
+        <!-- Refresh Button -->
+        <button 
+          id="refreshBtn" 
+          class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-medium text-slate-300 hover:text-white transition shadow-sm"
+          title="Actualizar feeds ahora"
+        >
+          <i data-lucide="refresh-cw" id="refreshIcon" class="w-3.5 h-3.5 text-slate-400"></i>
+          <span class="hidden md:inline">Actualizar</span>
+        </button>
+
+        <!-- Bookmarks Filter Trigger -->
+        <button 
+          id="toggleBookmarksBtn" 
+          class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-medium text-slate-300 hover:text-amber-400 transition"
+          title="Ver artículos guardados"
+        >
+          <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+          <span class="hidden md:inline">Guardados</span>
+          <span id="savedBadgeCount" class="px-1.5 py-0.2 bg-amber-500/20 text-amber-300 rounded-full text-[10px] font-bold">0</span>
+        </button>
+
+        <!-- Tablet / Mobile Access Button -->
+        <button 
+          id="mobileAccessBtn" 
+          class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-indigo-950/40 hover:bg-indigo-900/50 border border-indigo-500/30 text-xs font-semibold text-indigo-300 hover:text-white transition shadow-sm"
+          title="Conectar Tablet o Celular / Descargar versión móvil"
+        >
+          <i data-lucide="tablet-smartphone" class="w-3.5 h-3.5 text-indigo-400"></i>
+          <span class="hidden md:inline">Tablet / Móvil</span>
+        </button>
+
+        <!-- Dark / Light Theme Toggle -->
+        <button 
+          id="themeToggleBtn" 
+          class="p-2 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-800 text-slate-400 hover:text-white transition"
+          title="Cambiar tema claro/oscuro"
+          aria-label="Cambiar tema"
+        >
+          <i data-lucide="sun" id="sunIcon" class="w-4 h-4 hidden"></i>
+          <i data-lucide="moon" id="moonIcon" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+    </div>
+
+    <!-- Mobile Search input bar -->
+    <div class="mt-2.5 md:hidden">
+      <div class="relative">
+        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
+          <i data-lucide="search" class="w-4 h-4"></i>
+        </div>
+        <input 
+          type="text" 
+          id="mobileSearchInput" 
+          placeholder="Buscar noticias..." 
+          class="w-full pl-9 pr-8 py-1.5 bg-slate-900 border border-slate-800 rounded-lg text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-indigo-500"
+        >
+      </div>
+    </div>
+  </header>
+
+  <!-- THINKERS HERO SPOTLIGHT -->
+  <section class="border-b border-slate-800/80 bg-slate-900/40 px-4 lg:px-8 py-4">
+    <div class="max-w-7xl mx-auto">
+      <div class="flex items-center justify-between mb-2.5">
+        <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider flex items-center gap-1.5">
+          <i data-lucide="users" class="w-3.5 h-3.5 text-indigo-400"></i>
+          Voces y Pensadores Clave
+        </span>
+        <span class="text-xs text-slate-500 hidden sm:block">Filtra rápidamente por autor para ver sus advertencias y tesis</span>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-2.5">
+        <!-- Harari -->
+        <button 
+          data-thinker-filter="Yuval Noah Harari" 
+          class="thinker-card group p-3 rounded-xl bg-slate-900/90 border border-slate-800 hover:border-purple-500/50 hover:bg-purple-950/20 text-left transition flex items-center gap-3"
+        >
+          <div class="w-9 h-9 rounded-lg bg-purple-500/10 border border-purple-500/30 flex items-center justify-center text-purple-400 group-hover:scale-105 transition">
+            <i data-lucide="book-open" class="w-4 h-4"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="font-bold text-xs sm:text-sm text-slate-200 group-hover:text-purple-300 truncate">Yuval Noah Harari</div>
+            <div class="text-[11px] text-slate-400 truncate">Democracia, Lenguaje & Nexus</div>
+          </div>
+        </button>
+
+        <!-- Geoffrey Hinton -->
+        <button 
+          data-thinker-filter="Geoffrey Hinton" 
+          class="thinker-card group p-3 rounded-xl bg-slate-900/90 border border-slate-800 hover:border-rose-500/50 hover:bg-rose-950/20 text-left transition flex items-center gap-3"
+        >
+          <div class="w-9 h-9 rounded-lg bg-rose-500/10 border border-rose-500/30 flex items-center justify-center text-rose-400 group-hover:scale-105 transition">
+            <i data-lucide="alert-octagon" class="w-4 h-4"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="font-bold text-xs sm:text-sm text-slate-200 group-hover:text-rose-300 truncate">Geoffrey Hinton</div>
+            <div class="text-[11px] text-slate-400 truncate">Riesgo existencial & Pérdida de control</div>
+          </div>
+        </button>
+
+        <!-- Yoshua Bengio -->
+        <button 
+          data-thinker-filter="Yoshua Bengio" 
+          class="thinker-card group p-3 rounded-xl bg-slate-900/90 border border-slate-800 hover:border-amber-500/50 hover:bg-amber-950/20 text-left transition flex items-center gap-3"
+        >
+          <div class="w-9 h-9 rounded-lg bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 group-hover:scale-105 transition">
+            <i data-lucide="shield-check" class="w-4 h-4"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="font-bold text-xs sm:text-sm text-slate-200 group-hover:text-amber-300 truncate">Yoshua Bengio</div>
+            <div class="text-[11px] text-slate-400 truncate">Seguridad científica & Tratados</div>
+          </div>
+        </button>
+
+        <!-- Yann LeCun -->
+        <button 
+          data-thinker-filter="Yann LeCun" 
+          class="thinker-card group p-3 rounded-xl bg-slate-900/90 border border-slate-800 hover:border-emerald-500/50 hover:bg-emerald-950/20 text-left transition flex items-center gap-3"
+        >
+          <div class="w-9 h-9 rounded-lg bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400 group-hover:scale-105 transition">
+            <i data-lucide="unlock" class="w-4 h-4"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="font-bold text-xs sm:text-sm text-slate-200 group-hover:text-emerald-300 truncate">Yann LeCun</div>
+            <div class="text-[11px] text-slate-400 truncate">Código abierto & Tecno-optimismo</div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN APPLICATION CONTENT -->
+  <main class="flex-1 max-w-7xl w-full mx-auto px-4 lg:px-8 py-6 flex flex-col md:flex-row gap-6">
+
+    <!-- LEFT SIDEBAR: FILTERS -->
+    <aside class="w-full md:w-64 shrink-0 space-y-6">
+
+      <!-- Category Filter Pills -->
+      <div class="bg-slate-900/60 border border-slate-800 rounded-2xl p-4 space-y-2">
+        <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3 flex items-center gap-2">
+          <i data-lucide="layers" class="w-3.5 h-3.5 text-indigo-400"></i>
+          Ejes Temáticos
+        </h3>
+
+        <nav class="space-y-1" id="categoryNav">
+          <button data-category="all" class="nav-btn active w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-800/80 transition">
+            <span class="flex items-center gap-2">
+              <i data-lucide="globe" class="w-4 h-4 text-blue-400"></i>
+              Todos los artículos
+            </span>
+            <span id="badgeTotalCount" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-bold">...</span>
+          </button>
+
+          <button data-category="gobernanza" class="nav-btn w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-800/80 transition">
+            <span class="flex items-center gap-2">
+              <i data-lucide="scale" class="w-4 h-4 text-indigo-400"></i>
+              Gobernanza & Leyes
+            </span>
+            <span id="badgeGovCount" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-bold">0</span>
+          </button>
+
+          <button data-category="seguridad" class="nav-btn w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-800/80 transition">
+            <span class="flex items-center gap-2">
+              <i data-lucide="shield-alert" class="w-4 h-4 text-rose-400"></i>
+              Seguridad & Riesgo
+            </span>
+            <span id="badgeSafetyCount" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-bold">0</span>
+          </button>
+
+          <button data-category="sociedad" class="nav-btn w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-800/80 transition">
+            <span class="flex items-center gap-2">
+              <i data-lucide="landmark" class="w-4 h-4 text-purple-400"></i>
+              Democracia & Sociedad
+            </span>
+            <span id="badgeSocCount" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-bold">0</span>
+          </button>
+
+          <button data-category="opensource" class="nav-btn w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-800/80 transition">
+            <span class="flex items-center gap-2">
+              <i data-lucide="unlock" class="w-4 h-4 text-emerald-400"></i>
+              Código Abierto
+            </span>
+            <span id="badgeOsCount" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-bold">0</span>
+          </button>
+
+          <button data-category="newsletter" class="nav-btn w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-800/80 transition">
+            <span class="flex items-center gap-2">
+              <i data-lucide="mail" class="w-4 h-4 text-amber-400"></i>
+              Newsletters Especializadas
+            </span>
+            <span id="badgeNewsCount" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-bold">0</span>
+          </button>
+        </nav>
+      </div>
+
+      <!-- Quick Translation Options Card in Sidebar -->
+      <div class="bg-slate-900/60 border border-slate-800 rounded-2xl p-4 space-y-3">
+        <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider flex items-center gap-2">
+          <i data-lucide="languages" class="w-3.5 h-3.5 text-indigo-400"></i>
+          Idioma y Traducción
+        </h3>
+
+        <!-- Translation mode card -->
+        <div class="p-2.5 rounded-xl bg-slate-950/70 border border-slate-800 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-semibold text-slate-200">Traducir al Español</span>
+            <label class="relative inline-flex items-center cursor-pointer">
+              <input type="checkbox" id="sidebarTranslateSwitch" class="sr-only peer">
+              <div class="w-9 h-5 bg-slate-800 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-indigo-600"></div>
+            </label>
+          </div>
+          <p class="text-[11px] text-slate-400 leading-tight">
+            Traduce automáticamente los artículos en inglés (Import AI, MIT, Princeton) al español.
+          </p>
+        </div>
+
+        <div>
+          <label class="text-[11px] font-semibold text-slate-400 block mb-1.5">Filtro de Idioma Original</label>
+          <div class="grid grid-cols-3 gap-1 bg-slate-950 p-1 rounded-xl border border-slate-800 text-xs">
+            <button data-lang="all" class="lang-btn active py-1 rounded-lg text-slate-400 hover:text-white font-medium transition">Todos</button>
+            <button data-lang="es" class="lang-btn py-1 rounded-lg text-slate-400 hover:text-white font-medium transition">Español</button>
+            <button data-lang="en" class="lang-btn py-1 rounded-lg text-slate-400 hover:text-white font-medium transition">English</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sources card -->
+      <div class="bg-slate-900/60 border border-slate-800 rounded-2xl p-4 space-y-2">
+        <label class="text-xs font-bold text-slate-400 uppercase tracking-wider block mb-2">Fuentes Destacadas</label>
+        <div class="space-y-1 text-xs text-slate-400">
+          <div class="flex items-center justify-between py-1 border-b border-slate-800/60">
+            <span class="flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-blue-400"></span> Import AI (Jack Clark)</span>
+            <span class="text-[10px] text-slate-500">Substack</span>
+          </div>
+          <div class="flex items-center justify-between py-1 border-b border-slate-800/60">
+            <span class="flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-amber-400"></span> AI Snake Oil</span>
+            <span class="text-[10px] text-slate-500">Princeton</span>
+          </div>
+          <div class="flex items-center justify-between py-1 border-b border-slate-800/60">
+            <span class="flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-rose-400"></span> Future of Life</span>
+            <span class="text-[10px] text-slate-500">FLI</span>
+          </div>
+          <div class="flex items-center justify-between py-1 border-b border-slate-800/60">
+            <span class="flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-purple-400"></span> Humane Technology</span>
+            <span class="text-[10px] text-slate-500">CHT</span>
+          </div>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- RIGHT: ARTICLES GRID -->
+    <section class="flex-1 min-w-0 space-y-4">
+
+      <!-- Status & Filter Summary Bar -->
+      <div class="flex flex-wrap items-center justify-between gap-3 bg-slate-900/40 p-3 rounded-xl border border-slate-800/80">
+        <div class="flex items-center gap-2 flex-wrap text-xs">
+          <span class="font-bold text-slate-200" id="resultsCount">Cargando noticias...</span>
+          <span class="text-slate-600">•</span>
+          <span id="activeFilterTags" class="flex items-center gap-1.5 flex-wrap"></span>
+        </div>
+        <div class="text-[11px] text-slate-500 flex items-center gap-1">
+          <i data-lucide="clock" class="w-3 h-3"></i>
+          <span id="lastUpdatedText">Actualizado recientemente</span>
+        </div>
+      </div>
+
+      <!-- Loading skeleton -->
+      <div id="loadingState" class="space-y-4">
+        <div class="p-6 rounded-2xl bg-slate-900/50 border border-slate-800 animate-pulse space-y-3">
+          <div class="h-4 bg-slate-800 rounded w-1/4"></div>
+          <div class="h-6 bg-slate-800 rounded w-3/4"></div>
+          <div class="h-12 bg-slate-800 rounded w-full"></div>
+        </div>
+        <div class="p-6 rounded-2xl bg-slate-900/50 border border-slate-800 animate-pulse space-y-3">
+          <div class="h-4 bg-slate-800 rounded w-1/4"></div>
+          <div class="h-6 bg-slate-800 rounded w-3/4"></div>
+          <div class="h-12 bg-slate-800 rounded w-full"></div>
+        </div>
+      </div>
+
+      <!-- Articles Container -->
+      <div id="articlesGrid" class="space-y-3.5 hidden">
+        <!-- Generado dinámicamente por app.js -->
+      </div>
+
+      <!-- Empty State -->
+      <div id="emptyState" class="hidden p-12 text-center rounded-2xl border border-dashed border-slate-800 bg-slate-900/30">
+        <i data-lucide="newspaper" class="w-12 h-12 text-slate-600 mx-auto mb-3"></i>
+        <h3 class="text-base font-bold text-slate-300">No se encontraron artículos</h3>
+        <p class="text-xs text-slate-500 mt-1 max-w-sm mx-auto">No hay noticias que coincidan con los filtros seleccionados o tu búsqueda. Prueba a restablecer los filtros.</p>
+        <button id="resetFiltersBtn" class="mt-4 px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-semibold text-white transition">
+          Restablecer filtros
+        </button>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- QUICK PREVIEW MODAL (<dialog> accesible) -->
+  <dialog id="previewModal" class="p-0 rounded-2xl bg-slate-900 text-slate-100 border border-slate-700 shadow-2xl max-w-2xl w-[92vw] backdrop:bg-slate-950/80 backdrop:backdrop-blur-sm transition-all">
+    <div class="p-6 space-y-4">
+      
+      <!-- Modal Header -->
+      <div class="flex items-start justify-between gap-4 border-b border-slate-800 pb-3">
+        <div class="space-y-1">
+          <div id="modalSourceTime" class="text-xs font-medium text-slate-400 flex items-center gap-2 flex-wrap"></div>
+          <h2 id="modalTitle" class="text-lg sm:text-xl font-bold text-white leading-snug"></h2>
+        </div>
+        <button id="closeModalBtn" class="p-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <!-- Modal Thinker & Tags -->
+      <div id="modalBadges" class="flex flex-wrap items-center gap-2"></div>
+
+      <!-- Modal Excerpt -->
+      <div class="space-y-2">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Extracto / Resumen</span>
+          <!-- Botón de traducir en modal -->
+          <button id="modalTranslateBtn" class="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-indigo-600/20 text-indigo-300 border border-indigo-500/30 text-xs font-medium hover:bg-indigo-600/30 transition">
+            <i data-lucide="languages" class="w-3.5 h-3.5"></i>
+            <span id="modalTranslateBtnText">Traducir al español</span>
+          </button>
+        </div>
+        <div class="prose prose-invert max-w-none text-sm leading-relaxed text-slate-300 bg-slate-950/50 p-4 rounded-xl border border-slate-800/80" id="modalSummary">
+        </div>
+      </div>
+
+      <!-- Modal Actions -->
+      <div class="flex items-center justify-between pt-2">
+        <button id="modalBookmarkBtn" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-xs font-semibold text-slate-300 transition">
+          <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+          <span id="modalBookmarkText">Guardar para después</span>
+        </button>
+
+        <a id="modalExternalLink" href="#" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-semibold text-white transition shadow-md shadow-indigo-600/30">
+          <span>Leer artículo original</span>
+          <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+        </a>
+      </div>
+
+    </div>
+  </dialog>
+
+  <!-- MODAL DE ACCESO DESDE TABLET / TELÉFONO -->
+  <dialog id="mobileModal" class="p-0 rounded-2xl bg-slate-900 text-slate-100 border border-slate-700 shadow-2xl max-w-lg w-[92vw] backdrop:bg-slate-950/80 backdrop:backdrop-blur-sm transition-all">
+    <div class="p-6 space-y-4">
+      <div class="flex items-start justify-between border-b border-slate-800 pb-3">
+        <div class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-lg bg-indigo-600/20 border border-indigo-500/30 flex items-center justify-center text-indigo-400">
+            <i data-lucide="tablet-smartphone" class="w-4 h-4"></i>
+          </div>
+          <div>
+            <h2 class="text-base font-bold text-white leading-tight">Acceso desde Tablet o Celular</h2>
+            <p class="text-xs text-slate-400">Elige la forma que prefieras para leer en tus dispositivos</p>
+          </div>
+        </div>
+        <button id="closeMobileModalBtn" class="p-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <!-- Opción 1: En vivo en la misma red Wi-Fi -->
+      <div class="p-4 rounded-xl bg-slate-950/70 border border-slate-800 space-y-3">
+        <div class="flex items-center gap-2 text-xs font-bold text-indigo-400 uppercase tracking-wider">
+          <span class="w-5 h-5 rounded-full bg-indigo-600 text-white flex items-center justify-center text-[11px]">1</span>
+          Conexión directa en vivo (Misma red Wi-Fi)
+        </div>
+        <p class="text-xs text-slate-300">
+          Si tu tablet o celular está conectado a la misma red Wi-Fi que esta computadora, abre el navegador y escribe:
+        </p>
+        <div class="flex items-center gap-2 p-2.5 rounded-lg bg-slate-900 border border-slate-800 text-xs font-mono text-indigo-300 select-all justify-between">
+          <span id="lanUrlDisplay">http://192.168.1.102:8000/movil</span>
+          <button id="copyLanUrlBtn" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 text-[11px] font-sans">Copiar</button>
+        </div>
+        <!-- QR Code para escanear con la cámara -->
+        <div class="flex flex-col sm:flex-row items-center gap-4 pt-1">
+          <img id="qrCodeImg" src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=http://192.168.1.102:8000/movil" alt="Código QR para móvil" class="w-28 h-28 rounded-lg bg-white p-1 shadow-md">
+          <div class="text-xs text-slate-400 space-y-1">
+            <p class="font-semibold text-slate-200">Escanear con la cámara del celular:</p>
+            <p>Apunta la cámara de tu teléfono a este código QR para abrir el panel móvil al instante.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Opción 2: Versión Estática / Portátil (Sin necesitar la PC) -->
+      <div class="p-4 rounded-xl bg-slate-950/70 border border-slate-800 space-y-2.5">
+        <div class="flex items-center gap-2 text-xs font-bold text-amber-400 uppercase tracking-wider">
+          <span class="w-5 h-5 rounded-full bg-amber-500 text-slate-950 flex items-center justify-center text-[11px]">2</span>
+          Versión estática / instantánea sin depender de la PC
+        </div>
+        <p class="text-xs text-slate-300">
+          Descarga un archivo HTML único con todas las noticias actuales, traducciones y filtros incrustados. Puedes enviártelo por <strong>WhatsApp Web</strong>, <strong>Telegram</strong>, <strong>Google Drive</strong> o <strong>Email</strong> y abrirlo en tu tablet/celular incluso sin internet.
+        </p>
+        <a href="/download-movil" download="ai_sentinel_movil.html" class="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-amber-500/20 hover:bg-amber-500/30 text-amber-300 border border-amber-500/40 text-xs font-bold transition">
+          <i data-lucide="download" class="w-3.5 h-3.5"></i>
+          Descargar ai_sentinel_movil.html (380 KB)
+        </a>
+      </div>
+
+    </div>
+  </dialog>
+
+  <!-- FOOTER -->
+  <footer class="border-t border-slate-900 bg-slate-950/90 py-6 px-4 text-center text-xs text-slate-500">
+    <div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3">
+      <p>AI Sentinel — Especializado en Seguridad Humana, Gobernanza & Pensadores de IA</p>
+      <p>Ejecutándose localmente en <code class="text-indigo-400">http://localhost:8000</code></p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
