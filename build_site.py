@@ -22,7 +22,10 @@ THINKERS_RULES = {
     "Geoffrey Hinton": [r"\bgeoffrey hinton\b", r"\bhinton\b"],
     "Yoshua Bengio": [r"\byoshua bengio\b", r"\bbengio\b"],
     "Yann LeCun": [r"\byann lecun\b", r"\blecun\b", r"\ble cun\b"],
+    "Fei-Fei Li": [r"\bfei-fei li\b", r"\bfei fei li\b", r"\bfeifei li\b", r"\bstanford hai\b"],
     "Stuart Russell": [r"\bstuart russell\b", r"\brussell\b", r"\bhuman compatible\b"],
+    "Mustafa Suleyman": [r"\bmustafa suleyman\b", r"\bsuleyman\b", r"\bthe coming wave\b"],
+    "Daron Acemoglu": [r"\bdaron acemoglu\b", r"\bacemoglu\b", r"\bpower and progress\b"],
     "Tristan Harris": [r"\btristan harris\b", r"\baza raskin\b", r"\bhumane tech\b"]
 }
 
@@ -45,7 +48,7 @@ CATEGORY_RULES = {
         r"\belecciones\b", r"\belections\b", r"\bderechos\b", r"\brights\b",
         r"\bsesgo[s]?\b", r"\bbias\b", r"\bdeepfake[s]?\b", r"\bsociedad\b",
         r"\bsociety\b", r"\btrabajo\b", r"\blabor\b", r"\bnexus\b", r"\bhumano[s]?\b",
-        r"\b[eé]tica\b", r"\bethics\b"
+        r"\b[eé]tica\b", r"\bethics\b", r"\bempleo\b", r"\bsalario\b"
     ],
     "opensource": [
         r"\bopen source\b", r"\bc[oó]digo abierto\b", r"\babierto\b",
@@ -153,7 +156,7 @@ def main():
         feeds = json.load(f).get("feeds", [])
 
     all_articles = []
-    with ThreadPoolExecutor(max_workers=8) as ex:
+    with ThreadPoolExecutor(max_workers=10) as ex:
         for res in ex.map(fetch_feed, feeds):
             all_articles.extend(res)
 
@@ -176,8 +179,8 @@ def main():
                 translations = json.load(f)
         except Exception: pass
 
-    # Traducir los artículos en inglés que no tengan traducción (hasta 60)
-    untranslated = [a for a in deduped if a["language"] == "en" and a["id"] not in translations][:60]
+    # Traducir los artículos en inglés que no tengan traducción (hasta 80)
+    untranslated = [a for a in deduped if a["language"] == "en" and a["id"] not in translations][:80]
     if untranslated:
         print(f"[*] Traduciendo {len(untranslated)} noticias al español...")
         def do_t(a):
@@ -226,6 +229,10 @@ def main():
     .badge-thinker-hinton {{ background: rgba(244, 63, 94, 0.15); color: #fb7185; border: 1px solid rgba(244, 63, 94, 0.3); }}
     .badge-thinker-bengio {{ background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }}
     .badge-thinker-lecun {{ background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }}
+    .badge-thinker-feifei {{ background: rgba(236, 72, 153, 0.15); color: #f472b6; border: 1px solid rgba(236, 72, 153, 0.3); }}
+    .badge-thinker-russell {{ background: rgba(6, 182, 212, 0.15); color: #22d3ee; border: 1px solid rgba(6, 182, 212, 0.3); }}
+    .badge-thinker-suleyman {{ background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); }}
+    .badge-thinker-acemoglu {{ background: rgba(132, 204, 22, 0.15); color: #a3e635; border: 1px solid rgba(132, 204, 22, 0.3); }}
     dialog[open] {{ animation: fadeIn 0.15s ease-out; }}
     @keyframes fadeIn {{ from {{ opacity: 0; transform: scale(0.97); }} to {{ opacity: 1; transform: scale(1); }} }}
   </style>
@@ -245,19 +252,17 @@ def main():
             AI Sentinel
             <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">GitHub Pages</span>
           </h1>
-          <p class="text-[11px] text-slate-400 hidden sm:block">Seguridad Humana, Gobernanza & Pensadores (Harari, Hinton, Bengio, LeCun)</p>
+          <p class="text-[11px] text-slate-400 hidden sm:block">Seguridad Humana, Gobernanza & Pensadores Clave</p>
         </div>
       </div>
 
       <!-- Acciones de cabecera -->
       <div class="flex items-center gap-2">
-        <!-- Toggle Traducción al Español -->
         <button id="langToggleBtn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border text-xs font-semibold transition bg-indigo-600/20 text-indigo-300 border-indigo-500/40">
           <i data-lucide="languages" class="w-3.5 h-3.5"></i>
           <span id="langToggleLabel">Español</span>
         </button>
 
-        <!-- Guardados -->
         <button id="savedFilterBtn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-xs font-semibold text-slate-300 hover:text-amber-400 transition">
           <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
           <span class="hidden sm:inline">Guardados</span>
@@ -282,30 +287,43 @@ def main():
     </div>
   </header>
 
-  <!-- PENSADORES CLAVE (HERO PILLS) -->
+  <!-- PENSADORES CLAVE (FILTROS HORIZONTALES) -->
   <section class="max-w-6xl mx-auto px-4 lg:px-8 pt-4 pb-2">
     <div class="flex items-center justify-between mb-2">
       <span class="text-xs font-bold uppercase tracking-wider text-slate-400 flex items-center gap-1.5">
-        <i data-lucide="users" class="w-3.5 h-3.5 text-indigo-400"></i> Voces Clave
+        <i data-lucide="users" class="w-3.5 h-3.5 text-indigo-400"></i> Voces y Pensadores Clave
       </span>
       <span class="text-[11px] text-slate-500">Última sincronización: {now_str}</span>
     </div>
 
+    <!-- Carrusel de pensadores -->
     <div class="flex items-center gap-2 overflow-x-auto pb-2 no-scrollbar text-xs">
       <button data-thinker="all" class="thinker-pill active shrink-0 px-3 py-2 rounded-xl bg-slate-800 text-white font-bold border border-slate-700 transition">
-        Todos los pensadores
+        Todos
       </button>
-      <button data-thinker="Yuval Noah Harari" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-purple-950/30 text-purple-300 font-bold border border-slate-800 flex items-center gap-2 transition">
-        <span>📚</span> Yuval Noah Harari
+      <button data-thinker="Yuval Noah Harari" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-purple-950/30 text-purple-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>📚</span> Harari
       </button>
-      <button data-thinker="Geoffrey Hinton" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-rose-950/30 text-rose-300 font-bold border border-slate-800 flex items-center gap-2 transition">
-        <span>🧠</span> Geoffrey Hinton
+      <button data-thinker="Fei-Fei Li" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-pink-950/30 text-pink-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>🌸</span> Fei-Fei Li
       </button>
-      <button data-thinker="Yoshua Bengio" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-amber-950/30 text-amber-300 font-bold border border-slate-800 flex items-center gap-2 transition">
-        <span>🛡️</span> Yoshua Bengio
+      <button data-thinker="Stuart Russell" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-cyan-950/30 text-cyan-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>⚙️</span> Stuart Russell
       </button>
-      <button data-thinker="Yann LeCun" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-emerald-950/30 text-emerald-300 font-bold border border-slate-800 flex items-center gap-2 transition">
-        <span>🔓</span> Yann LeCun
+      <button data-thinker="Geoffrey Hinton" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-rose-950/30 text-rose-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>🧠</span> Hinton
+      </button>
+      <button data-thinker="Yoshua Bengio" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-amber-950/30 text-amber-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>🛡️</span> Bengio
+      </button>
+      <button data-thinker="Mustafa Suleyman" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-blue-950/30 text-blue-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>🌊</span> Suleyman
+      </button>
+      <button data-thinker="Daron Acemoglu" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-lime-950/30 text-lime-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>🏛️</span> Acemoglu
+      </button>
+      <button data-thinker="Yann LeCun" class="thinker-pill shrink-0 px-3 py-2 rounded-xl bg-slate-900/90 hover:bg-emerald-950/30 text-emerald-300 font-bold border border-slate-800 flex items-center gap-1.5 transition">
+        <span>🔓</span> LeCun
       </button>
     </div>
 
@@ -402,6 +420,10 @@ def main():
           if (t.includes('Hinton')) cls = 'badge-thinker-hinton';
           else if (t.includes('Bengio')) cls = 'badge-thinker-bengio';
           else if (t.includes('LeCun')) cls = 'badge-thinker-lecun';
+          else if (t.includes('Fei-Fei') || t.includes('Li')) cls = 'badge-thinker-feifei';
+          else if (t.includes('Russell')) cls = 'badge-thinker-russell';
+          else if (t.includes('Suleyman')) cls = 'badge-thinker-suleyman';
+          else if (t.includes('Acemoglu')) cls = 'badge-thinker-acemoglu';
           return `<span class="px-2 py-0.5 rounded-md text-[10px] font-bold ${{cls}}">${{t}}</span>`;
         }}).join(' ');
 
@@ -510,7 +532,7 @@ def main():
     with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
         f.write(template)
 
-    print(f"[OK] index.html generado para GitHub Pages ({len(deduped)} noticias). Tamaño: {len(template)} bytes")
+    print(f"[OK] index.html generado con éxito ({len(deduped)} noticias).")
 
 if __name__ == "__main__":
     main()

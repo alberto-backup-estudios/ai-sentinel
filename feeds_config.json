@@ -110,6 +110,70 @@
       "url": "https://www.alignmentforum.org/feed.xml",
       "category": "seguridad",
       "language": "en"
+    },
+    {
+      "id": "feifei_li_es",
+      "name": "Fei-Fei Li (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Fei-Fei+Li%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Fei-Fei Li",
+      "category": "sociedad",
+      "language": "es"
+    },
+    {
+      "id": "feifei_li_en",
+      "name": "Fei-Fei Li (English)",
+      "url": "https://news.google.com/rss/search?q=%22Fei-Fei+Li%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Fei-Fei Li",
+      "category": "sociedad",
+      "language": "en"
+    },
+    {
+      "id": "russell_es",
+      "name": "Stuart Russell (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Stuart+Russell%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Stuart Russell",
+      "category": "seguridad",
+      "language": "es"
+    },
+    {
+      "id": "russell_en",
+      "name": "Stuart Russell (English)",
+      "url": "https://news.google.com/rss/search?q=%22Stuart+Russell%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Stuart Russell",
+      "category": "seguridad",
+      "language": "en"
+    },
+    {
+      "id": "suleyman_es",
+      "name": "Mustafa Suleyman (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Mustafa+Suleyman%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Mustafa Suleyman",
+      "category": "gobernanza",
+      "language": "es"
+    },
+    {
+      "id": "suleyman_en",
+      "name": "Mustafa Suleyman (English)",
+      "url": "https://news.google.com/rss/search?q=%22Mustafa+Suleyman%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Mustafa Suleyman",
+      "category": "gobernanza",
+      "language": "en"
+    },
+    {
+      "id": "acemoglu_es",
+      "name": "Daron Acemoglu (Español)",
+      "url": "https://news.google.com/rss/search?q=%22Daron+Acemoglu%22+AI+OR+IA&hl=es&gl=ES&ceid=ES:es",
+      "default_thinker": "Daron Acemoglu",
+      "category": "sociedad",
+      "language": "es"
+    },
+    {
+      "id": "acemoglu_en",
+      "name": "Daron Acemoglu (English)",
+      "url": "https://news.google.com/rss/search?q=%22Daron+Acemoglu%22+AI&hl=en-US&gl=US&ceid=US:en",
+      "default_thinker": "Daron Acemoglu",
+      "category": "sociedad",
+      "language": "en"
     }
   ]
 }
