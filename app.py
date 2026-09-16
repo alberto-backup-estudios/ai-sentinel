@@ -127,20 +127,34 @@ def save_translations_cache(cache):
         print(f"[WARN] Error guardando traducciones: {e}")
 
 def translate_text_to_spanish(text):
-    if not text or not text.strip():
-        return ""
-    # Si el texto es muy corto o ya parece español
-    clean = text.strip()
+    if not text or not text.strip(): return ""
+    clean = text.strip()[:1500]
+    
     try:
-        url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q=" + quote(clean[:1500])
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=5) as resp:
+        url = "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl=es&q=" + quote(clean)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            data = json.loads(r.read().decode("utf-8"))
+            if isinstance(data, list) and len(data) > 0:
+                if isinstance(data[0], list) and len(data[0]) > 0 and data[0][0]:
+                    return data[0][0]
+                elif isinstance(data[0], str) and data[0]:
+                    return data[0]
+    except Exception:
+        pass
+
+    try:
+        url = "https://translate.googleapis.com/translate_a/single?client=dict-chrome-ex&sl=auto&tl=es&dt=t&q=" + quote(clean)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=8) as resp:
             data = json.loads(resp.read().decode("utf-8"))
-            translated = "".join([part[0] for part in data[0] if part and part[0]])
-            return translated if translated else clean
-    except Exception as e:
-        print(f"[WARN] Fallo al traducir texto: {e}")
-        return clean
+            res = "".join([part[0] for part in data[0] if part and part[0]])
+            if res and res.strip():
+                return res.strip()
+    except Exception:
+        pass
+
+    return clean
 
 def translate_article(art_id, title, summary):
     cache = load_translations_cache()

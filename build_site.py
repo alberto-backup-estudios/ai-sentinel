@@ -1,4 +1,4 @@
-﻿import os
+import os
 import sys
 import json
 import time
@@ -106,15 +106,47 @@ def extract_source_name(title, feed_name):
 
 def translate_to_es(text):
     if not text or not text.strip(): return ""
+    clean = text.strip()[:1500]
+    
+    # Intento 1: clients5.google.com con dict-chrome-ex (muy rápido y sin 429)
     try:
-        url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q=" + quote(text.strip()[:1500])
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=4) as resp:
+        url = "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl=es&q=" + quote(clean)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            data = json.loads(r.read().decode("utf-8"))
+            if isinstance(data, list) and len(data) > 0:
+                if isinstance(data[0], list) and len(data[0]) > 0 and data[0][0]:
+                    return data[0][0]
+                elif isinstance(data[0], str) and data[0]:
+                    return data[0]
+    except Exception:
+        pass
+
+    # Intento 2: translate.googleapis.com con dict-chrome-ex
+    try:
+        url = "https://translate.googleapis.com/translate_a/single?client=dict-chrome-ex&sl=auto&tl=es&dt=t&q=" + quote(clean)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=8) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             res = "".join([part[0] for part in data[0] if part and part[0]])
-            return res if res else text
+            if res and res.strip():
+                return res.strip()
     except Exception:
-        return text
+        pass
+
+    # Intento 3: fallback con client=webapp
+    try:
+        url = "https://translate.googleapis.com/translate_a/single?client=webapp&sl=auto&tl=es&dt=t&q=" + quote(clean)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            res = "".join([part[0] for part in data[0] if part and part[0]])
+            if res and res.strip():
+                return res.strip()
+    except Exception:
+        pass
+
+    return ""
 
 def fetch_feed(feed_info):
     articles = []
@@ -179,17 +211,24 @@ def main():
                 translations = json.load(f)
         except Exception: pass
 
-    # Traducir los artículos en inglés que no tengan traducción (hasta 80)
-    untranslated = [a for a in deduped if a["language"] == "en" and a["id"] not in translations][:80]
+    # Filtrar todos los artículos en inglés que no tengan traducción válida
+    untranslated = [
+        a for a in deduped 
+        if a["language"] == "en" and (a["id"] not in translations or not translations[a["id"]].get("title_es"))
+    ]
     if untranslated:
-        print(f"[*] Traduciendo {len(untranslated)} noticias al español...")
+        print(f"[*] Traduciendo {len(untranslated)} noticias en inglés al español...")
         def do_t(a):
             t_title = translate_to_es(a["title"])
-            t_sum = translate_to_es(a["summary"])
-            return a["id"], {"title_es": t_title, "summary_es": t_sum}
-        with ThreadPoolExecutor(max_workers=6) as ex:
+            t_sum = translate_to_es(a["summary"]) if a.get("summary") else ""
+            if t_title:
+                return a["id"], {"title_es": t_title, "summary_es": t_sum or t_title}
+            return a["id"], None
+
+        with ThreadPoolExecutor(max_workers=4) as ex:
             for art_id, res in ex.map(do_t, untranslated):
-                translations[art_id] = res
+                if res and res.get("title_es"):
+                    translations[art_id] = res
 
     with open(TRANSLATIONS_FILE, "w", encoding="utf-8") as f:
         json.dump(translations, f, ensure_ascii=False, indent=2)
