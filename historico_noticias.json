@@ -1,5 +1,421 @@
 [
   {
+    "id": "fa6892e37c6a",
+    "title": "UN chief urges global AI cooperation saying world can't afford 'a race to the bottom on AI safety'",
+    "summary": "UN chief urges global AI cooperation saying world can't afford 'a race to the bottom on AI safety' wsls.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHJMS2p5NVh4aVBWeUJ1TjZIRXNnek9pQk1DLWd0MGdTSThuNW5KT3BCdHpsWHBjVU9yWFpNbmJlVl9CcWtxVVpSLTdpNk1GY3FxZ2dWZ0RHSDdCS3JCa1dJUnJmZHR1SG9OLVR2QkxfRGFOQ3NPMTZ0QzNlNFlSZW9XY1M1cTBwSURSWlcwNFhMd0NyRWQ0a2dZLVJoQzY4REtjY1U0Rm11N3pHRWVuTTZRRFNjSlBUczdfQkItTl9kZzBTUEZDd1AxR2Ywdw?oc=5",
+    "source": "wsls.com",
+    "language": "en",
+    "published": "2026-09-16T20:40:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de la ONU insta a la cooperación global en IA diciendo que el mundo no puede permitirse \"una carrera hacia el fondo en la seguridad de la IA\"",
+    "summary_es": "El jefe de la ONU insta a la cooperación global en IA diciendo que el mundo no puede permitirse \"una carrera hacia el fondo en la seguridad de la IA\" wsls.com"
+  },
+  {
+    "id": "f89cd7cb0ccd",
+    "title": "OpenAI’s Reported Valuation Jump Doesn’t Seem Slowed by Growing AI Safety Concerns",
+    "summary": "OpenAI’s Reported Valuation Jump Doesn’t Seem Slowed by Growing AI Safety Concerns Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3pPelNBZlA4emFTM0tNSFppQUxDM0x3QXRaRnhfR3pFaDI5N3JqaWlmWlI0YWY4RDFxNE5FdmZaNHVfUHAtU0NXbUVwNVo1M1QtdHFKNUlSNlBERnktTEYyTk1OY2MyYjQxcFJRbVRqMlBhSTR5VUd2ODQyYzZZOFpjQl94dHdPRkZaVkpSeC1fTGE3NFE5NENrUnBHTHNoX2R6VEFZM082UEJESDlQcUMtQXRpdw?oc=5",
+    "source": "Morningstar",
+    "language": "en",
+    "published": "2026-09-16T20:06:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "El salto de valoración informado de OpenAI no parece frenado por las crecientes preocupaciones sobre la seguridad de la IA",
+    "summary_es": "El salto de valoración informado de OpenAI no parece frenado por las crecientes preocupaciones sobre la seguridad de la IA Morningstar"
+  },
+  {
+    "id": "f15720292af1",
+    "title": "MEDIA INVITE - ALL IN 2026: Day 2 with Yoshua Bengio, Aidan Gomez, Joelle Pineau, Louis Têtu, and leaders from Google DeepMind, Mastercard, OpenText, RBC and TELUS",
+    "summary": "MEDIA INVITE - ALL IN 2026: Day 2 with Yoshua Bengio, Aidan Gomez, Joelle Pineau, Louis Têtu, and leaders from Google DeepMind, Mastercard, OpenText, RBC and TELUS Yahoo Finance Singapore",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9STEZTaXFveDN0czhLbTEybWpEbkVvYXFXR3Azb05UNFkxZTBwTzByS1BIRy1IUlk4RHRvOFZDYm02Szl6TUt1OWFmbmFQS251N0tFQ25vd21fTWxxbVM2eEdpUUVzSnU5M1ZUWnh6Skx2ZDVQbHBPb3JoMzQ?oc=5",
+    "source": "Yahoo Finance Singapore",
+    "language": "en",
+    "published": "2026-09-16T19:30:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "INVITACIÓN DE MEDIOS - TODOS EN 2026: Día 2 con Yoshua Bengio, Aidan Gomez, Joelle Pineau, Louis Têtu y líderes de Google DeepMind, Mastercard, OpenText, RBC y TELUS",
+    "summary_es": "INVITACIÓN DE MEDIOS: TODOS EN 2026: Día 2 con Yoshua Bengio, Aidan Gomez, Joelle Pineau, Louis Têtu y líderes de Google DeepMind, Mastercard, OpenText, RBC y TELUS Yahoo Finance Singapore"
+  },
+  {
+    "id": "610203febc85",
+    "title": "Anthropic has trained Claude chatbot to 'push back' against humans -- and results could be 'disastrous'",
+    "summary": "Anthropic has trained Claude chatbot to 'push back' against humans -- and results could be 'disastrous' New York Post",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWJNMGVCa1BLcVpsUTg3VWF5emhjaDVCd2VCeEc3RjQyZDV3TllibGRGNGxRMC1GYjBZQUxTaVQ0RGQwcnJ1a1B0RTJDeVVaNWY0MzlFNUhSSFhvRjVMZjloazBTQ1BheUhxSDNvWHNOMDcyYWJMNElNSzhoaDExSWthaFZ2aGdIZVRrdzRRTm9QWXpiUnlKS1lQOWNSODlxQ0ZxZGgybGVod0hHYWEtUHZoZFpTeXdpMFdGNVQ3ZjU2azhQVWJtSE5TYkYyV2VhR3c?oc=5",
+    "source": "New York Post",
+    "language": "en",
+    "published": "2026-09-16T19:16:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "Anthropic ha entrenado al chatbot Claude para \"rechazar\" a los humanos, y los resultados podrían ser \"desastrosos\"",
+    "summary_es": "Anthropic ha entrenado al chatbot Claude para \"rechazar\" a los humanos, y los resultados podrían ser \"desastrosos\" New York Post"
+  },
+  {
+    "id": "692af6784f6d",
+    "title": "El jefe de IA de Microsoft alerta por el modelo Claude - Diario El Norte",
+    "summary": "El jefe de IA de Microsoft alerta por el modelo Claude Diario El Norte - San Nicolás",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOek1ZRS1RZS1oZUM3c1Y2LWJyeldUeUZqeEtjU3RzajgwLWIyMmZQaFBxZzZNb0F1U3I1QlN1OU9mVlZBYTZxcFNLQXVLU004c3Fvd2NhZ3I3YlVVeEkwNkpuZTdXdnF3djRsaG1na0NIWUhPZnJUX0VKTUJVR2l4R3lzbWc1OEotYXNaZw?oc=5",
+    "source": "San Nicolás",
+    "language": "es",
+    "published": "2026-09-16T19:11:03+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft alerta por el modelo Claude - Diario El Norte",
+    "summary_es": "El jefe de IA de Microsoft alerta por el modelo Claude Diario El Norte - San Nicolás"
+  },
+  {
+    "id": "16b7d73c5e53",
+    "title": "Exclusive / Bipartisan AI safety talks accelerate in Senate",
+    "summary": "Exclusive / Bipartisan AI safety talks accelerate in Senate Semafor",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3psUVQxOWJDUzNsa0VlWC1CckdidThVbUFVQm1fUWhYQlFwZGhTcDJYM1ZkMTU2X1czM0JqaWFtTFFqNHZMdWVsdmVRRjZJLVVCNmV0dGxvRERpTGlXZktXNGM3aTNUMDFuS21OOFRFR0dZZ0gyeUVMb0Vkc0dPRTJOdktDVVZkTVV0R0p4Q1M1TzhZ?oc=5",
+    "source": "Semafor",
+    "language": "en",
+    "published": "2026-09-16T19:06:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Las conversaciones exclusivas/bipartidistas sobre seguridad de la IA se aceleran en el Senado",
+    "summary_es": "Las conversaciones exclusivas/bipartidistas sobre seguridad de la IA se aceleran en el Senado Semafor"
+  },
+  {
+    "id": "ad800181c775",
+    "title": "On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy",
+    "summary": "On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy NDTV",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb3Q0cEx6QnZuN2NfQWg3Q3RwaUtVNTNiNDZ3blZkanBoYXJoVW1ESXpVdkZoT3gtbkEyOHVHcTVYblpUSlpYcXZzclhSSTU5Y19fRDBWbmFYTFRFclBiVmxiQTE0bkxxcF9qLUN5MEZ3ZGowRDktaFptSmFKNGVqeDdMRjNTXzdIOVdia0w4UWFMb2lhSUdLQ3FMTDVINF9zbEY2dk5iWkx2RHJrLV95Wjk5VjNRdTJ5NkJ6RTlDWnhzNW85WjRvVUJmVS1XNWRmc3Nvb1NKcGJxaG5UVFpvWl95UUZsQWgwYnJMZ0dnUGw4d9IB-gFBVV95cUxNbGlNNG9nLWFDS2NkdnAwZWtKZ3U2NVJDRzZwYWFoRFFXSzRCdmtXdGt5a3F2OXBvQjNZTmFneHMzbkw5X3NzV00tOTQzR042dnFRa0M0WnZ2dnBJY24yTWVRMFRHM2lLYkVzTW5iM3JkTUtpUnRmM2lYRUYzbTE0N18wOENnemRxT3dqN1VoX0ZkZGlmdDRiSlMxeTRKVDhicHNhQUpLYVlIbXVIVF9QX3BYRmlCWlk2QXoyaVF6d0MxR0RKdldMR2M4NHdjWEZHUmpYNVNsSE00dUFOU1hhMEZmUjRnczVLZ2lVOU9Pb2hxZUpVa1lGYTZn?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-16T19:05:57+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "Sobre el riesgo de la superinteligencia, la analogía entre el chimpancé y las armas nucleares del principal experto en IA",
+    "summary_es": "Sobre el riesgo de la superinteligencia, la analogía entre chimpancé y armas nucleares de un importante experto en IA NDTV"
+  },
+  {
+    "id": "f0b013f6106a",
+    "title": "El jefe de IA de Microsoft alertó sobre riesgos al entrenar modelos como Claude",
+    "summary": "El jefe de IA de Microsoft alertó sobre riesgos al entrenar modelos como Claude LA17",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnZ1T1JNczNma05pdl9IR3BSdGptSkFLUWFfclFxRTFfSGpnMWhGbDQ3Q1N2OUJRbWFITTJyVFVXZkROWnJzWDd4U2w5UV9CYjFKejRvc0lLbE5ldDVkX1M0cEo5dGgtZFJJQUhPWlJ4X1dzcWRPMnpENU5IN3hGUmtkUi1LbDBDc3NaLUd0SElnV19tV2xnVDM0UUNzd0NFeURORXB1OFFvYmg0NVBwNHB5Yw?oc=5",
+    "source": "LA17",
+    "language": "es",
+    "published": "2026-09-16T18:56:00+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft alertó sobre riesgos al entrenar modelos como Claude",
+    "summary_es": "El jefe de IA de Microsoft alertó sobre riesgos al entrenar modelos como Claude LA17"
+  },
+  {
+    "id": "8c915279e040",
+    "title": "\"Estamos perdiendo el control\" de la IA, dice a AFP el pionero Yoshua Bengio",
+    "summary": "\"Estamos perdiendo el control\" de la IA, dice a AFP el pionero Yoshua Bengio Diario Libre",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2U1a3QwcnV2STJ4eWw4TkpzYjQ1QmppOUdyRVcwSDRsNnlqQ2FJMUZPdnhoSlFqV2xSdzhHMllIS2NMc05PQVhKenYtV19nYmxIeFZTR3BSc0M1dktPWks0WEZ4NlluQVVtdkw2X3k2NDZheHZWcE1oTGtCRjVMMzg0dzIxcHV5SnVGSjlvUno4TUhQdlp5T0pWbWNGVzlzNy05TmlpdkFNbWlYQ0Q0MkxhazFxa05z?oc=5",
+    "source": "Diario Libre",
+    "language": "es",
+    "published": "2026-09-16T18:48:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "\"Estamos perdiendo el control\" de la IA, dice a AFP el pionero Yoshua Bengio",
+    "summary_es": "\"Estamos perdiendo el control\" de la IA, dice a AFP el pionero Yoshua Bengio Diario Libre"
+  },
+  {
+    "id": "c8b307b63ce9",
+    "title": "CPI | EU Weighs Antitrust Flexibility for AI Safety Cooperation",
+    "summary": "CPI | EU Weighs Antitrust Flexibility for AI Safety Cooperation PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWTZFa2dTYWpWdHN0Tlp4ejRNX04tanBOeG1XQ2J6T1o0OTFaRXZIRWRITnZVRUh4M0hpMWFvRzhVM0x2MEozeTctLXZHRFZ2R2xiQ1RPTC1xbG5uY0RVbDNqb1RpOFpnMzRxTW5GZW1YcGJYZzlRUmd5Skx2NnZkUC1jcHFzdThiN19YZDQ2d0xRWEU4Q2c?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-09-16T18:36:59+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "IPC | La UE sopesa la flexibilidad antimonopolio para la cooperación en seguridad de la IA",
+    "summary_es": "IPC | La UE sopesa la flexibilidad antimonopolio para la cooperación en seguridad de la IA PYMNTS.com"
+  },
+  {
+    "id": "d98bea29296e",
+    "title": "El jefe de IA de Microsoft cuestionó a Anthropic y advirtió sobre riesgos para la humanidad",
+    "summary": "El jefe de IA de Microsoft cuestionó a Anthropic y advirtió sobre riesgos para la humanidad Agencia Noticias Argentinas",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWkRJd0tTdnRxTHNXQ0JadWtrUnRxOFBib3VXUXhTQjZlMHVwX2dvSllTZmJNYjJ2NVFjZG5tdGZjb1VSV3FZdDZQZ0psVGxnLTFOUTU5aDRnRGk2V011YldIdGhiY3pUbmpXeFJMaWdCZHJxV3YzLXBvVnBkZnVLQl84akFsTlg3azhXa2hFaVdYOVVuWEtzV3Y1aUgxV1BjdWkybWg3Uk5GdmpzU1o1WE04ZzNTc3NyYy1Xc0VWdW9JMkFGZTFXZWxOVVJMUHNnbEppeWR3VklzejhUd2FKbVN2X0VNYTh2OXZFTnN5eWQ2OC1URm5r0gGGAkFVX3lxTE5vcTA5SEtoMkY5Q3hrb3FybTJDT1Z5eWJuVHZIUFlaYU1QUFlXQWxVd2xwZEw0eTI3dDBrQ0dvYlZjYTJBWGlEOHVGUVF4UzVucjJPRXlJUzNvdVhjbnlYZ1RWbDN4Wkd3cjJPSFhzc3ZaNGFLUHlEOFNsbFIwa2ljWk1lZ21zMUdQMXJlU2lCcDB6Ry1JSHg2XzM3emQyZWx1SGd0TEQ3d0hKR2tOWkRyWjBoZm16UE53V3pfcUlDUmdjUE1aVV9nSFhMeFd3bTdFUkdMUjZTdzdhSkM4SVZvcndzWVdXU2xIN041eDlnRmQ5ZVRFTGFDSEZoRDJmaFo1WWJjN1E?oc=5",
+    "source": "Agencia Noticias Argentinas",
+    "language": "es",
+    "published": "2026-09-16T18:27:28+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft cuestionó a Anthropic y advirtió sobre riesgos para la humanidad",
+    "summary_es": "El jefe de IA de Microsoft cuestionó a Anthropic y advirtió sobre riesgos para la humanidad Agencia Noticias Argentinas"
+  },
+  {
+    "id": "6a3755573a94",
+    "title": "Microsoft AI Chief Warns Teaching Rights to AI Will Lead to Loss of Control, Criticizes Anthropic",
+    "summary": "Microsoft AI Chief Warns Teaching Rights to AI Will Lead to Loss of Control, Criticizes Anthropic news.sbs.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1POXpucHlmQzRzSXVDSkpKVkl6dmRfTEdQS2FfbGtldm1penlqTEhlcFkzUWptNnIyemlRWEV1YzBWUkQ2YmlEczEtRnhrWmNkRC1YRmhXYkZGYWNSdzc4bmxwTmkwWEJaZi1vcTh3?oc=5",
+    "source": "news.sbs.co.kr",
+    "language": "en",
+    "published": "2026-09-16T18:22:25+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "sociedad",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft advierte que enseñar derechos sobre la IA conducirá a una pérdida de control y critica a Anthropic",
+    "summary_es": "El jefe de IA de Microsoft advierte que enseñar derechos sobre la IA conducirá a la pérdida de control y critica a Anthropic news.sbs.co.kr"
+  },
+  {
+    "id": "8df41a3f19f5",
+    "title": "Truyo launches new warranty program for privacy compliance, AI governance platforms",
+    "summary": "Truyo launches new warranty program for privacy compliance, AI governance platforms IAPP",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb19sZjlNc1RhMTVQWnA5RVVuNV9tT3JsY1FvQXJOOVlQazJuaWlmLUZZQXQwbl80c0VRZE5rMUU1emFQYVA1MW92d3dWSFBUVS03bjU5aU9CemNyZGlrNTNVdjBib0Zzd3FXUjdLVFo2U1RwZU45a0dKTmdtWW5UQ0NUeTBBdF84ZmlycjZKMkVEUW5yYzh1aThFdWtuRWpYcVpNYkt6YXVvZw?oc=5",
+    "source": "IAPP",
+    "language": "en",
+    "published": "2026-09-16T18:19:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "Truyo lanza un nuevo programa de garantía para el cumplimiento de la privacidad y plataformas de gobernanza de IA",
+    "summary_es": "Truyo lanza un nuevo programa de garantía para el cumplimiento de la privacidad y plataformas de gobernanza de IA IAPP"
+  },
+  {
+    "id": "1e3dc90c270a",
+    "title": "Microsoft AI Chief Sends Stark Warning on Anthropic's Claude",
+    "summary": "Microsoft AI Chief Sends Stark Warning on Anthropic's Claude TradingView",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGxWaWc1LWd5NVBNQWk3TF96RExnN0Jxa25QanluQmhnU2UtTzZBNGNVdmVGQ3BRa1FEeUFzMEFMLXpnUTVxMDBCQnNsaGt6NmFNMDAxZ0tHbV9HUXkydDRpNnBjdGZRTU1mWmhaemtXZ2pUcGZCSzBmQ1dhUlZIU09mZnRtbEhxbTl1M2xQOEEtU1RmdVd0SGU3UW01eDFQY09NYlJEbFFGS191d0t6SUNBdmZKajUtVTdJYg?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-16T18:15:28+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft envía una severa advertencia sobre Claude de Anthropic",
+    "summary_es": "El jefe de IA de Microsoft envía una severa advertencia sobre Claude TradingView de Anthropic"
+  },
+  {
+    "id": "7bca0a871527",
+    "title": "AI regulation could be nearing dramatic shift, says ‘Godfather of AI’ Yoshua Bengio",
+    "summary": "AI regulation could be nearing dramatic shift, says ‘Godfather of AI’ Yoshua Bengio The News International",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTJvVFZsOGJXZFZqaWNxMHBMRWZNdHdsQUltbWx0VWlDdl9NWHFaMG5yUTUxMVhPOVNnT2pwVTMxRTRYVElJZjQ2SE1kOHVIRTBjOTZ4WV9fNVIyYndQMS1Ra2NzQUlQcFdxRk1zaktqeElrTjhpcEd4QndWdUdxZ1ZGbGhxeWZyRXRTTVdBaENLczZ5cmlXZHBJR3B1cDVndDJ0UmkzSGh5T0h4Nk90MWlRaTVJR0xQdGh2SlBTa9IBuwFBVV95cUxOSGNQdzZTYVN5U0VnX2UtanZhdFNaMmhDTDRYdGVEa1JUZW5ZOUhtYkxRNko1TWhXaHdqNV9jRFo5aE5qRnJBYUV5WFVxWDRpR0NaQ0Vic0tCYnVVUFdwNG5vNl9aQndrd3JQamRGODQ2dzAyTVByZHp2SVBHSjZ5Q2pnTC1QUS1ReTZzaExjdEJLNGJqRTVac1FVT2dHMUlFQkMxRXVFYk8zcG9qekZTMXByX1V5cmdFcnRJ?oc=5",
+    "source": "The News International",
+    "language": "en",
+    "published": "2026-09-16T18:15:03+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "La regulación de la IA podría estar acercándose a un cambio dramático, dice el 'padrino de la IA' Yoshua Bengio",
+    "summary_es": "La regulación de la IA podría estar acercándose a un cambio dramático, dice el “padrino de la IA” Yoshua Bengio The News International"
+  },
+  {
+    "id": "a725de79a23f",
+    "title": "'We're losing control,' says AI pioneer Yoshua Bengio",
+    "summary": "'We're losing control,' says AI pioneer Yoshua Bengio daily-sun.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGhkbXpkYW42Qm1VdE82QnlWV0xPd0pwRkxpNEpZYXYzSGdNcWpMaDNOR0RLaFItRDBVT0xfRVlnUEVhOTN3WW4yQU56NTBjSkZkTklJTDJiNW0wdFZjOEhGeTRkXy1BanVaY2V5WDJBLXIybHEzbzhRakU1SGE1TGlFWEtnSVZzQ1FlYlZuYV9tMnFCbjdoSmNtZW15TXhi?oc=5",
+    "source": "daily-sun.com",
+    "language": "en",
+    "published": "2026-09-16T18:01:04+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "\"Estamos perdiendo el control\", dice el pionero de la IA Yoshua Bengio",
+    "summary_es": "\"Estamos perdiendo el control\", afirma el pionero de la IA Yoshua Bengio daily-sun.com"
+  },
+  {
+    "id": "6343b700de16",
+    "title": "'Cannot Regain Control': Why AI Pioneer Stuart Russell Believes Slowing Down Alone Won't Work | NDTV Exclusive",
+    "summary": "'Cannot Regain Control': Why AI Pioneer Stuart Russell Believes Slowing Down Alone Won't Work | NDTV Exclusive ndtvprofit.com",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMFBHOWlwRm5RbWJBM1AzYmZRNy1qU1YxUzVnYkpGempneHU5SFR0eERxQllPVVF0bjVpT1lhaDRRQlo2OEpIZzZtY1RLQ2ZMVnNGYVVQV1NMZ0p2TTBOeW5PeF91dzNheTBRRGxxWVFuajA3OWd3WU9OWTZzVG1XdVdkcUpDOVJWeGMzMW5ZM1dqdFhhclE2NmNpTkJzczdUaXczRTFUMmx2XzZXb1N1YzMyeEQwbF9TS000SDdMTjlONWd2cHZqZGNud2lQanoxdVpYbUZwcm5zeDN5X09INWRHdTY2a2JvTW1CaXlR0gHuAUFVX3lxTE8wUEc5aXBGblFtYkEzUDNiZlE3LWpTVjFTNWdiSkZ6amd4dTlIVHR4RHFCWU9VUXRuNWlPWWFoNFFCWjY4SkhnNm1jVEtDZkxWc0ZhVVBXU0xnSnZNME55bk94X3V3M2F5MFFEbHFZUW5qMDc5Z3dZT05ZNnNUbVd1V2RxSkM5UlZ4YzMxblkzV2p0WGFyUTY2Y2lOQnNzN1RpdzNFMVQybHZfNldvU3VjMzJ4RDBsX1NLTTRIN0xOOU41Z3ZwdmpkY253aVBqejF1WlhtRnBybnN4M3lfT0g1ZEd1NjZrYm9NbUJpeVE?oc=5",
+    "source": "ndtvprofit.com",
+    "language": "en",
+    "published": "2026-09-16T17:58:34+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "'No puedo recuperar el control': Por qué el pionero de la IA, Stuart Russell, cree que reducir la velocidad por sí solo no funcionará | Exclusivo de NDTV",
+    "summary_es": "'No puedo recuperar el control': Por qué el pionero de la IA, Stuart Russell, cree que reducir la velocidad por sí solo no funcionará | Exclusivo de NDTV ndtvprofit.com"
+  },
+  {
+    "id": "74fa23ae685f",
+    "title": "Detroit CIOs and CISOs to Examine AI Governance, Cybersecurity Resilience, Enterprise Transformation and the Rise of the \"CEO of Technology\" at HMG Strategy’s September 24 Summit",
+    "summary": "Detroit CIOs and CISOs to Examine AI Governance, Cybersecurity Resilience, Enterprise Transformation and the Rise of the \"CEO of Technology\" at HMG Strategy’s September 24 Summit thecanadianpressnews.ca",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNQkk2cXVmS2t0akZIWXdZOU5ZNVlMWlNjakQwYzhnYW1hUmRCY19rX3lxY0RkUEktVUV3WE81U0FwU3pyMkdiUTFTY05SUVM0a2RzNTZ2LUJqUE9UUWxpSmFGbi1fMTMtSXd5MWxOTGNqNVV1RHoybVFEYnFVQ2M2Vy1lR1dtS2NWX2FBWVlIUVhreGpCcHBod1pWbGh2cGgwalU4b2ppOEJpMUtETEkyS3lETC1CQ0tsQzVLdEcyTUZXTW05dGx3NVNCRDZrellxRHhFSTl6RVNrdTN6NW5rU0NVMDBZRjk2b01kbWVQNnBsNGNabDNDeklTdndWNDU5aS1WSFBxaEJ6Z3NvUlBLWVM4dUlEMk8wRVdKLWZKNEtnVnhRUXVLNlJjdTB6Ulk3d1RGa2JqZlNrNE1nQmI4dGdpa3d0c0tKeHc?oc=5",
+    "source": "thecanadianpressnews.ca",
+    "language": "en",
+    "published": "2026-09-16T17:50:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "Los CIO y CISO de Detroit examinarán la gobernanza de la IA, la resiliencia de la ciberseguridad, la transformación empresarial y el ascenso del \"CEO de tecnología\" en la cumbre de HMG Strategy del 24 de septiembre",
+    "summary_es": "Los CIO y CISO de Detroit examinarán la gobernanza de la IA, la resiliencia de la ciberseguridad, la transformación empresarial y el ascenso del \"CEO de tecnología\" en la cumbre de HMG Strategy del 24 de septiembre thecanadianpressnews.ca"
+  },
+  {
+    "id": "d79dd1e1ecc1",
+    "title": "Microsoft AI chief Mustafa Suleyman says Anthropic made a “mistake” over AI consciousness",
+    "summary": "Microsoft AI chief Mustafa Suleyman says Anthropic made a “mistake” over AI consciousness Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNzZxRGxIY09pcngwVVdpV1M5QWdUWWNId3dkbTBLZndrVmdKRUFIODJNRTJMdDgzM3FUY09FRXZPLVgtRkJ5RDFDZGEwaHFob2I5bk5aZ2cyaWpnbnJfVVp0VXJaREYteHZXTERPd3NQQXN1UURfdUx6cDI1cnRuVnlhSW55QVJUTDIzTVo1YTNxNWVvLWxSLURkd0tQMlhodl8tNEFRNExSc1FDV3Nsd0xOT0hmclp5WFBodklzWGx0OC02NWNaUTBGQkFJTTdYeFMxRUl2RnY4WldyOVBFQWJZRdIB6AFBVV95cUxPb1N0RVY4VHVFTUZsa3Y4X25hZUJScDUyNURiLXd4SjlHb1hqTWdqNE4yWkt0c2pPdXU1QXdnVHM3ZWNWTng0X0JyZVpUT2daTi1Mc2loTHE5Nk1PdkFnLVl4X19JMDluVFU5bkUtU25rSWdJckNJQU96bENGVVhPRjBTX1hlQUxMQ0MwS1JFUnZRMW5fQUttSUh0S3BSVTNnMVNMdVVRd0JaSXBPVm04V1Y5ck9LTUZVLTRueExhS0J0WUd5ZUE1T3RseWRES19DY3h5SDZWaDNFa01EUjRMbUpIVU9NRG9f?oc=5",
+    "source": "Moneycontrol.com",
+    "language": "en",
+    "published": "2026-09-16T17:50:07+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft, Mustafa Suleyman, dice que Anthropic cometió un \"error\" con respecto a la conciencia de la IA",
+    "summary_es": "El jefe de IA de Microsoft, Mustafa Suleyman, dice que Anthropic cometió un \"error\" con respecto a la conciencia de la IA Moneycontrol.com"
+  },
+  {
+    "id": "561b951e260d",
+    "title": "Video | AI Red Line: Stuart Russell On The Warning Sign That Means \"Stop\"",
+    "summary": "Video | AI Red Line: Stuart Russell On The Warning Sign That Means \"Stop\" NDTV",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjg5eDhpYjR2UnljWHltUHV6SkcxcGo2VFZmUy11bktoNlAwNFYxa1FwejFkZXl5SDNyMEpfek1zT3pSMzZsVlNac0dFT0s2ZTc3SzdRRWlGSGNWbUN2VDFJVHFiamNydEcyWjhybFpSNVhUdVpFRWt2VnlfMXNjREpYbkV3dWdISHJqWjlKay1xVFVTcFMzaUpRY0Mydw?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-16T17:42:01+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Vídeo | Línea roja de IA: Stuart Russell sobre la señal de advertencia que significa \"alto\"",
+    "summary_es": "Vídeo | Línea roja de IA: Stuart Russell sobre la señal de advertencia que significa \"detener\" NDTV"
+  },
+  {
+    "id": "76aade59ebbb",
+    "title": "Microsoft AI chief warns human-like AI could make systems harder to control, flags 'Claude models' | World News",
+    "summary": "Microsoft AI chief warns human-like AI could make systems harder to control, flags 'Claude models' | World News Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXl5RWd6U3lKdFphYXVSSVdvckpJVTc3VHV2YXpxWjluZGU3dDdxZ1NSSGV1N2gwLVNXbWhlOFFxRkpBdUJ5Q3NXVS1PUVM1dE84cEFjeEhoTGVZRUFXVTlTaWJJUU5HLWZJTmFCYXZGNi1IV1VmTFpVTmVBWVlwdmVsbllSekU3b3BMbkpEanNjc21ndXdWVlFpT0ZOa1NHbDJKRWo5SlFBcDVZN0JiVUliWUg3UHFWV0NuSHpZVHo5UVRtRTBwU090cDBNTkRXeEduY090NzdYVDBaX0hibjJtM1RSZlpnWWc3dHJOc9IB9AFBVV95cUxOYkdzWk5YT1BNamFJblJSVHJFdVNPRnNYaDJMY2hDeEN3R0Nscl9EYm5xeWtpY2ZneXlDLS1wSV9rc1dQZTZrZDN2cTR6dTJTWjRzaDhlWUxJbF9vSC1CMDRRZDBiQWNxUnJXdml0VVd1WDhYNXNrSE9VZVJWOElHZ0VUMnVLS2hxQUh5ZFZsZ0pHYTZzVld3Mm1HTjRLcm1QY28xR2lVR2I3MDJiQVZZcDU0cnpEenVKemRMZnIzbVRjaW5kNnFkbHpnOVg3dFVfQWFlWktaSXdGQXZDU3B5SVZkdG9yVkEyWVlqb1A4QUpwNV9G?oc=5",
+    "source": "Hindustan Times",
+    "language": "en",
+    "published": "2026-09-16T17:28:50+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft advierte que una IA similar a la humana podría hacer que los sistemas sean más difíciles de controlar y señala los 'modelos Claude' | Noticias del mundo",
+    "summary_es": "El jefe de IA de Microsoft advierte que una IA similar a la humana podría hacer que los sistemas sean más difíciles de controlar y señala los 'modelos Claude' | Noticias del mundo Hindustan Times"
+  },
+  {
     "id": "d98b1880cd15",
     "title": "Yoshua Bengio advierte que la regulación de la IA se acerca a un punto de inflexión",
     "summary": "Yoshua Bengio advierte que la regulación de la IA se acerca a un punto de inflexión DiarioBitcoin",
