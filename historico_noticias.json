@@ -1,5 +1,393 @@
 [
   {
+    "id": "d98b1880cd15",
+    "title": "Yoshua Bengio advierte que la regulación de la IA se acerca a un punto de inflexión",
+    "summary": "Yoshua Bengio advierte que la regulación de la IA se acerca a un punto de inflexión DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGFyVW9oZnVDcy1fWms1eFVINURKX3p6eTZPM1RRcHRub3F5Vk1JM24xRHpoSUtPSG5ndTNLVGNwOG1tTUpUb3BCMXB3V2RRVVlNRkIxc0MtWldER1RkdUZhVWppbXdlMmE1eDVvOXpIYV8zV3JiRDhWNHFVV0o4S2NwenFFQjQtMWdqLVd2TThQWFozaUQxd3hpZWdpQjQzMndUZDdfOURlOXhSTy1tR0VJa1RyLXdMdzdFMWxxcFh2V1E?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-16T15:56:15+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "Yoshua Bengio advierte que la regulación de la IA se acerca a un punto de inflexión",
+    "summary_es": "Yoshua Bengio advierte que la regulación de la IA se acerca a un punto de inflexión DiarioBitcoin"
+  },
+  {
+    "id": "2dec6c2ecf0b",
+    "title": "AVPT: AI governance, platform expansion, and bundled solutions fuel growth and higher retention",
+    "summary": "AVPT: AI governance, platform expansion, and bundled solutions fuel growth and higher retention tradingview.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQWN0V0NkYk9rbnR6TGdETTF1SWlLc2pESU1DaThGam9hYk9YangtVkpSX3k4V3Q1WEdMbEJIV1FRaHlnX1h2SzN5TnBGeTdBU2NrNUVFbGIyOXJHZV9JREZpYklpb3RQQ0tEOG9VNVB1c0xxLVdUTGlvNlRRYUgtSk5GVjkzQTV2clVIaVdyRHptdDI2UjV2NDhoQ3E0QkdUWkg0RXZ2UWt5TV9UbGhVMk9jRkdVazVjN0RUWUJWb0NNdTN2dXpJdnRoRXRtQzdCa2pYM0dvaHQzbE91ZDNVZms3X05uYnNmeFMzWTdMeDlkdlIwTGRpVEpiRDVnTjk3Q0xSU2ZDRFkzRjQ?oc=5",
+    "source": "tradingview.com",
+    "language": "en",
+    "published": "2026-09-16T15:53:14+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "AVPT: la gobernanza de la IA, la expansión de la plataforma y las soluciones empaquetadas impulsan el crecimiento y una mayor retención",
+    "summary_es": "AVPT: la gobernanza de la IA, la expansión de la plataforma y las soluciones empaquetadas impulsan el crecimiento y una mayor retención tradingview.com"
+  },
+  {
+    "id": "ee82c4d6c3b3",
+    "title": "AVPT: AI governance, bundled solutions, and SMB expansion fuel growth and higher retention targets",
+    "summary": "AVPT: AI governance, bundled solutions, and SMB expansion fuel growth and higher retention targets tradingview.com",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdG5Mdm5RS1MxdEVOVHpTbnZkaUdZNzBSWGZmN0IyRkdFQk1HTDFXaG54WkdlRTIwcjdmUktrTFdRbFhCYXhDT3NsUV9nQklFU2dkLWVTVDlxTW9kanRhR3h1ZmdCOENVeUV5TThONHI3SUd6VDBSNnZoUzZHTUVZS1R4ZlNIbmZHcWNueDA4dG8tWEV0eUJRMXlwM0NGMFJzS3hXWTNUVU9PeHZUMEN5ZWZDcWUxdkwtRG10djQ1T3FKWWxKczlXVHFTYXBOTnptZWxYVkVqZjRuZDM5eE5ZWE5KZ3NBazMxc3g2ZU5DUWsyNmlmR1ZvWGlPR3FjeVdWOEdxeFZYZFNLU211OHdR?oc=5",
+    "source": "tradingview.com",
+    "language": "en",
+    "published": "2026-09-16T15:48:13+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "AVPT: la gobernanza de la IA, las soluciones empaquetadas y la expansión de las PYMES impulsan el crecimiento y mayores objetivos de retención",
+    "summary_es": "AVPT: La gobernanza de la IA, las soluciones empaquetadas y la expansión de las PYMES impulsan el crecimiento y objetivos de mayor retención tradingview.com"
+  },
+  {
+    "id": "8500ecd9664a",
+    "title": "Demis Hassabis, sobre quién paga la seguridad de la IA: «La financiación tendría que ser sustancial y venir en su mayoría de la industria",
+    "summary": "Demis Hassabis, sobre quién paga la seguridad de la IA: «La financiación tendría que ser sustancial y venir en su mayoría de la industria Martin Cid Magazine",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQzZneHpmNW9Ja2J1TFpuNE9PeThDRkpSTjlDOHczc2FxeWVoUXl6ZXBnVmZab0lTOTUwX056Z0pJWHJUYXNwOWpnd1l2OE84TXNmTlNZMGhzQnFJZXpEU2RhS00xNllDT3pRelpwMkhEdXlBNVpnVG0zMWV4ZmkyM2lQZV81M2lOZ21NWmhvbWFWbnZHTjl1czZGRlBsT0ZKMDlRS2dNc2xzNlpkcGtFd2JIVWpUa3VldVhSZ0lSWENqTWthUlEwYmpUYWNsdlVFUzNNWU1ZbWZ4ZVBlWGFhRy1zT2xYVzlFeXRBaGdyUl9YVjFzUG8zZTl2QksySXJQ?oc=5",
+    "source": "Martin Cid Magazine",
+    "language": "es",
+    "published": "2026-09-16T15:47:18+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Demis Hassabis, sobre quién paga la seguridad de la IA: «La financiación tendría que ser sustancial y venir en su mayoría de la industria",
+    "summary_es": "Demis Hassabis, sobre quién paga la seguridad de la IA: «La financiación tendría que ser sustancial y venir en su mayoría de la industria Martin Cid Magazine"
+  },
+  {
+    "id": "b5df31dddedc",
+    "title": "UN chief warns world 'cannot afford' race to bottom on AI safety",
+    "summary": "UN chief warns world 'cannot afford' race to bottom on AI safety Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2RtdWRqQ29LN00zVVQzaWt3U3AwUmQ0NlgySWpoWjFpbEtqSkpMdnQ3V1I2cTNqVlZHZ0l6d0huSkcxWDMwTzJSZDQ2SU9hdWgtdmFpZXJ1cWhva1ByblROMS1wX3djNUluN1pWT2lNRmNGa2RFckY4bnVTQ3ZFZ2s0ODd4T1pCb1VhRDdnYW1DNEVnVHZBUzdVTWtQSWYxZXlN?oc=5",
+    "source": "Anadolu Ajansı",
+    "language": "en",
+    "published": "2026-09-16T15:45:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de la ONU advierte que el mundo \"no puede permitirse\" una carrera hacia el fondo en materia de seguridad de la IA",
+    "summary_es": "El jefe de la ONU advierte que el mundo \"no puede darse el lujo\" de llegar al fondo de la seguridad de la IA Anadolu Ajansı"
+  },
+  {
+    "id": "c187048627e0",
+    "title": "Microsoft AI chief warns Anthropic’s approach to Claude could have ‘disastrous’ consequences",
+    "summary": "Microsoft AI chief warns Anthropic’s approach to Claude could have ‘disastrous’ consequences Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTTZQT0dkXzRrd3ZKMGVILTVOdE5PUU1fQ05kQWlvNWE2azFZRUZOTTFjSUs2TmlOVGprSjZ3VzBTaDl0VnJMazV2WDB3TEdKLXVwYWhBRzdEZ3N2YzcyUmdSY3FrOGdvZkhYT2N1WEo3NVFuR3lWSHNUaWF4dFU3QWFKZ2M2Rnc2SFlyVVF4Mi1tVlJsaFdoS0ZBeXpGM081YUhoV3NQM0Z4Rnk1S0xyZkU0TUR5Z1VpUFlwRnh6bmJHMWF2dDZtLWpCYTItZmEwcm1wVHVfZjdFdw?oc=5",
+    "source": "Anadolu Ajansı",
+    "language": "en",
+    "published": "2026-09-16T15:38:56+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de inteligencia artificial de Microsoft advierte que el enfoque de Anthropic hacia Claude podría tener consecuencias \"desastrosas\"",
+    "summary_es": "El jefe de IA de Microsoft advierte que el enfoque de Anthropic hacia Claude podría tener consecuencias \"desastrosas\" Anadolu Ajansı"
+  },
+  {
+    "id": "4c5beaf07306",
+    "title": "Jensen Huang Says AI Safety Is an Engineering Problem, Rejects New Laws at Dreamforce 2026: 17 outlets compared",
+    "summary": "Jensen Huang Says AI Safety Is an Engineering Problem, Rejects New Laws at Dreamforce 2026: 17 outlets compared NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM2l2cTlXNHlvMGhURlJBNU1EbmtMbUl0VlZ4eW1kaHBLVXZqX0ZLWEpWeVY5MFFZVlk3bk9jaUZkbHF0YjhUenFzcFdKZVZFZmF0Vm5pcjRLRmNzczlfWHZEQWg3YnQ4dU9SN3VRTEJFM192LUh2OTFxa25XRWNuR3dHdEhLTUcwWENWTzFRdDZHVklRMmtiY2N6cjBOVzdxSjNDTDZMNEFBSC1telBsM05KOTViSE12QWR1bHVsc3h6NmRGWEVVa1VsWlZaa0xCZEY5WmkxOXp4QkQ1eXR5ZHhZUmp4YkNWWlE?oc=5",
+    "source": "NewsCord",
+    "language": "en",
+    "published": "2026-09-16T15:27:48+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Jensen Huang dice que la seguridad de la IA es un problema de ingeniería y rechaza nuevas leyes en Dreamforce 2026: 17 puntos de venta comparados",
+    "summary_es": "Jensen Huang dice que la seguridad de la IA es un problema de ingeniería y rechaza nuevas leyes en Dreamforce 2026: 17 medios comparados NewsCord"
+  },
+  {
+    "id": "e41a18be0843",
+    "title": "UIC expert available to discuss AI governance, innovation and competitiveness | Newswise",
+    "summary": "UIC expert available to discuss AI governance, innovation and competitiveness | Newswise Newswise",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczI0T0Rwb29UYXRvWWktY0FWbi1HZG1RYVBLQ0dIekotN2tqbkRQUGl3eTQxWVBQcXpPRDFwNkZHUGk1R0xMQmgwMzc1ZHIwbmdON0s2WnVLcmFCMkJ0SHdjdktYV2h5aExUeXF6dVViX0oydTBQdDNnWkNsVUhzb3psbG14RGo1MXdRQjRHT0NGUHk3bEZ2clBfcFBvZW9idW9raEthMzFvdWtIcWp30gGvAUFVX3lxTE1zMjRPRHBvb1RhdG9ZaS1jQVZuLUdkbVFhUEtDR0h6Si03a2puRFBQaXd5NDFZUFBxek9EMXA2RkdQaTVHTExCaDAzNzVkcjBuZ043SzZadUtyYUIyQnRId2N2S1hXaHloTFR5cXp1VWJfSjJ1MFB0M2daQ2xVSHNvemxsbXhEajUxd1FCNEdPQ0ZQeTdsRnZyUF9wUG9lb2J1b2toS2EzMW91a0hxanc?oc=5",
+    "source": "Newswise",
+    "language": "en",
+    "published": "2026-09-16T15:20:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "Experto de la UIC disponible para debatir sobre gobernanza, innovación y competitividad de la IA | Noticias",
+    "summary_es": "Experto de la UIC disponible para debatir sobre gobernanza, innovación y competitividad de la IA | Noticias"
+  },
+  {
+    "id": "408e17d07912",
+    "title": "Yoshua Bengio’s LawZero receives $300 million backing from Canada and Germany to pursue safer AI ambitions",
+    "summary": "Yoshua Bengio’s LawZero receives $300 million backing from Canada and Germany to pursue safer AI ambitions BetaKit",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZU1Bc1p5ZVRJTk1hV2U4Wi1xVEJSeEpmYV9Yc3lWczA1UFNNLWMxeUg3bGlKZXhCcG9rMUI4SXhic1Q1cHdfTFdCVDV2Mk5lR3ZDUUI2WmYyUUg2b182X2V2ZlM4LVp3aVZSNXc5SWFTSFNqaWpzMXg5RkdfdW03V0JDRjdfRjk1M2liYWEtZkNTRmlYQnV1U2pJTHlMZ3daT2VjMEFLWGZKTkFYSm5GZkFRNzFIemVfZ2ZyUWI2WjBHMjQ?oc=5",
+    "source": "BetaKit",
+    "language": "en",
+    "published": "2026-09-16T15:14:53+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "LawZero de Yoshua Bengio recibe un respaldo de 300 millones de dólares de Canadá y Alemania para perseguir ambiciones de IA más seguras",
+    "summary_es": "LawZero de Yoshua Bengio recibe un respaldo de 300 millones de dólares de Canadá y Alemania para perseguir ambiciones de IA más seguras BetaKit"
+  },
+  {
+    "id": "f6714e12968b",
+    "title": "Microsoft AI chief warns Anthropic’s AI approach could have ‘disastrous’ impact (MSFT:NASDAQ)",
+    "summary": "Microsoft AI chief warns Anthropic’s AI approach could have ‘disastrous’ impact (MSFT:NASDAQ) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMi0wc3puWGNvZmhoM1FBU0ltdVV4SkhOeWkyN0ZBQi1rYmhTc2JzUXJtVjRDcmZ4TzFabTBKOWFXUEkyY2xkeEdyeDFfRVJHRWNrWEhfcDR5eEdJWjgzMHFPRnJ5T2hCM3B0YWhhZ05JNTVSVUJCd2ctQmtCQTM2cDFfSDZDckZveTVvOG1PbXQ1a2t0WFZFZHRyWm9BTE9Ld2hFM3BsczJtbWU2QkhqWDdSaDE?oc=5",
+    "source": "Seeking Alpha",
+    "language": "en",
+    "published": "2026-09-16T15:10:41+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft advierte que el enfoque de IA de Anthropic podría tener un impacto \"desastroso\" (MSFT:NASDAQ)",
+    "summary_es": "El jefe de IA de Microsoft advierte que el enfoque de IA de Anthropic podría tener un impacto \"desastroso\" (MSFT:NASDAQ) Buscando Alfa"
+  },
+  {
+    "id": "53dd0f71240c",
+    "title": "Unraveling the Global AI Governance Dilemma",
+    "summary": "Unraveling the Global AI Governance Dilemma Devdiscourse",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbU82TmU0SXhVM2I2Z05qZVhkckFqemN1SjNEUkZMMlF6MXFyWUtfRnJhZHV2d2M5UDg4WkRGRHdobURYQ0lpRURDUkFXa08zak9BVEFURjVFSkpMMnVBX2RRSmhJT1ZyR1I3Wkh5WnFzUVVkaFBuZ1lyVjg1S0laSFlSV0luSG9KdlBVQktKTlNJOElFZnhJV3NWMEdIbTU20gGmAUFVX3lxTFBmV2lyZ0szV29KcUNfYWNFa1Fkb0pRbWtreVdvV2owVEd2TElFV3NEeUotY3JLNjFBOWhPeFM2cjRjU2t2eDhITnJFYjdqa3VjODl0MVZWWDBaRlRnR1p3RzBvZlhOQXIzQlRJUV9VNDlHS0xGWXJfeU16eVdHbDE0Y012Z0M5NXQzY0RCTUNoY3JmMHJVbWZvUWs3b1RiZ19sQzNKQkE?oc=5",
+    "source": "Devdiscourse",
+    "language": "en",
+    "published": "2026-09-16T15:09:27+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "Desentrañar el dilema de la gobernanza global de la IA",
+    "summary_es": "Desentrañar el dilema de la gobernanza global de la IA Devdiscourse"
+  },
+  {
+    "id": "50e61153679c",
+    "title": "“We must not sleepwalk”: Microsoft’s AI chief takes on Anthropic’s Claude",
+    "summary": "“We must not sleepwalk”: Microsoft’s AI chief takes on Anthropic’s Claude The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdERlVnRlWXh4c05LTFJQSHFXOXpFSGRCNVhDdlFSaWY1blYtRmZtQ1NJa1BDVEJNZjZZX1I1LUNEWUFPLTBwLTVDYS1VcFVHLVRhUWRqeFVDcGd0WVg2NFRrNmhaZUpnbFNWQ1YwOWNZZXNhT0FReWEybVpXUW52YVFxWQ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-09-16T15:06:32+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "“No debemos caminar sonámbulos”: el jefe de inteligencia artificial de Microsoft se enfrenta a Claude de Anthropic",
+    "summary_es": "“No debemos caminar sonámbulos”: el jefe de inteligencia artificial de Microsoft se enfrenta a Claude de Anthropic The Next Web"
+  },
+  {
+    "id": "e99dd2fe959d",
+    "title": "Yoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development",
+    "summary": "Yoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0VSRnFzcVgtZ0tzMjRMQlJwUHVtZkgtTTlYQUhTYjBjdmFsYjlpRjFPb09XdVZmVGNCNjVPR2tWaUFxT2lzODlpT3JDY0Nrd2h5em5fUWdlNjA1cHdqZmw3VGRtOExkZDRLb0lmdHhQaENCb2JZY1hCa2M1bXZSNEF2NWxjVlRPMDNZdmlyNzlCNjNuWVNFc0U2RjdTaHpjZ2l2MTdCUTllbFI4dUVWdk1n?oc=5",
+    "source": "The Globe and Mail",
+    "language": "en",
+    "published": "2026-09-16T15:00:49+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "La organización sin fines de lucro de Yoshua Bengio obtendrá hasta 300 millones de dólares de Canadá y Alemania para expandir el desarrollo seguro de la IA",
+    "summary_es": "La organización sin fines de lucro de Yoshua Bengio obtendrá hasta 300 millones de dólares de Canadá y Alemania para expandir el desarrollo seguro de la IA The Globe and Mail"
+  },
+  {
+    "id": "f1edbeceef77",
+    "title": "Para Zuckerberg, la seguridad de la IA no es un freno: es el argumento de venta contra Anthropic y OpenAI",
+    "summary": "Para Zuckerberg, la seguridad de la IA no es un freno: es el argumento de venta contra Anthropic y OpenAI Xataka",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEF0djVPVlNEUDRFN19sYzVqdi1jUlRoNkxGTTRPeTMzMVlOSVJITFR1STBfMC1Rb0lTUkdTdGhoc1pPWkkwSmlrNndRYTQ3aHRZMGFkTFpBYzg1ZXlseVVocmpWUktsUklTY2w5dU12bFR4M2Zsb25hVzhuWWNlc1JvcVluQThfaUZVMW1CbGdIek02QzN1dFhfVFlnT084dnk4VDlZaTdBZnPSAbABQVVfeXFMUFRVUFoxWlRlVTJyZFc2YXR3UEh5NFRiNVNtQ0RfR2xlSDhCdjVjSUVQdWlLTzN0U3ZxTDd3TVlmTmE5T2hjeU1fMUhxeGRIZnRtYXc4Zk9WMGl0WXl0ZGJ6SkhpTDVEa1VWYThsQ0t4YU9uRHZPWGVDcENQUEF3X3J2V09ZUGk5RzAzcV9vNFV0U29ZMUUwaDgtMXU3Yk5sbnFYZHp6QlhRNmpGRWl4ZzM?oc=5",
+    "source": "Xataka",
+    "language": "es",
+    "published": "2026-09-16T15:00:13+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Para Zuckerberg, la seguridad de la IA no es un freno: es el argumento de venta contra Anthropic y OpenAI",
+    "summary_es": "Para Zuckerberg, la seguridad de la IA no es un freno: es el argumento de venta contra Anthropic y OpenAI Xataka"
+  },
+  {
+    "id": "7d57ab00ff85",
+    "title": "The University of Toronto’s Alumni Are Everywhere in the A.I. Boom",
+    "summary": "The University of Toronto’s Alumni Are Everywhere in the A.I. Boom observer.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nWTYtVHZjc3ZIdmZZRk9UYVhuU0htRHg2X0sxNDdYTE10QnlMM1laRWRmeGFlSmRUcXF6X2UxWHRBWmRVMFU2bGxIUmxDUXVQNFpzS1hOU2E2ZUgwaXNCcWV4RFRZdFZDemRaYXZ5WlBDYUNQakRDZQ?oc=5",
+    "source": "observer.com",
+    "language": "en",
+    "published": "2026-09-16T14:52:48+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Los exalumnos de la Universidad de Toronto están en todas partes del mundo de la IA. Auge",
+    "summary_es": "Los exalumnos de la Universidad de Toronto están en todas partes del mundo de la IA. Boom Observer.com"
+  },
+  {
+    "id": "e70d2c8dbf1c",
+    "title": "Microsoft AI chief flags dangers of Anthropic training Claude on ideas of consciousness, welfare",
+    "summary": "Microsoft AI chief flags dangers of Anthropic training Claude on ideas of consciousness, welfare BusinessLine",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONzV5NlFzN0pSZ3ZQVldZM1NjS1ZINnh3WlozWUcwa2NiQkowenJRSldPNUoydG4xanAxN2V3dVp5cHZFMlF1NXd2OXJDQVlmbnBKU2w1YU5BQXJUSE4wa0U1NUdTejlBYkdvWUlPUUJIS3dPbUxjcEZPeU1zcjBDQVZZM3Vsd2JJdk1vTzE4dHJVS2U5ZHJLZ0xraWtUVDRBdFh2N0RQWUROemhtem9Na0VySkMwWDItS3MwRS1vUDVmWXRTNnFSeXVIMFNjeWxRMHhudXc4Z3JfUWZ1Njk1T2Q5QThidTdCYWFkRXI4TE1MNlk20gH7AUFVX3lxTFBaeHB2c0syZ0t3VEFKMVZYWlgxd1Z2a1NPQ1hVSVNDTXlIVmZpZkx2dnpxX1VTcEhKTWxzNzRRY3A3a3VqUm11d0RPclFRUGZ3a2pQZUV6MEMyblMtUzBDR2thM3FnbzVDLUFHQTlfcFZKZUV2YU9yNl9KY0FmRkpSeEkwc3NjZWV4dEE0enhrSnBuR3RvMFhjbGJnSjhsY3Bad3ZOcEVGZmxObjhFME5YTVZhOEl0LTR0QUhPb3ZjcGFhUmxITXU5VW96Znd0VnQ0YS0xTFVOaWpfVTd1SGlhT0JPdUF3cmFPdmRPd2lCQ0kwdUZtTVpfeHBB?oc=5",
+    "source": "BusinessLine",
+    "language": "en",
+    "published": "2026-09-16T14:22:37+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de IA de Microsoft señala los peligros del entrenamiento antrópico de Claude sobre ideas de conciencia y bienestar",
+    "summary_es": "El jefe de IA de Microsoft señala los peligros del entrenamiento antrópico Claude sobre ideas de conciencia y bienestar BusinessLine"
+  },
+  {
+    "id": "dfb108921c27",
+    "title": "El responsable de IA de Microsoft critica el enfoque de Anthropic sobre la conciencia en la IA",
+    "summary": "El responsable de IA de Microsoft critica el enfoque de Anthropic sobre la conciencia en la IA Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjFwajZQTmk2SjAzTzh1bHZRdUkySU9FQUttSGJLQkpKYXctVlpMbUZNeExadjJRU1J4TzAwamtyeHUyQkhFbDQzRnJUTzZMTkpkVDFaZjJoaE1lVmZpZW4zcFdFZXBreFg0ZXVvLWVtSWVNb2FmcjV6V29pb1h1TWQ2LWFqVTJvaHJ4Vmo1UmpVMFpuWExYUg?oc=5",
+    "source": "Yahoo",
+    "language": "es",
+    "published": "2026-09-16T14:19:46+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El responsable de IA de Microsoft critica el enfoque de Anthropic sobre la conciencia en la IA",
+    "summary_es": "El responsable de IA de Microsoft critica el enfoque de Anthropic sobre la conciencia en la IA Yahoo"
+  },
+  {
+    "id": "3dc1493e02f1",
+    "title": "Microsoft’s AI Chief Takes Issue With Anthropic’s Claude Training",
+    "summary": "Microsoft’s AI Chief Takes Issue With Anthropic’s Claude Training Finimize",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWJSX2RVZ0xZR1dSYzFlLXBXczNkMEphT3NDNHZIVUg5Y3ZGREJhMkh5LUtoU2NZMmVXeWxvbGs3Zkh4N1VOSFJSazFtQlFobHpQdjQ4eTAzSUpOcmZxUFFUalBJUXc0WDlwTklqTHA3cjJDdlBQSUFFRldpY3ZZcUpIMHNVZEVuZm45MG53clRPdTg2bGc4?oc=5",
+    "source": "Finimize",
+    "language": "en",
+    "published": "2026-09-16T14:17:55+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-16",
+    "title_es": "El jefe de inteligencia artificial de Microsoft está en desacuerdo con la capacitación de Claude de Anthropic",
+    "summary_es": "El jefe de inteligencia artificial de Microsoft está en desacuerdo con el entrenamiento de Claude Finimize de Anthropic"
+  },
+  {
+    "id": "d7e9b14622c9",
+    "title": "Is Anthropic Making Claude Too Human to Control?",
+    "summary": "Is Anthropic Making Claude Too Human to Control? The Information",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2lnQmF4R2xON2IyRnNqODRlUnZGSXFTRE1uWVd1LTN1dkdKbTNiRlZUelozTGkyQ3F6UFMtbU92Y214RlJwMXlnNHZyVEI4SHVKLWlTa1NDM09pODdfTGw5TlFrZTIzVW1qbG5tbGYwOVV6eF9HTVZfY0pfc1kwWklKM2xvR1E2N28tVVoxamtlZjBU?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-09-16T14:02:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "¿El antropismo hace que Claude sea demasiado humano para controlarlo?",
+    "summary_es": "¿El antropismo hace que Claude sea demasiado humano para controlarlo? La información"
+  },
+  {
+    "id": "8a9fd629d3ae",
+    "title": "Nvidia Stock Rises as Meta’s Zuckerberg Weighs In on AI Safety After Trump",
+    "summary": "Nvidia Stock Rises as Meta’s Zuckerberg Weighs In on AI Safety After Trump Barron's",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FbHAwcnlPcmtPbVZMLTVLTWZXaFk0bnlUcG4zR1Y4U0Y1QUdnV3BtcUJCWVdPekdYZ2dFV2xvTEdwc3RCUzZPMGRRdDJmci16ZUJzQjlsN1QweDBlLXQ3OHRsVGlFRjFWNWV1RWtmYWpjeTZKU2gxaEFadUk0c28?oc=5",
+    "source": "Barron's",
+    "language": "en",
+    "published": "2026-09-16T13:57:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "opensource",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-16",
+    "title_es": "Las acciones de Nvidia aumentan a medida que Zuckerberg de Meta opina sobre la seguridad de la IA después de Trump",
+    "summary_es": "Las acciones de Nvidia aumentan a medida que Zuckerberg de Meta opina sobre la seguridad de la IA después de Trump Barron"
+  },
+  {
     "id": "12c9775ea540",
     "title": "Sam Altman: “The world should trust” us on AI safety",
     "summary": "Sam Altman: “The world should trust” us on AI safety The San Francisco Standard",
@@ -795,5 +1183,95 @@
     "date_added": "2026-09-16",
     "title_es": "Yoshua Bengio: la IA avanza más rápido que nuestra capacidad para gobernarla",
     "summary_es": "Yoshua Bengio: La IA se mueve más rápido que nuestra capacidad para gobernarla GZERO Media"
+  },
+  {
+    "id": "e071da66c5bd",
+    "title": "What will be left for us to work on?",
+    "summary": "My keynote at ICML 2026",
+    "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-07-13T18:47:06+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-16",
+    "title_es": "¿En qué nos quedará por trabajar?",
+    "summary_es": "Mi discurso de apertura en ICML 2026"
+  },
+  {
+    "id": "e46218374913",
+    "title": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
+    "summary": "Critics and boosters are both looking in the wrong place",
+    "link": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-07-09T22:29:33+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-16",
+    "title_es": "Up the Stack: Cómo el escape de la IA de la trampa de los productos básicos pone en riesgo el bloqueo empresarial",
+    "summary_es": "Tanto los críticos como los impulsores miran en el lugar equivocado"
+  },
+  {
+    "id": "8aca9a2562f5",
+    "title": "Should AIs be people too?",
+    "summary": "The Dutch East India company was among the first modern companies to receive legal personhood. Should we reconsider what personhood means in the age of AI?",
+    "link": "https://futureoflife.org/ai/should-ais-be-people-too/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-06-19T12:57:04+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-16",
+    "title_es": "¿Las IA también deberían ser personas?",
+    "summary_es": "La empresa holandesa de las Indias Orientales fue una de las primeras empresas modernas en obtener personalidad jurídica. ¿Deberíamos reconsiderar qué significa la personalidad en la era de la IA?"
+  },
+  {
+    "id": "73e66b9bf9c1",
+    "title": "Why AI hasn’t replaced software engineers, and won’t",
+    "summary": "Coding agents as normal technology",
+    "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-06-11T02:29:51+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-16",
+    "title_es": "Por qué la IA no ha reemplazado a los ingenieros de software y no lo hará",
+    "summary_es": "Agentes codificadores como tecnología normal."
+  },
+  {
+    "id": "ef66dca55436",
+    "title": "Statement: Anthropic warns of AI self-improvement risks, considers a pause",
+    "summary": "\"We are approaching a runaway to superintelligence that could threaten our shared human future.\"",
+    "link": "https://futureoflife.org/statement/statement-anthropic-warns-of-ai-self-improvement-risks/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-06-08T07:49:41+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-16",
+    "title_es": "Declaración: Anthropic advierte sobre los riesgos de superación personal de la IA y considera una pausa",
+    "summary_es": "\"Nos estamos acercando a una fuga hacia la superinteligencia que podría amenazar nuestro futuro humano compartido\"."
   }
 ]
