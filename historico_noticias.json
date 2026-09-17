@@ -1,5 +1,424 @@
 [
   {
+    "id": "ae9b8c3436ab",
+    "title": "How To Establish Strong AI Governance",
+    "summary": "How To Establish Strong AI Governance Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd3c1c2x4VW1PcjVpWnRKeVpLWjQxQVhZNzVLazRaRzRLQkhPZXIzUzZfdmdGaEFpLURraGVTVXo3N3RTemdQZnBMZ3FsbGVhd2w5Z2ZJZTFWeTk4ejIwTU56OW81UFRIRTVZRENhaTBOLXpmNldOLXB2SnNoQ2VNeGRRWndrX3pCUGc?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-09-17T16:01:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Cómo establecer una gobernanza sólida de la IA",
+    "summary_es": "Cómo establecer una gobernanza sólida de la IA Forbes"
+  },
+  {
+    "id": "324d28f31ea3",
+    "title": "US Weighs Antitrust Guidance on AI Safety, Top DOJ Official Says",
+    "summary": "US Weighs Antitrust Guidance on AI Safety, Top DOJ Official Says Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGhITHh5NXdtMkhOazVvQ09uTFUwUVB0VG13Qkp1d0gyb0RzalNWYXNKbDhGTy1vTmtJN1FWeE84dWQ0N2h1eTBpQXRFUC1VVmItOGZQcVNtX0lYS3U0S0lPclhLT1NYMzNuZDJWcUcxM3ZUMl9nYm1UU05XTnU4Q0tCeU56TmU2N1QyOHVFcDE5VWgyZ0Y1ckNNZjVjaFJneWNqQl9raVZESzlMU3VPdm9SZEI?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-09-17T15:53:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Estados Unidos sopesa la orientación antimonopolio sobre la seguridad de la IA, dice un alto funcionario del Departamento de Justicia",
+    "summary_es": "Estados Unidos sopesa la orientación antimonopolio sobre la seguridad de la IA, dice un alto funcionario del Departamento de Justicia Bloomberg.com"
+  },
+  {
+    "id": "df7b2596475a",
+    "title": "El jefe de IA de Microsoft advierte: dar rasgos humanos a Claude puede ser peligroso",
+    "summary": "El jefe de IA de Microsoft advierte: dar rasgos humanos a Claude puede ser peligroso Infobae",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDlraVdrSGZReWEzQW5GODRQNHlUd3RNam5TSXpQM0xoV2dyYVFLWHc4Q3hhWGJqR0VzcElYZ2lxWUNGNnhDUXA4LU1CdnRSNHRVdEdUTDNveXJNZ3YtLUlha1ZIUk9LanY4WkFYazNONU9rbUhleDBTRWdweUstakp1TDN0S2dMbHd0ZC1zRktxM21ZZTNJRjloTGF6VWdKQ0FkaGFBN3pqck10QXJ5b3hqNDJHeGhqR0NQdXZmSFBFSVnSAd4BQVVfeXFMUEZZLUl1VGZCbXJYS192T29sR2pWMTN1LUFNVThvZlczMmRrRWcwVmpabHBIcHFhV2N4MzJiZmpWY2VEbFlIaW5jTXEtYzNtbzQ5UGpHbVBWeFNxci1JNnlOYTViLXY3dlBqSDJIaGFSYkZFQXVuaWdBaGZ1cU5BWGc2QjU3WW9ucVJjQjhSVmdkR0dHVnQ5UVdJYlBDMUxtbXd1OFR3bzNoWjk1UnNuS0V4Y0JRcVdEM09mVGpvUFhDZ3doR21xVE9zSHo4VE9XRWVFb09KOWZ4Sy1HSThn?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-09-17T15:50:38+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "sociedad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "El jefe de IA de Microsoft advierte: dar rasgos humanos a Claude puede ser peligroso",
+    "summary_es": "El jefe de IA de Microsoft advierte: dar rasgos humanos a Claude puede ser peligroso Infobae"
+  },
+  {
+    "id": "4db23abfa8d9",
+    "title": "Nvidia rechaza la regulación IA de las redes sociales mientras la ONU reclama supervisión global",
+    "summary": "Nvidia rechaza la regulación IA de las redes sociales mientras la ONU reclama supervisión global moncloa.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUEFkYWRkU1NqMm1tVVZYSlhKUUxVenZDRzBvbDBUTEg4azlFZnU1ZEN1eE9ZWXFXZFQ1a29oSE9NZU9id2xERmlTZmE5LVRoQVZlY09NRy1lM0NNa0RfSy1aZndVMzE1UEhKMXlJY1gzRHczMGdsSVBiT21Rdk9CdlRB?oc=5",
+    "source": "moncloa.com",
+    "language": "es",
+    "published": "2026-09-17T15:49:04+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Nvidia rechaza la regulación IA de las redes sociales mientras la ONU reclama supervisión global",
+    "summary_es": "Nvidia rechaza la regulación IA de las redes sociales mientras la ONU reclama supervisión global moncloa.com"
+  },
+  {
+    "id": "c30cdab5687f",
+    "title": "King Charles warns tech bosses of ‘existential dangers’ of AI",
+    "summary": "King Charles warns tech bosses of ‘existential dangers’ of AI The Weekly Times",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV2xoQzNuMURvNkxUSEp5QWZXTjJYVUo1UkNYRHdkbnUzMFlVbFJrQmFXZ0xhYXQxMzNDTlNQRFl3SURFNnFfZE9jNjJpTEoyZF9PMGZlTVN0M21zTEpDVklOTm5SMWdLS21vU2dPUnpKTE1kQ1JqcFU2ZUQ0S2tOeHF0R3RqZ3k2ZExVaVNlNFRlOHdxX0p6eXVpcDRmeHh4N01fUS1YMDdXNVpoMkw3dGNYbGxfQzFiOFZjWnZ6MDFOSFJJSmlzeHFGeDN6bkVYRzlMZFdoWDh0SWo0ZmxkZ3V3STBSbm9Mbk5zRi13?oc=5",
+    "source": "The Weekly Times",
+    "language": "en",
+    "published": "2026-09-17T15:23:37+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "El rey Carlos advierte a los jefes tecnológicos sobre los \"peligros existenciales\" de la IA",
+    "summary_es": "El rey Carlos advierte a los jefes tecnológicos sobre los \"peligros existenciales\" de la IA The Weekly Times"
+  },
+  {
+    "id": "b2f05dc32d9c",
+    "title": "Amazon se suma al debate sobre seguridad de la IA, pide \"pruebas rigurosas\" y salvaguardas",
+    "summary": "Amazon se suma al debate sobre seguridad de la IA, pide \"pruebas rigurosas\" y salvaguardas TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9remdicW5JV0lVLUlMMW1QdUpnZl9vTWdSXzBsYWlQTXpqZUtPYUhSb3haUTU1aHNVZWRLZVZnbDF1aHZubEJ4VGF2dFlLVVV2bmhyVFdjMUJRaWxoeGUybUlmSWVCd28wc0xSQl9Id3A1WUk2bC13?oc=5",
+    "source": "TradingView",
+    "language": "es",
+    "published": "2026-09-17T15:16:47+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Amazon se suma al debate sobre seguridad de la IA, pide \"pruebas rigurosas\" y salvaguardas",
+    "summary_es": "Amazon se suma al debate sobre seguridad de la IA, pide \"pruebas rigurosas\" y salvaguardas TradingView"
+  },
+  {
+    "id": "a7e4ed4f2979",
+    "title": "Geoffrey Hinton, el 'padrino de la IA': \"Mi principal misión ahora es advertir a la gente sobre lo peligrosa que podría ser la inteligencia artificial\"",
+    "summary": "Geoffrey Hinton, el 'padrino de la IA': \"Mi principal misión ahora es advertir a la gente sobre lo peligrosa que podría ser la inteligencia artificial\" National Geographic España",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR3JXVHpvWkdXMzBsdXMzdDhESXdPYUlqMFpKd0ZqcGlWTjV0YXV4XzQ4ZmRJa2ZaNklISXZvcW9RMkZCWlNRaUtEVlVoOTBmeEhVejZXd0VzdGF4TER3R1NoSGx6bnhMOWhyZ3pmcElsa2dqMUpTN1dhUm1WeVk3UUh4UEJtbEVVbjIzUG1VTWZfYVpER0hwZzQxeGp6alNTZXNsOWdLcU9TdE9hR1k3LXRKS0EteHdDSUpnRGhiYnJ5SzJ5b2JKSmdUVHdlNlBLbk94NXZKampmR0N3NUFDZnRieUlRXy1YZEZkcDhQMkxuc0RFVTU1VjBIVGN3QzMtaHhlNUVyVQ?oc=5",
+    "source": "National Geographic España",
+    "language": "es",
+    "published": "2026-09-17T15:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Geoffrey Hinton, el 'padrino de la IA': \"Mi principal misión ahora es advertir a la gente sobre lo peligrosa que podría ser la inteligencia artificial\"",
+    "summary_es": "Geoffrey Hinton, el 'padrino de la IA': \"Mi principal misión ahora es advertir a la gente sobre lo peligrosa que podría ser la inteligencia artificial\" National Geographic España"
+  },
+  {
+    "id": "ecda19fe5a7a",
+    "title": "DOJ antitrust official says AI safety coordination does not appear anticompetitive",
+    "summary": "DOJ antitrust official says AI safety coordination does not appear anticompetitive Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnRESHhSRDBmRzdTT3BDQmVYUzNXMTR2dTFHNHR5UDFmMkdPLXdENTZoTGFDa0ZXT2ZvWGs0QVZWZlJHUHNuQTdZNGd0enpPX29xeWlybG9sbTc4dlpBUnFHSFFSNzdETTh0Y2laOUJuLW90SzFndGFYSkFGMF9ZQTFhUjROMHhkdU5aOG1fOF9GcFQxZjFDYXdhU1BpOTJTMDRJWFp3cndjTWtkLWxB?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-09-17T14:59:32+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "El funcionario antimonopolio del Departamento de Justicia dice que la coordinación de la seguridad de la IA no parece anticompetitiva",
+    "summary_es": "Un funcionario antimonopolio del Departamento de Justicia dice que la coordinación de la seguridad de la IA no parece anticompetitiva Reuters"
+  },
+  {
+    "id": "f8dd7c4d8dd3",
+    "title": "CX Doesn't Own AI Governance. It Still Belongs in the Room.",
+    "summary": "CX Doesn't Own AI Governance. It Still Belongs in the Room. CMSWire",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0FjUWkxY2VkT2IweXJVdjFxc0drOEtXTEh4VllTeUM4bFRGNUJxc2I3aG5ya1pvaG0wVmZlVkNOWk1ISnJLWk84dVhnOXMtc3QyVUxUcThwX3B5MEgzeVBGME5mZnFGU0x0RHg4LXQ5NHJiVzk1dFBndGttcWhVdVZQY2JHUGJxdWw4cHhBazVfeXZXN1dFcGtqcnU?oc=5",
+    "source": "CMSWire",
+    "language": "en",
+    "published": "2026-09-17T14:56:05+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "CX no posee la gobernanza de la IA. Todavía pertenece a la habitación.",
+    "summary_es": "CX no posee la gobernanza de la IA. Todavía pertenece a la habitación. CMSWire"
+  },
+  {
+    "id": "519f21c89004",
+    "title": "Microsoft advierte que entrenar a la IA con rasgos humanos podría dificultar su control",
+    "summary": "Microsoft advierte que entrenar a la IA con rasgos humanos podría dificultar su control El Informador",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVdjd3VSMVRCc3BOaVNhZHB0TlBlN3ZMY2VMRU9RMW1HTzBES01FeUF2SjhvNUZnVHZmdTE4UEEyTmxGdjdWazltTVgzdjJBTm9fNHh4dTZZQUpIcEEtM1d0STdlT18tQVRyLVZJOWl5VF9YWXhod2VjU3A4aW1iYjVieVdUSVl5R3hZWGZkYXlGSUlEdUkxZzMxRS1veU9fV0lYZVBIRUcyT0VoVG9Ka3h0azBVSTRLU0pBLXFybzVfbmJnOGJBRlB4ZlZObGhLREVmZmdEUVl2dkxUaU1J0gHkAUFVX3lxTE1Zb2k5dUJ0SGNLem1yLUp6QnFYX1FMUTFJZ1VQdnV5cjl2UVlhczNJQURPVmVjb1pWOHE2Zzl5bWc1eUNNR3VESkdBSi16NzhCeENHNTJKM0xCTWpiMHFEdkE4NFRHV1FpMGxFVGEzNW52bDBCOTktaGpoQUdSdVBWSkRTX0ktUlVfM0I0NWxnNEtydTc2UnlpVXg3T0gzUnBROFU0V1lGU0d1S2JvM1Y1cTlLRWdvcVVQbWpOM0c1RS04R2NwV3BUbS11TGlpenJxaHE4T0NQMTh3RkZDWGx4Nl92bA?oc=5",
+    "source": "El Informador",
+    "language": "es",
+    "published": "2026-09-17T14:34:50+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "sociedad",
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Microsoft advierte que entrenar a la IA con rasgos humanos podría dificultar su control",
+    "summary_es": "Microsoft advierte que entrenar a la IA con rasgos humanos podría dificultar su control El Informador"
+  },
+  {
+    "id": "a98ad959b38b",
+    "title": "Amazon se suma al debate sobre la seguridad de la IA y reclama pruebas rigurosas y salvaguardas",
+    "summary": "Amazon se suma al debate sobre la seguridad de la IA y reclama pruebas rigurosas y salvaguardas MarketScreener España",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXFRV1FqcXZqV0dzNW81WHk0UkE5SE1BaFhEX0NZTm16dlpqS0pQbHp1WGM4TmFhendlT3ZlcjVCRnpnQjBkUlQzS3VVVDE0NnRlZnZzdWF2WkNXd2tBN0JTal95M2pnU2tMV3hyR3NHc0NfeTlqR2Q5WVo1cGhRRU1Kb1d1MXJFczRWSXp2dEJsY3EwaVRubkZfZlkyVnpWbDZRY2FuemFXN1JqRFd1cHQ1VExPOUh5dVJabDdEdGw2X2E3Z0w0YS1xbGZIWVNqY3FlY0VfczJFYi1OQU1FZ2dteXpnUQ?oc=5",
+    "source": "MarketScreener España",
+    "language": "es",
+    "published": "2026-09-17T14:29:33+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Amazon se suma al debate sobre la seguridad de la IA y reclama pruebas rigurosas y salvaguardas",
+    "summary_es": "Amazon se suma al debate sobre la seguridad de la IA y reclama pruebas rigurosas y salvaguardas MarketScreener España"
+  },
+  {
+    "id": "ab1c292b2d44",
+    "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards",
+    "summary": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTBpanBKeEJyTGl6dm1BZk5teFNRdjd3N05iOHRlTXBvaXVmWU53azBzZFhEVHFHRkE0T3pPTFdTQlpCeGJjQWN0b0FtVXJVVS1BNlZuZ29aRjZUNVZXMUFsOElMWktueV94ampwS2NTQ0JVRExWVWE0dkRwV2pmWUh4SGRYdUFzdW5kMDBBREFBaEZLb01aRUVQdmZBeEJJT0NQY2ZwTjRmZUdwMEtUdE9XVm92cHhwVExn?oc=5",
+    "source": "marketscreener.com",
+    "language": "en",
+    "published": "2026-09-17T14:29:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Amazon entra en la lucha por la seguridad de la IA y pide \"pruebas rigurosas\" y salvaguardias",
+    "summary_es": "Amazon entra en la lucha por la seguridad de la IA, pide \"pruebas rigurosas\" y salvaguardias marketscreener.com"
+  },
+  {
+    "id": "10953ea59277",
+    "title": "El genio matemático anónimo que dejó Anthropic y se convirtió en el rostro de la seguridad de la IA",
+    "summary": "El genio matemático anónimo que dejó Anthropic y se convirtió en el rostro de la seguridad de la IA El Mundo",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0lTWnZLaUx1TmJfdExWT0g2cmNuRVkxQ3o4Q1owRkVxUFZDVkptSU14Y0xyRERLX25USFdGMy0zSktjdXhkM2xJMHVaOGZlMjYtbjJZU1h6ZXJyMEtvalhNTW9YMzUxWHVfY2dsYU1PbGdVb3d0WXNDWGpRVk1TVlF3MHpQNUxY0gGIAUFVX3lxTE0wdTEzeExMMG5TUjFsc3hTLXJYY084c3BicDJrMjdGX2RYdXFFRnhIanowWG1NME1mZlFXenhQQUlseXVMWmJXd3JDNFhsMkRQMGhicjlDY2lOTllkMTI4QUFpMmNzZUFuNTVCeFU1VkhaOU5hTjdYVkVnUXdRZnJvWXZBRmthTks?oc=5",
+    "source": "El Mundo",
+    "language": "es",
+    "published": "2026-09-17T14:16:13+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "El genio matemático anónimo que dejó Anthropic y se convirtió en el rostro de la seguridad de la IA",
+    "summary_es": "El genio matemático anónimo que dejó Anthropic y se convirtió en el rostro de la seguridad de la IA El Mundo"
+  },
+  {
+    "id": "9d835a297102",
+    "title": "Microsoft AI chief Suleyman warns AI could escape human control",
+    "summary": "Microsoft AI chief Suleyman warns AI could escape human control Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk8yblA3dk1tVlYwN2txSnptYkgzU1d0enpmdDc2RUtKQ3lWaXh6NDh4YlgtbHFUQUNkTzVXMUdqSlJnSFBsU0tJUi1ucEt2VnptMlVCWjVLTkQ5V2xCVV9MMEFIaHdESGJoQ1c2eVpibzhJeHN3SGJLeEQ5ZkRTOGVYQXJRYkJiQVZrSUVMQzFYUDdELVZRV0EwZjNuVHo1ZHpqbk9lMFlhWmR4Nmc?oc=5",
+    "source": "Türkiye Today",
+    "language": "en",
+    "published": "2026-09-17T13:59:52+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "El jefe de IA de Microsoft, Suleyman, advierte que la IA podría escapar del control humano",
+    "summary_es": "El jefe de IA de Microsoft, Suleyman, advierte que la IA podría escapar del control humano Türkiye Today"
+  },
+  {
+    "id": "69b9c3649c2d",
+    "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+    "summary": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXplMS1mRGRGYVY3ZVhpNWhkOEhWTU1UR05rU2lHTXVtbzhjVUNmRnJ2bEc1RlpqM0dtd1VNNUg5SzdPVVRYdE90UVRPWks2LWFGT3BmaEd3OXdma2Y3MlRqQ3hxS2FibUtWRUg1SkoyWmZCeUlyS0R2UFV6QllEU3ZTV3VEY28xbnFmX003clV0ajlTanphMEFUNmlvZGFqbldPZFZDOU5FOHpndkVhVnFEY0U?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-09-17T13:47:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "King Charles pide a Nvidia y a los jefes de OpenAI que controlen la IA",
+    "summary_es": "King Charles pide a Nvidia y a los jefes de OpenAI que controlen la IA Bloomberg.com"
+  },
+  {
+    "id": "406612267226",
+    "title": "The Business Case for Responsible AI: Enabling Growth by Going Beyond Compliance - The World Business Council for Sustainable Development (WBCSD)",
+    "summary": "The Business Case for Responsible AI: Enabling Growth by Going Beyond Compliance The World Business Council for Sustainable Development (WBCSD)",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUdORWZ6cW44TG0xUG43VGNRdmxUUUZjanoxY2N2RG5tUm9Tcl9iRGdZN1hjS2d6aXpYM0hubVlsRzNucExVQ1NnUVJFRWd1VnFreHMzb3U0d2xadENPckhxT195WEVuQ3ZjVHJiM3Zacmo2RTNZel9ZZF9KLTBsNVh0T1hUMkRQeEd2dlVmbWtGcUNvUDBNRjhpcVZMWUdmeHVYblRNYldUcEU?oc=5",
+    "source": "AI Governance & Policy (Global)",
+    "language": "en",
+    "published": "2026-09-17T13:46:21+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "El argumento empresarial a favor de una IA responsable: permitir el crecimiento yendo más allá del cumplimiento - El Consejo Empresarial Mundial para el Desarrollo Sostenible (WBCSD)",
+    "summary_es": "El argumento empresarial a favor de una IA responsable: permitir el crecimiento yendo más allá del cumplimiento El Consejo Empresarial Mundial para el Desarrollo Sostenible (WBCSD)"
+  },
+  {
+    "id": "e5d8122dcc2b",
+    "title": "Suleyman vs. Anthropic on Claude’s Consciousness",
+    "summary": "Suleyman vs. Anthropic on Claude’s Consciousness NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemJka3B6U0tWQy0taTlsZzNFV29KcHk1N1MzQlFXUENaemsweHhBajYySG1oUmE1WE11czVUQlpFWTZsMGVlMUNMbHVud0tjcGp3Ry1FdjhrUmxQRV9oMVdxeGE3cEdXT0k2RUFlU1VBVFUxRWZLNzJ5YzRtUHlmLUF4bm1lVGROaTBPcW5WVG5TTVE0?oc=5",
+    "source": "NeoTeo",
+    "language": "en",
+    "published": "2026-09-17T13:32:26+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Suleyman vs. Antrópico en la conciencia de Claude",
+    "summary_es": "Suleyman vs. Antrópico en la conciencia de Claude NeoTeo"
+  },
+  {
+    "id": "5428e4b75d24",
+    "title": "Alation Expands AIOS With Six Products For AI Governance, Enterprise Context And Agent Management",
+    "summary": "Alation Expands AIOS With Six Products For AI Governance, Enterprise Context And Agent Management Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3RmejJEUlgxQjR1LU1KYVBHekNjbkNIbFlQbGlHV3FVX2NwcEVGdkZXWHgwWWJiUzlXblZBek5MX0FRb1hLWnBZbGplMzFYYnpma3JKaG9BZDg2dXhtR2hSM2hLOU9BZUIxZzRqbDF0azI0Nm1XVGwyRnFtOTZfbjZaODBING5jQnRieDJsak9pdU4xRXR0NHZIcGZnaVczUTN0ZXBUd2NtLWZZb0hzUUZwRGJ6RzjSAbwBQVVfeXFMT1lxeFV6WktHclRYREhVX1BVeUlNUjRFdGxVR0M2WDV0RXlzQkZUSkFJUUY4WU9oNERNUHdFOVdLWWFyd1JiS0pob3NMT0d4OG1DTkUwSTV3QUotN2xTVlowVlZKTFBxenRjaGlyNXkzdll4cFVrNXlmNkgyY2I0emY1dlVQX3FKVkFDZHJIMXF3azZzX1d0Q0x2Rjl6YUNKUlQ3MnlySWw2emxZM0VjTnNkQ3ZaTEVrSG1xS2I?oc=5",
+    "source": "Pulse 2.0",
+    "language": "en",
+    "published": "2026-09-17T13:30:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Alation amplía AIOS con seis productos para gobernanza de IA, contexto empresarial y gestión de agentes",
+    "summary_es": "Alation amplía AIOS con seis productos para gobernanza de IA, contexto empresarial y gestión de agentes Pulse 2.0"
+  },
+  {
+    "id": "b5d67116991a",
+    "title": "Video | AI Weekly: AI Doom Fears, AI Actor Tilly Norwood's Press Rounds",
+    "summary": "Video | AI Weekly: AI Doom Fears, AI Actor Tilly Norwood's Press Rounds NDTV",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGNZbmswQWY5WENqbzFvYmljZkJzZUxYUkpVbk1BY1BWNjRTOGdjWGpiNUNfM1QyVzBKN3M4Nmt4SkZfQkRLcnk0eEJuWFFKWnFVOTFkbXFuV0FhQkFIM0VxdXp0c2VPeWxnTjNYV3RMMm1OYkdOckUtQjBQSGFoN25uWmtEaDBMcXM0NFJpWjJLWW9Sa2NiaUJMX3U?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-17T13:12:36+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Vídeo | AI Weekly: AI Doom Fears, rondas de prensa del actor de AI Tilly Norwood",
+    "summary_es": "Vídeo | AI Weekly: AI Doom Fears, ronda de prensa del actor de AI Tilly Norwood NDTV"
+  },
+  {
+    "id": "5d2627c61024",
+    "title": "Tyler Winklevoss, archienemigo de Zuckerberg, sobre la seguridad de la IA: \"Isaac Asimov ya resolvió el problema en 1940\"",
+    "summary": "Tyler Winklevoss, archienemigo de Zuckerberg, sobre la seguridad de la IA: \"Isaac Asimov ya resolvió el problema en 1940\" El Confidencial",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaC1EWlJxa2RvYWdmZjhBY011bzJHczFUUERYRzM3aE1zbWlYRjAzUlg1NlZuOU5RN0hQS2JZcmNlb2JsQlR3V0tkMktYcWdUTXlycTE1djJVZUZIODVrNmh2MkRZa2poLXhmdjlrdzZPSFNaQl8zV1B0aGtlRF9FRUxsc0x1ZzhKeXVRRVcxQ2kza0FOZnp3VTBaVDZtWEN5OExRY2RaYWJUZ2pDUTFNM2w0UUhXZWs5Tk94dTJ5ZUdncVo2?oc=5",
+    "source": "El Confidencial",
+    "language": "es",
+    "published": "2026-09-17T13:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Tyler Winklevoss, archienemigo de Zuckerberg, sobre la seguridad de la IA: \"Isaac Asimov ya resolvió el problema en 1940\"",
+    "summary_es": "Tyler Winklevoss, archienemigo de Zuckerberg, sobre la seguridad de la IA: \"Isaac Asimov ya resolvió el problema en 1940\" El Confidencial"
+  },
+  {
+    "id": "80ef42f8f6e4",
+    "title": "El Rey Carlos organiza una cumbre sobre la seguridad de la IA con Nvidia, OpenAI y Anthropic.",
+    "summary": "El Rey Carlos organiza una cumbre sobre la seguridad de la IA con Nvidia, OpenAI y Anthropic. es.qz.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObThaYkVrb1RlMDZxdDJiWk0xeTQyeXRyQ3FDdW5oVGVNczUxOFd0eS1hRHREcC1XNjhjYXFCbDRUSlFKTjFZSUNVSGVPSlNPVkY4dkNFeTFKQUpFN0pCY2VpRVVhZGdrOVNjU2U4REN2QTd6cE1EdURXWGdoVmNsOTZhSmFOM3o2ZXN5X1k4Zkd1NWNEZXlr?oc=5",
+    "source": "es.qz.com",
+    "language": "es",
+    "published": "2026-09-17T12:48:40+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "El Rey Carlos organiza una cumbre sobre la seguridad de la IA con Nvidia, OpenAI y Anthropic.",
+    "summary_es": "El Rey Carlos organiza una cumbre sobre la seguridad de la IA con Nvidia, OpenAI y Anthropic. es.qz.com"
+  },
+  {
+    "id": "addc4c75f4fc",
+    "title": "Geoffrey Hinton, known as the Godfather of AI, says we don't have much time",
+    "summary": "Geoffrey Hinton, known as the Godfather of AI, says we don't have much time WHAS11",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQanJjamROREcyYUYtNWZLengtOElBTmw5el9hRnB5aDlQWXluVkNKQnlzY3hpM2JDS2MxWUp5YWZkR2x1OEtHSUpvekJQU0loMDVfcy02d0hwQmRpZngzVWUwV25ocnBaMFFVVkVNMDVaaWxEQnNvN1Rzdk5oelJaX0xNYm9ZeW5Pbk9IdDZYblY3OVZrSmFYdlEtaXZZeFhWbVBJSUR6Q0N6NjhLM3ktcnNzRDdNVC1LYW9Jb2hNT1hIQjJ3WUlpNmotRzM3dnItTzE2dFhLNGlsRW1kOENSRTNHMEdfN3prOUxCbWVVdFlxQm5HR2xBYWpmdUE1M3ZEVTdaLQ?oc=5",
+    "source": "WHAS11",
+    "language": "en",
+    "published": "2026-09-17T10:58:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Geoffrey Hinton, conocido como el padrino de la IA, dice que no tenemos mucho tiempo",
+    "summary_es": "Geoffrey Hinton, conocido como el padrino de la IA, dice que no tenemos mucho tiempo WHAS11"
+  },
+  {
     "id": "6c9ce2c088bd",
     "title": "El Senado tumba la regulación IA con 'kill switch' obligatorio: Rand Paul bloquea la enmienda de Kennedy",
     "summary": "El Senado tumba la regulación IA con 'kill switch' obligatorio: Rand Paul bloquea la enmienda de Kennedy moncloa.com",
@@ -302,6 +721,27 @@
     "date_added": "2026-09-17",
     "title_es": "El padrino de la IA, Geoffrey Hinton, habla de cómo la IA acabará con la humanidad; Dice que hay muchas maneras: Como mortal.",
     "summary_es": "El padrino de la IA, Geoffrey Hinton, habla de cómo la IA acabará con la humanidad; Dice que hay muchas maneras: Como mortal. Los tiempos de la India"
+  },
+  {
+    "id": "d0057236b369",
+    "title": "'We're losing control,' according to 'godfather of AI' Yoshua Bengio",
+    "summary": "'We're losing control,' according to 'godfather of AI' Yoshua Bengio ABS-CBN",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUF2a1JrQUNTdW1yLVlDdUhudlZXLVo1R0UxaklJYlpWSXh6Sl9IUU81LXhhdk1HZmxyMDVWa1BBcldyVjZSVzFhRUY4VUtfVUpMNmdXbDN1R2dPQVd1LVRkdFBWT091ajhyRkpuUjlNNzBUd3U0MGxZQ09QT09lQWVIU1h2UEc2OVNNa2dZRVFib0ZKbXF5Nk1sbEtkVUNvZ3Bqbnl2Q0c?oc=5",
+    "source": "ABS-CBN",
+    "language": "en",
+    "published": "2026-09-17T04:37:44+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "\"Estamos perdiendo el control\", según el \"padrino de la IA\" Yoshua Bengio",
+    "summary_es": "\"Estamos perdiendo el control\", según el \"padrino de la IA\" Yoshua Bengio ABS-CBN"
   },
   {
     "id": "df4c65d434ed",
