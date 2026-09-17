@@ -1,5 +1,291 @@
 [
   {
+    "id": "405ffb7123c2",
+    "title": "AI safety debate expected to put more pressure on CFOs",
+    "summary": "AI safety debate expected to put more pressure on CFOs CFO Dive",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkRlSHJ3N0ZZWjR2WnBZS1E0bFBJcHZyRUR2LVZsTmtFcjNRczBuN0lyeHFZZlMwZGJfWWlUUEJxc2t2eW41N0pYT3ZpY2FsSFM2NUN3MDRkZW41VWhkdWlXLUJGX3Y2Umg2VDZVd3ZzYU55V0dmMUJGa0lEbE9hclQ1TDd0dVE?oc=5",
+    "source": "CFO Dive",
+    "language": "en",
+    "published": "2026-09-17T20:51:28+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Se espera que el debate sobre la seguridad de la IA ejerza más presión sobre los directores financieros",
+    "summary_es": "Se espera que el debate sobre la seguridad de la IA ejerza más presión sobre los directores financieros CFO Dive"
+  },
+  {
+    "id": "76c9d0bad807",
+    "title": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos”",
+    "summary": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos” elDiario.es",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFRmclRuVmVqLVdMUjFNVWplRE1PbUdEeE9uTEJib2tlMXg5Xy1SWm1nRWw5bF8tRUNDMDZwUDY2d19BRTl1aVNza1ZkVTFhdzlWT0pFeEhQMUZVMzBVekRKTlpsN25qTWMwNFRiSExKbkMzRllIZ09aZXlKbjdQOWctX3dRRUxDWnhGcEFVTkdieHVFaUNkU1JJeEZzS3B1Q1VNbHBKajZhVkFlUEV0Y1JpUnUtWlJIa1NXN2VwcDl4SF9MTVQ1aGlLSERnbVQ0NHRJ0gHYAUFVX3lxTFBCVU9QRGpzQ200U0I1d2ZQLVpvaGJtVjFuMFhKU2ZvNzE1S1NVcXBzX1I2REZkc3hHUHpoUUFjUTVSY2p0Q1U5TzE5OEs4Tko1a21wM0pjQnZ5dm8yaGxFWkFZYlM3OURzWVk2NEdHM2lQQWg2eUt3Y3gwNzhLeENwVS1mMGduN29kekl6Uko1WnR0b0pMM1JhUFdSeWxQc1g4SDhWbW4xV0kwUkZQQWtjYUNTamZzcG5nZExtT3A5OG1sNmUtRFU4Y1dBbDNYU1h6UE5sMXA2bQ?oc=5",
+    "source": "elDiario.es",
+    "language": "es",
+    "published": "2026-09-17T20:31:54+00:00",
+    "feed_name": "Daron Acemoglu (Español)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos”",
+    "summary_es": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos” elDiario.es"
+  },
+  {
+    "id": "622e264ac631",
+    "title": "Is the AI safety debate about safety or control?",
+    "summary": "Is the AI safety debate about safety or control? techcrunch.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMURObkJHczZyemlYaDFiWGttc2ZvWmlTR1cxWTd0YVgxaHVSSWlnSHRlS3lrcmwyWTllUVhhakY4MTNrS1dyS2lBbUFDY3FZTmw0dDFURDR0bEhlV09XdzB6UHBfS2NHZVhuNUg2aEZiUzNlRWJrcEdqNnFvNVBSVVI0aXo3RkI3MWc?oc=5",
+    "source": "techcrunch.com",
+    "language": "en",
+    "published": "2026-09-17T20:19:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "¿El debate sobre la seguridad de la IA es sobre seguridad o control?",
+    "summary_es": "¿El debate sobre la seguridad de la IA es sobre seguridad o control? techcrunch.com"
+  },
+  {
+    "id": "e766651fa4d4",
+    "title": "Yoshua Bengio says betting on safer AI systems will pay off",
+    "summary": "Yoshua Bengio says betting on safer AI systems will pay off The Logic",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tQnJ5OXRiYTZWUlBJdndKODJUWW5UcDhWcG1nMXJkaENmcTlNRW50aFg4ZTdzb0FodFlIdFpaTFBJY3lXbjB2X29UeXpZQjVZcmxKUW1sQ05qWGtsOXFvWTVQSkNGUQ?oc=5",
+    "source": "The Logic",
+    "language": "en",
+    "published": "2026-09-17T19:58:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Yoshua Bengio dice que apostar por sistemas de inteligencia artificial más seguros dará sus frutos",
+    "summary_es": "Yoshua Bengio dice que apostar por sistemas de IA más seguros dará sus frutos The Logic"
+  },
+  {
+    "id": "85eb2cfcf282",
+    "title": "Amazon se suma a la polémica sobre la seguridad de la IA y exige 'pruebas rigurosas' y medidas de protección",
+    "summary": "Amazon se suma a la polémica sobre la seguridad de la IA y exige 'pruebas rigurosas' y medidas de protección Forbes México",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOU5zWVQ5S0tyMHdsbGZDTmpiUHRwdkRsenNmbUlIZWNIQWN6czJXQld4OVB0VzRoQzVlaHhjYjdRemc3NFZRMUlPWkZRUDVoTW1ONW5DTWc1SUMyUE9aYV9kRm1FZ1VmNUdiMWN6cHctTlhaQzJvR1diMGFsU3h6aUUwY1dXVXpyTEl5SFpodllpbzU5bjFpNllqZE9Wa3FEU1JRWmRGcnRDb0J3cjZtRm9ISjVZdUpKUzFQN1lKV0lHdXBJQzFRRw?oc=5",
+    "source": "Forbes México",
+    "language": "es",
+    "published": "2026-09-17T19:47:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Amazon se suma a la polémica sobre la seguridad de la IA y exige 'pruebas rigurosas' y medidas de protección",
+    "summary_es": "Amazon se suma a la polémica sobre la seguridad de la IA y exige 'pruebas rigurosas' y medidas de protección Forbes México"
+  },
+  {
+    "id": "94716bd96246",
+    "title": "Microsoft alerta de un futuro en el que la IA podría competir con los humanos por los recursos",
+    "summary": "Microsoft alerta de un futuro en el que la IA podría competir con los humanos por los recursos Infobae",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNlZwaGdPRFZfMXBaNVlzMzVzcmhrM3JyM2lFTjBScFdkMzBuWHQyODgzc3Fzb2VvYkMyS0ZVY2NPdWY5Vlg5ay12UXBmM2pMenc2NTFaVFplR1Y1SkYxaVl0SWJMVDVEVExlSVZnSFI0dlVmS3U0SWNCLWk4by1MNHlIcFpQTmxTN2N6NTdDY25vYktyOGgyTXZMU3Rpb2RDRi1MOUZnelY0TnFRSzJsY21rMFpLWHY3dWxKTWt2NFBJcDIyWWJOa1gyWERJYmcyckZtNEI1QjhjWUJKYmtzT2RIQ0hwTlV0UVlSbdIB7AFBVV95cUxPNlZwaGdPRFZfMXBaNVlzMzVzcmhrM3JyM2lFTjBScFdkMzBuWHQyODgzc3Fzb2VvYkMyS0ZVY2NPdWY5Vlg5ay12UXBmM2pMenc2NTFaVFplR1Y1SkYxaVl0SWJMVDVEVExlSVZnSFI0dlVmS3U0SWNCLWk4by1MNHlIcFpQTmxTN2N6NTdDY25vYktyOGgyTXZMU3Rpb2RDRi1MOUZnelY0TnFRSzJsY21rMFpLWHY3dWxKTWt2NFBJcDIyWWJOa1gyWERJYmcyckZtNEI1QjhjWUJKYmtzT2RIQ0hwTlV0UVlSbQ?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-09-17T18:48:17+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "sociedad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Microsoft alerta de un futuro en el que la IA podría competir con los humanos por los recursos",
+    "summary_es": "Microsoft alerta de un futuro en el que la IA podría competir con los humanos por los recursos Infobae"
+  },
+  {
+    "id": "8923c43d9439",
+    "title": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
+    "summary": "Alex Karp says the AI safety debate is really about nationalizing AI labs Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUJLSDgxcFlvOGFid3lzNXVwcUlwRnRteEpGaDhEejNNNEZDN2RiWGJGR3hPN1lZdkVfelJBZWVtNlEzdDdFRzhOelJwenJnLVB2VU96QTNfYnJHNWRFb0lwU0VSRHdPbGkycW10NFpyVFcwbFJjQ1BDRjBpbVE4MHplMFJ2WVBYZzlfV2dsaXJpQWVaODRjYnkxUkQ?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-09-17T18:32:26+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Alex Karp dice que el debate sobre la seguridad de la IA en realidad gira en torno a la nacionalización de los laboratorios de IA",
+    "summary_es": "Alex Karp dice que el debate sobre la seguridad de la IA en realidad gira en torno a la nacionalización de los laboratorios de IA Business Insider"
+  },
+  {
+    "id": "216f584b927c",
+    "title": "CPI | DOJ Signals AI Safety Cooperation May Avoid Antitrust Hurdles",
+    "summary": "CPI | DOJ Signals AI Safety Cooperation May Avoid Antitrust Hurdles PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkU2WHRsNzhwVDRKQzBOQkZOZVhocGJDYlh6a1FXRElJVlkyR3pwajEwbjFyQ0ktRk5LZFNDa2tqY2xJeWRmdHpOa2tycnZWeHpyM2xTbkY2TXNjZjdBdmEyM2NRWmNRRWIybF9tYTJuRDBYYnI4TFg4YVoyVFdnOWQ2eldXanZ0Y0RXTjd6TXh0c0xGblE1d0dGQQ?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-09-17T18:17:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "IPC | El Departamento de Justicia señala que la cooperación en seguridad de la IA puede evitar obstáculos antimonopolio",
+    "summary_es": "IPC | El Departamento de Justicia señala que la cooperación en seguridad de la IA puede evitar obstáculos antimonopolio PYMNTS.com"
+  },
+  {
+    "id": "6f1b2ac3ddd2",
+    "title": "Microsoft critica a Anthropic por tratar a Claude como una persona que «sufre»",
+    "summary": "Microsoft critica a Anthropic por tratar a Claude como una persona que «sufre» Hipertextual",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXB6R2hlNzNmZ0NaRHIxV1BiSEZvclFQSWYxZkFXa2JxMTdRWDUzRmRXYmZrUVVNeEVadmNyZjltOU5JM3J0dWlNS1l2MHVIYWloY2kyZDI2MXVScU9CR2d4NEpVRkNLaGZpYjd0Um8ycWNtajRXc2hRSEtBTW9LX2VBMXRpaDQ3TEJEdFFhWnROLVY0ZFNVcDhISHZyZkE?oc=5",
+    "source": "Hipertextual",
+    "language": "es",
+    "published": "2026-09-17T18:13:10+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Microsoft critica a Anthropic por tratar a Claude como una persona que «sufre»",
+    "summary_es": "Microsoft critica a Anthropic por tratar a Claude como una persona que «sufre» Hipertextual"
+  },
+  {
+    "id": "58f4472b34e5",
+    "title": "Gobernador Gavin Newsom evalúa una sesión especial para endurecer la seguridad de la IA en California",
+    "summary": "Gobernador Gavin Newsom evalúa una sesión especial para endurecer la seguridad de la IA en California DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMV9nQUM5VEtBRWJXMVVINHE1cTZSZmF6akNuN3h3VlhHTXNBT0FTMUdJVkQybHJtbG5ESERVWEtRN0g3WWt0ajFYRmRvX253Wi1HUmQ5Ykt0SFhPbkplOF9SVGtPQmFZRy04Z3lVb2RlMTlOSFBHcmdKQ1lnRGJPUDRzYmV5eExqT0g2Q20zS183M0FIRkd0NjUzZjBPZEFhTHV3amFESXhjRzQ3U2RvZ2x3ZDdESmd2c20xVVhiekJxUmdm?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-17T18:00:07+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Gobernador Gavin Newsom evalúa una sesión especial para endurecer la seguridad de la IA en California",
+    "summary_es": "Gobernador Gavin Newsom evalúa una sesión especial para endurecer la seguridad de la IA en California DiarioBitcoin"
+  },
+  {
+    "id": "0f1094236a5d",
+    "title": "Video: King Charles III Meets Tech Leaders to Discuss A.I. Safety Risks",
+    "summary": "Video: King Charles III Meets Tech Leaders to Discuss A.I. Safety Risks The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDFXQnFhdzljeWtKSFpMcDhSZmFieDBXYmNYeHdRclkySHlRN1JqekhiLW10dUNGc3owT29lOW45cTRfNkFVU005U28yb0Z3VHFELXI2MmRhRnZDVWlFMC11UmpVdkVROWFqN0tMbGlTdjdBS1pFSjVINDNiSDhFN284bVJUMERYcWhNX1ZnLXEzZw?oc=5",
+    "source": "The New York Times",
+    "language": "en",
+    "published": "2026-09-17T17:49:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Vídeo: El rey Carlos III se reúne con líderes tecnológicos para debatir sobre la IA Riesgos de seguridad",
+    "summary_es": "Vídeo: El rey Carlos III se reúne con líderes tecnológicos para debatir sobre la IA Riesgos de seguridad Los New York Times"
+  },
+  {
+    "id": "bcd3bb1a31e0",
+    "title": "AIM Intelligence Launches Global Physical AI Safety Consortium 'PASC'",
+    "summary": "AIM Intelligence Launches Global Physical AI Safety Consortium 'PASC' The National Law Review",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FuNlp6amRmak1lcC1UcFZIdGozTXZFUkg2Nl9SZUt6RUZQT0tzbUR0cThhVUFUSW02UVU2bGpzbDZoVW5WZDZyTU1feGdnT2lRcUFqNmoyaWpqVkFjaUotNkFkT3ZCSWZ5bWFwWWYzUl9KVnI5OHdnWV9jR3ZfQ1dDb05jcTBXU1pzNzVSQVdiazV5SnFCV19OZFRDWmx4dmRHd1ZqejZvSVk?oc=5",
+    "source": "The National Law Review",
+    "language": "en",
+    "published": "2026-09-17T17:41:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "AIM Intelligence lanza el consorcio global de seguridad de IA física 'PASC'",
+    "summary_es": "AIM Intelligence lanza el consorcio global de seguridad de la IA física 'PASC' The National Law Review"
+  },
+  {
+    "id": "492cbaaab10e",
+    "title": "\"Godfather of AI\" Geoffrey Hinton warns \"we need to slow down\"",
+    "summary": "\"Godfather of AI\" Geoffrey Hinton warns \"we need to slow down\" CBS News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFRndWRwd2hYUklqSlBWQUV5WmlwdlRSV1RZRGNmTlVyWkltUEdhSVF5anl3MTFkMnBLSDNVQlBqNUp0aEV3UnEyM1Y2bzlLS2x3NndySV9tMGRIdERjR2hIb3pKQ0ZaUzVyQ1ZUWndiemZVNkJvSjhlVmxpVkpUZHQwZmVCVzllRWRHQWFvdUtrQ3c?oc=5",
+    "source": "CBS News",
+    "language": "en",
+    "published": "2026-09-17T17:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "El \"padrino de la IA\", Geoffrey Hinton, advierte \"tenemos que ir más despacio\"",
+    "summary_es": "El \"padrino de la IA\", Geoffrey Hinton, advierte \"tenemos que ir más despacio\" CBS News"
+  },
+  {
+    "id": "16fc6281d5b7",
+    "title": "La reflexión de Mustafa Suleyman, jefe de la IA de Microsoft: «Si caminas una hora recorres una distancia, ...",
+    "summary": "La reflexión de Mustafa Suleyman, jefe de la IA de Microsoft: «Si caminas una hora recorres una distancia, ... OkDiario",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOY2tEeUZBQVB5Si1YTFdhVzlrd2xGcGhybjMxXzFTYzFZSllwdmhuY3lLSEZGbkw4aUkxTFVFUURDVEFub2FUS3ZKa0dxckxybE9zdkpSLXluaUpaWjh2bkRFRW9YVDlyTFJneTZzUnBqZzJIWDZKbWJpQTFlVjZ3SFZRVUFWMlhTQ1Ewc1p3cE41Vkx2eVFTczEzaUgwQ0NMRVdLY2xHd0ZTMWtOMk96dENqREZfRThYSFdSaU1lTTNVUVlfM3VvTkxoYUNFZEpZMndReVNnc29EaGlwVVJJb1RYOEVZYXdSdjF3TnpmaUE2dWVrdFV5YVJDSldiVl9jZ2dTcW80VXlXbDdSeTU1NEd0dDbSAZQCQVVfeXFMTmNrRHlGQUFQeUotWExXYVc5a3dsRnBocm4zMV8xU2MxWUpZcHZobmN5S0hGRm5MOGlJMUxVRVFEQ1RBbm9hVEt2SmtHcXJMcmxPc3ZKUi15bmlKWlo4dm5ERUVvWFQ5ckxSZ3k2c1JwamcySFg2Sm1iaUExZVY2d0hWUVVBVjJYU0NRMHNad3BONVZMdnlRU3MxM2lIMENDTEVXS2NsR3dGUzFrTjJPenRDakRGX0U4WEhXUmlNZU0zVVFZXzN1b05MaGFDRWRKWTJ3UXlTZ3NvRGhpcFVSSW9UWDhFWWF3UnYxd056ZmlBNnVla3RVeWFSQ0pXYlZfY2dnU3FvNFV5V2w3Unk1NTRHdHQ2?oc=5",
+    "source": "OkDiario",
+    "language": "es",
+    "published": "2026-09-17T16:59:34+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "La reflexión de Mustafa Suleyman, jefe de la IA de Microsoft: «Si caminas una hora recorres una distancia, ...",
+    "summary_es": "La reflexión de Mustafa Suleyman, jefe de la IA de Microsoft: «Si caminas una hora recorres una distancia, ... OkDiario"
+  },
+  {
+    "id": "dff52bf67462",
+    "title": "AI governance moves into daily workflows",
+    "summary": "AI governance moves into daily workflows SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmVWNnZsTS1QX3NxYm1vN0NreFNjQWlQbkduMVQwN3daY0ZvaDRkNFhNUHI3S2pCekJacTNNZDhmM1MtY3YxVlpHbVRpQ2l5UzdTaHhRYUdhZmxPa2tmV25pMXNEdU5ZdEFQVHJHNGxPVFM2RkJhbzczZk9vcWVfT1h6R0tqOEp4bUowNzM5cEp4N1l6U0xLQnRVSlFsVXJSNTV4T0FPVQ?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-09-17T16:15:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "La gobernanza de la IA se traslada a los flujos de trabajo diarios",
+    "summary_es": "La gobernanza de la IA se traslada a los flujos de trabajo diarios SiliconANGLE"
+  },
+  {
     "id": "ae9b8c3436ab",
     "title": "How To Establish Strong AI Governance",
     "summary": "How To Establish Strong AI Governance Forbes",
@@ -75,6 +361,27 @@
     "summary_es": "Nvidia rechaza la regulación IA de las redes sociales mientras la ONU reclama supervisión global moncloa.com"
   },
   {
+    "id": "a56de73c1f5c",
+    "title": "Microsoft advierte que la IA sin control podría dar lugar a una 'especie no humana' que compita con las personas",
+    "summary": "Microsoft advierte que la IA sin control podría dar lugar a una 'especie no humana' que compita con las personas Acento",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVjZHWjBCc25MXzh1U2U1cnJyc1RTVkp5RXozRTFMVHRfM05IZC1SdXJzSlJUNUNiMEV5RUlFWmt4YjdEUzMzSWJPWUZZQ1RrYm5FalRrdFJOTXJvbGg1ajZKRk5ERlNBNjl4V0lWZjZrZ0UxUlF0N2JIVHZLQ2hzdzR2Y3Z5a0ZEcmpWTFJuWXdpN1lKM0dUS2x3U2xLUlg0TllhNWt3OGR3NFNDZWRrMEcyQjJkeTZmMkpuV2ttWTJuT29PTG94eXJHamRrYjEtTHFvT252dFRqX1JNZ29RN2drUjJRQVlQX0RQbE9ySlBNQdIB8gFBVV95cUxQVjZHWjBCc25MXzh1U2U1cnJyc1RTVkp5RXozRTFMVHRfM05IZC1SdXJzSlJUNUNiMEV5RUlFWmt4YjdEUzMzSWJPWUZZQ1RrYm5FalRrdFJOTXJvbGg1ajZKRk5ERlNBNjl4V0lWZjZrZ0UxUlF0N2JIVHZLQ2hzdzR2Y3Z5a0ZEcmpWTFJuWXdpN1lKM0dUS2x3U2xLUlg0TllhNWt3OGR3NFNDZWRrMEcyQjJkeTZmMkpuV2ttWTJuT29PTG94eXJHamRrYjEtTHFvT252dFRqX1JNZ29RN2drUjJRQVlQX0RQbE9ySlBNQQ?oc=5",
+    "source": "Acento",
+    "language": "es",
+    "published": "2026-09-17T15:24:02+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Microsoft advierte que la IA sin control podría dar lugar a una 'especie no humana' que compita con las personas",
+    "summary_es": "Microsoft advierte que la IA sin control podría dar lugar a una 'especie no humana' que compita con las personas Acento"
+  },
+  {
     "id": "c30cdab5687f",
     "title": "King Charles warns tech bosses of ‘existential dangers’ of AI",
     "summary": "King Charles warns tech bosses of ‘existential dangers’ of AI The Weekly Times",
@@ -132,6 +439,25 @@
     "date_added": "2026-09-17",
     "title_es": "Geoffrey Hinton, el 'padrino de la IA': \"Mi principal misión ahora es advertir a la gente sobre lo peligrosa que podría ser la inteligencia artificial\"",
     "summary_es": "Geoffrey Hinton, el 'padrino de la IA': \"Mi principal misión ahora es advertir a la gente sobre lo peligrosa que podría ser la inteligencia artificial\" National Geographic España"
+  },
+  {
+    "id": "1271ea34c506",
+    "title": "Rey Carlos reúne a gigantes como Nvidia y OpenAI en una cumbre para debatir la seguridad de la IA",
+    "summary": "Rey Carlos reúne a gigantes como Nvidia y OpenAI en una cumbre para debatir la seguridad de la IA Bloomberg Línea",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczkwWDl6X2hSWW5tTUFONnJqenRQamt3S1NDSHFLeElaVl9FWVBhZFNybFByOEF5ekZnV21MbGxybXBHaHRkblhrZS15ZVlnSUFVa2ZVeFJVNU51cWcydmhMd0FHNGhfYUtGSjZtakdVcVRqWDFvZi1Td2lkLTZtZEk3MHdYOU1DZWNxSVh6SEk3b0ljMk5nak5LMkRSSkZLVnoyUVA2cjdpNEZpX1J6WTdLT2E2RVNyRVNhdjliSGFmaWkwUDc5dk8tNVAyaWNp0gHkAUFVX3lxTE9tNWxraUwySXZtaDlGU2x2SzNEc0dJQkFSUWhiZzFheGRSSlphaFRaSUVsMnVhREJDUW1VZG5tV2NTSE5iUG9qbktQdkhod2Ezdl9MdlhoWTJTdE82ak9wcVBjZ3Rzbmo0eFVBMkZ5VGFJUTVIWEtBSGFmTGJya2FHdGVKNldVLW5jX0g1cmx0VWFOVm5ud1IzSDJZTVRuTGpaWkpWRnZwR3B4dm9hU3pwOTd6bUZOLWtvc1JYUjBkWGRzcHNWbk9KX2FzbmVqekFRSjlfckhfR0trd1NNV2dSbFZGSg?oc=5",
+    "source": "Bloomberg Línea",
+    "language": "es",
+    "published": "2026-09-17T14:59:51+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Rey Carlos reúne a gigantes como Nvidia y OpenAI en una cumbre para debatir la seguridad de la IA",
+    "summary_es": "Rey Carlos reúne a gigantes como Nvidia y OpenAI en una cumbre para debatir la seguridad de la IA Bloomberg Línea"
   },
   {
     "id": "ecda19fe5a7a",
