@@ -1,5 +1,367 @@
 [
   {
+    "id": "6c9ce2c088bd",
+    "title": "El Senado tumba la regulación IA con 'kill switch' obligatorio: Rand Paul bloquea la enmienda de Kennedy",
+    "summary": "El Senado tumba la regulación IA con 'kill switch' obligatorio: Rand Paul bloquea la enmienda de Kennedy moncloa.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUF0S0R3cEhxaDJmUnpNSFZkNVJGWl9lS2ttSUtYTVJON3QwUWM0Q2hISEtMdENwOWxucDFxRmVuTkhfdlpMcGVkT05wMVEyLTYzcWg4NG1xTy1CbjA2eUZ5TWZuUWVWZXZQel9vOGxwZkxUYzZoelhWbmdxN3J4b3RSS1JKYVNsR1E?oc=5",
+    "source": "moncloa.com",
+    "language": "es",
+    "published": "2026-09-17T10:29:17+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "El Senado tumba la regulación IA con 'kill switch' obligatorio: Rand Paul bloquea la enmienda de Kennedy",
+    "summary_es": "El Senado tumba la regulación IA con 'kill switch' obligatorio: Rand Paul bloquea la enmienda de Kennedy moncloa.com"
+  },
+  {
+    "id": "f04eeae24970",
+    "title": "The Business Case For AI Safety Is Customer Adoption",
+    "summary": "The Business Case For AI Safety Is Customer Adoption Forbes",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjdhYVVQSnVRM1ljYzJ6SFk4TzlEcDUyU3p5bXRaY1lKQ09NMXRObG4zMU54NG9rbXFkWjFqRzRrOG5Wdk1ldzdLVHZaU0ZRQlJUdURiNEtTME1PV0FKb01XdUp5U1hldmRfUmM3aGpWSFlkdmNvTVYyVFlpR1lUTkNIbUtKYzkwbGtMc184ZFhwNklCN0VfNUdFUVZfdWN4cHpIXzI3NTBYdWNEeGc?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-09-17T10:22:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "El argumento comercial para la seguridad de la IA es la adopción por parte del cliente",
+    "summary_es": "El argumento comercial para la seguridad de la IA es la adopción por parte de los clientes Forbes"
+  },
+  {
+    "id": "62897c272986",
+    "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+    "summary": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit cnbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1RaNWs5dGhMZmZmbDJ3ai0wY1NzQUwtSUhJQk91TlYtbktSVEl1RUFKUGZmWXcycGtQUl9pYktRV2tidWdGYVlldjZBNXZwRk9Uc2xONjN6UWV1alVLdjZqeDcya3Q5eDNLMTZnODRaOUpxWVZXNE10eWVtajRuRU9B0gGHAUFVX3lxTE52SGtIc244UEtRQVpzYi1WdnJKenVYaDNsdmdCa0NsdThBbjFiRUlVblFNSWNqanlmQUlEQ0N5ZXkwSXNVY29xbzVENVRNMWJxMDBZOGpzQmZqS1lrZWtnTF80ZU9zUGllN0dPd2dxNEJWbHlPeWFvRnNjVlFXc0pMWmdWOURxVQ?oc=5",
+    "source": "cnbc.com",
+    "language": "en",
+    "published": "2026-09-17T10:15:56+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "El rey Carlos presionará a Nvidia, OpenAI y a los líderes antrópicos sobre la seguridad de la IA en la cumbre",
+    "summary_es": "El rey Carlos presionará a Nvidia, OpenAI y a los líderes de Anthropic sobre la seguridad de la IA en la cumbre cnbc.com"
+  },
+  {
+    "id": "c3def52d8800",
+    "title": "The CIO-Legal partnership will define the future of enterprise AI",
+    "summary": "The CIO-Legal partnership will define the future of enterprise AI cio.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUG82N2FpLTFmS2JfSTQyd2ZET0pwT3VwVXEyNWJteTJTX19zWmg4OFJXQ0RHQjJrVldxN1M1MVF2SS1nSE45VWVXM2ZUd0Z2THQ0NFVQT1hZYWl2TnBDMVdhY3ZNejVLcnBLcmxEQkI3TGxyUDBXTjJoLW1WUTB1TF9lZUFpWE1zYnJyT1JjRGZUVFNVbzVGVC10ODBQQ1hXT1JpTm9xWkQtZw?oc=5",
+    "source": "cio.com",
+    "language": "en",
+    "published": "2026-09-17T10:02:54+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "La asociación CIO-Legal definirá el futuro de la IA empresarial",
+    "summary_es": "La asociación CIO-Legal definirá el futuro de la IA empresarial cio.com"
+  },
+  {
+    "id": "6dae46cf9135",
+    "title": "Google y DeepMind lanzan un nuevo centro conjunto centrado en la seguridad de la IA",
+    "summary": "Google y DeepMind lanzan un nuevo centro conjunto centrado en la seguridad de la IA eldigitalpanama.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTNaYkJCY2JTT09EeUJ2SDF2Sm5TZmxoT1JSRld1YWs1OS1veTQ5cGNYcWRZZnNpd0FPZ2t3N3hYZGlickJCMEM3eHZkTFpQUkY2NnZDb3ZMWUxwNVFaRGc1ZEdqOEZhdzJXcEZ5VVpyVzdudi1QUEF1Z0pWeUF2Wk1SSXNvWkY5RnktM0FvclZSUGw1d1o1WFpKUGRsNkJHa3pCV2VaekwtaEFGcHFyVVZn?oc=5",
+    "source": "eldigitalpanama.com",
+    "language": "es",
+    "published": "2026-09-17T09:52:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Google y DeepMind lanzan un nuevo centro conjunto centrado en la seguridad de la IA",
+    "summary_es": "Google y DeepMind lanzan un nuevo centro conjunto centrado en la seguridad de la IA eldigitalpanama.com"
+  },
+  {
+    "id": "2ba80be48095",
+    "title": "Microsoft warns AI could become a rival ‘silicon species’",
+    "summary": "Microsoft warns AI could become a rival ‘silicon species’ The News International",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVd4Q0h3UEU3TmdkVEtKWlFzOXRHQi1FZzFTc0sxQmwxdHFjZ2dQM1MyNFd6N3VOcUN4Q1hXTXBqLWpxM1B4cGFkcEtzTjNncnVFT1puSVpMU1hmc0tzUVJpdmszLS1tZXBueFpfRnJ4YWZjX0VHemVaMWR4U0lweUJuaUlFNDRhNnZacF9Od1FmV0l2bWtpRjRJLTlOUdIBmgFBVV95cUxPbFpNRWJsYTFReEpOVGZFUWVJNTJ4R2tyVHJPTG13dUF4OHpxenVqY2pWdGNnckZGVG5YMlZESnV3UXd5NERsVTJzeDVYMEpvWmYwWllWWThnWlk2RThqQ1FRZlZLSWN1eUhIdFNLUTQySndaaThnSGxuMEJpR1NqVlJCQjBqWXhoU1RkNF9CX09HNWlxLThIdkRR?oc=5",
+    "source": "The News International",
+    "language": "en",
+    "published": "2026-09-17T09:45:04+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Microsoft advierte que la IA podría convertirse en una 'especie de silicio' rival",
+    "summary_es": "Microsoft advierte que la IA podría convertirse en una 'especie de silicio' rival The News International"
+  },
+  {
+    "id": "28d5bf9c6a21",
+    "title": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years",
+    "summary": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTG1hTVY2SDdjVTl6a2pvb1lQcFRFMTlfXzN5dU5TZm9OM3E0bmpMSFY2R1hiQzlPLXhPOHhYdVB2d0NQYWdaX3UzVnZTdUhUbndwR1RGc1Z6bFFMSXZsblZSbDNRSU5mVlFuRGs1NXI1SWduY0g3bVgzY1N5M3Vtalo1RmpkYjdiMWVLQmR6YmtLLUJfMW1EV2FIdVpoRWtHUzhMamJ6dXdvdkszcmpENS0wS0o4YWtQQjZiaHY5Ty12Z21HTHV3R2tBZmdzak54djBPRWNGV1JQdlBoUmJMNUZJWdIB6AFBVV95cUxOM2hidFlnbjZkbkRhOTdPY0p1WEE1OVVCOWZqcGRidHVydkF3SGhoQ3ZIRDl3bGt5eXlWUTNMSXo0YnNrVjJjQ3Q1YS1CcTIzQjFYS21aQkZjRG9hQ1RWc0lnRW80UXJKMWFDem9kVlNMVTlqaFJncnRmaXlucFVtU2d2Y2NRTjFzUXdtcUtUSXVxYzhEcHdGcDJfdjV3al9HZmM0UDJqbmpRdUdlUnlWX0V2TGpaX1lZcDVNMWkwVXVWQ1VBUHBtUW9XcEZ2WTdrVDkwcWRYcWZtUWdwbF95eTdpaF90NDQz?oc=5",
+    "source": "CNBC TV18",
+    "language": "en",
+    "published": "2026-09-17T09:35:27+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "El 'padrino de la IA' Geoffrey Hinton dice que la inteligencia artificial podría acabar con la humanidad en 10 años",
+    "summary_es": "El 'padrino de la IA' Geoffrey Hinton dice que la inteligencia artificial podría acabar con la humanidad en 10 años CNBC TV18"
+  },
+  {
+    "id": "b6039081f013",
+    "title": "UN chief warns against 'race to the bottom' on AI safety",
+    "summary": "UN chief warns against 'race to the bottom' on AI safety Türkiye Today",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenJGd1dSX2NhZFhNcmFKTjVhNUZWWlpvMUdXQWVZMlZJR1E0aW9uOHpBVFZ0U2RoYmViNW1LUk9Kb0dkU3NtVlZMNndGYnRUb1ZDdVRtWklPUHZvMDcySVZSc1BSZWlFNUNTQ2x4UXI5ampPZXpqR0ZWb0lxUlJmRmJiWmJoUlhnSFd1Vi0yNDdWcXdWVGhrd0QwVW5KOUQ5aEE?oc=5",
+    "source": "Türkiye Today",
+    "language": "en",
+    "published": "2026-09-17T09:27:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "El jefe de la ONU advierte contra una \"carrera hacia el fondo\" en materia de seguridad de la IA",
+    "summary_es": "El jefe de la ONU advierte contra una \"carrera hacia el abismo\" en materia de seguridad de la IA Türkiye Today"
+  },
+  {
+    "id": "5539a51f72cd",
+    "title": "Directivo de Microsoft alerta contra entrenar la IA para actuar como los humanos",
+    "summary": "Directivo de Microsoft alerta contra entrenar la IA para actuar como los humanos HolaNews",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlVHMXM5TWx0QlRQSENScHpZa1NsV2pPemYzZTB3eldrVUZHazNxYzU4Wm8xaVV4OTZlajNQNzR3T0hGdjc5RlU3N3NfcnB3WXpxaDRKVUwtektta1JZc0UxRHljcW94SllyYTZXOXEtdVQxOWhPXzBtV0tkT1ZBWURsTEkzOWR1a1VJYXVqRVpfQXJmQTZmSml1VTJDVGw2eGsxeQ?oc=5",
+    "source": "HolaNews",
+    "language": "es",
+    "published": "2026-09-17T09:22:04+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "sociedad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Directivo de Microsoft alerta contra entrenar la IA para actuar como los humanos",
+    "summary_es": "Directivo de Microsoft alerta contra entrenar la IA para actuar como los humanos HolaNews"
+  },
+  {
+    "id": "7142b1064881",
+    "title": "«La IA no sufre ni siente»: Mustafa Suleyman critica a Anthropic por entrenar a Claude para simular tener consciencia",
+    "summary": "«La IA no sufre ni siente»: Mustafa Suleyman critica a Anthropic por entrenar a Claude para simular tener consciencia Profesional Review",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWR5Tk5vRjJUYkRfQ1I4ZHdOWTl6MTFKWmFON2pvRVBQVVBEUG5oWWlmZVhUVnlEUEU1cHluYWZ4aFJrc2ZEMVQxVXFreHpBTF9McmZfNWpvUy1JMDJmSl9YekNxZVhVWjFidjZ5bWR2ODVGTC1wTkE1c2ptUXRxblpCZ2RfdENMYkHSAY8BQVVfeXFMTkhFaVBpcDRubGw1UGpONzZ5UWlBcUl0V09PdG9NdTBLbHNiUFl4bFNqYUU3MU0zTVMtVk5rT2tYT3RIblBjSUhYVGdvT1ZyMF9sb0pEOHFKSEFha2NXYmJDUEo4MkNtLWhCSE9qOC1JblJTdEsxRWk0UFBzSC0yY19fQWRxTHF4ZllHaW1BVGs?oc=5",
+    "source": "Profesional Review",
+    "language": "es",
+    "published": "2026-09-17T08:54:21+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "«La IA no sufre ni siente»: Mustafa Suleyman critica a Anthropic por entrenar a Claude para simular tener consciencia",
+    "summary_es": "«La IA no sufre ni siente»: Mustafa Suleyman critica a Anthropic por entrenar a Claude para simular tener consciencia Profesional Review"
+  },
+  {
+    "id": "2a58ce50089c",
+    "title": "Xiangshan forum attendees stress improving AI governance, preventing its weaponization",
+    "summary": "Xiangshan forum attendees stress improving AI governance, preventing its weaponization 巴士的報",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmMta2ZQWWU0X0g4QmVWbUtkcVNiUklWOERCcnloM2xCM1E3aDRzbkE2SnI4ZlF4LVUyVy1TVXdNUWhlcWNXWmRJb1NQUTRkSThVeHBBaGNiTzJfRXVBUnc3QnFUWVFaQnJJa18wZ3FNUGdlZkZVNVVISzUwelJ2ZHkzYjJMZUwxRVIyaGNsb0RUT2xtUXh5SXYxdnpXLU5lc1E5VUJjWUs1ek5xSDA0bHZjQmZ2Zm5YNXdJcDN6cHNKeFU1V19GTE9kR3pieDZqUkpz?oc=5",
+    "source": "巴士的報",
+    "language": "en",
+    "published": "2026-09-17T08:34:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Los asistentes al foro de Xiangshan destacan la mejora de la gobernanza de la IA y la prevención de su utilización como arma",
+    "summary_es": "Los asistentes al foro de Xiangshan destacan la mejora de la gobernanza de la IA y su prevención del uso de armas. Informe Bus"
+  },
+  {
+    "id": "cac1e9401b61",
+    "title": "Microsoft Exec Warns AI Could Create 'Silicon Species' Rival",
+    "summary": "Microsoft Exec Warns AI Could Create 'Silicon Species' Rival The Tech Buzz",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWdOSTZNaXd4UkFUMmp3MUo2Z0JBYkYwd3ktd3hwMzNIQm0wVVdXc0pnX2JacXZTVFQ0NXJzdmozM3RZbzl6alpLZi00VlpLSUNKQk1wQXVMelNkcWVWQnMzRmRBMFJnd1R0NUkyR0N1dW9WTmhEMl8wUHZ2LXBxaDIyRWRoSXY0Vm9DbWJlOTVmeHlSd0E?oc=5",
+    "source": "The Tech Buzz",
+    "language": "en",
+    "published": "2026-09-17T08:34:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Ejecutivo de Microsoft advierte que la IA podría crear un rival de la 'especie de silicio'",
+    "summary_es": "Ejecutivo de Microsoft advierte que la IA podría crear un rival de 'especies de silicio' The Tech Buzz"
+  },
+  {
+    "id": "5edac5f25a4f",
+    "title": "UN Women’s SDG Media Zone discussion ‘Feminism and AI’ examines gender‑focused AI governance",
+    "summary": "UN Women’s SDG Media Zone discussion ‘Feminism and AI’ examines gender‑focused AI governance Digital Watch Observatory",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yaWNONzdXMy1oTjhKSVQ2WU9oU3M2eTFUTTFoYUNaQnRkZ3dQYzFYOWJDd2p4OUVoNWxFX0t0NEFZYjdFSjhuTExvYnRjeFhIRVNiQWFjd0FwQUtVY0t6ZENUNmhUN0w1YTNFOG5wbw?oc=5",
+    "source": "Digital Watch Observatory",
+    "language": "en",
+    "published": "2026-09-17T07:47:55+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "El debate en la zona de medios de los ODS de ONU Mujeres sobre “Feminismo e IA” examina la gobernanza de la IA centrada en el género",
+    "summary_es": "El debate en la zona de medios de los ODS de ONU Mujeres sobre “Feminismo e IA” examina la gobernanza de la IA con enfoque de género Digital Watch Observatory"
+  },
+  {
+    "id": "75b2c8148807",
+    "title": "For AI governance, hard laws over hollow words",
+    "summary": "For AI governance, hard laws over hollow words indianexpress.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemxhYU5sSnZldjUtdkZKcVlMbnkzRE9SY0w2aVhGRVhYNEQwa1VNY1hkVVRhTXh5U1dxZVk4RVdtWnRWTHhaQXZVei1ZUGVuZjV0NlZCOERJY0JXNU44a2JaSEYyNVo2QUZUYUlXTmo1dXJYSmhxRThjZnJMTmJObDRwREdFbFB3YzJhVUgzNjdVOVp2NE9GZ211MjBJYndocWRZeVQ1VjU2NGpxZnQtenhFOHB1UdIBvAFBVV95cUxNQnRqdm1PdG5tT3hFN0RFQ0szYnJ2Vk9ncWNSZnpPemVkNVQ2MjhzQmdiT2lTNDItb29Uam5aVkxweWpMTTNJLU52c3ZyX2l5aGp4QXNiam9KcXd1RXA5LWpDMExkcDZ3eGt5U3N5NUJqd3hPamFMMG1iTEJEVUhGUkI1U1dXLUhyMXBrSWdQRHFKYk9NTURJRzFJMk10QVRER24wdEtaVkxQTzZQSmNFTVNVSk52NUM4WHVZZg?oc=5",
+    "source": "indianexpress.com",
+    "language": "en",
+    "published": "2026-09-17T07:35:48+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-17",
+    "title_es": "Para la gobernanza de la IA, más leyes estrictas que palabras huecas",
+    "summary_es": "Para la gobernanza de la IA, hay leyes estrictas en lugar de palabras huecas indianexpress.com"
+  },
+  {
+    "id": "d33506125a78",
+    "title": "Guterres alerta de una carrera a la baja en la seguridad de la IA: “No podemos permitírnoslo”",
+    "summary": "Guterres alerta de una carrera a la baja en la seguridad de la IA: “No podemos permitírnoslo” Zonamovilidad.es",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2Q1M2pBT3dKU2pVRDFmRk03UVZWV1VjbXZBbWd2SDlWU1VleDZhQ05LS0xQb21Bbk1TSUF2VWdEdkl6TVd2RDJEUjVQRG9BLUlsampzcTFiZV9PX1JjOTJUN3pGbWZDa1UwLXlrYjlTOUZCMk1zMmRyb0hQcmR3Nkd0VjBWS2x5ZFRkY3hnM1hwcDRXZjVQYmpwRXlLLWhv?oc=5",
+    "source": "Zonamovilidad.es",
+    "language": "es",
+    "published": "2026-09-17T07:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Guterres alerta de una carrera a la baja en la seguridad de la IA: “No podemos permitírnoslo”",
+    "summary_es": "Guterres alerta de una carrera a la baja en la seguridad de la IA: “No podemos permitírnoslo” Zonamovilidad.es"
+  },
+  {
+    "id": "b30cbdc4f548",
+    "title": "Godfather of AI Geoffrey Hinton on how AI will end humanity; says that there are many ways: Like deadly .",
+    "summary": "Godfather of AI Geoffrey Hinton on how AI will end humanity; says that there are many ways: Like deadly . The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT0ZIeDZIQjVmUmpBLU5VdUZzUmpGd1c0dFluWnVVTG5zTng2dGpWMkFuOUV2cDA3UVV5MjVFb09rdFZFOFgtLTJlU3ZmdFd3NW1ubGFsdXhhb1Aya1gwMmhHVDVLbGt1Nmc3VWZ4Zl96ZzdzbmsxbWRhc3k3XzkxN21YZkN5VEtmcURDSmtiemRzYzFnUmhFX2FaYUt5YVJmaHdNQjdnemEtREtBYlZ6NldWYk45Vy03QUpaUVlvRFlTNW96bzlWeHNSRDRXMDE0elA4U0lYYjUwbUlIQzU4VE4zTmROS1VWMkx0NUZiUlFSS3I1eDRMVFZKUDJFMFdBa2F4bG0yUkZWWXpfZ1BDZmpPWdIBmAJBVV95cUxPSDBrVHhHcnNQTUJqTkdSSGl4WTNLSzFwb2JCRHpsWmZHU1RGMFVpM1Y1YW5NeGVKSzhOb1JPYVhJcFlXWXRhalRLckZGN2p0MXJfSk44ZjhRSE4za1ZkM3E2Ry1oX3pQZW9ZNERBb25BU0x2MGxYOFlKeUk5RExoUGt0QUhmZ01VRmZLWW8ySjBTZmloNmRfc3FDMncxd1E0WV9EN1piVHo5S3Z0TVFUeUgtQUpGbWhhemdXRWViWVRaQ1BsNFJoRnYwUnIwUGF1MEpjeXB2eFNYdU14VndnUEtYbU1xVF9KMzNsTzNDMzFVdXZYMUU1YU1rVVpyeVVTdGx0VV9JMGZpZ0ltN1hGemEzNzlwWFph?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-09-17T06:01:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "El padrino de la IA, Geoffrey Hinton, habla de cómo la IA acabará con la humanidad; Dice que hay muchas maneras: Como mortal.",
+    "summary_es": "El padrino de la IA, Geoffrey Hinton, habla de cómo la IA acabará con la humanidad; Dice que hay muchas maneras: Como mortal. Los tiempos de la India"
+  },
+  {
+    "id": "df4c65d434ed",
+    "title": "Trump-Xi summit: Don’t expect a big AI safety deal, expert says",
+    "summary": "Trump-Xi summit: Don’t expect a big AI safety deal, expert says AZ Family",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXdrRDR2LXJPLVBZWkpPanJvVThxYldYME56THB1OEhHaUh6ZkhjOGQ4aE4tZjcwanhyX1pCTjZ4WFZrVVF3Q0ltS0JFM3g4RnZmQ3lNeFZlaGFPYXRvOXZ0cFo5eUxoRXlYTk9uMjVOOFRsWGJ0WFgtX29zWkxMSk9VX2drc3gxQzNXMFhqdTAzTzhvZ3VYUlRUYw?oc=5",
+    "source": "AZ Family",
+    "language": "en",
+    "published": "2026-09-17T04:10:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Cumbre Trump-Xi: no esperen un gran acuerdo sobre seguridad de la IA, dice un experto",
+    "summary_es": "Cumbre Trump-Xi: no espere un gran acuerdo sobre seguridad de la IA, dice un experto AZ Family"
+  },
+  {
+    "id": "e567a7c5efd7",
+    "title": "Bengio: «perdemos el control» de la IA y pide reglas nucleares",
+    "summary": "Bengio: «perdemos el control» de la IA y pide reglas nucleares El Ecosistema Startup",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2VtMEZ3d2YzWGlGSXVCcWlQT1JaNXdiU2VTaTJGaFB3UUYtaU5hMmpHdjdvU09mNUZSS3QtUGx0SXIxM2NfNGlrNDZJUnVFSkR1aEhaNFVzVXh6bHAzNkZjQW53NWx6Y2dCNUlBQlU4SmhRMEZfYUZTTTlDaExya0xteWo1N2hRWTB6SFh2MVVhMjBi?oc=5",
+    "source": "El Ecosistema Startup",
+    "language": "es",
+    "published": "2026-09-17T04:06:38+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Bengio: «perdemos el control» de la IA y pide reglas nucleares",
+    "summary_es": "Bengio: «perdemos el control» de la IA y pide reglas nucleares El Ecosistema Startup"
+  },
+  {
+    "id": "66708646620d",
+    "title": "A global AI safety strategy depends on US-China cooperation. They each see the other as the problem",
+    "summary": "A global AI safety strategy depends on US-China cooperation. They each see the other as the problem apnews.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmF4WEVZa3djRnV2N0U1em9RLUwxWDI4MGNNR0pNS1o2b0htcjlxNFFwOG1STjdJbmVsN2d3ZGJJR2xPeTAwYzdQY0FRNXB1UzMxcVU3b3FOZmhsU1E2Wi1mV2ptNzhyc3NBWlRmRWpwQ0x3eEJoeWV4NktNOUVCQkRSRE5hYmRpMGh1ZkgxV1A?oc=5",
+    "source": "apnews.com",
+    "language": "en",
+    "published": "2026-09-17T04:02:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-17",
+    "title_es": "Una estrategia global de seguridad de la IA depende de la cooperación entre Estados Unidos y China. Cada uno ve al otro como el problema.",
+    "summary_es": "Una estrategia global de seguridad de la IA depende de la cooperación entre Estados Unidos y China. Cada uno ve al otro como el problema apnews.com"
+  },
+  {
     "id": "510b83c7e418",
     "title": "Microsoft AI Chief Suleyman Questions Claude’s Design Philosophy and Opposes AI Simulating Consciousness and Emotions",
     "summary": "Microsoft AI Chief Suleyman Questions Claude’s Design Philosophy and Opposes AI Simulating Consciousness and Emotions NAI500",
@@ -407,6 +769,46 @@
     "date_added": "2026-09-17",
     "title_es": "\"Estamos perdiendo el control\", afirma a la AFP Yoshua Bengio, pionero de la IA",
     "summary_es": "\"Estamos perdiendo el control\", dice a la AFP el pionero de la inteligencia artificial Yoshua Bengio Bangkok Post"
+  },
+  {
+    "id": "d71778deed3e",
+    "title": "Musk, Harari, la IA y el mundo que viene",
+    "summary": "Musk, Harari, la IA y el mundo que viene La Gaceta",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTU5ScTU0UWdmWTRQa1pIT3dScDlWdmVKTHA5dktKWVhzUVVQVDlvckNxd2xzYlZUa3NidkJ3WTFZM1VYaG83QlQ2N2hvWXYtNG1aTnd1Q3plSktqajIzQW1YM2d0QUFhd2hfLXhCdFkxbjJ5amFzcFdqUTQzdkI2bnh1RHBjQkk?oc=5",
+    "source": "La Gaceta",
+    "language": "es",
+    "published": "2026-09-14T23:36:53+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "Musk, Harari, la IA y el mundo que viene",
+    "summary_es": "Musk, Harari, la IA y el mundo que viene La Gaceta"
+  },
+  {
+    "id": "a5e70fcc7cee",
+    "title": "World Labs presenta Atlas, el modelo 3D de Fei-Fei Li a partir de pocas fotos",
+    "summary": "World Labs presenta Atlas, el modelo 3D de Fei-Fei Li a partir de pocas fotos Pasquale Pillitteri",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHlwLU5acXFBNnBuY1E4VTFPd1V0dGN5X0RsZTNJcXRGYzk2LXFvdWFqYXljV2VlNzBKRkh6NXdrSVpMVlVYR29GbGU0ejZsdmtDdmpaa3lXbWxiUnJhUmM0ODR3QnZtd19aV1pjVnlwMWg2Sk92RE9OckhRUGM1MVFCWmNLdW1a?oc=5",
+    "source": "Pasquale Pillitteri",
+    "language": "es",
+    "published": "2026-09-04T12:31:37+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-17",
+    "title_es": "World Labs presenta Atlas, el modelo 3D de Fei-Fei Li a partir de pocas fotos",
+    "summary_es": "World Labs presenta Atlas, el modelo 3D de Fei-Fei Li a partir de pocas fotos Pasquale Pillitteri"
   },
   {
     "id": "464007ba0d3d",
