@@ -1,5 +1,392 @@
 [
   {
+    "id": "b9bf4cc2ef17",
+    "title": "CEO de Microsoft AI, Mustafa Suleyman, sobre las divulgaciones de seguridad de OpenAI",
+    "summary": "CEO de Microsoft AI, Mustafa Suleyman, sobre las divulgaciones de seguridad de OpenAI es.qz.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckxVbVU5TVQzYnoyOUlXZ0pZYnc4VjgtVl9fZWxOSTRFcmh1UkltcTRDTGxkOHlXU0dRQkdUY3lCd0M2Z3B3QjVRcnFUdy1vbVZtMU1rN293WTFELWc5TnR0WVV1SHk3Vjc3b05ra0g0Z0pzOHlTYldLcEExVklBVTNodXVlcnFMS05EU2F6cjVLZlJyMWc?oc=5",
+    "source": "es.qz.com",
+    "language": "es",
+    "published": "2026-09-18T15:42:29+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-18",
+    "title_es": "CEO de Microsoft AI, Mustafa Suleyman, sobre las divulgaciones de seguridad de OpenAI",
+    "summary_es": "CEO de Microsoft AI, Mustafa Suleyman, sobre las divulgaciones de seguridad de OpenAI es.qz.com"
+  },
+  {
+    "id": "c81bfab0bff1",
+    "title": "Mass. governor pushes for independent AI evaluations",
+    "summary": "Mass. governor pushes for independent AI evaluations WWLP",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbV94SUhIazU3NVFuS3VWWUdKT3RfOXNpdzVkOGlsMEZSbWd0djZkQWFBYTRVdzI5Tko4Yzh1R0J1a1RBQ00td3AzWFZ4ekM2ektOMkFHQUhVc2pIRnc2cG9Ia2ZPX0dFRU1qMVJNWjF1eXNkanVCQlJWUlV5QmdLWnJPMDVKTXptWEJlNHN5dEZvd0p6Tm5R0gGcAUFVX3lxTFByTTdxal90MTZscWN2VklwRGdfU1k3RFpqQVhkem44OHdzc2dWaXV0alczRUVEdDI2OTlBUjZKSzBya29WbU5lS2NnR1d1UWVrbXpPRWpLdS0ybUh3Y0kzOUdteGlFTmZwbnlRSUZiNTRQaWM1ZGZnaFNPSXE3U3pIWnRqU3VFNk5OaFgyQ3ZTV1Q3ZThuTmdNUUp4Vg?oc=5",
+    "source": "WWLP",
+    "language": "en",
+    "published": "2026-09-18T15:28:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "El gobernador de Massachusetts presiona para que se realicen evaluaciones independientes de la IA",
+    "summary_es": "El gobernador de Massachusetts presiona para que se realicen evaluaciones independientes de la IA WWLP"
+  },
+  {
+    "id": "7c08dec00879",
+    "title": "A China alarmed over AI safety reckons with an employment shake-up",
+    "summary": "A China alarmed over AI safety reckons with an employment shake-up NBC News",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFNQamwydU11Zmg1dHJZQnl4eUtNRUJWMDdNZUoyR29LQzh1MlFTbG1JNm02UTgxSURldkQtdlFsLVBsVGc2ZTdLZzRhdGl5NjJ2ai03OFFITXhNTVlKSWYwOER5YXNlRlZOeU9NTzFaVHRSbHgtLVZ5NWpuUWRPTm5nd1E?oc=5",
+    "source": "NBC News",
+    "language": "en",
+    "published": "2026-09-18T15:11:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "Una China alarmada por la seguridad de la IA se enfrenta a una reestructuración del empleo",
+    "summary_es": "Una China alarmada por la seguridad de la IA se enfrenta a una reestructuración del empleo NBC News"
+  },
+  {
+    "id": "6e32f64ce0aa",
+    "title": "Newsom orders new AI safety rules for state agencies and revives ‘kill switch’ idea",
+    "summary": "Newsom orders new AI safety rules for state agencies and revives ‘kill switch’ idea CalMatters",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRWWs3MS1JNDdEc1RjTjZVeVVHRm84Q2pJT2RWZ0htX2RDdjNHekt2LUJGa182WFVjUEo5OHoxcEV5TjI3MXMxSTNqTlJFM3l5N2dVX2xONjZxUmNCeUxZOFEtY3RnRFdQOVhyYVBrdExiYk5mYlpWSHB2eC0?oc=5",
+    "source": "CalMatters",
+    "language": "en",
+    "published": "2026-09-18T15:05:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "Newsom ordena nuevas reglas de seguridad de IA para agencias estatales y revive la idea del \"interruptor de apagado\"",
+    "summary_es": "Newsom ordena nuevas reglas de seguridad de IA para agencias estatales y revive la idea de \"apagar el interruptor\" CalMatters"
+  },
+  {
+    "id": "e1a6cbc47d60",
+    "title": "Microsoft AI CEO Mustafa Suleyman does not agree with Anthropic's approach to treat AI as a human, says t",
+    "summary": "Microsoft AI CEO Mustafa Suleyman does not agree with Anthropic's approach to treat AI as a human, says t timesofindia.indiatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWZ6dUxUdE0wSEtZcGZKNkxvVGdNcGNNTVlWOTUyVVE4cUhiUjl0ZHZ6ZDVmR3YzWHk5bUpORldZczRLTmJBVHhGUVNiTmVYX0JoUklJNnpMNDVDLWxvVW1vdno2S3hWUzRMVXp6dG9Dc0V3cDdDMGFaQzJiWGJGM2g0dkE0em01WDhFY1lvOE1KaWFjYkVkUnpwNFVUNUk3bGlEQXZPYVVuUWFMRmhUdHNzM3Zza3JfbEVwR3R3SkJwNFo3b2wyUHB1UENHVHdMckowdFRRNEF5M1RJaE9fNFUwR1BnVkhhWWlrWC1LTjFqc204aFpfaFhsZ3JIa3lBY0lLaDhvM3Ewa2swX3Y1WnR6Z1E3SGFLTUJ3clpwalMyLXdLdkVIWEY3alB6ZUQ0bm1kd0M0WmRqYnQtUkRQNkZHaWxUQ3MxU2MxRm1NMFFuMm1qemdfT9IB3gJBVV95cUxNTkt4RnJ5QUZNSmRORk1XTF8xYkRTX1NyUkZSMElSYkt3ZGhoT1dMNVVkWG1KQnFHQUtVNmx0NTJmd3pzX0JlVXdNNmZrdUZYZFpQeW5SNy1BWmh3N3hqc25aOHJuV2NOMEl4NzhkZGtKdkhyMzN4UXBhM0o0dDlZX2FocEwyNnhEUmVMcHBKT1RMNTRaY2lpRFFaT1VpYVc0YTFRdi1sV2wyellqZzd5aHp3dzNWVGFVLWc2ZU9kQWZSX1E1R1pFZ1B3TEVvWk5rXzdENmh0b25tU2JMblJRR0ZKT0dQSmE2aFBLRVdDX1IyakVvUUNvdjk0S2xVZ1J5VmJ2eEl1STFTd3FxaWE4eVl0ZnRMbUh5NWZRY3pfU0FzLUxPM0JPTEtUbVItS2Q0Nk9aR2w1YVRsY1dYNDU0YkM1NmFWeTc1elFvbVo4cFB5SXNIallBelRxNjFTUQ?oc=5",
+    "source": "timesofindia.indiatimes.com",
+    "language": "en",
+    "published": "2026-09-18T15:05:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-18",
+    "title_es": "El director ejecutivo de IA de Microsoft, Mustafa Suleyman, no está de acuerdo con el enfoque de Anthropic de tratar a la IA como a un ser humano, dice t",
+    "summary_es": "El director ejecutivo de IA de Microsoft, Mustafa Suleyman, no está de acuerdo con el enfoque de Anthropic de tratar a la IA como a un ser humano, dice timesofindia.indiatimes.com"
+  },
+  {
+    "id": "ec18dc9c3227",
+    "title": "Newsom creates panel on AI safety regulation, suggests possible ‘kill switch’",
+    "summary": "Newsom creates panel on AI safety regulation, suggests possible ‘kill switch’ Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVJCZFZwdU1FUjB5aHRndy1uQ3dNTjRTY2xsMzNVN2N0UHZZZ2pCT3lIUFppaHZ4c2dYTFdwLWEyR2FMQ0J3U3QwTTVJTGo0LVE4WEVNOV9tME9JNTg2VDI0UXlTYVVyZ0dKcTFPazdCaGYxT05sTm1jb1V4TThJV285YXZVZmhhbzZjeklpVnRiek1KeFBQdkhoVi11NjNNc1dXSDhiNUVvZTR3YTdYOUM4Y2ZGNVVHTXNabjNQVHhrdnVL?oc=5",
+    "source": "Los Angeles Times",
+    "language": "en",
+    "published": "2026-09-18T15:04:51+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "Newsom crea un panel sobre la regulación de la seguridad de la IA y sugiere un posible \"interruptor de apagado\"",
+    "summary_es": "Newsom crea un panel sobre la regulación de la seguridad de la IA y sugiere un posible \"interruptor de apagado\" Los Angeles Times"
+  },
+  {
+    "id": "098b52603348",
+    "title": "AI Safety Doesn’t Have to Start from Scratch",
+    "summary": "AI Safety Doesn’t Have to Start from Scratch City Journal Substack",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4RkxXVnZ4SmZpUzVXSWgzQUZCZ3NHdER0QUppWHhZbnUwYnpzWWZmSC1MZUtjWFJDcXpFZk85eWNyUHR3dVJmNDc4VlpwRkh4cjYwZHR4TzdWXzNtcWdwQzJMcmFodUVnQndoWHE5Q3R3bTNOejh1clN3?oc=5",
+    "source": "City Journal Substack",
+    "language": "en",
+    "published": "2026-09-18T14:30:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "La seguridad de la IA no tiene que empezar desde cero",
+    "summary_es": "La seguridad de la IA no tiene que empezar desde cero City Journal Substack"
+  },
+  {
+    "id": "38dd5a8d3b74",
+    "title": "Anthropic’s Claude starts building its own successor as AI safety debate intensifies",
+    "summary": "Anthropic’s Claude starts building its own successor as AI safety debate intensifies Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMUNKQld5SzBtVWlWeWFJSmdxVm5RLW9wMHVmRVlPRXNXOTFVZmMwdXh6a2VPMXNVaS1JbzZUOHdMQUJWTEh2Y3dPcE4zSjJGWkxhN2pIQWdoT3l6WmgzU2l5UGVnajlQcHRaM3BJdUJOeTgxalVIeDl6NVlCRmxGdVlqcERSTzBINFV5ZFhSZ1BXamtxUXJodmd4X2xYSENaaTMzc3RnRU5LczNVbHFQVkVheVA4SmJtTWZPV29ZOEhjM3lldDQta2dNTHhOQQ?oc=5",
+    "source": "Los Angeles Times",
+    "language": "en",
+    "published": "2026-09-18T14:26:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "Claude de Anthropic comienza a construir su propio sucesor a medida que se intensifica el debate sobre la seguridad de la IA",
+    "summary_es": "Claude de Anthropic comienza a construir su propio sucesor a medida que se intensifica el debate sobre la seguridad de la IA Los Angeles Times"
+  },
+  {
+    "id": "1a22a568c588",
+    "title": "Higher Education has an AI Governance Blind Spot, and It's Happening in Every Classroom",
+    "summary": "Higher Education has an AI Governance Blind Spot, and It's Happening in Every Classroom PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOWhkWDk3MW9peHFRUTY2cklzcnRLQmRJMDN2cEJEU0pWb1A1WndhclZKMDl4Mi1Md1hlZHJiaVk0Smt3VEZnb1B0X3I4SmF5azF4SlR3RmU1SXRWY0JfbUdQZDgtTDJFYTR4aHhOekdFYmhKTURmN3JHbHk1TnBNT3laNTQ1Z2lqUV9ZelBaQ3VBUEJURU1Fb1d2MFFwYUZmeFB6OWZUdlNqUVBTaW5FeWZ6dkgyWFZyTVVTSTZ2ZkdZZWNjTW1kRVR1bzhYUmROTU84MkhKRmY?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-09-18T14:26:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "La educación superior tiene un punto ciego en la gobernanza de la IA y está sucediendo en todas las aulas",
+    "summary_es": "La educación superior tiene un punto ciego en la gobernanza de la IA y está sucediendo en todas las aulas PR Newswire"
+  },
+  {
+    "id": "95f21ad2aafd",
+    "title": "Microsoft AI CEO Mustafa Suleyman on OpenAI safety disclosures",
+    "summary": "Microsoft AI CEO Mustafa Suleyman on OpenAI safety disclosures qz.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRGMzX2lOQ1VieXE5SkxTQ0dwamtFczJtSFVnQy1tYVVPbG5fWEJQc2xhdEx3SU04WWxmdlc2V2U3dERmOXZsRkNfaEFXYzR3VFlhbmROV1k1aVB0elctSllVWjAtVWlZa1NEZUNmNUFWZFBQNG9DNlNCX2tVTlZBcXFTSHBlZ25kNGc?oc=5",
+    "source": "qz.com",
+    "language": "en",
+    "published": "2026-09-18T14:07:05+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "El director ejecutivo de Microsoft AI, Mustafa Suleyman, sobre las divulgaciones de seguridad de OpenAI",
+    "summary_es": "El director ejecutivo de Microsoft AI, Mustafa Suleyman, sobre las divulgaciones de seguridad de OpenAI qz.com"
+  },
+  {
+    "id": "83783b5d21b5",
+    "title": "Microsoft AI Chief Calls OpenAI Model Issues 'Serious'",
+    "summary": "Microsoft AI Chief Calls OpenAI Model Issues 'Serious' The Tech Buzz",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTJiSWFOMXRtN2o5T21oclRlNGVQbnVRQ05XY0ZSVngwRGVVNVFNb01kUlIwdkJIbm1TTzRJVEg5MW1NUzFXMFVKU3NxRGJzR3dwVm56OHZiUHJ0SjMyQWdZZmxTWXNmcUhzM2o0WUNMRzc3aE9ZLWxVR21Tc2ZEZlBMRGhVM0NaaUlELWVR?oc=5",
+    "source": "The Tech Buzz",
+    "language": "en",
+    "published": "2026-09-18T14:05:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "El jefe de IA de Microsoft califica los problemas del modelo OpenAI como \"graves\"",
+    "summary_es": "El jefe de IA de Microsoft califica los problemas del modelo OpenAI como \"graves\" The Tech Buzz"
+  },
+  {
+    "id": "94f794aa8889",
+    "title": "Microsoft AI Chief Sends Blunt Message to Anthropic",
+    "summary": "Microsoft AI Chief Sends Blunt Message to Anthropic TradingView",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPODZtaG9aNFZjVmpDNEVWQWN4eE1WX1FpMDRMcUFJZDF0ZjFUSGdkZ0VHUHc3dFFYNTVyY1N4SE5tNC1UQXhNWm5OaXNnZ2o5V2NUMUpEUVJEcm9vV3hxU1J1M2U0enJDS1d5bU9KWVFXNW9rOHk4UHN6UUFfMnVnNTZIbThjaEdjNTNpUHBfYWUzelZIM3EydHBxdGt1T0x1RWFrcjVuUWhlMWVzVldoQw?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-18T13:58:29+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "El jefe de IA de Microsoft envía un mensaje contundente a Anthropic",
+    "summary_es": "El jefe de IA de Microsoft envía un mensaje contundente a Anthropic TradingView"
+  },
+  {
+    "id": "7b1b9cea6921",
+    "title": "Commentary: Americans want AI safety, Trump doesn't. Guess who's winning",
+    "summary": "Commentary: Americans want AI safety, Trump doesn't. Guess who's winning Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEJheGxwWEZ3T01LQThRTlhiUWpmY2dxVk9ZVzVyYnY0NkYyRFRlQnItZTRMZGNtQnRSUmpsTUp4LUFXY29ISUlCek12YlI4VThHZGxTSm1nUEdPWFNYWGtybG1zek9iYXZmWnVKT09jZ1ZYWnc0QlJKb3NyUWZlSUllOEwzdDVFYUhDMnBmdk1XQ1UzNUE?oc=5",
+    "source": "Los Angeles Times",
+    "language": "en",
+    "published": "2026-09-18T13:55:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "Comentario: Los estadounidenses quieren seguridad en la IA, pero Trump no. Adivina quien esta ganando",
+    "summary_es": "Comentario: Los estadounidenses quieren seguridad en la IA, pero Trump no. Adivina quién está ganando Los Angeles Times"
+  },
+  {
+    "id": "c6b3ad604518",
+    "title": "The 'Godfather of AI' warned Congress it has about a year left to regulate AI",
+    "summary": "The 'Godfather of AI' warned Congress it has about a year left to regulate AI qz.com",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVE4yRjRZWXptUVVHTDV0Y21kYjJIYjlENzMwSmEyWE5COFdsUG8xRDlSLW14UnBFcDNUdFNYYU40S1BZdEp4MEljUktLMllOM244bWNBMm1RLUZibjVVMkFvT0VRZ3VLdWowLUc2SHJjVXlYUDBz?oc=5",
+    "source": "qz.com",
+    "language": "en",
+    "published": "2026-09-18T13:49:05+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "El 'padrino de la IA' advirtió al Congreso que le queda alrededor de un año para regular la IA",
+    "summary_es": "El 'padrino de la IA' advirtió al Congreso que le queda alrededor de un año para regular la IA qz.com"
+  },
+  {
+    "id": "be3d13658f95",
+    "title": "SMBs face AI governance reckoning",
+    "summary": "SMBs face AI governance reckoning TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHFEcGJSVDhwTGdnNHVabEFyR3pucHZnOU5qc0dobVdEVW5CODdvQzFnNkR2UlY5Y01KYzhMLV9aMVJLbVZ3MlFfTXhBWk0wYXMzbkMtZWVLVmQ1N0hRbU1YOFRsT1U1Y19VSkU1WGNWdVc5VHdsYkl6ZGtDRlJMUFdrM0dCTFk?oc=5",
+    "source": "TechTarget",
+    "language": "en",
+    "published": "2026-09-18T13:47:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "Las pymes se enfrentan a un ajuste de cuentas en materia de gobernanza de la IA",
+    "summary_es": "Las pymes se enfrentan a la gobernanza de la IA TechTarget"
+  },
+  {
+    "id": "a9fcf6f911d7",
+    "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+    "summary": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC CNBC",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnh4czlpREt3SjNqZkhVb01vQVVJVTBiYlRhVlJ0Z0xiRnF4YnoyOU5YWXdDa05NS051aFFOS2E3ZmlxWDNpTHVoRjN2Mm5IYmVtQVM0ekpDT0UxR0Vjb0dLNHVWMnRlU1RhWlRxeWx2ZTNRYTFCTTNtLWdFMzJTRnFMc2VsQTZwV29iSkctZ3R2Smx4bnFkWjVWeUVNOVFCbHFtQtIBqgFBVV95cUxQVjZvU293cGh2VURVdGV6eUUyTlEwbWI3QzFESFFwajZHSnpuQktpaTZWSHU3ZFhsMWxFUmdrYVJmN0lOWnd4d1A5Qjd3eFkxWnk4ZkZQRVVhaF9WN3BtVzlETE12a0VuM0dYU1lSSW00UW1JNlNFMVc0VURJd18yMjZueDlrM2xmWlk1Qk1aSHp6SXRmS3dmTXJreWJRUVlfcExPUmZzLVIzZw?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-09-18T13:23:58+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "La última revelación de OpenAI sobre IA es una \"situación grave\", dice Suleyman de Microsoft a CNBC",
+    "summary_es": "La última revelación de IA de OpenAI es una \"situación grave\", le dice Suleyman de Microsoft a CNBC CNBC"
+  },
+  {
+    "id": "4e0a3aea2ccc",
+    "title": "Watch CNBC's full interview with Microsoft AI CEO Mustafa Suleyman",
+    "summary": "Watch CNBC's full interview with Microsoft AI CEO Mustafa Suleyman CNBC",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjZvRmFQNTV5bUJ4YmFCRHVJOEpjdi11U0U4MmV6dnpkandxUGVIX3ZvSklkd25qOS0zWldIRno5Sl9SUHpfeUNFTXdQTTJrSjEyQUxId1NaRnp2TmgzdzBBdEFTZ09vOGhnajVzck56UTNLR05kX0FwQ2gzaHZ5MHhRbC1nR1l2SHNZYkpjVWFmbDc0bnVOV3E0bFNacWE0YVBWY21mcXFKV1dP?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-09-18T13:07:27+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-18",
+    "title_es": "Vea la entrevista completa de CNBC con el director ejecutivo de IA de Microsoft, Mustafa Suleyman",
+    "summary_es": "Vea la entrevista completa de CNBC con el director ejecutivo de IA de Microsoft, Mustafa Suleyman CNBC"
+  },
+  {
+    "id": "5586f11e87c4",
+    "title": "The 'Godfather of AI' backs a new watchdog plan to track OpenAI and Anthropic's AI risks from the inside",
+    "summary": "The 'Godfather of AI' backs a new watchdog plan to track OpenAI and Anthropic's AI risks from the inside Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnRQUGxRTE1iaUtoM3U0YTBrVERHTzh4bFFiUjhIRXdtNWhFdXFUMzhkVm5HeDA5c2xoajFtbEsxSkdBS2xRbHlPTlVRZU1YSlZZaWVXOUROTXJxb2pPWU9vZ19JRkxiN2RwdDI5QUs3WVBuQWRCcVJnakZMT1dzZERQS0JJVTVPMjN0STJJZ0VDTlUwWmc?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-09-18T13:00:10+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-18",
+    "title_es": "El 'Padrino de la IA' respalda un nuevo plan de vigilancia para rastrear los riesgos de IA de OpenAI y Anthropic desde adentro",
+    "summary_es": "El 'Padrino de la IA' respalda un nuevo plan de vigilancia para rastrear los riesgos de IA de OpenAI y Anthropic desde dentro Business Insider"
+  },
+  {
+    "id": "f58fd786a4ed",
+    "title": "‘Maybe a Year’: Godfather of AI Geoffrey Hinton Gives Congress a Stark Warning — Time Is Running Out to Control AI",
+    "summary": "‘Maybe a Year’: Godfather of AI Geoffrey Hinton Gives Congress a Stark Warning — Time Is Running Out to Control AI Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMi1hU2JPYnFZZXhudUhBM21CbVhTY3loYXJOdDMta2N4S0lOMFd6VEpHeXU0SE4tbzY2LUdud3dhTnNyUFViMnRtSjVnUklLR3N6b0oyaElmdlJWZkNoM19jakpaSDJMcFRhNkVxOHpxQ2dCUlVyUXBXYzRlSU1fT3NoVU9DWC00clBMSnIwdVdIbUw0OTY3ZnRiTDFhb0toMzRYeGJWQVBtcnF3OFRUTHhoVWhocS03Vzg3N052QUhiWmI3elJtRElwZXV4VWpNT3BTbWZkcG5GRnVNMjlOWHZxOEhpZ3c5SGNGd1Jjd1RuRUVQ?oc=5",
+    "source": "Benzinga",
+    "language": "en",
+    "published": "2026-09-18T12:28:20+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-18",
+    "title_es": "“Quizás un año”: el padrino de la IA, Geoffrey Hinton, hace una dura advertencia al Congreso: se acaba el tiempo para controlar la IA",
+    "summary_es": "“Quizás un año”: el padrino de la IA, Geoffrey Hinton, hace una dura advertencia al Congreso: se está acabando el tiempo para controlar la IA Benzinga"
+  },
+  {
+    "id": "e14bc7561164",
+    "title": "‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI",
+    "summary": "‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrQ25mU0E2dGpHcmlxRGhnc1AwdlZqRjJuUjFNYXhfYkhkcjNwa1k1aWpxejFZS3BnWU1ub0M4MFFwYXJxUkM5NndfYnlNbVRrRW8wdHlyd0hiUVczcTJjMTFrSHJfdWZqMEdJUEI3c19UUl9KZkdLbQ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-09-18T12:12:46+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-18",
+    "title_es": "‘Quizás un año’: Geoffrey Hinton le da al Senado una fecha límite para la IA",
+    "summary_es": "‘Quizás un año’: Geoffrey Hinton le da al Senado una fecha límite para la IA The Next Web"
+  },
+  {
     "id": "03d096ab0b4d",
     "title": "Premian un proyecto del IDIS para evaluar la seguridad de la IA en oncohematología",
     "summary": "Premian un proyecto del IDIS para evaluar la seguridad de la IA en oncohematología diariodesantiago.es",
@@ -637,6 +1024,26 @@
     "date_added": "2026-09-18",
     "title_es": "/R E P E A T -- INVITACIÓN DE MEDIOS - TODO EN 2026: Día 2 con Yoshua Bengio, Aidan Gomez, Joelle Pineau, Louis Têtu y líderes de Google DeepMind, Mastercard, OpenText, RBC y TELUS/",
     "summary_es": "/R E P E A T -- INVITACIÓN DE MEDIOS - TODO EN 2026: Día 2 con Yoshua Bengio, Aidan Gomez, Joelle Pineau, Louis Têtu y líderes de Google DeepMind, Mastercard, OpenText, RBC y TELUS/ Yahoo Finance Singapore"
+  },
+  {
+    "id": "f6911d432789",
+    "title": "AI - the story of greed and capitalism",
+    "summary": "AI - the story of greed and capitalism The Express Tribune",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kcF9JalNnTEtBQjgxaTU2ZlZqSEh2WVB4dEh1UkhhZUp4cUZUNm1MZ0pHaHdhNnhOa0xaSk4zZnp0anE4Q25RT2VTQmZjX1c1V0JiV3lNNkU5Rm9kRklRU2tHNkRKOWRGQ3lJQzFxN3BHVEpWZE9DVExkTmZFd9IBhgFBVV95cUxQWEx4MEV4ZXJ3SVE2WGp2NWhlazg3V0IyQUFhTnBnSzNRY0E1TXRQeHhoU2pBZENVbVR6X1Q2MGl2ZlUyQUxtYndfdEF2S09UR2dvbTJqWHBIclN6RGJ3T2dKMVRkZm5EU3B3M1BEWTZ3dVpjRVpoMXBRbkhOQ3ZDYlhHUXhFdw?oc=5",
+    "source": "The Express Tribune",
+    "language": "en",
+    "published": "2026-09-16T19:43:05+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-18",
+    "title_es": "IA: la historia de la codicia y el capitalismo",
+    "summary_es": "IA: la historia de la codicia y el capitalismo The Express Tribune"
   },
   {
     "id": "405ffb7123c2",
