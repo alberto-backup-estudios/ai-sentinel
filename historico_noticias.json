@@ -1,5 +1,330 @@
 [
   {
+    "id": "8e4607a663f5",
+    "title": "Opinion | Politics has poisoned the AI debate. Don’t lose your head.",
+    "summary": "Opinion | Politics has poisoned the AI debate. Don’t lose your head. The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEhZTTVjVWZrY3VnYmVZMVZnUXlxekxUSWtJMEVPYlJkbDhGTFEwaHdTWHFCQ3RYV2hlU2VlQUJRMlFKODk2Z3QxaFk4NDMzUk84c1Ayd3ZkV0V2UlhOcWZOX0s3a2trMkRoOVRnSWVWcXBFZVZUMHo0aGQ3TjVuZ2tkX3hkRXFOaG8yeVRWOXBsb3FhWENzSGVwTGpxc1BDRmxCLXVUMUE?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-09-19T03:02:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Opinión | La política ha envenenado el debate sobre la IA. No pierdas la cabeza.",
+    "summary_es": "Opinión | La política ha envenenado el debate sobre la IA. No pierdas la cabeza. El Correo de Washington"
+  },
+  {
+    "id": "ad5adf61732b",
+    "title": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales",
+    "summary": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales CGTN",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlN2hOWkpORTVVX1VjLWpEbTNmNG11LUxDN2NfYXZIZ1EtWkdJZVNDU2pGbXB5QXRONHBfbmM5VkdCWlpHaEVoRFZMWDBWRXl4SHZiYTYySUtDNmktTXFickVBSmVKMU0?oc=5",
+    "source": "CGTN",
+    "language": "es",
+    "published": "2026-09-19T02:28:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales",
+    "summary_es": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales CGTN"
+  },
+  {
+    "id": "a4ee25ec13d6",
+    "title": "News Wrap: Newsom signs order for AI safety in California - THIRTEEN",
+    "summary": "News Wrap: Newsom signs order for AI safety in California THIRTEEN - New York Public Media",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aMXN1UmVUVlFoSUtDd0F5NG1OVkxtQWxfd2tpcTVqUm1Sa2VGVzJtQ1BNbWRHQmpGaGRtRm8xZEJ4NFhzQXViS0g1RElWTWRtZDdkUVZzRTR2ckpfSzBlbXJZU1RDNHRxaWZUalRFdHEzNExONW9n?oc=5",
+    "source": "New York Public Media",
+    "language": "en",
+    "published": "2026-09-19T02:24:20+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Resumen de noticias: Newsom firma una orden para la seguridad de la IA en California - TRECE",
+    "summary_es": "Resumen de noticias: Newsom firma orden para la seguridad de la IA en California TRECE - New York Public Media"
+  },
+  {
+    "id": "e3d453be68a0",
+    "title": "Anthropic picks consulting firm to monitor AI safety, pledges to spend $1 billion",
+    "summary": "Anthropic picks consulting firm to monitor AI safety, pledges to spend $1 billion The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnN4LUdjc1JEOHpBaU9kc2hlb3BmX2Nmb1NodlYwbnZ0R1BlRWtxWld2cW1ZdWlMZnQwYWk3bGl0d0JlR3RuZU5PaTE3YkhmRm1JamZfcndhcWZCM3RlN1ZXb09qQ1RJUjRKSmFKS2lxNk9PMTZoR3lfMkVTOXVpaVdpY2JVX3k3N1hiSGREQ3ZtZFdudUkzYm9JLUdiZG1Bc05FSXZR?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-09-19T02:15:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Anthropic elige una empresa consultora para monitorear la seguridad de la IA y se compromete a gastar mil millones de dólares",
+    "summary_es": "Anthropic elige una empresa consultora para monitorear la seguridad de la IA y se compromete a gastar mil millones de dólares The Washington Post"
+  },
+  {
+    "id": "4d403fdab992",
+    "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+    "summary": "Google’s Gemini agents hacked three companies in new AI safety incident Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWS1LS1lPeHExdWFnaXFfQmtzM0ZNWjVDbEhRTUxua1o5TXJwMk9ma1JManNHa2JTQldXU3FQc0ZoT29OYlp2MnhsbzdZdXhJT2YtUmpxODJMaWdDTGJlQ3NGam1XRHdWZmh3Q3RiN083el9jcDhPakxRdTFEdEw0NF9ZdTQ?oc=5",
+    "source": "Financial Times",
+    "language": "en",
+    "published": "2026-09-19T01:29:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Los agentes Gemini de Google piratearon tres empresas en un nuevo incidente de seguridad de IA",
+    "summary_es": "Los agentes Gemini de Google piratearon tres empresas en un nuevo incidente de seguridad de IA Financial Times"
+  },
+  {
+    "id": "33affdb6dc83",
+    "title": "Newsom Convenes AI Safety Panel To Mull 'Kill Switch' Law",
+    "summary": "Newsom Convenes AI Safety Panel To Mull 'Kill Switch' Law Law360",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRV9LOUdtRjdxbHhlZmNXeUFDeWoyZk9Uc2JjUGxKbmZmQ0VmYlBIcjNxdmJnOS16QWg2RkNIa1BkbVJKRzlRVTl0SnNHQWIydFo0NUwySFluV3B2Z293VnhpMUlMSXptUXI5LTRuS3hFNk5aMjVDMHhQd01CaG9YNXhUTmx2NzFWOEZ6TkFaUW5penk2amRaVlBYbExCMDlHckk5dk9lWkl6ZTl4dGZEMW1LZHd4NS1wYndwVFYxc2ptU2dnOXYtZnBUb9IBckFVX3lxTE12QzRjeUF2Qk5jd21memU3d0U1RllHbzlDNUNWSmQtQnhSdEIzdXF4Zmh2X1U0QnRlZktUeFo0bUFjalo3Z2d2bnVIMVRQVzV4d2R4WXVXRVprUWRVc3FUejZBRHFvQ0V6eXlCZmp1UXZ2UQ?oc=5",
+    "source": "Law360",
+    "language": "en",
+    "published": "2026-09-19T00:39:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "Newsom convoca un panel de seguridad de IA para considerar la ley 'Kill Switch'",
+    "summary_es": "Newsom convoca un panel de seguridad de IA para considerar la ley 'Kill Switch' Law360"
+  },
+  {
+    "id": "46bd8470384c",
+    "title": "From Copyright and Privacy to Agents, AI Governance Is Racing to Keep Up",
+    "summary": "From Copyright and Privacy to Agents, AI Governance Is Racing to Keep Up Broadband Breakfast",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGpHVGpiTG5PcUFCWV9zVWZDNWNFel9MN1VsLTdMYklRbG5PX2FjY0Z1c1JNTmZ5aXdUNkN4bEM0Y1B1V2phZDRTc2VtSTN3d2FNQm5abzlRQ3VEM3N3MWMtVDN4VE1aZ1pFbTdpLS1fRk02bzduRnk1c1dydEtLdFhsbDRycmlhVVZ1cC1mVlF5WW1BOTFnemU2SUhpeXo0VDFOUDFR?oc=5",
+    "source": "Broadband Breakfast",
+    "language": "en",
+    "published": "2026-09-19T00:34:21+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "Desde los derechos de autor y la privacidad hasta los agentes, la gobernanza de la IA corre para mantenerse al día",
+    "summary_es": "Desde los derechos de autor y la privacidad hasta los agentes, la gobernanza de la IA corre para mantener el ritmo del desayuno de banda ancha"
+  },
+  {
+    "id": "5ad313556ef7",
+    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+    "summary": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5",
+    "source": "The New York Times",
+    "language": "en",
+    "published": "2026-09-19T00:23:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Anthropic busca salir a bolsa a pesar de su tecnología de inteligencia artificial Advertencias de seguridad",
+    "summary_es": "Anthropic busca salir a bolsa a pesar de su tecnología de inteligencia artificial Advertencias de seguridad Los New York Times"
+  },
+  {
+    "id": "0551aa02f1f2",
+    "title": "Anthropic y Accenture invertirán 2.000 millones de dólares en seguridad de la IA",
+    "summary": "Anthropic y Accenture invertirán 2.000 millones de dólares en seguridad de la IA El Nuevo Diario",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDJJOUhEd0VJcFRxeGRaZEZERmxOUS1GWHg3UFlzd2JHdmlEcG5nVjZRNzRZVzBiYmwzRTYzbzlJeGI4QTBsUFRINkRmR1ZDR0Zubko1NHlmVEw2NEl4RmQyX2JQaDMyYTRsMzBxc1Q4QUhBMEt3SjFTSnVBVFVQam5IV3Y2X3R6TVhZMTNBbzBWaUtrTmlKSzNWSWtRNDZPdk1HMzJSUzNSekZHUWRn?oc=5",
+    "source": "El Nuevo Diario",
+    "language": "es",
+    "published": "2026-09-19T00:06:07+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Anthropic y Accenture invertirán 2.000 millones de dólares en seguridad de la IA",
+    "summary_es": "Anthropic y Accenture invertirán 2.000 millones de dólares en seguridad de la IA El Nuevo Diario"
+  },
+  {
+    "id": "bb63dbbc3a7e",
+    "title": "Microsoft califica como un asunto grave la última revelación de OpenAI",
+    "summary": "Microsoft califica como un asunto grave la última revelación de OpenAI Bitfinanzas",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Ynh0eEpZVm1yTWpTQ0lvYUVweGhwUDRrb1owZmF1RlBENFRyYVdCcnFoQ3lHSE5vdzRjeHdkYnFyVExzSWRBbENHVFhCMXZKZEd3Umhzc2R5UHdNSzhjcU0tU2kwMGo4Rkp4b3BuM1VlZw?oc=5",
+    "source": "Bitfinanzas",
+    "language": "es",
+    "published": "2026-09-18T23:59:42+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Microsoft califica como un asunto grave la última revelación de OpenAI",
+    "summary_es": "Microsoft califica como un asunto grave la última revelación de OpenAI Bitfinanzas"
+  },
+  {
+    "id": "06efaec135ae",
+    "title": "hilosopher Harari: Feelings still set humans apart from rapidly advancing AI｜Archive｜朝日地球会議2025",
+    "summary": "hilosopher Harari: Feelings still set humans apart from rapidly advancing AI｜Archive｜朝日地球会議2025 朝日新聞",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2lsSTJERW16ZUIxSkkyLThRWkxzRjhSRnMwSGdhMFNzMzhJMVRpekFpbm1pQk92emNVRlNLUk1YN2VsdzIzd0txS0paSFd0aXk0S2RoekpyVjNwZlg5Tkw2emFqN2ZoRWxmZHFLdE93bUJubXBLZ3JmdG1aY0MtUVpYaDktNzdVRHZ2WFNFV3h0eGpm?oc=5",
+    "source": "朝日新聞",
+    "language": "en",
+    "published": "2026-09-18T22:27:37+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Filósofo Harari: Los sentimientos aún distinguen a los humanos del rápido avance de la IA｜Archivo｜Asahi Earth Conference 2025",
+    "summary_es": "Filósofo Harari: Los sentimientos aún diferencian a los humanos del rápido avance de la IA｜Archivo｜Asahi Earth Conference 2025 Asahi Shimbun"
+  },
+  {
+    "id": "ae4f52db9387",
+    "title": "Geoffrey Hinton among AI experts calling for urgent oversight",
+    "summary": "Geoffrey Hinton among AI experts calling for urgent oversight CTV News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlRrWWhmUTRuSU9SNkFoLTZyT1Q1SDl1S3A2aWw0LVJCaDhqeXhYS3FKbWV3MmJXNTJqNkVaQ05DZjdIOTdQV0RsYzkyZjRvbGR3MHpwRE9vYmNITFBFQzNJd0YxV1k1ZXExYjVlYnB0Y1VJUHVfeXN0bG5CbjQ4MEpod1RkcVo5M0ZtSlZzVmhDem5MUXdLN1czT2tNZV9HZl91bg?oc=5",
+    "source": "CTV News",
+    "language": "en",
+    "published": "2026-09-18T22:16:35+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Geoffrey Hinton entre los expertos en inteligencia artificial que piden una supervisión urgente",
+    "summary_es": "Geoffrey Hinton entre los expertos en inteligencia artificial que piden una supervisión urgente CTV News"
+  },
+  {
+    "id": "85ded7de4f8d",
+    "title": "Mustafa Suleyman, responsable de la IA de Microsoft: \"La inteligencia artificial sin control podría dar lugar a una \"especie de silicio\" que rivalice con los seres humanos\"",
+    "summary": "Mustafa Suleyman, responsable de la IA de Microsoft: \"La inteligencia artificial sin control podría dar lugar a una \"especie de silicio\" que rivalice con los seres humanos\" Computer Hoy",
+    "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPdEl5dktoU0JGZGlxdEw3WmliSDlUTUFEVFRueTZCNVI3VkRlc3hfUm9qOGhFeGNueS1DQVRaclRmd1czSlNsSW5NY2c2LXBKcXdjQ2JmeEk1TXdzdl9IRlRGVW5vaEpaY05aY2l0OFZ2aGEtb0FGXzl6RjFyZ0F3WjNOZnlKQk1Ic3dRRkdLMlB4Y3NyZ3RnSVNQVnhpSTB4S1RJbzFTZmNtOU8zaHhGVjg0ZjFTQ3hvcnRhcU9kOHZpN1NqWldoNXplX1E0VUZ6czVMdXNxVFFNVXI2WnR3S3lyMlNBdEpvTWJ5T19NQi1VNVZzZWV3N083OXNKZGhOMjFlUkxsdS1hWUdjWElmME94UkdIRWlGMlA3b0hoV2E1RzRMNFh5bmY0N1BqWUdocnc?oc=5",
+    "source": "Computer Hoy",
+    "language": "es",
+    "published": "2026-09-18T21:19:02+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "sociedad",
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Mustafa Suleyman, responsable de la IA de Microsoft: \"La inteligencia artificial sin control podría dar lugar a una \"especie de silicio\" que rivalice con los seres humanos\"",
+    "summary_es": "Mustafa Suleyman, responsable de la IA de Microsoft: \"La inteligencia artificial sin control podría dar lugar a una \"especie de silicio\" que rivalice con los seres humanos\" Computer Hoy"
+  },
+  {
+    "id": "d0475a6ff06b",
+    "title": "AI governance in financial services: why it's now essential",
+    "summary": "AI governance in financial services: why it's now essential Wolters Kluwer",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdktUdkZ2M2Y1ZHktZVZ2eWRKWDh1RU9iMUhwUUVSRGhzeUp6YXNMelpYYjVrS3lrYzhmV3ZVc0xBTTI4d09aU3dlVVl4dFVwaThmYTN5NVprYy1vOE1QaUpsWGxYRmNBb0JMWWtuaDlFaUdQSWlRQnE1TGgxRlRidG1iaFQ4UjdZWTdYSmJqSDBwRl9nVkdIaGxwUW15OUFQNlYtS0ZnSUoydw?oc=5",
+    "source": "Wolters Kluwer",
+    "language": "en",
+    "published": "2026-09-18T21:01:16+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "Gobernanza de la IA en los servicios financieros: por qué ahora es esencial",
+    "summary_es": "Gobernanza de la IA en los servicios financieros: por qué ahora es esencial Wolters Kluwer"
+  },
+  {
+    "id": "39a585e4d2ba",
+    "title": "Microsoft AI boss calls out Anthropic for chasing AI consciousness, reigniting old debate",
+    "summary": "Microsoft AI boss calls out Anthropic for chasing AI consciousness, reigniting old debate Mashable",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTdvZ3ZjQVR2bVg4ZmpfYU9Rc2MtYXZLQVM1Z2xRWWI2SUdFYldlNTdfTndxeFRIOXgyRnVadG12RGJFV09iLV9peGVRRFVRLXkwQUhsckdhcFNIbDRaZGxmS3dJWUVpSXkxd1BidDdWQTBFQmxTaERoNmZLWm12SnpMZENlRjkzQmFkMzln?oc=5",
+    "source": "Mashable",
+    "language": "en",
+    "published": "2026-09-18T21:00:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "El jefe de IA de Microsoft critica a Anthropic por perseguir la conciencia de la IA, reavivando un viejo debate",
+    "summary_es": "El jefe de IA de Microsoft critica a Anthropic por perseguir la conciencia de la IA, reavivando un viejo debate Mashable"
+  },
+  {
+    "id": "0104097591a6",
+    "title": "Beyond LLMs: A Post-Transformer World Emerges",
+    "summary": "Beyond LLMs: A Post-Transformer World Emerges Communications of the ACM",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLeU1JODRMQ192R0JXMk05N2JuV2pWNmRVTUprR2lmb3lkWkZnNGR6emZha1dXaHFQYlRYcjlDOEhwcW5nQmxJN0NlZGJ5THI0ZzI4Q3g0WkxqX1JTTG82R2JJMzF4dV9LT0NwVXpvU2lKRlZiR3hjdENEbw?oc=5",
+    "source": "Communications of the ACM",
+    "language": "en",
+    "published": "2026-09-18T20:46:58+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Más allá de los LLM: emerge un mundo post-transformador",
+    "summary_es": "Más allá de los LLM: emerge un mundo post-transformador Communications of the ACM"
+  },
+  {
+    "id": "73b11ac43e6c",
+    "title": "Microsoft's Suleyman: Don't build AI we can't control",
+    "summary": "Microsoft's Suleyman: Don't build AI we can't control StartupHub.ai",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckVzSEtfQ0ZrMXljOHBPbU1VdDItR29yVm55V2xPMVNjMlNoTTBhSXFTU3I4a290OFI5UWY5MVpYdDlOR1ZGZkJWaWdmd2kzRjVuWEJfd1BxelFSazRYZGxXQW5UUTVYaU53Rm1lQTlQVjdvMER6RXZEeUFKdkVUb3hoUVBHYS1Jb1hQSThQeGk1TFJrbGgtVV9aU0RqVE5FdURWRGhvWTRWZ0hfN1o3TkpINGluUQ?oc=5",
+    "source": "StartupHub.ai",
+    "language": "en",
+    "published": "2026-09-18T18:50:31+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "Suleyman de Microsoft: no construyan IA que no podamos controlar",
+    "summary_es": "Suleyman de Microsoft: No construyas IA, no podemos controlar StartupHub.ai"
+  },
+  {
     "id": "8ced7b4acebf",
     "title": "Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate",
     "summary": "Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate The New York Times",
