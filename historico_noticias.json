@@ -1,5 +1,232 @@
 [
   {
+    "id": "48b3074ad5af",
+    "title": "Amy Klobuchar pushing bipartisan AI safety bill",
+    "summary": "Amy Klobuchar pushing bipartisan AI safety bill The Mighty 790 KFGO",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaG40Y0lpVFZndGlwSVlRcWdialpWREJkTlZERjV5YmdOWmwwSHN3U0lZTmFVYnlodGg5ME1KQVZKRFNzUUZNbG9qWXM4VGNnNEVoUTk3eHVxOU9XZHJyY3NwUktMT1YtVXlyX1FtYngtRUUzV2c2bVR4dG1XLVBTazln?oc=5",
+    "source": "The Mighty 790 KFGO",
+    "language": "en",
+    "published": "2026-09-19T10:15:26+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Amy Klobuchar impulsa un proyecto de ley bipartidista sobre seguridad de la IA",
+    "summary_es": "Amy Klobuchar impulsa un proyecto de ley bipartidista sobre seguridad de la IA The Mighty 790 KFGO"
+  },
+  {
+    "id": "7de6926b714d",
+    "title": "Microsoft’s AI CEO says ‘controlling’ AI ‘is going to be a really, really big challenge’",
+    "summary": "Microsoft’s AI CEO says ‘controlling’ AI ‘is going to be a really, really big challenge’ Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDFrZzM4TTNvOFo0WWt2YnVjZVVyeDJOQUpGY3NobjZ1LVdLSWQ4amRnR3hjMWh3Y2g4UGd5aV95M2VGMHlaYURRN3YtbUxEbTJ4Ymc4RDF4ZkVSS1F0b1FLZ2liVHlRSjViVnRFY1QtQXRaamtKV3g5UTdnWXluVEpuT3MxYXc4OGdlamtpQ2hYcjVmUHpNdDFR?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-09-19T09:37:31+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "El director ejecutivo de IA de Microsoft dice que \"controlar\" la IA \"será un desafío realmente grande\"",
+    "summary_es": "El CEO de IA de Microsoft dice que \"controlar\" la IA \"será un desafío realmente grande\" Business Insider"
+  },
+  {
+    "id": "7b8832b8d15c",
+    "title": "The AI Governance Gap",
+    "summary": "The AI Governance Gap Hungarian Conservative",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12LW45b2J6TURJNFJtQXBIWko4OEo0WVdCalItdEFfVUFsdXZhTkdVUlVDRkItZGkxd05KWGk1NDN6czFDVkZjZXBjRUV0X2ZDUnQwOC1GZHpDTzltMm1VMFJLY3A2NjJfenJOUjh6dzZoeExsaGJoUEZn?oc=5",
+    "source": "Hungarian Conservative",
+    "language": "en",
+    "published": "2026-09-19T08:03:32+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "La brecha en la gobernanza de la IA",
+    "summary_es": "La brecha en la gobernanza de la IA Conservador húngaro"
+  },
+  {
+    "id": "11155b0a5d53",
+    "title": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales",
+    "summary": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales elciudadano.com",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmhEQnRMWWNrQzR0b292T0xHQjF6NUtSVEoydllxd05ZZl9VLU1DelNJeVFEa3JOZDd3WGZRRFBmR2VLMWpqUE11N1lKY0c2RVp5QWNfRFNNdUpXU2loZWRvSXBTYnRPck04ZEhiZVlZMXNiaERLdGpkSDlOeHpIcVZOak4yX0swR3Npc2UtQXc4aDRBR2lNZ2txOERNTkh1cEgwQTZLdFhBRGJVTkpneXVCSjk0Y0xncTdpZmo0cmNtR3BTS2J0TjBySllINHNEdmZ2UVVINWpaMl80QmZYUDI3NmR0aGp6WFZ0UXFVVzY?oc=5",
+    "source": "elciudadano.com",
+    "language": "es",
+    "published": "2026-09-19T06:55:54+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales",
+    "summary_es": "La conversación sobre seguridad de la IA entre China y Estados Unidos: basada en el presente, con implicaciones globales elciudadano.com"
+  },
+  {
+    "id": "d8ccd94ec818",
+    "title": "Mustafa Suleyman, jefe de Inteligencia Artificial de Microsoft: \"Sembrar dudas sobre la moralidad de la IA aumenta significativamente los riesgos de contención\"",
+    "summary": "Mustafa Suleyman, jefe de Inteligencia Artificial de Microsoft: \"Sembrar dudas sobre la moralidad de la IA aumenta significativamente los riesgos de contención\" El Confidencial",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlFMYVFFTDcwcktKcThMeVdHcmhYUURLd2d3b2NEN1pYUEEyZEkwYnB2Q0NuOGF2OVJBdGM0VGpLTXloaDFRb3FzbzNSZTFEQjB6NjNUcW1wRXZLYUR3UFNJdEpWdGNXTHBZcWVuNm53MVJaZkc4a2Z1ZUdLbWNBNjNXUU9rTTNacjAxdjlBcEljYk9YYWg1WkhRLVdVU2ZnUTZqVU5YUnVXYXJOWGZDS3ZNTktGbnMyQjFzM2JKeU5hLWtWeU4yS2JvS3otUQ?oc=5",
+    "source": "El Confidencial",
+    "language": "es",
+    "published": "2026-09-19T06:36:00+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Mustafa Suleyman, jefe de Inteligencia Artificial de Microsoft: \"Sembrar dudas sobre la moralidad de la IA aumenta significativamente los riesgos de contención\"",
+    "summary_es": "Mustafa Suleyman, jefe de Inteligencia Artificial de Microsoft: \"Sembrar dudas sobre la moralidad de la IA aumenta significativamente los riesgos de contención\" El Confidencial"
+  },
+  {
+    "id": "d10ebe01c8c4",
+    "title": "Video | Anthropic's Claude Used For Weapons, Spying, Cyber-Ops",
+    "summary": "Video | Anthropic's Claude Used For Weapons, Spying, Cyber-Ops NDTV",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnc4cnkzNThXWGZLMUE0ckE2c21fbFYtMVRGb3JqanJ0SzNQbTZBeUxNUmxVYWtKQm5fTmc2ZTA3dDJrampheGduZmtDY0IxNkJhM2dzVlloeHhqb3kzWnl6TWtmMzlGUGhRLVhvZGhxa2ptSUxCdzFGSEphSmlaa3lERk1XZThhbTFPSEQyaDc?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-19T05:47:41+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Vídeo | Claude de Anthropic utilizado para armas, espionaje y operaciones cibernéticas",
+    "summary_es": "Vídeo | Claude de Anthropic utilizado para armas, espionaje y operaciones cibernéticas NDTV"
+  },
+  {
+    "id": "786d947fbe52",
+    "title": "Video | AI & The Future Of War | Houthi-Saudi Conflict | Russia-Ukraine War",
+    "summary": "Video | AI & The Future Of War | Houthi-Saudi Conflict | Russia-Ukraine War NDTV",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjcxZEllU3JXOXEwZ2l3LTVFV1l3WDJ1WEhwV2FzS0h2Ri1ybF8yRUN6am9NWVIxc2hrdDg0ZlBSam5wVVFFZEpJUGR6a0h2RmhKVnExOHNFVTY0N3c3bjNSZExMdW84WUNyaEk1QkJEOHF5dl9TMkZXUjFBdDBfSjhkQWlKNm15dXRBTVVEVi14em5WLTJTeUR1TFA?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-19T05:46:09+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Vídeo | IA y el futuro de la guerra | Conflicto hutí-saudí | Guerra Rusia-Ucrania",
+    "summary_es": "Vídeo | IA y el futuro de la guerra | Conflicto hutí-saudí | Guerra Rusia-Ucrania NDTV"
+  },
+  {
+    "id": "4777b595a74d",
+    "title": "Estudio de Pew: la confianza en la gobernanza de la IA está ligada a las opiniones sobre los países",
+    "summary": "Estudio de Pew: la confianza en la gobernanza de la IA está ligada a las opiniones sobre los países IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzA3V040eXI0VkZ2ZE9rSkYtVmplTmVjU0VoM2FIRzI2YkswOGJoQUhGS1VJOW5sN21OMVlHTzExX1BiQjlUaEpaWXZyRnI0N3dIYWFMTnNzOWxlYnJKdG4yVXdBdGRxcWhZWGtZeUJwQ1pZeE9tUmhVSFBDMEVCTXZaLXA4cVFSSE9EVVNyMzNnelJQN3JF?oc=5",
+    "source": "IndexBox",
+    "language": "es",
+    "published": "2026-09-19T05:20:46+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "Estudio de Pew: la confianza en la gobernanza de la IA está ligada a las opiniones sobre los países",
+    "summary_es": "Estudio de Pew: la confianza en la gobernanza de la IA está ligada a las opiniones sobre los países IndexBox"
+  },
+  {
+    "id": "2b54f042aab9",
+    "title": "Pew Study: Trust in AI Governance Tied to Views of Countries",
+    "summary": "Pew Study: Trust in AI Governance Tied to Views of Countries IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXNkM0xLOENISnVyVXhvQjN5R19BbXJyVjJDNk85cGFhRFZSMTFBNnBiUzcyYkRaT28wTmlaTHkzTEstVjFzWE4tM3JLN3J5cjk5TGQybEZmNV93elFKSTBxVGhic0s0OU5FQk5aTTFyY2RPdXVNZ3N2dnZxeVpqZGtVTXA1b3YxdHM5anYxUnZDVG8?oc=5",
+    "source": "IndexBox",
+    "language": "en",
+    "published": "2026-09-19T05:20:46+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-19",
+    "title_es": "Estudio Pew: La confianza en la gobernanza de la IA está vinculada a las opiniones de los países",
+    "summary_es": "Estudio Pew: La confianza en la gobernanza de la IA está vinculada a las opiniones de los países IndexBox"
+  },
+  {
+    "id": "33734d48585f",
+    "title": "Newsom signs AI safety executive order with kill switch option",
+    "summary": "Newsom signs AI safety executive order with kill switch option qz.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UZGNpcXhodmVHNmxWN0JqQjEzdmtFMFVFRkl6bkg5WGpMTzgxanFNQ1QxTDVYaWx6WVFtOC1yM2s1SUhVbzFoZi1Md256ek5JTUR3TWZWRVk5ZXY1eVZYV3pReHE0bl9SSGlZRjZhQXlxOFVX?oc=5",
+    "source": "qz.com",
+    "language": "en",
+    "published": "2026-09-19T04:59:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Newsom firma una orden ejecutiva de seguridad de IA con opción de interruptor de apagado",
+    "summary_es": "Newsom firma orden ejecutiva de seguridad de IA con opción de interruptor de apagado qz.com"
+  },
+  {
+    "id": "fe9783e2a25e",
+    "title": "Why Trump is quick to dismiss concerns about AI safety - THIRTEEN",
+    "summary": "Why Trump is quick to dismiss concerns about AI safety THIRTEEN - New York Public Media",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lNVJIeWxobjFPdThZVnY4Ykl4c2JWd0RKTjlrcW9Dbl9aNnpValo0ZjlnVmJFVlJlM2oyUnRSQXZIcFp2cnJZbEhiUjNlakFTaFhKV2lXMDltZEgta21iQ0hRdVVlaDdrbDFWTWtsc1o?oc=5",
+    "source": "New York Public Media",
+    "language": "en",
+    "published": "2026-09-19T04:36:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Por qué Trump se apresura a descartar las preocupaciones sobre la seguridad de la IA: TRECE",
+    "summary_es": "Por qué Trump se apresura a descartar las preocupaciones sobre la seguridad de la IA TRECE - New York Public Media"
+  },
+  {
+    "id": "aaa5b22ceb13",
+    "title": "Geoffrey Hinton, premio Nobel y padrino de la IA, advierte a los gobiernos: \"Tal vez un año, pero no mucho más\"",
+    "summary": "Geoffrey Hinton, premio Nobel y padrino de la IA, advierte a los gobiernos: \"Tal vez un año, pero no mucho más\" Computer Hoy",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWmozUGd4bnQ2VTJTZmx6NENDVXJlMWV2eGdqaVpwc183OGFhNURqU1RzN01jYkF2cXd3TzlqM3N6NmlLZkwzbl9sWVZISENyaFBTRlFvZlBQZWNsaE5WUjBMV2QzeFphQllyRVhrS0FVcTNEdFNIWTFrb09JQnJtQXQxaVRqNGxCNklhUHB6V2RGNzN2ZFNLcXRvdnh0ZURpSjdNb0JydE5Gb2hRUkU0LTdUTTZQRXkxM2RCZXItX01aVzVycUM3RDZRSjhTRWlKNGFqRTh3OHp6MjFXSTJYU1Z5NXRzMFpqRGc?oc=5",
+    "source": "Computer Hoy",
+    "language": "es",
+    "published": "2026-09-19T04:35:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Geoffrey Hinton, premio Nobel y padrino de la IA, advierte a los gobiernos: \"Tal vez un año, pero no mucho más\"",
+    "summary_es": "Geoffrey Hinton, premio Nobel y padrino de la IA, advierte a los gobiernos: \"Tal vez un año, pero no mucho más\" Computer Hoy"
+  },
+  {
     "id": "8e4607a663f5",
     "title": "Opinion | Politics has poisoned the AI debate. Don’t lose your head.",
     "summary": "Opinion | Politics has poisoned the AI debate. Don’t lose your head. The Washington Post",
@@ -181,6 +408,44 @@
     "date_added": "2026-09-19",
     "title_es": "Microsoft califica como un asunto grave la última revelación de OpenAI",
     "summary_es": "Microsoft califica como un asunto grave la última revelación de OpenAI Bitfinanzas"
+  },
+  {
+    "id": "97f7be3096b1",
+    "title": "Nebraska lawmaker, UNO professor weigh in on AI safety concerns",
+    "summary": "Nebraska lawmaker, UNO professor weigh in on AI safety concerns WOWT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmNFd1p3RzEzbGlBaGZ1T3dJTjRVVDJWb3FaX1JNM2Y1aG5fZDM1MlhGdXlEcjFZS3dxenFPQTktQVZxcF83MVFBbzRMeUh1QVpqWlExZmlzbFRPUG5nVzlHWFdDNjdSQ2dKdU1lTUs2QlFYbFktelM1cFJUSlFxbGhKMzZxMVhzaldIbkJSaXB0R0HSAacBQVVfeXFMTkhHWlBXeXdKeEE1UnJETFQ0Qnl0OUh0UnMxd1h4NnR4NURkM2l2dXBnRkJNM2Z6WXZmUWt0eWtoOEFrVkFGcEU5OGhncGFsSnp0TVI2Rm1xUjZQQXkwYkxseEtvYjlsTHc5Qk00TWNOZHQ4MXRfUG9SUm1HS29ieXMtZ2gtREJsYTA3R1dTb3BJZTRXal9rczFWMEV1NnRBWEhUbnk4WW8?oc=5",
+    "source": "WOWT",
+    "language": "en",
+    "published": "2026-09-18T23:39:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-19",
+    "title_es": "Legislador de Nebraska y profesor de la ONU opinan sobre las preocupaciones sobre la seguridad de la IA",
+    "summary_es": "Legislador de Nebraska y profesor de la ONU opinan sobre las preocupaciones sobre la seguridad de la IA WOWT"
+  },
+  {
+    "id": "506072f68215",
+    "title": "hilosopher Harari: Feelings still set humans apart from rapidly advancing AI｜Archive｜朝日地球会議2025",
+    "summary": "hilosopher Harari: Feelings still set humans apart from rapidly advancing AI｜Archive｜朝日地球会議2025 朝日新聞",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTG1waHl4bXFPVHUwRmRtUGI1aDVpWjZFVVhkcXdHWGtPSlVCYVdNVTBtMXRDSHI1eFVxSUpfZU9OQzcxNko0Q3NHVDZ0UG1RaTRaUllGT281RFpEb3lJbVh3S2V6bjM4RGV4M0FsWjBNU2ExYW1PTVVoV2x0TlltUnl2aEdETnZfVWVPSVJkcUhZaV9u?oc=5",
+    "source": "朝日新聞",
+    "language": "en",
+    "published": "2026-09-18T22:39:05+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-19",
+    "title_es": "Filósofo Harari: Los sentimientos aún distinguen a los humanos del rápido avance de la IA｜Archivo｜Asahi Earth Conference 2025",
+    "summary_es": "Filósofo Harari: Los sentimientos aún diferencian a los humanos del rápido avance de la IA｜Archivo｜Asahi Earth Conference 2025 Asahi Shimbun"
   },
   {
     "id": "06efaec135ae",
