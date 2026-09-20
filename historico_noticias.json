@@ -1,5 +1,101 @@
 [
   {
+    "id": "0859b5580950",
+    "title": "The AI Superintelligence Slowdown",
+    "summary": "The AI Superintelligence Slowdown The Verge",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZFT3c1a0Jyb1YtbUxJQTdCemEzYmtIQVZkaDhVRl9BSjl1Mmw3Sjl3bFRnRzAwcXNVRkpDTk1KczI3REZ6TzV1ejdkV3VlSnphSzJVSDIwR0F0QlNqaDQzaE93N0UzRlc4MXptWUFlMTZDZm04WktqRUVxVFJVU0lFUVZXVFMzRmV3V2k4YW5ncjRZ?oc=5",
+    "source": "The Verge",
+    "language": "en",
+    "published": "2026-09-20T18:50:18+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "La desaceleración de la superinteligencia de la IA",
+    "summary_es": "La desaceleración de la superinteligencia de IA The Verge"
+  },
+  {
+    "id": "03d57da2136e",
+    "title": "Microsoft AI chief urges guardrails as White House resists broad regulation (MSFT:NASDAQ)",
+    "summary": "Microsoft AI chief urges guardrails as White House resists broad regulation (MSFT:NASDAQ) Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2FIWTExcnlzekpmOHNhWTE1cDFaUWZGZ1cwbk5RWEtSWmh1QkQ5U1RYMUtVQndLMTFjdnVWTnJaVllJaTQ3NFZ1RVhHd25RTXhveExubGRuaS1VNkt2aGxhdzI5a3hGX2p1MHJMeFU3T0RqYV9KV2JNeGNsVmFHWGdqekIwcWFfZlY0VWxkT29jYmdxbTRTYmdfTFRjeTNrV3dNLVJPaW96SGFvTHFmNTN1TQ?oc=5",
+    "source": "Seeking Alpha",
+    "language": "en",
+    "published": "2026-09-20T18:01:31+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-20",
+    "title_es": "El jefe de IA de Microsoft insta a adoptar medidas de seguridad mientras la Casa Blanca se resiste a una regulación amplia (MSFT:NASDAQ)",
+    "summary_es": "El jefe de IA de Microsoft insta a adoptar medidas de seguridad mientras la Casa Blanca se resiste a una regulación amplia (MSFT:NASDAQ) Buscando Alfa"
+  },
+  {
+    "id": "17dff5926552",
+    "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
+    "summary": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT05rejlZZ1RZUmdlOHdjUk4tU0lpd01nQ0EzOC1kcndDZ0VTU3BCSG9EMHN5UDZuUlk1YUx0cmlWRHFJS3VpQVNxZG52SWdZelpXeGNacHl3ZEdtZFZqaXFhODdnVmliTHBpX0Q2V2RSN2FfQzZDNUFwNDV2eGNwajZsSkgyV0N2Mmlidmg0UWZFbXJtT1VXaTVHWDJhVEpRNFN6OXl2M2N3Q1psLTcxRG5UeTg?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-09-20T16:30:01+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-20",
+    "title_es": "El jefe de inteligencia artificial de Microsoft dice que China no es excusa para renunciar a la regulación",
+    "summary_es": "Jefe de IA de Microsoft dice que China no es excusa para renunciar a la regulación Bloomberg.com"
+  },
+  {
+    "id": "c17e14424696",
+    "title": "On GPS: Microsoft AI CEO on the 'watershed moment' in his industry",
+    "summary": "On GPS: Microsoft AI CEO on the 'watershed moment' in his industry CNN",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1VsdDV6ajNwVGNURG1oRUpTaUFxVURoUS1ZOFRTNU1uWE9RWWM4dnVuc1FYa3dDUWhzb3N5WElHU1JQMHJCcnpSY1RySzZsdUdqdzV1U1Yzb3IxTmV5cmRqcGswcFlfajZURGl4SE9BYzd0MUdlbEUzVHNSa0VPR2tDdUZCS0Y5bVE?oc=5",
+    "source": "CNN",
+    "language": "en",
+    "published": "2026-09-20T16:13:51+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Sobre GPS: el CEO de Microsoft AI sobre el 'momento decisivo' en su industria",
+    "summary_es": "Sobre GPS: el CEO de Microsoft AI habla del 'momento decisivo' en su industria CNN"
+  },
+  {
+    "id": "a4ff99ae4919",
+    "title": "Newsom Orders Faster AI Safety Oversight, Explores ‘Kill Switch’",
+    "summary": "Newsom Orders Faster AI Safety Oversight, Explores ‘Kill Switch’ yovenice.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHRKYVRYa1RNUV93VS1UNmlBcUxaemxpbmNhM3FESGZXazN1cjlFYU1tYlJPWkZFajRsVWZYOG1EaldZM3I5d2p4YVU3cU9OVEg4dHUyaGtTMGZwRjJRY19ORlJMM0R0Nk92by1vXzJVY2t6YWVXdVdOMkYtcFo0TFkxdHA1YjJocFJINkhabG5TWUFWSkhocUxrSmJzcFlaclU5TVRocFJMQVdzUGNaaFdXcjJua25f?oc=5",
+    "source": "yovenice.com",
+    "language": "en",
+    "published": "2026-09-20T16:02:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Newsom ordena una supervisión de seguridad de la IA más rápida y explora el 'interruptor de muerte'",
+    "summary_es": "Newsom ordena una supervisión de seguridad de la IA más rápida y explora el 'interruptor de muerte' yovenice.com"
+  },
+  {
     "id": "f341ee90ad12",
     "title": "Mustafa Suleyman Rejects AI Model Rights as Microsoft Opens Six-Week Code Review",
     "summary": "Mustafa Suleyman Rejects AI Model Rights as Microsoft Opens Six-Week Code Review TechStock²",
@@ -19,6 +115,24 @@
     "date_added": "2026-09-20",
     "title_es": "Mustafa Suleyman rechaza los derechos del modelo de IA mientras Microsoft abre una revisión de código de seis semanas",
     "summary_es": "Mustafa Suleyman rechaza los derechos del modelo de IA mientras Microsoft abre una revisión de código de seis semanas TechStock²"
+  },
+  {
+    "id": "50fd69caa6b8",
+    "title": "The AI safety paradox | Op-Ed",
+    "summary": "The AI safety paradox | Op-Ed The Seattle Times",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zTXk0UFVvWl9oSTRQZU10SExqRkUwVmtNa1BVejE0a0k3QmJQZF90WVh1d05fWW93YVJGOXF1b0QzQ3V1Nm5aRHdsY3V0RjZ4TzdXRDUwT2JUaEFmSkY5Z0JnWXp6UU5iUmNZ?oc=5",
+    "source": "The Seattle Times",
+    "language": "en",
+    "published": "2026-09-20T15:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "La paradoja de la seguridad de la IA | Artículo de opinión",
+    "summary_es": "La paradoja de la seguridad de la IA | Artículo de opinión The Seattle Times"
   },
   {
     "id": "3771a4ef6290",
