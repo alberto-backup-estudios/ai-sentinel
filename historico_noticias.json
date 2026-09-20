@@ -1,5 +1,593 @@
 [
   {
+    "id": "a0152c39a3e6",
+    "title": "[Paper] Stringological sequence prediction III",
+    "summary": "Abstract: In previous papers (Kosoy 2026a,b), we began the study of sequence prediction algorithms adapted to stringological word complexity measures. In particular, we defined a complexity measure called Arithmetic Repetition Complexity (ARC) which admits a polynomial-time prediction algorithm with a mistake bound quasilinear in the complexity....",
+    "link": "https://www.alignmentforum.org/posts/virawHQekJsozwotz/paper-stringological-sequence-prediction-iii",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-18T16:52:53+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "[Artículo] Predicción de secuencias stringológicas III",
+    "summary_es": "Resumen: En artículos anteriores (Kosoy 2026a,b), comenzamos el estudio de algoritmos de predicción de secuencias adaptados a medidas stringológicas de complejidad de palabras. En particular, definimos una medida de complejidad llamada Complejidad de Repetición Aritmética (ARC) que admite un algoritmo de predicción de tiempo polinomial con un error casi lineal en la complejidad...."
+  },
+  {
+    "id": "457d18394042",
+    "title": "A Defense of Gradual Disempowerment",
+    "summary": "(Or: Why Bentham's Bulldog and John Halstead are wrong in their critique of Kulveit et al. ) Gradual Disempowerment is a 2025 paper (with a nice, dedicated website ) proposing a form of existential risk from AI that goes beyond \"mundane\" risks like bioweapon uplift or mainline misaligned-AI-takeover scenarios. In the words of the authors: [L]oss...",
+    "link": "https://www.alignmentforum.org/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-17T21:04:05+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Una defensa del desempoderamiento gradual",
+    "summary_es": "(O: Por qué el Bulldog de Bentham y John Halstead se equivocan en su crítica de Kulveit et al.) Gradual Disempowerment es un artículo de 2025 (con un bonito sitio web dedicado) que propone una forma de riesgo existencial de la IA que va más allá de los riesgos \"mundanos\" como el aumento de las armas biológicas o los escenarios principales de toma de posesión de la IA desalineada. En palabras de los autores: [L]oss..."
+  },
+  {
+    "id": "44dc3db4503b",
+    "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+    "summary": "It would be useful if we had the ability to modify a model’s beliefs. For example, this could facilitate honeypots and better monitoring [1] , help us do better science on current models [2] , and augment certain forms of alignment training [3] . Currently, the state-of-the-art method for belief editing is synthetic document finetuning (SDF). We...",
+    "link": "https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-15T21:50:08+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Creencias superficiales: el entrenamiento medio no vacuna contra los EM por piratería de recompensas",
+    "summary_es": "Sería útil si tuviéramos la capacidad de modificar las creencias de un modelo. Por ejemplo, esto podría facilitar los honeypots y un mejor seguimiento [1], ayudarnos a hacer mejor ciencia en los modelos actuales [2] y aumentar ciertas formas de entrenamiento de alineación [3]. Actualmente, el método más moderno para la edición de creencias es el ajuste fino de documentos sintéticos (SDF). Nosotros..."
+  },
+  {
+    "id": "bfa5168c9435",
+    "title": "Op-Ed: I Worked at Google DeepMind. You Should Listen to the Warnings About AI",
+    "summary": "Published in The Guardian . Major AI lab CEOs recently advocated for pacing AI development. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should demand that our governments protect us from the catastrophe of out-of-control AI. This July, OpenAI’s AI swarm of 700 agents broke co...",
+    "link": "https://www.alignmentforum.org/posts/YGTWfyZb9oE5EQPu6/op-ed-i-worked-at-google-deepmind-you-should-listen-to-the",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-14T14:53:57+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Artículo de opinión: Trabajé en Google DeepMind. Deberías escuchar las advertencias sobre la IA",
+    "summary_es": "Publicado en El guardián. Los directores ejecutivos de los principales laboratorios de IA abogaron recientemente por acelerar el desarrollo de la IA. Tienen razón en estar preocupados: el campo corre una carrera extremadamente peligrosa hacia la IA superinteligente. Podemos y debemos exigir que nuestros gobiernos nos protejan de la catástrofe de una IA fuera de control. Este julio, el enjambre de IA de 700 agentes de OpenAI rompió co..."
+  },
+  {
+    "id": "9ed243c53720",
+    "title": "CoT controllability evals seem very under-elicited",
+    "summary": "The CoTControl eval asks reasoning models to follow formatting constraints in their chain-of-thought (e.g. write in all lowercase, avoid a specific word) while solving questions. Models seem to mostly be pretty bad at this: recent models score between 0-30% with the exception of Mythos Preview [1] . OpenAI and Anthropic have used this eval in re...",
+    "link": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-11T17:12:04+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Las evaluaciones de controlabilidad de CoT parecen muy poco solicitadas",
+    "summary_es": "La evaluación de CoTControl pide a los modelos de razonamiento que sigan restricciones de formato en su cadena de pensamiento (por ejemplo, escribir todo en minúsculas, evitar una palabra específica) mientras resuelven preguntas. La mayoría de los modelos parecen ser bastante malos en esto: los modelos recientes obtienen una puntuación entre 0-30% con la excepción de Mythos Preview [1]. OpenAI y Anthropic han utilizado esta evaluación en re..."
+  },
+  {
+    "id": "d41fe0a4c810",
+    "title": "An operationalization of opaque serial depth",
+    "summary": "Currently, chain-of-thought (CoT) is a valuable tool for overseeing AI models. However, some architectural shifts could significantly reduce CoT monitorability . We have recently proposed that AI companies should transparently share ​​information about the degree to which their architectures may allow for latent reasoning and communication. To a...",
+    "link": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-10T17:26:39+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Una operacionalización de la profundidad serial opaca.",
+    "summary_es": "Actualmente, la cadena de pensamiento (CoT) es una herramienta valiosa para supervisar los modelos de IA. Sin embargo, algunos cambios arquitectónicos podrían reducir significativamente la monitorización de CoT. Recientemente hemos propuesto que las empresas de IA compartan de forma transparente información sobre el grado en que sus arquitecturas pueden permitir el razonamiento y la comunicación latentes. A un..."
+  },
+  {
+    "id": "753654c4e39b",
+    "title": "Proposal for tracking the effects of architecture on monitorability",
+    "summary": "Architectures that incorporate opaque recurrence or allow for agents to communicate with each other using latents could rapidly make it much harder to monitor chains of thought or communication (we’ll refer to this property as “monitorability” going forward). [1] As companies begin to explore such architectures, we believe it is important to tra...",
+    "link": "https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-10T17:18:38+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Propuesta para rastrear los efectos de la arquitectura en la monitorización.",
+    "summary_es": "Las arquitecturas que incorporan recurrencia opaca o permiten que los agentes se comuniquen entre sí mediante señales latentes podrían rápidamente hacer que sea mucho más difícil monitorear las cadenas de pensamiento o comunicación (en el futuro nos referiremos a esta propiedad como “monitorabilidad”). [1] A medida que las empresas comienzan a explorar este tipo de arquitecturas, creemos que es importante tra..."
+  },
+  {
+    "id": "34d791a068fa",
+    "title": "Astra can do a concerning amount with no chain of thought",
+    "summary": "Work done in a personal capacity TLDR : Astra has 8.6x better odds of doing a reasoning task without CoT than the next best model (Fable 5.1), and can do 7.2 serial arithmetic steps in a forward pass vs 4.1 for the next best model (Gemini 3.8 Flash/Fable 5.1) Epistemic status: Heavily LLM-dependent research, and the precise results are somewhat ...",
+    "link": "https://www.alignmentforum.org/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-10T02:31:26+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Astra puede hacer una cantidad preocupante sin cadena de pensamiento",
+    "summary_es": "Trabajo realizado a título personal TLDR: Astra tiene 8,6 veces más probabilidades de realizar una tarea de razonamiento sin CoT que el siguiente mejor modelo (Fable 5.1), y puede realizar 7,2 pasos aritméticos en serie en un pase hacia adelante frente a 4,1 para el siguiente mejor modelo (Gemini 3.8 Flash/Fable 5.1) Estado epistémico: investigación muy dependiente de LLM, y los resultados precisos son algo..."
+  },
+  {
+    "id": "a69f47f165e3",
+    "title": "How good are slop-vestigators?",
+    "summary": "TLDR: We release MessageBoardAuditBench : a benchmark to measure how well agents can replicate the recent investigation into a swarm of OpenAI agents colluding via a message board on an online wiki. We open-source the benchmark as an Inspect eval. We find that top models cover up to 51% of findings under our rubric and that model performance imp...",
+    "link": "https://www.alignmentforum.org/posts/wt4kk6vFPEhkXvF8Q/how-good-are-slop-vestigators",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-08T22:13:19+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "opensource"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "¿Qué tan buenos son los investigadores de basura?",
+    "summary_es": "TLDR: Lanzamos MessageBoardAuditBench: un punto de referencia para medir qué tan bien los agentes pueden replicar la investigación reciente sobre un enjambre de agentes de OpenAI que se confabulan a través de un tablero de mensajes en una wiki en línea. Abrimos el punto de referencia como una evaluación de inspección. Descubrimos que los mejores modelos cubren hasta el 51% de los hallazgos bajo nuestra rúbrica y que el rendimiento del modelo imp..."
+  },
+  {
+    "id": "75b2934d2382",
+    "title": "A Conceptual Framework for Reasoning about Exploration Hacking",
+    "summary": "This is the second of two posts resulting from a recent Astra/MATS research project investigating exploration hacking in AI debate. They are designed to be standalone, but we encourage interested readers to read both. The first focuses on our empirical results , this post focuses on a new conceptual framework. Authors Jason Brown*, Nathalie Kirc...",
+    "link": "https://www.alignmentforum.org/posts/am5w2t9LzJB4sRhKw/a-conceptual-framework-for-reasoning-about-exploration",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-08T19:13:48+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Un marco conceptual para el razonamiento sobre el hacking de exploración",
+    "summary_es": "Esta es la segunda de dos publicaciones resultantes de un reciente proyecto de investigación de Astra/MATS que investiga la piratería de exploración en el debate sobre la IA. Están diseñados para ser independientes, pero animamos a los lectores interesados ​​a leer ambos. El primero se centra en nuestros resultados empíricos, este post se centra en un nuevo marco conceptual. Autores Jason Brown*, Nathalie Kirc..."
+  },
+  {
+    "id": "c5e7b46fa700",
+    "title": "FLI President on the White House Executive Order",
+    "summary": "\"This is an important step in the right direction... but voluntary frameworks are not enough\"",
+    "link": "https://futureoflife.org/statement/fli-president-on-white-house-executive-order/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-06-03T11:37:00+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-20",
+    "title_es": "Presidente de la FLI sobre la Orden Ejecutiva de la Casa Blanca",
+    "summary_es": "\"Este es un paso importante en la dirección correcta... pero los marcos voluntarios no son suficientes\""
+  },
+  {
+    "id": "144383842589",
+    "title": "Did Google’s AI agents really build an operating system for $916?",
+    "summary": "The importance of independent evaluation",
+    "link": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-05-22T22:24:18+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "newsletter",
+    "date_added": "2026-09-20",
+    "title_es": "¿Los agentes de inteligencia artificial de Google realmente construyeron un sistema operativo por 916 dólares?",
+    "summary_es": "La importancia de la evaluación independiente"
+  },
+  {
+    "id": "810c7ee30777",
+    "title": "Do AI Risks Require Extraordinary Government Intervention?",
+    "summary": "Let’s not skip the hard work of AI governance",
+    "link": "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-05-21T13:19:41+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "newsletter"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "¿Los riesgos de la IA requieren una intervención gubernamental extraordinaria?",
+    "summary_es": "No nos saltemos el arduo trabajo de la gobernanza de la IA"
+  },
+  {
+    "id": "5daca3c92381",
+    "title": "Magnificent Humanity – The Pope’s First Encyclical Concerns AI",
+    "summary": "Everything you need to know about the upcoming encyclical on AI.",
+    "link": "https://futureoflife.org/religion/magnificent-humanity-the-popes-first-encyclical-concerns-ai/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-05-20T17:34:54+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Humanidad magnífica: la primera encíclica del Papa preocupa a AI",
+    "summary_es": "Todo lo que necesitas saber sobre la próxima encíclica sobre IA."
+  },
+  {
+    "id": "087b16b98faa",
+    "title": "White House working group on AI – Statement from FLI’s Anthony Aguirre",
+    "summary": "\"This move by the White House is also a recognition that Big Tech cannot self-regulate, and that the status quo is unacceptable.\"",
+    "link": "https://futureoflife.org/statement/white-house-working-group-on-ai/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-05-05T21:31:53+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Grupo de trabajo de la Casa Blanca sobre IA – Declaración de Anthony Aguirre del FLI",
+    "summary_es": "\"Esta medida de la Casa Blanca es también un reconocimiento de que las grandes empresas tecnológicas no pueden autorregularse y que el status quo es inaceptable\"."
+  },
+  {
+    "id": "f02c353e0b32",
+    "title": "Open-world evaluations for measuring frontier AI capabilities",
+    "summary": "Introducing CRUX, a new project for evaluating AI on long, messy tasks",
+    "link": "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-04-16T17:47:29+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "newsletter",
+    "date_added": "2026-09-20",
+    "title_es": "Evaluaciones de mundo abierto para medir las capacidades de IA de vanguardia",
+    "summary_es": "Presentamos CRUX, un nuevo proyecto para evaluar la IA en tareas largas y complicadas"
+  },
+  {
+    "id": "5c9c4b70456d",
+    "title": "FLI’s President and CEO on Trump’s support for an AI ‘kill switch’",
+    "summary": "President Trump said during an interview aired yesterday by Fox Business that “there should be” when asked if AI needs […]",
+    "link": "https://futureoflife.org/statement/trumps-support-for-an-ai-kill-switch/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-04-16T14:04:48+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "El presidente y director ejecutivo de FLI sobre el apoyo de Trump a un 'interruptor de apagado' de IA",
+    "summary_es": "El presidente Trump dijo durante una entrevista transmitida ayer por Fox Business que \"debería haberlo\" cuando se le preguntó si la IA necesita […]"
+  },
+  {
+    "id": "e7c15e7b9ce8",
+    "title": "FLI CEO’s statement on the attack against Sam Altman’s home",
+    "summary": "Anthony Aguirre, President and CEO of the Future of Life Institute, issued the following statement in response to the attack […]",
+    "link": "https://futureoflife.org/statement/attack-against-sam-altmans-home/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-04-10T22:56:20+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Declaración del CEO de FLI sobre el ataque a la casa de Sam Altman",
+    "summary_es": "Anthony Aguirre, presidente y director ejecutivo del Future of Life Institute, emitió la siguiente declaración en respuesta al ataque […]"
+  },
+  {
+    "id": "de7a28688ddd",
+    "title": "Prominent Scientists, Faith Leaders, Policymakers and Artists Call for a Prohibition on Superintelligence, as Poll Shows Americans Don’t Want It",
+    "summary": "Initial signatories include AI pioneers Yoshua Bengio and Geoffrey Hinton, leading media voices Steve Bannon and Glenn Beck, Obama's National Security Advisor Susan Rice, business trailblazers Steve Wozniak and Richard Branson, five Nobel Laureates, former Irish President Mary Robinson, actors Stephen Fry and Joseph Gordon-Levitt, and hundreds o...",
+    "link": "https://futureoflife.org/press-release/prominent-scientists-faith-leaders-policymakers-and-artists-call-for-a-prohibition-on-superintelligence/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-03-27T18:37:50+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-20",
+    "title_es": "Destacados científicos, líderes religiosos, formuladores de políticas y artistas piden que se prohíba la superinteligencia, mientras una encuesta muestra que los estadounidenses no la quieren",
+    "summary_es": "Los firmantes iniciales incluyen a los pioneros de la IA Yoshua Bengio y Geoffrey Hinton, las principales voces de los medios Steve Bannon y Glenn Beck, la asesora de seguridad nacional de Obama, Susan Rice, los pioneros empresariales Steve Wozniak y Richard Branson, cinco premios Nobel, la ex presidenta irlandesa Mary Robinson, los actores Stephen Fry y Joseph Gordon-Levitt, y cientos de..."
+  },
+  {
+    "id": "8e83173315bf",
+    "title": "Statement: Head of US Policy on the White House AI legislative recommendations",
+    "summary": "The White House published it’s long-awaited AI legislative recommendations on Friday, and it still includes a call for Congress to […]",
+    "link": "https://futureoflife.org/statement/head-of-us-policy-on-the-white-house-ai-legislative-recommendations/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-03-22T22:12:48+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Declaración: Jefe de Política de EE. UU. sobre las recomendaciones legislativas de IA de la Casa Blanca",
+    "summary_es": "La Casa Blanca publicó el viernes sus tan esperadas recomendaciones legislativas sobre IA, y todavía incluye un llamado al Congreso para […]"
+  },
+  {
+    "id": "804f3e5e2e2e",
+    "title": "Governor DeSantis Directs Florida State Agencies to Partner with Future of Life Institute to Shield Families from AI Harm",
+    "summary": "The collaboration will produce a Crisis Counselor Training Curriculum and a statewide AI Harms Reporting Form targeting dangerous AI companion applications",
+    "link": "https://futureoflife.org/press-release/desantis-directs-florida-agencies-to-partner-with-fli/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-03-09T13:45:13+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "El gobernador DeSantis ordena a las agencias estatales de Florida que se asocien con Future of Life Institute para proteger a las familias del daño de la IA",
+    "summary_es": "La colaboración producirá un plan de estudios de capacitación para consejeros de crisis y un formulario de informe de daños de IA en todo el estado dirigido a aplicaciones complementarias de IA peligrosas."
+  },
+  {
+    "id": "be03f0a94844",
+    "title": "“This is What it Means to be Pro-Human” Declares Broad Coalition of Conservative, Progressive, and Civil Society Groups in Statement of Shared Principles on AI",
+    "summary": "Amid a rising backlash to Silicon Valley overreach, a remarkably diverse group from across the political spectrum announced a set of AI principles to clearly define the goals of the emerging pro-human movement.",
+    "link": "https://futureoflife.org/press-release/statement-of-shared-principles-on-ai/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-03-04T22:12:38+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "sociedad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "“Esto es lo que significa ser prohumano”, declara una amplia coalición de grupos conservadores, progresistas y de la sociedad civil en una declaración de principios compartidos sobre la IA",
+    "summary_es": "En medio de una creciente reacción contra la extralimitación de Silicon Valley, un grupo notablemente diverso de todo el espectro político anunció un conjunto de principios de IA para definir claramente los objetivos del emergente movimiento prohumano."
+  },
+  {
+    "id": "ae1ab070f394",
+    "title": "Statement from Max Tegmark on the Department of War’s ultimatum",
+    "summary": "\"Our safety and basic rights must not be at the mercy of a company's internal policy; lawmakers must work to codify these overwhelmingly popular red lines into law.\"",
+    "link": "https://futureoflife.org/ai/tegmark-statement-on-dow-ultimatum/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-02-27T09:30:44+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza",
+      "sociedad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Declaración de Max Tegmark sobre el ultimátum del Departamento de Guerra",
+    "summary_es": "\"Nuestra seguridad y nuestros derechos básicos no deben estar a merced de la política interna de una empresa; los legisladores deben trabajar para codificar en ley estas líneas rojas abrumadoramente populares\"."
+  },
+  {
+    "id": "abe47a377a5c",
+    "title": "New Paper: Towards a science of AI agent reliability",
+    "summary": "Quantifying the capability-reliability gap",
+    "link": "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-02-24T13:07:19+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "newsletter",
+    "date_added": "2026-09-20",
+    "title_es": "Nuevo artículo: Hacia una ciencia de la confiabilidad de los agentes de IA",
+    "summary_es": "Cuantificar la brecha entre capacidad y confiabilidad"
+  },
+  {
+    "id": "c1ebc5f1889c",
+    "title": "AI Won’t Automatically Make Legal Services Cheaper",
+    "summary": "Applying the AI as Normal Technology framework to legal services",
+    "link": "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-02-12T19:26:05+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "newsletter",
+    "date_added": "2026-09-20",
+    "title_es": "La IA no abaratará automáticamente los servicios legales",
+    "summary_es": "Aplicación del marco de IA como tecnología normal a los servicios legales"
+  },
+  {
+    "id": "f3ba7e640ed5",
+    "title": "Future of Life Institute Launches Multimillion Dollar Nationwide AI Regulation Campaign",
+    "summary": "The Protect What’s Human campaign will push for commonsense AI safety rules at federal and state level",
+    "link": "https://futureoflife.org/press-release/fli-launches-multimillion-dollar-nationwide-ai-regulation-campaign/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-02-09T22:12:40+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Future of Life Institute lanza una campaña nacional multimillonaria para regular la IA",
+    "summary_es": "La campaña Protect What's Human impulsará la adopción de normas de sentido común sobre seguridad de la IA a nivel federal y estatal."
+  },
+  {
+    "id": "919096016ccc",
+    "title": "Fact checking Moravec's paradox",
+    "summary": "This famous aphorism is neither true nor useful",
+    "link": "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-01-29T22:35:47+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "newsletter",
+    "date_added": "2026-09-20",
+    "title_es": "Comprobación de hechos de la paradoja de Moravec",
+    "summary_es": "Este famoso aforismo no es verdadero ni útil"
+  },
+  {
+    "id": "e22350abbcde",
+    "title": "AI Company Safety Practices Fall Short of Public Commitments and Show Structural Weaknesses, as Top Performers Widen the Gap",
+    "summary": "But in a win for transparency, five leading companies participated in the scorecard's survey for the first time, providing critical new information to the public.",
+    "link": "https://futureoflife.org/press-release/ai-company-safety-practices-fall-short-of-public-commitments/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2025-12-02T22:12:42+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Las prácticas de seguridad de las empresas de IA no cumplen con los compromisos públicos y muestran debilidades estructurales, a medida que las empresas con mejor desempeño amplían la brecha",
+    "summary_es": "Pero en una victoria para la transparencia, cinco empresas líderes participaron en la encuesta del cuadro de mando por primera vez, proporcionando nueva información crítica al público."
+  },
+  {
+    "id": "b6bbbeb2da65",
+    "title": "The U.S. Public Wants Regulation (or Prohibition) of Expert‑Level and Superhuman AI",
+    "summary": "Three‑quarters of U.S. adults want strong regulations on AI development, preferring oversight akin to pharmaceuticals rather than industry \"self‑regulation.\"",
+    "link": "https://futureoflife.org/recent-news/americans-want-regulation-or-prohibition-of-superhuman-ai/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2025-10-19T19:08:22+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "El público estadounidense quiere regulación (o prohibición) de la IA sobrehumana y de nivel experto",
+    "summary_es": "Tres cuartas partes de los adultos estadounidenses quieren regulaciones estrictas sobre el desarrollo de la IA y prefieren una supervisión similar a la de los productos farmacéuticos en lugar de una \"autorregulación\" de la industria."
+  },
+  {
+    "id": "9b5f2c623cf3",
+    "title": "Michael Kleinman reacts to breakthrough AI safety legislation",
+    "summary": "FLI celebrates a landmark moment for the AI safety movement and highlights its growing momentum",
+    "link": "https://futureoflife.org/ai-policy/michael-kleinman-reacts-to-breakthrough-ai-safety-legislation/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2025-10-03T13:16:13+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Michael Kleinman reacciona ante la innovadora legislación sobre seguridad de la IA",
+    "summary_es": "FLI celebra un momento histórico para el movimiento de seguridad de la IA y destaca su creciente impulso"
+  },
+  {
+    "id": "f107932f52c2",
+    "title": "A guide to understanding AI as normal technology",
+    "summary": "And a big change for this newsletter",
+    "link": "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2025-09-09T13:00:40+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "newsletter",
+    "date_added": "2026-09-20",
+    "title_es": "Una guía para entender la IA como tecnología normal",
+    "summary_es": "Y un gran cambio para este boletín."
+  },
+  {
+    "id": "68fcd5d6cfc2",
+    "title": "Google DeepMind Falls Behind OpenAI in Latest Safety Review; All AI Companies Still Falling Short, Say Experts",
+    "summary": "The Future of Life Institute’s 2025 summer update to its AI Safety Index shows some companies making incremental progress, but dangerous gaps remain in key categories such as risk assessment and controlling the systems they plan to build.",
+    "link": "https://futureoflife.org/press-release/google-deepmind-falls-behind-openai-in-latest-safety-review/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2025-07-17T22:12:46+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Google DeepMind se queda atrás de OpenAI en la última revisión de seguridad; Todas las empresas de inteligencia artificial aún se quedan cortas, dicen los expertos",
+    "summary_es": "La actualización de verano de 2025 del Future of Life Institute de su Índice de seguridad de IA muestra que algunas empresas están logrando avances graduales, pero persisten brechas peligrosas en categorías clave como la evaluación de riesgos y el control de los sistemas que planean construir."
+  },
+  {
     "id": "0b6adb9cffa4",
     "title": "Anthropic Picks Accenture For Third-Party AI Safety Evaluations",
     "summary": "Anthropic Picks Accenture For Third-Party AI Safety Evaluations Engadget",
