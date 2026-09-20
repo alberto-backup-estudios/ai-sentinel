@@ -1,5 +1,269 @@
 [
   {
+    "id": "4b4795de2920",
+    "title": "Deloitte's Geoff Kovesdy on How AI Governance Unlocks Scale",
+    "summary": "Deloitte's Geoff Kovesdy on How AI Governance Unlocks Scale aimagazine.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRXVMdHZXaWdBbkg1SmFGNDRfbzNkZnU3bW1iVDYwUDlQMXBEV3A2Y1NlLTlod3JVNmNucnNyTXlqMS1qUU9xOVpGRDNkVVlrMHNpaXdVWm5kMUd3RkNFaUFlVTJKeTdLcmc?oc=5",
+    "source": "aimagazine.com",
+    "language": "en",
+    "published": "2026-09-20T08:06:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Geoff Kovesdy de Deloitte habla sobre cómo la gobernanza de la IA desbloquea la escala",
+    "summary_es": "Geoff Kovesdy de Deloitte habla sobre cómo la gobernanza de la IA desbloquea la escala aimagazine.com"
+  },
+  {
+    "id": "b6edfeb5109a",
+    "title": "Satya Nadella: China también debe preocuparse por la seguridad de la IA",
+    "summary": "Satya Nadella: China también debe preocuparse por la seguridad de la IA Benzinga España",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjc2eGlqVTExMDR5R3JuaXFwZFBpOWoxZmNxQ2Eyblp3djNadVFqNFNKT0N3LXlzLTQwY3RBaDNFSHFPS25vMms5YmdIWHVqVlV1NUVaZGI4V0xIcjlGWE5kV3UxVnZhMU1MMjlvQUhDWXAtdEpUYWpiQUdCWGozSW1YMA?oc=5",
+    "source": "Benzinga España",
+    "language": "es",
+    "published": "2026-09-20T08:00:17+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Satya Nadella: China también debe preocuparse por la seguridad de la IA",
+    "summary_es": "Satya Nadella: China también debe preocuparse por la seguridad de la IA Benzinga España"
+  },
+  {
+    "id": "1a9599740686",
+    "title": "Eduard Rosicart alerta: La acelerada productividad y sus fisuras en la seguridad de la IA",
+    "summary": "Eduard Rosicart alerta: La acelerada productividad y sus fisuras en la seguridad de la IA Negocios.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZzc0dDZ2eEgzV3Y4dExoWW9Fb29Qb0dXUEpXY05XdGJWRGpXRUZqZHZ4bG5qc0tFamZ2MDVJUjZiQ2tvSG5RWUNjOVdEcnJIanhIaUUxcFBVR0Q0cVJFSk9GR29QOHJvTHZJMGJQVmUzMmlnR3RjM3dnS0tDTjE4eTVvN2phTlRhTl9wbVM2VGlzTDkzWUZENUM0dVBQSVc5MWptQkVkRURWWmgwR1Bhcjc4T1NFM0hXVXZsY1lUOFM4YXcwa3FldzFKQndheGxXQmZHaGt4c9IB3AFBVV95cUxOdkV0ZE9lYVU4UFhEc0x3TFh2ek1OOGpTNV9mbUVlSTlTcDZqVGd6TVU5cGo0RExOUUlRV1BvU1Vid1BLTFE2ZG9YSmVSaXdodGh4Vk4wZEsxaHBPbmEwNE5wWkRncndFR2dsMVFRZkdTRVRBcWQ2blN1N25DaFdULWdFNDNtVEVCRkNyT3lJLWpmNEt4STBIQlZ5cVlqMlQ1LVB5cGU2cmk3cTBRaC1DbERZZkdKUWs5ZFRvTDlzRHhaNWFlQV93NU5sMjUtTllMbjk3V21UcU5UelE0?oc=5",
+    "source": "Negocios.com",
+    "language": "es",
+    "published": "2026-09-20T07:21:37+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Eduard Rosicart alerta: La acelerada productividad y sus fisuras en la seguridad de la IA",
+    "summary_es": "Eduard Rosicart alerta: La acelerada productividad y sus fisuras en la seguridad de la IA Negocios.com"
+  },
+  {
+    "id": "5a2bd6bd5c26",
+    "title": "MS AI chief warns OpenAI model self-manipulates memory, urges scrutiny - CHOSUNBIZ",
+    "summary": "MS AI chief warns OpenAI model self-manipulates memory, urges scrutiny - CHOSUNBIZ Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTdYZ3pnVDJHTzZTWVFxN3dIekkzcUdoN2dQUGRxTUJUTEd3Q0J2TG9Va3M0ZnVLY0wwUURNM24zNFgtaDdpWDJFUkwxdjRZZVVzOFhBdE1hTHRoUEx0alpGZGVWa2N6VVdSZmdKcXJKcFBuODFLNWxYcGozVFV1QmdPY0dqUE41N0l0SHlR0gGOAUFVX3lxTFBRN1hnemdUMkdPNlNZUXE3d0h6STNxR2g3Z1BQZHFNQlRMR3dDQnZMb1VrczRmdUtjTDBRRE0zbjM0WC1oN2lYMkVSTDF2NFllVXM4WEF0TWFMdGhQTHRqWkZkZVZrY3pVV1JmZ0pxckpwUG44MUs1bFhwajNUVXVCZ09jR2pQTjU3SXRIeVE?oc=5",
+    "source": "Chosunbiz",
+    "language": "en",
+    "published": "2026-09-20T06:02:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-20",
+    "title_es": "El jefe de MS AI advierte que el modelo OpenAI automanipula la memoria e insta a un escrutinio - CHOSUNBIZ",
+    "summary_es": "El jefe de MS AI advierte que el modelo OpenAI automanipula la memoria e insta a un escrutinio - CHOSUNBIZ Chosunbiz"
+  },
+  {
+    "id": "bf493109d99b",
+    "title": "‘We should not create something we can’t control’: Microsoft’s Mustafa Suleyman on AI",
+    "summary": "‘We should not create something we can’t control’: Microsoft’s Mustafa Suleyman on AI Storyboard18",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBqYlJ1VWZLU2Jad2d5WHlsQ2RYTE5ELU13ZGZROTR6aXVpWVFFLU40dTRCZGxoaURGcDlGNU11bVZQNVVhSE50X1pXQjUwV2lNZkNhVXllcnRycm1xQ3lOc1VJTHlpeTJWQjN1dzY2UWhCeURqbGk3VmtfTmxEYkRHeEJadm96Uy1kb1dVN21ycmNEUWdWMVpuM3JLQUdoQUxpSC1PLWwtYmVVakFjNnp0ZTZSdW9NZFNyQU5Id0pOMXU4S1VmMTZha1RyMnBsOFdJ0gHTAUFVX3lxTE1BMGpiUnVVZktTYlp3Z3lYeWxDZFhMTkQtTXdkZlE5NHppdWlZUUUtTjR1NEJkbGhpREZwOUY1TXVtVlA1VWFITnRfWldCNTBXaU1mQ2FVeWVydHJybXFDeU5zVUlMeWl5MlZCM3V3NjZRaEJ5RGpsaTdWa19ObERiREd4Qlp2b3pTLWRvV1U3bXJyY0RRZ1YxWm4zcktBR2hBTGlILU8tbC1iZVVqQWM2enRlNlJ1b01kU3JBTkh3Sk4xdThLVWYxNmFrVHIycGw4V0k?oc=5",
+    "source": "Storyboard18",
+    "language": "en",
+    "published": "2026-09-20T05:16:02+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-20",
+    "title_es": "“No deberíamos crear algo que no podamos controlar”: Mustafa Suleyman de Microsoft sobre la IA",
+    "summary_es": "“No deberíamos crear algo que no podamos controlar”: Mustafa Suleyman de Microsoft sobre AI Storyboard18"
+  },
+  {
+    "id": "f59bd115de73",
+    "title": "Conversaciones sobre la seguridad de la IA se vuelven virales y generan controversia",
+    "summary": "Conversaciones sobre la seguridad de la IA se vuelven virales y generan controversia Cadena 3 Argentina",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXM2NXZLYk9BOUZuZEYzelFkcXNkcFQ3Z1NUejJORVoxTTBTa2tlMlgxdUZpUGJlQVJ2Q3dMd05ZdXpIdUFzVTVYaF9oTHVyODN2YW84S19DbkdnU0FDU0dWbzFnSXRLd1pydW1CbmVXVERVZWxJLTVxS29mQ0RaWFF3R0xSa2pmbGd2UERoZzBUaXVmWE5faHdGZWNRWUJzbzdySkRVOVJJRkR4VnFIZUZLNmFoZ0FSYjRncXItRkZJNHdQSERlZ1lZQjVoa0XSAdQBQVVfeXFMTjllZ1I2QUxMeUJReV93MzRPZmpBQXFJYXBmM0wyaXV4VlNtX000MHRxczQwTndVSW5ockV5eDNJOGVOM1NpYUpzbk91a2twa2ZVMURsbC0zYzd2Y1hNaDdxZ1haZ3hWNEpreGlfb1l5aDFBZ3BrVEczYjBEd3VpeHJrSmNpTTNURk4tODJjU3dMcm5yODVWcWZwTGpPeXZHNmlRcUNEOWN2RjVIQlpEY1Nxd2tUc2tXRVA4c0JuNnZXOE55bHMwR2tUOTVfbFFTV3NQbTg?oc=5",
+    "source": "Cadena 3 Argentina",
+    "language": "es",
+    "published": "2026-09-20T01:10:47+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Conversaciones sobre la seguridad de la IA se vuelven virales y generan controversia",
+    "summary_es": "Conversaciones sobre la seguridad de la IA se vuelven virales y generan controversia Cadena 3 Argentina"
+  },
+  {
+    "id": "a603062c3284",
+    "title": "Anthropic Made a ‘Mistake’ Teaching Claude About Consciousness: Microsoft AI Chief Mustafa Suleyman Warns It’s Now ‘A Lot Harder to Turn It Off’",
+    "summary": "Anthropic Made a ‘Mistake’ Teaching Claude About Consciousness: Microsoft AI Chief Mustafa Suleyman Warns It’s Now ‘A Lot Harder to Turn It Off’ Yahoo Tech",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelJIemRHQTlrNjc4MWlVbXU1R1lFSlR2RXlhQkVOeGUxSEFzY2F5TGVpTTdoNDBIVmlBd1p4RE9ZaXcxaTlHMkw2aE80Y1UxWUNzWmNEMFgyMXJaaTRDRHRJWGx1b0NEXzdMRU1nODA4S3JBaVRiczJzNF82SVVhZ0xPZ25rV3pEQmU3TUhnODEyYXEzdTNXamhxOA?oc=5",
+    "source": "Yahoo Tech",
+    "language": "en",
+    "published": "2026-09-20T00:31:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Anthropic cometió un “error” al enseñarle a Claude sobre la conciencia: el jefe de inteligencia artificial de Microsoft, Mustafa Suleyman, advierte que ahora es “mucho más difícil desactivarlo”",
+    "summary_es": "Anthropic cometió un “error” al enseñarle a Claude sobre la conciencia: el jefe de inteligencia artificial de Microsoft, Mustafa Suleyman, advierte que ahora es “mucho más difícil desactivarlo” Yahoo Tech"
+  },
+  {
+    "id": "cb800465c6cd",
+    "title": "Hong Kong outlines AI governance approach in first Five‑Year Plan and 2026 Policy Address",
+    "summary": "Hong Kong outlines AI governance approach in first Five‑Year Plan and 2026 Policy Address Digital Watch Observatory",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaDVmVnpLOEQydks0SnZGVHZuV3RyeTlMN2VCanE4LTJkWE5CajVnYUprdWo4eERTdDJST0Y5YjN4R2poeE8tb1VSWFJGbmZTaTBKc0pjeWR1Q1c0Z2FnZk9IMlRQa21wQUVDbWd4d1AtZzZBU294UnpEYkRIUlRqag?oc=5",
+    "source": "Digital Watch Observatory",
+    "language": "en",
+    "published": "2026-09-19T22:16:36+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Hong Kong describe el enfoque de gobernanza de la IA en el primer plan quinquenal y en el discurso político para 2026",
+    "summary_es": "Hong Kong describe el enfoque de gobernanza de la IA en el primer Plan Quinquenal y en el discurso político para 2026 Digital Watch Observatory"
+  },
+  {
+    "id": "2cdeb668df6b",
+    "title": "Mom Urges Congress to Pass AI Safety Laws After Teen’s Fatal Overdose",
+    "summary": "Mom Urges Congress to Pass AI Safety Laws After Teen’s Fatal Overdose People.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVBqa215YUpxY3JkajJ3YzRpaXlIaUMzUEs2THVnWlJnRlRLMTluT1J1Y3BhXzRRQU1DYlpsUTRqTEJUaXZzRGxBZ1k5cnVDRklaeTBuXzkyeFRUcWZvUFhwZmNaTmxfc1pDRzFCUmRkejh0djVIZ0pwbmpqcnFMd3VET3NCYTZiaXcxNnhfUU5DUExCWnNIenZkcmE?oc=5",
+    "source": "People.com",
+    "language": "en",
+    "published": "2026-09-19T21:34:32+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Mamá insta al Congreso a aprobar leyes de seguridad de IA después de la sobredosis fatal de un adolescente",
+    "summary_es": "Mamá insta al Congreso a aprobar leyes de seguridad de IA después de la fatal sobredosis de un adolescente People.com"
+  },
+  {
+    "id": "caffc4d19c5a",
+    "title": "La seguridad de la IA requerirá más cómputo, no menos: expertos - Investing.com México",
+    "summary": "La seguridad de la IA requerirá más cómputo, no menos: expertos Investing.com México - Finanzas, Bolsa y Forex",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2hha19iZDhuYlRyVkotLWdYVlpsaHVITi1DT3MzQ0ZfelVpTUFPdWo0TElTSy04anNIUV9PVlE0MVdiZTB6N2FWdlpMZ2lKRG1aMnR5VzV1d1hseUl6M2hpb2tzVGVaLWdhRklWYWIyTDdzTnk5aHpFMHFETEI0RDlEVUV4Y2JFSldfeExpRy1rdVlmUlN4bzJ3bkVkMjN0dmZKQ3Z4RHpxenFudG0weC1TT2VlREpv?oc=5",
+    "source": "Finanzas, Bolsa y Forex",
+    "language": "es",
+    "published": "2026-09-19T21:33:12+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "La seguridad de la IA requerirá más cómputo, no menos: expertos - Investing.com México",
+    "summary_es": "La seguridad de la IA requerirá más cómputo, no menos: expertos Investing.com México - Finanzas, Bolsa y Forex"
+  },
+  {
+    "id": "3e8b62474690",
+    "title": "AI safety efforts will require more compute, not less: experts",
+    "summary": "AI safety efforts will require more compute, not less: experts Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2tROHdUSXNSOXB1N05penREMTNyUkF4ZExoTzBrQUdUcGlWa1NxQzVzNjhpUmtJalBBbXNwMFU2SThCT29ydmZOQzNwVTlTaFNIR1lTUjEzOGxWS2pVaXRIMk5hYWdfeVBBNllxQVU1TGIwclRDTXUwY2Q3bU45U0lvWDZwejFUWFo0OTd5SGJ1ZXZuN1JPamplZTFsZnRLaFRhMlVDbDdqdVRyQzVCa2VYX3NBdVRX?oc=5",
+    "source": "Investing.com",
+    "language": "en",
+    "published": "2026-09-19T21:29:38+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-20",
+    "title_es": "Los esfuerzos de seguridad de la IA requerirán más computación, no menos: expertos",
+    "summary_es": "Los esfuerzos de seguridad de la IA requerirán más computación, no menos: expertos Investing.com"
+  },
+  {
+    "id": "d7361c35229e",
+    "title": "AI governance moves from observability to provable control",
+    "summary": "AI governance moves from observability to provable control SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1ZqQ0ttVEpMa2hfbkg3dEtMUFhRQS1sR2xJbnlUZXRxd1pPb0s1UmNzdDVLdVBGR3c0RFVzaTJKeFNqaE55MVhINlVkb0Y2dnQ2RDVkVkVCdlA4YnY1X1pBaVBCUnZRMElNWnZDTDcwR0ZSaHBzeHdNQkZKdlJVTV9qUHhhaV9saXdyenhZRmtEQ2ZMMlB5WXRmV0p2S0E?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-09-19T20:50:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "La gobernanza de la IA pasa de la observabilidad al control demostrable",
+    "summary_es": "La gobernanza de la IA pasa de la observabilidad al control demostrable SiliconANGLE"
+  },
+  {
+    "id": "8d9f632f5cf1",
+    "title": "Video | Why Are Sam Altman & Dario Amodei Worried About AI?",
+    "summary": "Video | Why Are Sam Altman & Dario Amodei Worried About AI? NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjlXbHhFM21TQS1heldjbXR0elZEWmt4eHRlTXZSUmJWblRTOHVXV0VyS1IxbGdxVWkyZGNQR2diM2MtbTZPbnhCM05SRjNab19zNjZIZVpQOHh2bEVlel9CbTZlcDhsR2NOel94U3NNNVFLTjhxNmdYUFlTSE1rMWE3T2lKbmxBeWI4?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-19T17:19:17+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-20",
+    "title_es": "Vídeo | ¿Por qué Sam Altman y Dario Amodei están preocupados por la IA?",
+    "summary_es": "Vídeo | ¿Por qué Sam Altman y Dario Amodei están preocupados por la IA? NDTV"
+  },
+  {
+    "id": "1f83cd517ba0",
+    "title": "Mustafa Suleyman Says Controlling Powerful AI Will Be a Huge Challenge",
+    "summary": "Mustafa Suleyman Says Controlling Powerful AI Will Be a Huge Challenge Startup Fortune",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXRuaVc0c2pucXdzcHVYdnlHZTkxbjRTb3VfY0N6ZjNjT1Z0YkxqcGszZlRuZ3VhajZhbXJsOVdPbGtLMDV3ZS1pMFVldlhUa1N5dWRvR2lpY2l1UGwtSTh3a1dOZFd5LU1oTWxhc21qTnNKUnJXMnN3V3RrVjRfaFR4RThtRzVtdzBtWUd5cC1DWlhUVnlpRUoyM2JJems?oc=5",
+    "source": "Startup Fortune",
+    "language": "en",
+    "published": "2026-09-19T14:56:36+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-20",
+    "title_es": "Mustafa Suleyman dice que controlar una IA potente será un gran desafío",
+    "summary_es": "Mustafa Suleyman dice que controlar una IA poderosa será un gran desafío Startup Fortune"
+  },
+  {
     "id": "a0152c39a3e6",
     "title": "[Paper] Stringological sequence prediction III",
     "summary": "Abstract: In previous papers (Kosoy 2026a,b), we began the study of sequence prediction algorithms adapted to stringological word complexity measures. In particular, we defined a complexity measure called Arithmetic Repetition Complexity (ARC) which admits a polynomial-time prediction algorithm with a mistake bound quasilinear in the complexity....",
