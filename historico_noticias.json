@@ -1,5 +1,338 @@
 [
   {
+    "id": "e798f5c18cf5",
+    "title": "Gov. Hochul expands AI safety laws in New York",
+    "summary": "Gov. Hochul expands AI safety laws in New York WPTZ",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2RiSDc5SnpXZW04N0xwMmVwQ1dGcmo3OEw0d1p6Wm1JRjZCdnhhNGhvQ0JhWGhuNmU2al9KUEI0RUNSZ3NJM09MendaWnBjRkxIWlJ1NmY1QkdNTHViNnhwV0puajBoTXJ0TUlmSmJJQlNyWTV0NlRlb1JzVkg3ckxaYVk?oc=5",
+    "source": "WPTZ",
+    "language": "en",
+    "published": "2026-09-21T21:25:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "El gobernador Hochul amplía las leyes de seguridad de la IA en Nueva York",
+    "summary_es": "El gobernador Hochul amplía las leyes de seguridad de la IA en Nueva York WPTZ"
+  },
+  {
+    "id": "9025535e4150",
+    "title": "OpenAI Calls for New AI Safety Rules After Agents Evaded Controls",
+    "summary": "OpenAI Calls for New AI Safety Rules After Agents Evaded Controls Law Commentary",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVRXcko0MTZhVWVqRWNSRUtuU0pudWNqeThVckp6aEEyQjVxcElSYmJCVEdPNWtIaDlEQkFJRmo0ZW9zdERJQV9QNTl3M082dGkzdUhoVmJXX05OeG1LbkxoY2ZHbzlwbFpNT01sMUNvdXoxV1pwbWFrcVRHWGMzXzRNRjlsVTZjVkhQcg?oc=5",
+    "source": "Law Commentary",
+    "language": "en",
+    "published": "2026-09-21T21:12:08+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "OpenAI pide nuevas reglas de seguridad para la IA después de que los agentes eludieran los controles",
+    "summary_es": "OpenAI pide nuevas reglas de seguridad para la IA después de que los agentes eludieran el comentario de la ley de controles"
+  },
+  {
+    "id": "fc3f3a665852",
+    "title": "AI safety debate: MIT professor warns of superintelligence risks",
+    "summary": "AI safety debate: MIT professor warns of superintelligence risks foxbusiness.com",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16ZEhvTWx3RVBMZ3U3WjFLMGZMbk5QbkZZTE9laVlSRHdDS2pQNmIzaXJQMGdxRWxxS3VNMzNPVEREaGZVN1k2Q1JwTEtQaGtpdmE2b0h4azcyWjg?oc=5",
+    "source": "foxbusiness.com",
+    "language": "en",
+    "published": "2026-09-21T21:09:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Debate sobre la seguridad de la IA: un profesor del MIT advierte sobre los riesgos de la superinteligencia",
+    "summary_es": "Debate sobre la seguridad de la IA: profesor del MIT advierte sobre los riesgos de la superinteligencia foxbusiness.com"
+  },
+  {
+    "id": "0dd01e759ffd",
+    "title": "Magic Quadrant for AI Governance Platforms",
+    "summary": "Magic Quadrant for AI Governance Platforms IT Pro",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmctblBCajFhVHN3S1J6TERmRlJSOHlyQVNxY3dmMWlGN0JCdDBiYTk0dWxJV1lEbWRKWE5jQlhJS0d2NnpZY3o2TEtBWGgxR1ZpNXd4azdRYWgzY0k2TXNZZnNZb3lZV3cxS2p3a2VEWXBIM0ZhOThFbzJSQlBXRUs5cHFsbWdtZzFpdXhBTS1iUEM5aDV4cl8wb2VyZF9F?oc=5",
+    "source": "IT Pro",
+    "language": "en",
+    "published": "2026-09-21T20:26:43+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Cuadrante Mágico para Plataformas de Gobernanza de IA",
+    "summary_es": "Cuadrante Mágico para plataformas de gobernanza de IA IT Pro"
+  },
+  {
+    "id": "003329a4ac36",
+    "title": "Ruto urges world to centre the United Nations in AI governance",
+    "summary": "Ruto urges world to centre the United Nations in AI governance Daily Nation",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMU9SanlrNVRvcVI2THhvSml0WUdyYU9jcXBpaUVIa2E2VHR1OTJEbWtjQXZuUjVlY2pPTmdpLW12MnZndFgzTXdISXhCSDgyVHRvUDE3RWx1Z0pMMmR2bmtaQ3BudWlXTkdlaWt5dk9lbjRiZUdlZGNqSzBtZmFRX2FZdEJRNVZTZmNsYnFJOVY3bU5DT09ZdUFtR1dhdVNZR1RXLVVEdw?oc=5",
+    "source": "Daily Nation",
+    "language": "en",
+    "published": "2026-09-21T20:23:11+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Ruto insta al mundo a centrar a las Naciones Unidas en la gobernanza de la IA",
+    "summary_es": "Ruto insta al mundo a centrar a las Naciones Unidas en la gobernanza de la IA Daily Nation"
+  },
+  {
+    "id": "4deaaf678930",
+    "title": "OpenAI descarta una OPI en 2026 mientras crecen las dudas sobre la seguridad de la IA",
+    "summary": "OpenAI descarta una OPI en 2026 mientras crecen las dudas sobre la seguridad de la IA DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXlWWlFuQU9fQlc5eXVJNXg3aVZFQmJCbGpXWE42NVRwUGY1OVhrNkdtUFcwckJmYkltWVhacWg0elJDUnJQVi1DcVlkaG1lZGxiazRBbG1lYTkyUEo1VTU5ei0xdkljQzJ6cnBWei01cDVoclZhbW52ODI4Ti1FUEVwZEFKUzM0QmdXbW40Q1hwNlNwbUpEdzZoYmVDSlo0UEVWNFozQTJYeXhzWnhGLTZZWkZtUktMR0E1dldsSnViNzJwYWFPQk9fdw?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-21T19:52:30+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "OpenAI descarta una OPI en 2026 mientras crecen las dudas sobre la seguridad de la IA",
+    "summary_es": "OpenAI descarta una OPI en 2026 mientras crecen las dudas sobre la seguridad de la IA DiarioBitcoin"
+  },
+  {
+    "id": "1faed3665964",
+    "title": "Anthropic avanza con sus planes de salida a bolsa en medio del debate sobre la seguridad de la IA",
+    "summary": "Anthropic avanza con sus planes de salida a bolsa en medio del debate sobre la seguridad de la IA La Nación",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdE1zeTMwUnpINEllRi1TN1lJS3JqT3BHRGJOR3VfZDZxem9hVVVTenZrWk1MRUItVWJ6TXhSN1c3M2E5RkhGeHlhbk82TVRqa2FWMmhuMl95aTFzbE1qeUlVOFlBSHhTVmI1RmlGNzdSNFIwRHpSTUNpbjc4UHBZeWNmMXJseTNVTlFzVi0wc1VGMzEzc2RDamRDdnFmMFEtQ2swVHkzQklwWU1keEZ4YldzbTNRNXZwNklhczd3cGJKQ0I4RXM3MzhhMi1sQ2lvcGQ3TnMtbUIyaGhCZzZCNFg5VzI?oc=5",
+    "source": "La Nación",
+    "language": "es",
+    "published": "2026-09-21T19:17:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Anthropic avanza con sus planes de salida a bolsa en medio del debate sobre la seguridad de la IA",
+    "summary_es": "Anthropic avanza con sus planes de salida a bolsa en medio del debate sobre la seguridad de la IA La Nación"
+  },
+  {
+    "id": "900d722c61ec",
+    "title": "New York enacting AI safety regulations under RAISE Act starting November",
+    "summary": "New York enacting AI safety regulations under RAISE Act starting November WGRZ",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRkdFeVJKakNFcnpjT3Y2dE9aeVhZQWpzSGVLTGxvbndXOTcyNUNFMFM2Z0FqazJqRlowVE9td0s0Q0lSbU1uT0JQSjZDX2NyQmttWmFMWDE4dUJkdElMMHdqcVk0OWhUd2pocmFxWTBZMENHR2liUVpYUTh2anVpWkI0MEpzYThlZ0QyT2RjVXZfV0lDeTdxS0RuOGpmTGxld054NDUxdGdaZklhSDBuYXpGMWZ6TmlEQ25wdW5lTUp0MEUybVNpc3JKTVN2ZVVSaENsMi1JNmF6Rmc0TThCb2o5a3c3UQ?oc=5",
+    "source": "WGRZ",
+    "language": "en",
+    "published": "2026-09-21T19:04:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Nueva York promulgará regulaciones de seguridad de IA bajo la Ley RAISE a partir de noviembre",
+    "summary_es": "Nueva York promulgará regulaciones de seguridad de IA bajo la Ley RAISE a partir de noviembre WGRZ"
+  },
+  {
+    "id": "c72ec8ca8da4",
+    "title": "Científicos advierten que los controles de seguridad de la IA podrían quedar rezagados",
+    "summary": "Científicos advierten que los controles de seguridad de la IA podrían quedar rezagados comunicadores.mx",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2Rwb00zaFlvdDRDYUhpcTFGWURoVS1STDJOUjhYcHBqYnBwb3JvQnVmb3NSbUx5TUFpT3dwQjl5R2t0SUNtY0syNXQwM21kM1U2bW9wMm9LOTJBMDZ4S3ZlWkgyZFVPczVlaklGMlRPX1hpLUNTaktIcTBaNkxNZld6LWZHbFo2UnVOUS1tMmcwamJtSlNQcVNpY0VHQmlyUGxENV8zSVRYZ21hWVQxYzBPVFVub3dTRl9aTWE0SDc?oc=5",
+    "source": "comunicadores.mx",
+    "language": "es",
+    "published": "2026-09-21T18:47:09+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Científicos advierten que los controles de seguridad de la IA podrían quedar rezagados",
+    "summary_es": "Científicos advierten que los controles de seguridad de la IA podrían quedar rezagados comunicadores.mx"
+  },
+  {
+    "id": "1eaa1cc1723d",
+    "title": "A practical guide to AI governance in contact centers",
+    "summary": "A practical guide to AI governance in contact centers TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjRadFVSSWxfTmU5MGtlVlNmekszX081RERTNndvdXpFMEZjOHFMUjhfY084aVVRTjlTYjYyRm9yZHlvMG50OHllZmVNRmxsMXRUZGdmdHNzWk1raE5FOFlFbktCckRxZE5UM0xwYWZUWThodFI0eGF6T0g1OGx5dDRDa2pEdTI0YVFyZnREekNQWXJQMkhrOHByMm52em5tOVdDRkduRdIBrwFBVV95cUxPd2dXMENDUmZDd3FFSlp5QWdNVFgxRzdrNFNDakRGTjJHTzk0bFNENHIwRllxUjZDbm5HVjVUVE8tWUJCVnNRSzhNMlRoaUYxc3BPclFXbkE4Tk94U28yU0dNaXBONGlteWVDdHo3amxxaU5sQ1psSTJiRmU1SVJIQXhTb2h2VXJsdDZhNGE1TVRzTE5Vby1tNjRRMC1xYUs3cjNsclo0dVdwUGdhUDBn?oc=5",
+    "source": "TechTarget",
+    "language": "en",
+    "published": "2026-09-21T18:39:11+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Una guía práctica para la gobernanza de la IA en los centros de contacto",
+    "summary_es": "Una guía práctica para la gobernanza de la IA en los centros de contacto TechTarget"
+  },
+  {
+    "id": "705ef4023f95",
+    "title": "Finosec Announces AI Governance for Banks and Credit Unions",
+    "summary": "Finosec Announces AI Governance for Banks and Credit Unions The National Law Review",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1k4aTF5bmFDQTRsMm5PWE54MVEyRENEV3Z3dW5CVWlFNkZ1YV9ENjhjMFRpV3J6c3doN3dpaGRfcnFWNjBOeWVEaDVVX3B6bGFacjFydFR4ejNyakFlWkNKUno3ZUVEdzVJX3o0US04VG4zMUw3ODBBNUp5X0JWNVJwV1I3U3hqODN4dDN1NDUxWlIxb0VWU1lVMA?oc=5",
+    "source": "The National Law Review",
+    "language": "en",
+    "published": "2026-09-21T18:34:41+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Finosec anuncia gobernanza de IA para bancos y cooperativas de crédito",
+    "summary_es": "Finosec anuncia gobernanza de IA para bancos y cooperativas de crédito The National Law Review"
+  },
+  {
+    "id": "13038060f045",
+    "title": "Transient Secures Nasdaq Ventures Investment To Expand Bank-Grade AI Governance For Financial Institutions",
+    "summary": "Transient Secures Nasdaq Ventures Investment To Expand Bank-Grade AI Governance For Financial Institutions Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSW4tTHBNQ19oVk9Jc1huRE5PUDJHSzVFTTczRDFwb3lvaG1XUV9uZDd6TUFtRlhhR0VMX0EzVWlLeUhWWDl5b25oYjlWZGN6ME14dWpvbDlzTWFNMDEzeUJ1bjlCSzFRUFpiYW1LOG5VOXBGWGg2NHJySVRTTUxmVzQtbEVQSFQ3dTFSa2hYcmxhV0xXN25IN1VmUmF2WHhBb3d1c2xJdG5qbHA0ek0yU0hoSWhuYWZ0TGF2YlNqNlFFVFdk0gGYA0FVX3lxTE0tNkdwN0RhbUp4TmJmaEp5YnVpUUthU2tTMFppOVdDNThYNndlOGZTcVpBSzhnem5RVnR2WWxuODRQZkxSdkFBenJsWS1HRHdlNXlZVW9XTWVHcGQ1MnpnclNIYURKRDNBOUVCVks5U2YwUjFGUXN4ZWdvNUxNZm1tSkl6VGh1QUxPRGFoWjJtaExpZHFhZUE3UWQtdWcxVHp1THI1V29sSjZGX1U1M3NRUHp2WnZnV1Y1Q2x6VVBGRXlaQWZlUkRqcHdxQU9kRHBXcl9GYTJxbEw0RTk2d18tOEVUcWQyQ3hYcHJJcnltRTFMUTFTRExMOGVqbWhQNzE4TDQxUFI2ZGpOUGlHalpSUC00c09NRllzeW1WNjhYMVRjRk9PN0EzRUQ2T3J6bjlHa1ZRRVdtLTFJTjVhXzUtQmxYXzNPY2p5cU5aNk41M0diYkNJNmZhVHExcHhyNkRmdmJzTWdCMWVoZDctaFBRRC1VdmttcExHaUU1ZGdOdG1BWDdmVFQ2c2RhYkJjU0FXTzloTzZXQQ?oc=5",
+    "source": "Pulse 2.0",
+    "language": "en",
+    "published": "2026-09-21T18:15:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Transient asegura la inversión de Nasdaq Ventures para ampliar la gobernanza de la IA de nivel bancario para las instituciones financieras",
+    "summary_es": "Transient asegura la inversión de Nasdaq Ventures para ampliar la gobernanza de la IA de nivel bancario para las instituciones financieras Pulse 2.0"
+  },
+  {
+    "id": "4fbddf60467e",
+    "title": "OpenAI Releases Proposal for International AI Safety Coordination",
+    "summary": "OpenAI Releases Proposal for International AI Safety Coordination The Information",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVFNZmJaTWtvYXhOUU9ZaElFWmxYXzE3bXRxTVNxN2lrbkJfenhVb1c2dXUwOVJUbm5fdDNRUjB3bWdtQkNGeDFCdWlWQlhLT05tVExkaldoRHFyOXlyRE5waUV2ZDl6ajBKUDk1dVJTdzRKWW4tc3p2aUxhZXViOXRyVWV0WDBFaWg1T1ZidmY4bXRBM3NmXzZEM1RnbG55THFUMA?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-09-21T18:11:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "OpenAI publica propuesta para la coordinación internacional de la seguridad de la IA",
+    "summary_es": "OpenAI publica una propuesta para la coordinación internacional de la seguridad de la IA The Information"
+  },
+  {
+    "id": "ae4e1be8ac52",
+    "title": "Gartner Predicts AI Governance Failure for 60% of Organizations Ignoring Data Culture Challenges",
+    "summary": "Gartner Predicts AI Governance Failure for 60% of Organizations Ignoring Data Culture Challenges HPCwire",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWJRV1l2N2huYjh3WmhacVVYaDgyT3FEQjNQbm5fNFBzcHQxbk1jSGptckpQQmZGTWU5cHVRWlRmVWFJTkctRWl6bjRqa3VhRW9YZVNKWFlJZ2FWN193OHJXYnV5X003YXhQRmJJUnE2dGMzTzVUVWdYZ0JnREFRbS1acVlXeHhBZlpqMGUwcFliTWF3MG10Q1IyOGh1X1ZkbGV1RmozUkFFdUZIWko2WVBFd2RlaFJxRjBZOVRZSmhkcklldW9sSWxjanQ1YzFYdnNyRw?oc=5",
+    "source": "HPCwire",
+    "language": "en",
+    "published": "2026-09-21T17:53:24+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Gartner predice fallas en la gobernanza de la IA para el 60% de las organizaciones que ignoran los desafíos de la cultura de datos",
+    "summary_es": "Gartner predice fallas en la gobernanza de la IA para el 60% de las organizaciones que ignoran los desafíos de la cultura de datos HPCwire"
+  },
+  {
+    "id": "9322db72f987",
+    "title": "Optiv CISO: AI governance must not slow down cyber defense",
+    "summary": "Optiv CISO: AI governance must not slow down cyber defense MSSP Alert",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFYwdVU1S1FWZWdlOE1PRHlDeXFGaE4wVnl3ak1fU2Q4YWNaNWItZGNMaVREVnlxQmlBSWdyZTBEZ2YzMzNXeFgtRnNweVJwYk1BYkNOUlBaMHFOVGhNbDV6SjBpa204elp2TjJia1duMDVkNlVoX1BJY0dfNW5QZnVJampGb3RZX09QaWNSeUFZaG8?oc=5",
+    "source": "MSSP Alert",
+    "language": "en",
+    "published": "2026-09-21T15:59:46+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Optiv CISO: la gobernanza de la IA no debe ralentizar la ciberdefensa",
+    "summary_es": "Optiv CISO: la gobernanza de la IA no debe ralentizar la ciberdefensa MSSP Alert"
+  },
+  {
+    "id": "b2c8ce4feb31",
+    "title": "Microsoft AI CEO Sends Stark Warning on AI Rules",
+    "summary": "Microsoft AI CEO Sends Stark Warning on AI Rules TradingView",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2syQ2lUSEx1SzJDdjIxV0ZJc3ljalZZN29EVFRCY0h4NVRmb0Q2ZzZid3UyLWpYSThlR2s5cGs0anpNZ0JTdDNRUXZINVBGV1h0bUxWRFllY01YOF9ockRHaTJmWnJzeUNCYUtMTHZYTjRkSi1aOVo4MUpuZWNaX1I2TW1waEp6cmJQblJrUVF0QW1KYXVfVEk3YVU4SF9HUzVWYi1HSTVUTWRn?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-21T14:59:41+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "El CEO de Microsoft AI envía una severa advertencia sobre las reglas de AI",
+    "summary_es": "El CEO de Microsoft AI envía una severa advertencia sobre las reglas de AI TradingView"
+  },
+  {
+    "id": "b02c08ee747d",
+    "title": "Geoffrey Hinton, Nobel de Física y padrino de la IA (78 años): «Se va a descontrolar a menos que hagamos al...",
+    "summary": "Geoffrey Hinton, Nobel de Física y padrino de la IA (78 años): «Se va a descontrolar a menos que hagamos al... OkDiario",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTdseU5KSzVQTVY0aXFpMlBMeXR5LXNTeEMxQjgxNnk0bkN4QWVPckZhcWp6NnkyWm11d1BlN2VBVE5wY2xoRG5panQ4dDZFS3I5SDdUa2R6QUhPVVJTNkQzZGY0RGxEeHhOMVRzVHlxYmo0bVVzbXFlTThWLUREVTlrVFZJejJ2LS14aFZZTS11NHdQSW05S19jQVZEN1NEd3JseUpXRdIBpwFBVV95cUxNdTdseU5KSzVQTVY0aXFpMlBMeXR5LXNTeEMxQjgxNnk0bkN4QWVPckZhcWp6NnkyWm11d1BlN2VBVE5wY2xoRG5panQ4dDZFS3I5SDdUa2R6QUhPVVJTNkQzZGY0RGxEeHhOMVRzVHlxYmo0bVVzbXFlTThWLUREVTlrVFZJejJ2LS14aFZZTS11NHdQSW05S19jQVZEN1NEd3JseUpXRQ?oc=5",
+    "source": "OkDiario",
+    "language": "es",
+    "published": "2026-09-21T12:48:38+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "Geoffrey Hinton, Nobel de Física y padrino de la IA (78 años): «Se va a descontrolar a menos que hagamos al...",
+    "summary_es": "Geoffrey Hinton, Nobel de Física y padrino de la IA (78 años): «Se va a descontrolar a menos que hagamos al... OkDiario"
+  },
+  {
+    "id": "16a7436aa03b",
+    "title": "MSFT Stock: Redburn Raises Target To $440 As AI Safety, Spending Debate Continues",
+    "summary": "MSFT Stock: Redburn Raises Target To $440 As AI Safety, Spending Debate Continues TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0xBSzJhUHF2Zlh0QW5oOUF3dWt0RUltRFgwOHBNZ2lWaDNWcVkyRXRtb2FCcWtTNmIyYmlLWF9ZNUFRaVBfdktHZVFuM3lIcXYwc0htTUNTZF94eThBVk5TcG5uRHpGMUFDODZadEF6aFFBejR2S3NnbVFIZ0xGamctYmdEaTdhcFZmRUt3aHpTdXk5V2JKMXAxeDllZnBZTG9Cdml5dzR5VmxnUGZTMGJwQkk5YVUyV1czRzZ6N2ZjSEc4WGtTZXlvellRUk5KZVFuRGh3?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-21T12:40:33+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "Acciones de MSFT: Redburn eleva el objetivo a $ 440 mientras continúa el debate sobre la seguridad de la IA y el gasto",
+    "summary_es": "Acciones de MSFT: Redburn eleva el objetivo a $ 440 mientras continúa el debate sobre la seguridad de la IA y el gasto TradingView"
+  },
+  {
     "id": "dad64b292ebb",
     "title": "AI safety concerns: Washington, DC, leaders calling for action",
     "summary": "AI safety concerns: Washington, DC, leaders calling for action WRAL",
