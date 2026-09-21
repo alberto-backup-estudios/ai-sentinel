@@ -1,5 +1,377 @@
 [
   {
+    "id": "dad64b292ebb",
+    "title": "AI safety concerns: Washington, DC, leaders calling for action",
+    "summary": "AI safety concerns: Washington, DC, leaders calling for action WRAL",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaTVHUFBKRExibWFQY29STUc5Wk1GTWVhcUQwaTdoc3R4UWdLbnBUcmNUNXR6bVhFQ1lzeE1nc2RqRUd4SUxEX2FoRGJzS3M0VXFpUTZ0WXRPMEhsTTlXaFRDeTJGWnktM0RtM0ZORkItTkNLNW5oa3FqWElmYkFtVg?oc=5",
+    "source": "WRAL",
+    "language": "en",
+    "published": "2026-09-21T11:39:34+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Preocupaciones por la seguridad de la IA: Washington, DC, líderes que piden acción",
+    "summary_es": "Preocupaciones por la seguridad de la IA: Washington, DC, los líderes piden acción WRAL"
+  },
+  {
+    "id": "d75eb42c8634",
+    "title": "Trump and China's Xi Jinping Expected to Discuss AI Safety",
+    "summary": "Trump and China's Xi Jinping Expected to Discuss AI Safety TODAY.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnJsa3VLVERrT2VsVGRaa0FFSzR4TXZ1TWEzdGRaUmowc2NlN2I5YjZ6eEdUQXBha3hCQTY5RXRxSE1mSzB6dndsbkNiVHk5MkVRaVRRSzdEb3RZR0FPUnhsT0pad19wd2JPQU5fbFJucjJKUWFwbUsza0VqUDhEeWI3R1Y5aEFGM1VXMEFmTlh5anJaaXFKVXVvOEk1bUhB?oc=5",
+    "source": "TODAY.com",
+    "language": "en",
+    "published": "2026-09-21T11:38:16+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Se espera que Trump y Xi Jinping de China hablen sobre la seguridad de la IA",
+    "summary_es": "Se espera que Trump y Xi Jinping de China hablen sobre la seguridad de la IA TODAY.com"
+  },
+  {
+    "id": "04764bc06e40",
+    "title": "Cellular Intelligence suma a Bob Langer y Yann LeCun para acelerar nuevos medicamentos",
+    "summary": "Cellular Intelligence suma a Bob Langer y Yann LeCun para acelerar nuevos medicamentos DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUZ5MjljcFJJZHQ1TzVrV3NjUGd2OGhBOTZSdUEwcEF2S3RadVFINlJhWVZ5Z0JQemVPUU5hcUJHY2FEZUNwamVfUVVDNWcwTXpvTm5JM2RSa0tRbG1RNTJnejd0cjEzTVB3NEpSSWo1YVpYMGZESXVxRjNieDluZzlMem9aRXpHcklaWGxkc3RtdmVXYjdERU0xYk1GVzlEbUE2NHA1LTE0TDg2SnBsajQ4MVo4aFJxRVVnUThlZzBaenFlS1JVakVnTFI0Q3NGNnBF?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-21T11:35:45+00:00",
+    "feed_name": "Yann LeCun (Español)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "Cellular Intelligence suma a Bob Langer y Yann LeCun para acelerar nuevos medicamentos",
+    "summary_es": "Cellular Intelligence suma a Bob Langer y Yann LeCun para acelerar nuevos medicamentos DiarioBitcoin"
+  },
+  {
+    "id": "1206ba6f6b9f",
+    "title": "Why US and China Are Set to Launch an AI Safety Mechanism",
+    "summary": "Why US and China Are Set to Launch an AI Safety Mechanism AI Magazine",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmgwUW9yWXJwdDNzSDc1WkVjMTFxVVNIbEJMQVU0REVZVGlsX05TbzJkWHJmTEcwLTI1SlR6SXVVMWtCN2FLVEp2VU5MWFVrcEM4M1hZNmtfUklYN0Uza2RnNGZRVmtXX2tTcThrX1pfZHl3WjlEVDBBQ2tNSjVSdjdsUWszX01DV202eERjVS1mZw?oc=5",
+    "source": "AI Magazine",
+    "language": "en",
+    "published": "2026-09-21T11:22:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Por qué Estados Unidos y China están dispuestos a lanzar un mecanismo de seguridad de IA",
+    "summary_es": "Por qué Estados Unidos y China están preparados para lanzar un mecanismo de seguridad de IA Revista AI"
+  },
+  {
+    "id": "39c279c5c27d",
+    "title": "UC Berkeley's Stuart Russell on quest for safe AI: The technology right now is intrinsically unsafe",
+    "summary": "UC Berkeley's Stuart Russell on quest for safe AI: The technology right now is intrinsically unsafe CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTDQ0aHNxb3BZTmt3T2EzVVg3Y3FrcDI5T21Zbk1Mc2RHSWg1V3g4OV9aQ2ZtRUg1Z0V5RVRfN3NEaUs4eFFFa2xnWnR6aUItTVVQUnI1RVR4TFU4R0EwVTdkTHFyYmxPWW9hWGpyc1dOSFpRV3p5MzhjZjBIbzBoaVJxZ2lPbDV2MHZWblJHdUlUdGg5NEJxS1BGamMtYVlIRVZWbG9mWjRGcl9MQ2dhcXQwZ0lieTJjeUF1cXZOT0FtbGNVaUl6ZjI1Vk1tV3NaeXZIUEVwbw?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-09-21T11:11:23+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "Stuart Russell de UC Berkeley en busca de una IA segura: la tecnología en este momento es intrínsecamente insegura",
+    "summary_es": "Stuart Russell de UC Berkeley en busca de una IA segura: la tecnología en este momento es intrínsecamente insegura CNBC"
+  },
+  {
+    "id": "43410ec2c639",
+    "title": "Nvidia Chief Dismisses AI Safety Fears As 'doomsday Narratives'",
+    "summary": "Nvidia Chief Dismisses AI Safety Fears As 'doomsday Narratives' rttnews.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXA0OHNaaVh1V1lTdm5iYzN2Qlk4RUdMVEZVcmIwWnJ0cmVrMV9iN2tkWDE2bG9nb0JGdURwSHNua2dTd2VNTWlFT3laUU1JRG9fWTJtN0Njbk4yaXJFNHkyR3VvZUY2R29Qb0czQldKdnZjZXFBOUpfc05rNmJzSXNkZVBSTm9UcXhUeWc3dWZrZ1NzOEdLdDJ5OTJjbG8?oc=5",
+    "source": "rttnews.com",
+    "language": "en",
+    "published": "2026-09-21T11:07:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "El jefe de Nvidia descarta los temores sobre la seguridad de la IA como \"narrativas apocalípticas\"",
+    "summary_es": "El jefe de Nvidia descarta los temores sobre la seguridad de la IA como 'narrativas apocalípticas' rttnews.com"
+  },
+  {
+    "id": "3699869ae3b3",
+    "title": "Anthropic moves fast on AI safety concerns with Accenture “embedded evaluator” partnership",
+    "summary": "Anthropic moves fast on AI safety concerns with Accenture “embedded evaluator” partnership IT Pro",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU9LeWNlenVyRTZpZ201VnI3NEIzYXZFQXE2by1iWFZDV1gtVWVvbUJ6YWNWVnAzdm90bjFNM2N2YlM5VXlaa2lIWW9GSWxTcllHS3RuS2ZQeWRueHZTVFlGS1RZOEVQU2NtaG5pR3d3ZE5YMGtXUVMxOFEza2xUMWdsWVBLRXI0X28xVW5Fdld1Ty1zR05XNU8zbW1hbEtEOFl2ZDFMSVphc2ticTlyeGVWTThmd3NKTUZOdlhMNm1zSnE0NGxVeDdod3lqckprY0dsd3Bfakc0QXJNbnc?oc=5",
+    "source": "IT Pro",
+    "language": "en",
+    "published": "2026-09-21T10:40:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Anthropic avanza rápidamente en las preocupaciones de seguridad de la IA con la asociación de \"evaluador integrado\" de Accenture",
+    "summary_es": "Anthropic avanza rápidamente en las preocupaciones de seguridad de la IA con la asociación de “evaluador integrado” de Accenture IT Pro"
+  },
+  {
+    "id": "35c5e9e18659",
+    "title": "AI’s safety debate needs a clearer line",
+    "summary": "AI’s safety debate needs a clearer line techzine.eu",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzREYXE5dWtWQ2pvNDZlcVRRbXB2alAycm1LbkN0cEdILUp3dHN6ZXRQT0x4M0JmaHlNRmVFLVpKWjlrUGNaakx4b1lSTEViOVB5Q2liQ2FHMXVIeEdtQ05PbHplLThSQkl5eVYtYTlfZEJ2SDJrQXZOZTRoNk9mWE9zWmNIdnY5dDhDN3REM0tFV1Z0SVRDYUlENXhCUQ?oc=5",
+    "source": "techzine.eu",
+    "language": "en",
+    "published": "2026-09-21T10:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "El debate sobre la seguridad de la IA necesita una línea más clara",
+    "summary_es": "El debate sobre la seguridad de la IA necesita una línea más clara techzine.eu"
+  },
+  {
+    "id": "dad3b291dc27",
+    "title": "Accenture Shares Rise 6% Premarket Following $1 Billion AI Safety Partnership With Anthropic",
+    "summary": "Accenture Shares Rise 6% Premarket Following $1 Billion AI Safety Partnership With Anthropic Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVo2SnhialhwSkNJUlZ5OS1VLXVLZUNST0YzWUt4RFU2aEJXZFNSeFRTakV0bm0yZ1pnZVhDNWg2S0tXc0l3M3dtdmhwX2R3S1dFYlVzbXZQWUZjX3ZxbGZUSVk3SVlHMDVGZTJqV2d1aUJaN29lOW80ZGJOQzVJN0FhRU8wVkNpVkNqVTY5X295NHBzUUZ2TE5QdE45dw?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-09-21T10:28:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Las acciones de Accenture suben un 6% antes de la comercialización tras una asociación de seguridad de IA de mil millones de dólares con Anthropic",
+    "summary_es": "Las acciones de Accenture suben un 6% antes de la comercialización tras una asociación de seguridad de IA de mil millones de dólares con Anthropic Yahoo Finance"
+  },
+  {
+    "id": "b7d087b2e60c",
+    "title": "US And China Discuss AI Safety Plan Ahead Of Trump-Xi Summit",
+    "summary": "US And China Discuss AI Safety Plan Ahead Of Trump-Xi Summit Billings Gazette",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVU9WYU9COVpsUHFZSzU5SkZ2V1Z1ZGg4M21pZ3lRYU80T3k3UlZxNXNfdkhOVnRvSjVKd0FnYVVnOFd4S0hNVHNLSEwyZnI5YU1BeHdKTGFuYkp0NXhXQnpBUFlkTC1tX2I4MUREaHlyTTFIdTVWaXFFQ3J4aHJSMHIyWFZpUkZoX0lady1tWjJnMnMwMjZDclhQcHRaWUhxY2d4RW1UYnBXRFc5cV9hVzQzMWdnUk1XSHR3cHdkcXFZeUZUX3pR?oc=5",
+    "source": "Billings Gazette",
+    "language": "en",
+    "published": "2026-09-21T10:23:24+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Estados Unidos y China discuten plan de seguridad de IA antes de la cumbre Trump-Xi",
+    "summary_es": "Estados Unidos y China discuten plan de seguridad de IA antes de la cumbre Trump-Xi Billings Gazette"
+  },
+  {
+    "id": "8c756a13d859",
+    "title": "Data Culture Key to Successful AI Governance, Says Gartner",
+    "summary": "Data Culture Key to Successful AI Governance, Says Gartner digit.fyi",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQREY0bjhLc1ZQTndrWXRNX2RBTDBJRVpKakJoWi1tVnVQNTNxeU5SSXpBOXhoeWpSVkNqWmNzT1hxczU0UThNTGI3QnFFY2dIa09hUEwyUnJNVEdXVzljZ1Y0VHcwdzZPRkk4WGp6T3NyMFdEVHAycWFaUkdJTm9jOERFX05FM1E?oc=5",
+    "source": "digit.fyi",
+    "language": "en",
+    "published": "2026-09-21T10:12:02+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "La cultura de datos es clave para una gobernanza exitosa de la IA, dice Gartner",
+    "summary_es": "La cultura de datos es clave para una gobernanza exitosa de la IA, dice Gartner digit.fyi"
+  },
+  {
+    "id": "b6588d018969",
+    "title": "Space weapons are here. AI experts are worried",
+    "summary": "Space weapons are here. AI experts are worried Scientific American",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm82VGIzM1l6RTdIOXZfQ3JpRnU5TWFGY3pkZTlpT3VZdi1iV1puTEJZU3F5RV9RbGcwaUo3OFJNcXZDVVpnelFtR2RsRm5pTXJ0VUpnZmxUYl80UlVfemdLcFg3czVUZEp1REJkQ05aQ2Y3VFNRSjRmTWt0UFEwVG8wNUJxc294SEFia2t2RGprU3hRd3JVV1JqalNEMHhjMGZMRzF3T1RYaERtanpGZDJidE5HNk5PbUtzQUJGODNSeVl4STNSNzBJRTZBRWxsSWc?oc=5",
+    "source": "Scientific American",
+    "language": "en",
+    "published": "2026-09-21T10:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-21",
+    "title_es": "Las armas espaciales están aquí. Los expertos en IA están preocupados",
+    "summary_es": "Las armas espaciales están aquí. Los expertos en IA están preocupados Scientific American"
+  },
+  {
+    "id": "a05d3a4eb094",
+    "title": "Manual AI disclaimers won’t survive EU AI Act scrutiny",
+    "summary": "Manual AI disclaimers won’t survive EU AI Act scrutiny FinTech Global",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVgwT0k5dENpZGxIcVJzRW9vczMwY0RBZ2l3d1Bfb014d0JvU1E5cmtkcXptNTVVVzV4aUZhbnpWZTFwdVdYVEp5Wl82ZFFqOW1paHp0ckdlSXFJb0lhU1NBQ0NhQmQ2VDJ0ZjljemtKS0lOcm5oZFFOTFlBR1JUZm9MMm51a0wtdmJDQUNrb0J0Zw?oc=5",
+    "source": "FinTech Global",
+    "language": "en",
+    "published": "2026-09-21T09:24:13+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Las exenciones de responsabilidad manuales sobre IA no sobrevivirán al escrutinio de la Ley de IA de la UE",
+    "summary_es": "Las exenciones de responsabilidad manuales sobre IA no sobrevivirán al escrutinio de la Ley de IA de la UE FinTech Global"
+  },
+  {
+    "id": "a6e482183476",
+    "title": "South Korea's Douzone Bizon Launches AI Governance Office, ISO Certification Imminent",
+    "summary": "South Korea's Douzone Bizon Launches AI Governance Office, ISO Certification Imminent finance.biggo.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PNlBlOUpRQVQxUUY2c3RSZTJJalRfbWdTdnowTXpSNWRkS29Sc3J1VXZTSWZqNXVLY0doeDFQbjBLTEowMFd5T2VzTWFkZ3FVR0ZLUUMyNzlsUWJTTndFT2JBWjhLMUV1djZoUW5Tb1poTTZKTmc?oc=5",
+    "source": "finance.biggo.com",
+    "language": "en",
+    "published": "2026-09-21T08:55:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Douzone Bizon de Corea del Sur lanza una oficina de gobernanza de IA, la certificación ISO es inminente",
+    "summary_es": "Douzone Bizon de Corea del Sur lanza una oficina de gobernanza de IA y la certificación ISO es inminente Finance.biggo.com"
+  },
+  {
+    "id": "7caaa8c185a1",
+    "title": "Nobel Economist Warns: AI Will Destroy Democracy | Aaron Bastani meets Daron Acemoglu",
+    "summary": "Nobel Economist Warns: AI Will Destroy Democracy | Aaron Bastani meets Daron Acemoglu Novara Media",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFJJQTAyLWVoZU5DU0VSclUzLUNWWmphY29rNnVuZEh3MDIyUHpqaXdwYXNTUk9zX2ZQcjFLSjJPRDNRSFBDMVliWUdUOFd2UnM2R1BNVkRPcGJRbTNxUVdBZG9kZGV4TFNrQllyN19FM1dRTDBGV1NSQ0trREhIVkVWTUtpODROMUhN?oc=5",
+    "source": "Novara Media",
+    "language": "en",
+    "published": "2026-09-21T08:46:41+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "Economista Nobel advierte: La IA destruirá la democracia | Aaron Bastani conoce a Daron Acemoglu",
+    "summary_es": "Economista Nobel advierte: La IA destruirá la democracia | Aaron Bastani conoce a Daron Acemoglu Novara Media"
+  },
+  {
+    "id": "fca70aa19c94",
+    "title": "Ghaia Investment Holding and Chicago Global lead discussion on AI governance and investment decision-making at Money20/20 Middle East",
+    "summary": "Ghaia Investment Holding and Chicago Global lead discussion on AI governance and investment decision-making at Money20/20 Middle East Zawya",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOSW9hME1mOENxM3YwRm42MlpWdnhNanlrUFlCRXE4U2JCcnJZcURYWGVBUnJyUllYQWlRc3NSYmVPUjdyazc0ZlRmTnZNUTJyM1NEeDJZOVBrU2VpSUp5d3EwTVBjckpiYWRSWUFkVktXd3FfVlk4TlgwTXFocW9jcW8yVzdqeE5NamNNZUZEaTZ3ZHpzSUY5X2dOR2E4bkFvbkFBXzd6MUp0YUpuYllNUnJ5TWdlbDJvN0RVWllnaGplZjJsUmFocDA0cF9YQVRkZ0h1bEp3NEwxaFdMRGF2bkRENmJ0ck9vUzNmdnd6U3pHbGtCOTA0cjFCSkN3WFgtMndzaW5QeTBwMjJud3MtR3ZfQjcwR1doUXFTWmNlaw?oc=5",
+    "source": "Zawya",
+    "language": "en",
+    "published": "2026-09-21T07:55:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "Ghaia Investment Holding y Chicago Global lideran el debate sobre la gobernanza de la IA y la toma de decisiones de inversión en Money20/20 Middle East",
+    "summary_es": "Ghaia Investment Holding y Chicago Global lideran el debate sobre la gobernanza de la IA y la toma de decisiones de inversión en Money20/20 Middle East Zawya"
+  },
+  {
+    "id": "2cbcb4f68082",
+    "title": "Moderna's Bob Langer and AMI's Yann LeCun Cellular Intelligence's board, bringing AI into medicine",
+    "summary": "Moderna's Bob Langer and AMI's Yann LeCun Cellular Intelligence's board, bringing AI into medicine Fortune",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHMyWVMtdUFvNFREVGk1aDNPZzRaUVF5REEzMzVXOF9HMHkxRE9iRUdvM3UzZDRMdlp0N01sV0pMbjhKaEVtM1M0Z0FCTU5mS1FRN1BxU1plLWFTNG9YUGpCSGVnTmdOQUZ4VlNaeEVLeXZTWGhTU1VTLUx6OTB5RUo2Sm9FQU0ycF9ycHhNY2VodW9uendQRmo2R3JnVGgtUms5OVhhbmpsMFphZzdwanZ3?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-09-21T07:32:41+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "Bob Langer de Moderna y la junta directiva de Yann LeCun Cellular Intelligence de AMI, llevando la IA a la medicina",
+    "summary_es": "Bob Langer de Moderna y la junta directiva de Yann LeCun Cellular Intelligence de AMI llevan la IA a la medicina Fortune"
+  },
+  {
+    "id": "cde140217371",
+    "title": "The AI governance moment: Why boards must treat AI risk as an enterprise risk",
+    "summary": "The AI governance moment: Why boards must treat AI risk as an enterprise risk fortuneindia.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZl9OMzc0OEE0dld4Uk5XRlNmb3BtZzlmUllrcjJTQUFKWHZvVVh3MGRkZ25lQVJ5bXN1OXg3RDRCZ2lPbmdMZndVeU9TUWRhTU40ZWYtcnl0SVZQS3RxTmJDdTRzTy01dXJOT19vc3ZUYk81Ynljb25jQWctcmZTVGhUOXdGUFFXbnYtREZocGV1NGdIeXFiQm5PSzNSa2ZndzhWdW1kZ1hKVDlNZk00b1QtTndHR1dZWEFfWNIBygFBVV95cUxPcWhZUXRvQ0hJOGxVOHFnY1NRQWRZTkwydGdQMmRqMTh0eVFBeWJOaUp4cmwzNkprdDdkY3hlN2lHM2N5eDdRalo0NXBIbG9PZmttTzVwaDRsYkUwcTVwcVIwUFpqekRUeEhtbHh6X18wSWlZNUJ4Xy1sTWxoUFVrMXh1M1BILXhCaWVzbi1HUmhLTm1WeUpmdWNjWjlOZnppMzFjX2xjSEhGRFo1ajFGVkQ5djRDZDdEeHdyVW9PNkwzdmRDVktzaUlR?oc=5",
+    "source": "fortuneindia.com",
+    "language": "en",
+    "published": "2026-09-21T07:04:06+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "El momento de la gobernanza de la IA: por qué las juntas directivas deben tratar el riesgo de la IA como un riesgo empresarial",
+    "summary_es": "El momento de la gobernanza de la IA: por qué las juntas directivas deben tratar el riesgo de la IA como un riesgo empresarial Fortuneindia.com"
+  },
+  {
+    "id": "1cb813d3de87",
+    "title": "La gobernanza de la IA amplía la brecha de retorno entre empresas",
+    "summary": "La gobernanza de la IA amplía la brecha de retorno entre empresas La Ecuación Digital",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckhvRkw3bjc5QS1PcE01czNDaHFCYXE2RGprUWlvd1ZzZ3Qxd1BVeU5iWGc5Sm50a3I1ME9kOVNWVkV1enczdGMydXh2VVM4MzN1b2RwU1RfTjlZSHFqWk81emkwSnlzS0l3Y2szSk9WZlFtaGN6V1BMM3M4T1ZlLXNaNC1HRDlxQ05SN3AtVDRRZldUOVpvc2tsWjJ0WlNid2JybFBic2ZfVUpU?oc=5",
+    "source": "La Ecuación Digital",
+    "language": "es",
+    "published": "2026-09-21T05:50:12+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "La gobernanza de la IA amplía la brecha de retorno entre empresas",
+    "summary_es": "La gobernanza de la IA amplía la brecha de retorno entre empresas La Ecuación Digital"
+  },
+  {
+    "id": "d3130304d5a8",
+    "title": "Microsoft AI chief Mustafa Suleyman calls OpenAI safety incident ‘pretty serious’",
+    "summary": "Microsoft AI chief Mustafa Suleyman calls OpenAI safety incident ‘pretty serious’ Indian Television Dot Com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFQ1SGF2eG1WWUNyLVlFQzRFVXNTQnlJVzRhbGlMZzV6RVBGdm03T21RbXhucnluSGRqNEplSXMwZWppdzNvN0ZzdFNzOXZVdVZOdlVobnZ4M2dwTWFIWFRvSUZHQXBwM3hBN2xzaDZldWRkSHdESXZabWVRNHp5RXhTNmpjTG03LXFucDVZbVY5dzNSeFl5RUR0dDFVVDNSclJUMDJWYkxyTFc3QjM4SmZfMA?oc=5",
+    "source": "Indian Television Dot Com",
+    "language": "en",
+    "published": "2026-09-21T03:35:44+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-21",
+    "title_es": "El jefe de IA de Microsoft, Mustafa Suleyman, califica el incidente de seguridad de OpenAI como \"bastante grave\"",
+    "summary_es": "El jefe de IA de Microsoft, Mustafa Suleyman, califica el incidente de seguridad de OpenAI como \"bastante grave\" Indian Television Dot Com"
+  },
+  {
     "id": "18d25b95f5c0",
     "title": "US, China discuss AI safety ahead of Trump-Xi summit",
     "summary": "US, China discuss AI safety ahead of Trump-Xi summit France 24",
@@ -110,6 +482,26 @@
     "date_added": "2026-09-21",
     "title_es": "Tres acciones de seguridad de IA a tener en cuenta a medida que el gasto en ciberseguridad cumple con la regulación",
     "summary_es": "Tres acciones de seguridad de IA a tener en cuenta a medida que el gasto en ciberseguridad cumple con la regulación Simplywall.st"
+  },
+  {
+    "id": "ccdd92fef86f",
+    "title": "Microsoft AI chief urges guardrails as White House resists broad regulation",
+    "summary": "Microsoft AI chief urges guardrails as White House resists broad regulation TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNFdMNldYRVZMTG5EemdCX2tYT3k4V3R4aWlYN0dUanhRSE95UUtWaVhhUjlJSzBCeVMzWjJzaGd3aXYyd1FUOTBxWjVQOVo1QTk4Q2Y5YmpEbWYzSllwc05wcFFObS1RdnVaVEtsTVBxem9hQnVaOGRMT0k4RHVlcDc1WWY0eFU2dUl0aHZDaU5NM09hd2ZFSDBVa2RYWlVTNEUxWmk2YkVJTFJVRUIwVl9RcVdrVFJTaUotSXQ1QkNKZjB1SUk4QUtYT0lSMDJybFY4?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-20T18:01:31+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-21",
+    "title_es": "El jefe de inteligencia artificial de Microsoft insta a adoptar medidas de seguridad mientras la Casa Blanca se resiste a una regulación amplia",
+    "summary_es": "El jefe de inteligencia artificial de Microsoft insta a que se establezcan barreras de seguridad mientras la Casa Blanca se resiste a una regulación amplia TradingView"
   },
   {
     "id": "0859b5580950",
