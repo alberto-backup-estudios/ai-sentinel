@@ -1,5 +1,246 @@
 [
   {
+    "id": "07e0124800c3",
+    "title": "Scott Bessent meets with Chinese official on AI safety",
+    "summary": "Scott Bessent meets with Chinese official on AI safety NBC News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXNFSVJWM0NBUExUYTdybGFhQnl1NEdIV0xkcXlVb2EyUkt3bEh2WHg5QWZVbUJ1T2NhUzR1OGVZcHloTVBvblpUUUpCTTNfWTVnUnd4OXFCemNFNk5VLVBqUGRYY211cVJNeHVoU2hvQnpVMnNKSUxEaWZiWDB3ZjQwRnRUdnNyb2d4TmRIQzExeVlhRDBYdnRLWWhjQQ?oc=5",
+    "source": "NBC News",
+    "language": "en",
+    "published": "2026-09-22T01:24:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Scott Bessent se reúne con un funcionario chino sobre la seguridad de la IA",
+    "summary_es": "Scott Bessent se reúne con un funcionario chino sobre la seguridad de la IA NBC News"
+  },
+  {
+    "id": "29373758432f",
+    "title": "AI safety guidelines",
+    "summary": "AI safety guidelines LAist",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXVpV3NGUjlMR3VncWtlTXBXMXpKazhGeW55REpPMHBKQ01NNDhKWnhJRVhSSWdJVExoMVZpTEZNS2N0aUMtNVl4QWhsR3VPdGFZdnBmR3h6dHo2NWp1Z2l3MFNWNG1RbU5Dc29BNHNnSDVBUHhPZkp0UldaNlktTVZnNTZpcFBhUmdqLVhLanc2dVpnckF0QlVFQ0lDdzBwWWNKSlBTYlo5dDZpaHN4TE1yemRJZnRLOWlMUHFVXzA?oc=5",
+    "source": "LAist",
+    "language": "en",
+    "published": "2026-09-22T00:18:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Pautas de seguridad de la IA",
+    "summary_es": "Pautas de seguridad de la IA LAist"
+  },
+  {
+    "id": "73d41ece911e",
+    "title": "Es insuficiente la seguridad de la IA, afirma panel de ONU",
+    "summary": "Es insuficiente la seguridad de la IA, afirma panel de ONU Contralínea",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnVfQnZrNVV6MEZ5UUZ1SGZLUlNPMHZIdzVaaTJXRUNEUjFzd09QUzBSTTJ6bVZfdFVRZkJFaktRR1BPRU1FMVVCNWNUajBDazJFczVfbzhlM1hMOEF6bGh6d2tfTUtYUVAxMzdmYm9aTHNhbjdyeWZwb01RaDBCRDN6b3lGanRBSUxMWVpNZW1UY0U0VUZpN2dXWEN1TUVYSUE?oc=5",
+    "source": "Contralínea",
+    "language": "es",
+    "published": "2026-09-22T00:15:46+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Es insuficiente la seguridad de la IA, afirma panel de ONU",
+    "summary_es": "Es insuficiente la seguridad de la IA, afirma panel de ONU Contralínea"
+  },
+  {
+    "id": "d81a2da2b0c8",
+    "title": "AI safety debate grows as experts and lawmakers call for guardrails",
+    "summary": "AI safety debate grows as experts and lawmakers call for guardrails WGRZ",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNERNMERSVjlhNE9wMXFuLXlFeERqVlFEbU0ySnRIazE4SjVHNERzN3hyUF9SSHlhdUd6QTFIY3lTWGFkSXV4VlpYaUk1UzBDZWhNZmlUbEpxc09FNVplOTFVS0ttSnFMbzRvOUlfRGU1QjI5Vy1YYVl1TVpHbUljTHE1ZDB5Z21uZEc0UkJqUEFfZjhUeTBNZ2hOUnVVNjdjVF9RckY2YVZHT2VUbTVZdnJncEdzYndTOGFxeW94YmVrV2RVNE5CaWFhMmY5ZlNSalU2SUFXTFFFY19tTldGX090OWtTY2M0LV9aUkphVFhCNWw2aFZmeGhTeTE?oc=5",
+    "source": "WGRZ",
+    "language": "en",
+    "published": "2026-09-21T23:09:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "El debate sobre la seguridad de la IA crece a medida que expertos y legisladores piden medidas de seguridad",
+    "summary_es": "El debate sobre la seguridad de la IA crece a medida que expertos y legisladores piden barandillas WGRZ"
+  },
+  {
+    "id": "2d59921adfdf",
+    "title": "OpenAI calls for global US-led coalition on AI safety",
+    "summary": "OpenAI calls for global US-led coalition on AI safety Semafor",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmZPdUlwTno3UDFGbWJWYjNBc29RWW4xa1g3dHI1bzlHMEl0ajRiMHZMeU9mZk5ld2loRXJwX2MtclhFclh6aDdKTEw3aGxmR0czUC1HZ3FQRGVKdVZuV2p3SjlNV0pKamZ1Q2hYeE9RX3d5Y2NDMEhWSWhmYjIySWNETmpNZmhBZ0FQYWNvUVJLdG9jV0RPVTFEYnc?oc=5",
+    "source": "Semafor",
+    "language": "en",
+    "published": "2026-09-21T22:26:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "OpenAI pide una coalición global liderada por EE. UU. sobre seguridad de la IA",
+    "summary_es": "OpenAI convoca a una coalición global liderada por EE. UU. para la seguridad de la IA Semafor"
+  },
+  {
+    "id": "20280de736bd",
+    "title": "ISO 42001 May Become a Payments AI Governance Benchmark",
+    "summary": "ISO 42001 May Become a Payments AI Governance Benchmark PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVpGUk5yQk1Jckt3S0tWM3VKSHhiODh3ZkpfUldJTURQN2VwelJWNHZYM0VwR1gyUVcxblo1VTB5WnBkNU5pWFZqb0NBcThQeTJZRG52NG5rTEhCVy1zWG83ajVGLTFkTmRmWVU2V2hDWTlib25pTDdHb1I5Z1ZjVGJtN3BtMUdXRnJTYWdnQXdvZ0RLeXRBRzJfWEJMLXY2U1U1V0pBZ0M5T3B2Q0R6Uw?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-09-21T22:02:04+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "ISO 42001 puede convertirse en un punto de referencia para la gobernanza de la IA en pagos",
+    "summary_es": "ISO 42001 puede convertirse en un punto de referencia para la gobernanza de la IA en pagos PYMNTS.com"
+  },
+  {
+    "id": "1affbbb075cd",
+    "title": "AI Companies Are Warning About Frontier Development. An AI Researcher Says Regulation is Key To Avoid 'Catastrophe.'",
+    "summary": "AI Companies Are Warning About Frontier Development. An AI Researcher Says Regulation is Key To Avoid 'Catastrophe.' ibtimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmRkNnN4N1o3b3EyUi1JZG1pTWVuUENLajJ2T3RrRlhmNmFwLTdiMmhILWJINjBGcjNqUG90NWRuc0g4ZGNneTNaQnE5ZElVRTVYZXJsdVFCclBMazVKWXo2Zm1YMWJtNVI1Wkwtc2o0R2lKYjh4TEU2OTU0STZyWmktdlI5Q2hkOTRzZ3RHQk9lMFpHeEExbXhXWEJGWUQya210ZDVjU3pNRmIxcjZkZFljU3kzZl8yS243UkZSVUc?oc=5",
+    "source": "ibtimes.com",
+    "language": "en",
+    "published": "2026-09-21T21:48:01+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "Las empresas de inteligencia artificial advierten sobre el desarrollo fronterizo. Un investigador de IA dice que la regulación es clave para evitar una \"catástrofe\".",
+    "summary_es": "Las empresas de inteligencia artificial advierten sobre el desarrollo fronterizo. Un investigador de IA dice que la regulación es clave para evitar una \"catástrofe\". ibtimes.com"
+  },
+  {
+    "id": "5436c208b9c8",
+    "title": "US, China to meet again on AI safety in two months in Shenzhen, Bessent says",
+    "summary": "US, China to meet again on AI safety in two months in Shenzhen, Bessent says Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE0zM1lEOGFEZFo4SGVMNU9xc1BHWE1xYmtES0ZjcE5uanRwZlRGbzJxOWY5VHBtd2xUNjVrM2tFV3N5dnh4MjA2NHNsSFppN1pCNHg3UVg0d3F5WmlCWFkwM1BaalhBNUhKQUhTNmxWaVY4cWMycjQ0YkpQM1lsQjBiNTh5UjRKR2l1aFVaUEVhd0RDM2NWX2xSc1UxY3ZkRWJhek9NOXJkQ01WdzNzY0NSMWtscEJM?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-09-21T21:21:09+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Estados Unidos y China se reunirán nuevamente sobre seguridad de la IA dentro de dos meses en Shenzhen, dice Bessent",
+    "summary_es": "Estados Unidos y China se reunirán nuevamente sobre seguridad de la IA dentro de dos meses en Shenzhen, dice Bessent Reuters"
+  },
+  {
+    "id": "91ceeec57632",
+    "title": "OpenAI descarta una IPO en 2026 mientras crecen las dudas sobre la seguridad de la IA",
+    "summary": "OpenAI descarta una IPO en 2026 mientras crecen las dudas sobre la seguridad de la IA DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXlWWlFuQU9fQlc5eXVJNXg3aVZFQmJCbGpXWE42NVRwUGY1OVhrNkdtUFcwckJmYkltWVhacWg0elJDUnJQVi1DcVlkaG1lZGxiazRBbG1lYTkyUEo1VTU5ei0xdkljQzJ6cnBWei01cDVoclZhbW52ODI4Ti1FUEVwZEFKUzM0QmdXbW40Q1hwNlNwbUpEdzZoYmVDSlo0UEVWNFozQTJYeXhzWnhGLTZZWkZtUktMR0E1dldsSnViNzJwYWFPQk9fdw?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-21T21:04:51+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "OpenAI descarta una IPO en 2026 mientras crecen las dudas sobre la seguridad de la IA",
+    "summary_es": "OpenAI descarta una IPO en 2026 mientras crecen las dudas sobre la seguridad de la IA DiarioBitcoin"
+  },
+  {
+    "id": "e815c6ba2fea",
+    "title": "Multilateral AI Governance",
+    "summary": "Multilateral AI Governance Center on International Cooperation",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HVDNsOFM5M3NFWTlGeFppQjgyaGdaOExMbjlWdzAzUTFHSGM2SUFWTFBMd1hkZ3BnSlNCaVJfNkhmZEpGRUUyRWNYeVgzTWZ0RllmRjEtYWk4cG9LbkYyTC1oWnd3WExyUW9reUtSSkQ0R1pKUUx5WU1CdVV4dw?oc=5",
+    "source": "Center on International Cooperation",
+    "language": "en",
+    "published": "2026-09-21T20:05:43+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "Gobernanza multilateral de la IA",
+    "summary_es": "Centro multilateral de gobernanza de la IA para la cooperación internacional"
+  },
+  {
+    "id": "adbf0ed3affe",
+    "title": "Businesses sidestep AI governance policies as concerns mount",
+    "summary": "Businesses sidestep AI governance policies as concerns mount ESG Dive",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CNEJTbXkyeURMT1h0dTRnaDVKRmtoQ1JPLW4wS0xYV01qOVFRQTdXNXV5MFJ2OW95WUVvajlUc1Z4S3Z3TzVjcC1WY1E1M19RWlJrOEZKMm1waGlQaFdBUE5WWjN4U0wxeWhwOTljZWRndnZaYzMwTXlkTQ?oc=5",
+    "source": "ESG Dive",
+    "language": "en",
+    "published": "2026-09-21T19:28:46+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "Las empresas eluden las políticas de gobernanza de la IA a medida que aumentan las preocupaciones",
+    "summary_es": "Las empresas eluden las políticas de gobernanza de la IA a medida que aumentan las preocupaciones sobre ESG Dive"
+  },
+  {
+    "id": "425ad2700361",
+    "title": "Microsoft AI Chief Urges Against Demonizing China, Says Regulation Is Not a Drag on Innovation",
+    "summary": "Microsoft AI Chief Urges Against Demonizing China, Says Regulation Is Not a Drag on Innovation finance.biggo.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DWmpReDBqUFg2NGRuNDJGRXBNLXBrbVB2ZG1EdDVEZ2g2alVUbUhub0p2MHVRaWZLZzZrS0cxaU9wcFZQXzVJdmZXV0czc1Zpd1JTNHhYenpxbUJ3VUVBYkxCYWE5TnBOR0ZSdHR0M3RMaTZGd0E?oc=5",
+    "source": "finance.biggo.com",
+    "language": "en",
+    "published": "2026-09-21T18:18:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "El jefe de IA de Microsoft insta a no demonizar a China y dice que la regulación no es un lastre para la innovación",
+    "summary_es": "El jefe de IA de Microsoft insta a no demonizar a China y dice que la regulación no es un lastre para la innovación Finance.biggo.com"
+  },
+  {
+    "id": "43a79150e65c",
+    "title": "Yann LeCun, Bob Langer, Jens Nielsen and Fabian Theis Join Cellular Intelligence Scientific Advisory Board",
+    "summary": "Yann LeCun, Bob Langer, Jens Nielsen and Fabian Theis Join Cellular Intelligence Scientific Advisory Board Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb3dGQ1JZSnpUbzFOVmE5TWsyeDY2UjhhYWlHcTlCMWtSeG1KMWpmY21EVlItWWFYNWhpWm9SSzgxSDBKcTZQM0pWTWNmcTZ1Qjd2d3A1VExwbmt4RVNkYTJ5VGhMSGdzYjNFZVNGV3RrWFAzYTNIWWN0UlQ3ak5hTlNLQXBSMkVhT01tY1M3bUxHUE5CNGpPZkdvenZENzlhSlZ3eGlxbDBmYjRGTjFjTzJ4SXBQdG1GaEZCUVdzTlJQTW54bHRrTVhvamMzZGFaVEctTExUUDhnRTdCTXNvUVk3YkR3RjlOVi1iaGhxdDJ2X2hIbXhkaQ?oc=5",
+    "source": "Morningstar",
+    "language": "en",
+    "published": "2026-09-21T07:21:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "Yann LeCun, Bob Langer, Jens Nielsen y Fabian Theis se unen al consejo asesor científico de Cellular Intelligence",
+    "summary_es": "Yann LeCun, Bob Langer, Jens Nielsen y Fabian Theis se unen al consejo asesor científico de Cellular Intelligence Morningstar"
+  },
+  {
     "id": "e798f5c18cf5",
     "title": "Gov. Hochul expands AI safety laws in New York",
     "summary": "Gov. Hochul expands AI safety laws in New York WPTZ",
