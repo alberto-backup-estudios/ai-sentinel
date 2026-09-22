@@ -1,5 +1,269 @@
 [
   {
+    "id": "0c1ad5b84063",
+    "title": "OpenAI calls for international AI safety standards",
+    "summary": "OpenAI calls for international AI safety standards CIO Dive",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HM0NiaFZEd3RzSmVOSG04WkU5SGU3aUZ6eTNRZTBaaE1nT0F4UUc4bmt4eUEwdDBrZEliN0YzN091c0xrMkdZaUQzTmktSkcxSklnYlJzbkl2TUhoZmR3VDhzTlI5X3BIQl9wenotdXZVZHNIX0xMOE52eFZ5QQ?oc=5",
+    "source": "CIO Dive",
+    "language": "en",
+    "published": "2026-09-22T20:42:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "OpenAI pide estándares internacionales de seguridad de IA",
+    "summary_es": "OpenAI pide estándares internacionales de seguridad de IA CIO Dive"
+  },
+  {
+    "id": "48fed5d8e730",
+    "title": "Survey Finds AI Governance Gaps Across Federal, State, and Local Governments",
+    "summary": "Survey Finds AI Governance Gaps Across Federal, State, and Local Governments MeriTalk",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3dIRVFxaHdIMmxxMU1SUDQ4Nk1xMzJaT0xIdUI4U00yUU4wQ2xtTjdqVUtHaF80dnlQclgwVUd4ZzlMdW9fak5FS2dBYmE2ZGJyRlhiZFpoenJGYUFSeUxwY0JuRWZhak1TY0psaGlOWlFOaFRaSzIxYXpyaUlEc21TOElrbVFZc05BT1JILWQ4OXhMczkxcVdVTzVDNkNnM2l6b1pzbUdTTTcyU2c?oc=5",
+    "source": "MeriTalk",
+    "language": "en",
+    "published": "2026-09-22T20:26:09+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "Una encuesta encuentra brechas en la gobernanza de la IA en los gobiernos federal, estatal y local",
+    "summary_es": "Una encuesta encuentra brechas en la gobernanza de la IA en los gobiernos federal, estatal y local MeriTalk"
+  },
+  {
+    "id": "c95318e110be",
+    "title": "New Poll: Voters Don’t Buy That AI Safety Is a “Hoax”",
+    "summary": "New Poll: Voters Don’t Buy That AI Safety Is a “Hoax” Americans for Responsible Innovation",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bXEwb054OUNUZVFHN1FKSENYQlZpQ2RMTElBTHU3b0FIS3lISFNFX2g4bzNxb0RtUmZYMmVMWVl0ZWotVWpxcEkyWkhzSzVVYWYtOF9OMGRHZmZMM3pzS0wwSHlQbWh2cGQwMnZpajl3bnc?oc=5",
+    "source": "Americans for Responsible Innovation",
+    "language": "en",
+    "published": "2026-09-22T19:28:39+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Nueva encuesta: los votantes no creen que la seguridad de la IA sea un \"engaño\"",
+    "summary_es": "Nueva encuesta: Los votantes no creen que la seguridad de la IA sea un “engaño” Americans for Responsible Innovation"
+  },
+  {
+    "id": "caf019051a28",
+    "title": "World Labs Founder Fei-Fei Li Urges Independent Oversight of AI",
+    "summary": "World Labs Founder Fei-Fei Li Urges Independent Oversight of AI Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFdqRzZsTmJGMEJIV0FHVnFDN013Zlp6WTBnaEVMQ1BzSlJqTmNSWUxUNXFWWS0zQWNVY2JIbGxCSU9BdTFSR3FJMXA2T2VRNjFnVk5hbFJrUkRXaTNxeGpqaWxaSEY3QlIzYVhCNDUzY180cm1qVldNaWtxOGhnaWI0a3RtUjlZeS15Qlh0Wl90U1hQbURwNXoxS3NmdFlMbENaSnpyakRLdkxWa3ZQblF6NUg?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-09-22T19:10:37+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "El fundador de World Labs, Fei-Fei Li, insta a una supervisión independiente de la IA",
+    "summary_es": "El fundador de World Labs, Fei-Fei Li, insta a una supervisión independiente de la IA Bloomberg.com"
+  },
+  {
+    "id": "c85c778ab245",
+    "title": "Fei-Fei Li: AI's Future Is 'About Humans'",
+    "summary": "Fei-Fei Li: AI's Future Is 'About Humans' marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU25sdTNQem51bkhySmFVYVNMOGZTUXh4d3ZQWW5MbWRrdUpMM2VlNmNFTmJfMXdRbEpyUzZ6WFJFX0Yyb0NMcDFVMXB6MC1xT1RYZkg3ZTVOUnlTQXlXaWtGeTZOcXdINEl5RzRnaGhzamhWLWgydU5QQTVMVHN5WXNVTExlcEJCNi1WMThLbWt1VTRTdHc?oc=5",
+    "source": "marketscreener.com",
+    "language": "en",
+    "published": "2026-09-22T19:00:51+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "Fei-Fei Li: El futuro de la IA es \"sobre los humanos\"",
+    "summary_es": "Fei-Fei Li: El futuro de la IA es \"sobre los humanos\" marketscreener.com"
+  },
+  {
+    "id": "a9b1f4c5e115",
+    "title": "Illinois, California governors fast-track AI safety measures with executive orders",
+    "summary": "Illinois, California governors fast-track AI safety measures with executive orders Transparency Coalition",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDl2NC1fQTEwOUlEazVtaVhmRDFaUU9sYTRlUmpYb0FQQnpseWVoQk8xTHlFeTlVRVVKTmVGX3F0Uy1WV3hyUmpBQUUtNy1SdEFIS2lHNnA0UnRzMEZKV2llaE9OX2syeUVfUC1qdmtyYXE4a1VxdVNFcVcyN3Vqb3BhTnVwWF81QVNPSlhfXzAtR0xPUk9rYXBxbUZLRGprY2RNQW5PRzZueGlWUG4ycUVMLWl6QTFMSnRENzR0WnI?oc=5",
+    "source": "Transparency Coalition",
+    "language": "en",
+    "published": "2026-09-22T17:53:17+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Los gobernadores de Illinois y California aceleran las medidas de seguridad de la IA con órdenes ejecutivas",
+    "summary_es": "Los gobernadores de Illinois y California aceleran las medidas de seguridad de la IA con órdenes ejecutivas Transparency Coalition"
+  },
+  {
+    "id": "7672b1d1bdda",
+    "title": "Sam Altman and Dario Amodei are set to brief the UN Security Council on AI safety",
+    "summary": "Sam Altman and Dario Amodei are set to brief the UN Security Council on AI safety qz.com",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZ2xQejI4X29odlR2YmVDaGxzc3Y5ZmFfM3pJYk5UYzZUYl85ZFhfOWE2S3ZnMk1iM3RfemlUWGhaWmZjWlQxZU4yZGhrMHVXZ0txaG1ybnpiNWV2TkVfQXpPNXdUMUV6aWlnQlh3RnJxMDg?oc=5",
+    "source": "qz.com",
+    "language": "en",
+    "published": "2026-09-22T17:49:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Sam Altman y Dario Amodei informarán al Consejo de Seguridad de la ONU sobre la seguridad de la IA",
+    "summary_es": "Sam Altman y Dario Amodei informarán al Consejo de Seguridad de la ONU sobre la seguridad de la IA qz.com"
+  },
+  {
+    "id": "bd3daac5a7ac",
+    "title": "4 Paths To AI Safety Coordination Without An Antitrust Waiver",
+    "summary": "4 Paths To AI Safety Coordination Without An Antitrust Waiver Law360",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFpJaXBfcDRNazFPRkxSMkJiLUlPLWFrRWJXRDlxSVJ2TDdwVTlreTduSUhFTDJ0SmIwdlFYZGtNZVVSSWpZN0hibnlzWWZZNHJtZ2E5Z0VLclNsa2FNSGgwY3hhR3Z6TDJrZ2xyY1U5RDJxOGdNU3dMYkcycF8td3NVR0RKRG9tNkhzTVdLWUxxN2FjRHpJbF9CUGVhLXNKZ1dBatIBVkFVX3lxTFBDeUJtY2tqMTN0TWRrWE1lVndVWHBtQXRxSDlYSklDcGRvdnRuUk1NZV9ka0pVbmNKbWQtMmFMdEppZzZHWHdoclV4V1NwdldhblBvamlB?oc=5",
+    "source": "Law360",
+    "language": "en",
+    "published": "2026-09-22T17:47:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Cuatro caminos hacia la coordinación de la seguridad de la IA sin una exención antimonopolio",
+    "summary_es": "Cuatro caminos hacia la coordinación de la seguridad de la IA sin una exención antimonopolio Law360"
+  },
+  {
+    "id": "f7799036754c",
+    "title": "4 Paths To AI Safety Coordination Amid Antitrust Debate",
+    "summary": "4 Paths To AI Safety Coordination Amid Antitrust Debate Law360",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeW9SaWQ2cl9oUU4zV3R6a1Vxcnk0UWdhOTdFOXh5LTdPMEY0Z2dscEFmWjcwdnRXRG9RLVg0TzZJaUE4cEkzT3FqRHlhU2E4dk5iVmFzWVVpQkZ0SElYQlgwUmhaQzRaME1zaGJiem1HVFFnWDN4YnU5dF9wSmE2SFZSTWJuNHM0VDd3NnRWNTFiZmNLS0hpMExseWjSAVZBVV95cUxQQ3lCbWNrajEzdE1ka1hNZVZ3VVhwbUF0cUg5WEpJQ3Bkb3Z0blJNTWVfZGtKVW5jSm1kLTJhTHRKaWc2R1h3aHJVeFdTcHZXYW5Qb2ppQQ?oc=5",
+    "source": "Law360",
+    "language": "en",
+    "published": "2026-09-22T17:47:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Cuatro caminos hacia la coordinación de la seguridad de la IA en medio del debate antimonopolio",
+    "summary_es": "Cuatro caminos hacia la coordinación de la seguridad de la IA en medio del debate antimonopolio Law360"
+  },
+  {
+    "id": "5cc4046cfa92",
+    "title": "Video | Geoffrey Hinton's AI Warning: \"We'd Be Very Foolish To Develop Superintelligence\"",
+    "summary": "Video | Geoffrey Hinton's AI Warning: \"We'd Be Very Foolish To Develop Superintelligence\" NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHloSW91YTZyU2JHRVI5aHliN0RFOElybUlwQmsySDZrQ01Ea2JfbEl0Nzh0R0R5TlVJWlJxMDhVMW5TOWMyOWxJVnJoOFlyWHBtWkowNzBPUlBaenFheno4MFdMU3duNEdaZW5rbGhCYXZPajB2a1hmZHkzanFSWTB3MWU3X2tXbXp4dnVHLUJja1NRRDFyRnVrMnltQXZEWE5SdHM5WU1wUGVrMWpURnNKcw?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-22T17:38:30+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "Vídeo | Advertencia sobre IA de Geoffrey Hinton: \"Seríamos muy tontos si desarrolláramos superinteligencia\"",
+    "summary_es": "Vídeo | Advertencia sobre IA de Geoffrey Hinton: \"Seríamos muy tontos si desarrolláramos superinteligencia\" NDTV"
+  },
+  {
+    "id": "972029705b80",
+    "title": "Microsoft defiende la regulación de la IA pese al temor por el avance de China",
+    "summary": "Microsoft defiende la regulación de la IA pese al temor por el avance de China DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnpseDF0eVpyN3o4Vjg1WEJJRDdDQVh2YkpxanRVUlEwZzV2R3NUMVU2UHJVVE1yYVMzQjMyYjN5SGhsZXczdXVQcWtVUm0xS2lNSFBqUFZkb0VrUmVOc0pPM2RuR1ZyT3d2eVBDNGlWMXNOc1dzb0o1UkxtcHI5bFdvMFl2T0c4RFAtQ2M2RDN6cUY4d3JFZTBoYlhSZXV1YTNYdC1fMlR2aC1meUdzUHBlQVBUNjUtbERqYw?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-22T17:33:41+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "Microsoft defiende la regulación de la IA pese al temor por el avance de China",
+    "summary_es": "Microsoft defiende la regulación de la IA pese al temor por el avance de China DiarioBitcoin"
+  },
+  {
+    "id": "12c84c572afb",
+    "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+    "summary": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real Dark Reading",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlRNTWlKVmd6R2VkS1ZEcmZHZzAwS3pnRDBoLWRNa3JDM2ZPRWtQTFAxTmhBczU4NFBrN244NXRlX2FmUDg1c3JETXlhMW1oQm5NeUMwRHppSmk1MlhNTWI2aWxOT3Nva1JQazJLLVhDNHVvSnV0U1drclBqY0J3U2RHaFppMEhN?oc=5",
+    "source": "Dark Reading",
+    "language": "en",
+    "published": "2026-09-22T17:27:15+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "En medio de continuos incidentes deshonestos, el debate sobre la seguridad de la IA se vuelve real",
+    "summary_es": "En medio de incidentes deshonestos en curso, el debate sobre la seguridad de la IA se vuelve muy oscuro"
+  },
+  {
+    "id": "8b0b65b0acae",
+    "title": "'We're Making Alien Beings': Geoffrey Hinton On The Future Of AI",
+    "summary": "'We're Making Alien Beings': Geoffrey Hinton On The Future Of AI NDTV",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUVOQXZUbkJCVk4tZy1PRHQyMHJPNnROMS1VTUdnWE1vYXhfLTFBMGJpdXlqMUJKRzBXTWJaMFFhS3lxUnRSeXRWN1VuaTdkSkktbE0xR0lBT1hMdWR3TnZBZjE3VEpIaGl6eWJqcnoyR1ZEdnRuNllRNGh3RXdlX0JuVjQybThCZ3habDgyV0dtRzRDMGRjRUV6NFA?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-09-22T16:54:20+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-22",
+    "title_es": "'Estamos creando seres extraterrestres': Geoffrey Hinton sobre el futuro de la IA",
+    "summary_es": "'Estamos creando seres extraterrestres': Geoffrey Hinton sobre el futuro de la IA NDTV"
+  },
+  {
+    "id": "38a59e59f945",
+    "title": "Altman y Amodei llevarán la alarma por la seguridad de la IA al Consejo de Seguridad de la ONU",
+    "summary": "Altman y Amodei llevarán la alarma por la seguridad de la IA al Consejo de Seguridad de la ONU DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOFRHandWaURIYndrNTZqaUh5Zk5TbWlOVE10VHh3RGdWQ0hSNk4zSzZCUzhROGVYd2RjczBBRW9hanFkZzdFaTJIamFRb1diOGxheU5TekRoYkx5b2VrZS1TNzUzbzlpYlo5UjZjT285M3RidW0xTHQyY2YtaDdEUHJ2OUtPVHkzTnRWRS03VjNpemY5ckxJMHYtR0FEMl9HbTEyMkNwUDc5cmN3OWh6cGhPRlJWSnkzbEFZdXlhNmtKUkpNaV8yVEVTYUxCN0h1cXc?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-22T16:53:01+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-22",
+    "title_es": "Altman y Amodei llevarán la alarma por la seguridad de la IA al Consejo de Seguridad de la ONU",
+    "summary_es": "Altman y Amodei llevarán la alarma por la seguridad de la IA al Consejo de Seguridad de la ONU DiarioBitcoin"
+  },
+  {
     "id": "8bf578e87749",
     "title": "‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety",
     "summary": "‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety Foreign Policy",
@@ -17,6 +281,43 @@
     "date_added": "2026-09-22",
     "title_es": "'Escorpiones en una botella': lo que la ONU puede hacer con respecto a la seguridad de la IA",
     "summary_es": "“Escorpiones en una botella”: lo que la ONU puede hacer respecto de la seguridad de la IA Foreign Policy"
+  },
+  {
+    "id": "c01444c585bf",
+    "title": "‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety",
+    "summary": "‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety Foreign Policy",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVMyYWV1SURRY3A0aWdWMXpIOWFONmRQZnNwUXQ4emFDVzhJaXIyT0JpS1V1R0o4Si1kRUJ5NUNxLUtfTmRYMkxRZ1dxZkNTd1kxbmlFUXZYQ1ZUdGtVblU3UnZraXUxY0lWNEE2SDc5ZkhBOHJGQ2RzcVdXYnpPM0pmaGt0UWd1WElrUUhjNzJOU1dmUG90Nm54UE5USmlLZlE?oc=5",
+    "source": "Foreign Policy",
+    "language": "en",
+    "published": "2026-09-22T16:03:29+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "'Escorpiones en una botella': lo que la ONU puede hacer con respecto a la seguridad de la IA",
+    "summary_es": "“Escorpiones en una botella”: lo que la ONU puede hacer respecto de la seguridad de la IA Foreign Policy"
+  },
+  {
+    "id": "494353bb23c0",
+    "title": "Fastly Bets the Edge on AI Governance as Machine Traffic Tops 50%",
+    "summary": "Fastly Bets the Edge on AI Governance as Machine Traffic Tops 50% The Futurum Group",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnhFdzRXZVVQRXpGeGI1VTk0U2Jlb3FOWW05QzFRbnBZUkhuME9rUl9FeEM0OWdKTVNXSGgzdU1NdWdaZXpjbEQtUzlDLWdkcUl4OFgxS2NvdHBqTDFGenZvazh5NUg5OFlNbWFfR20xbTY5LWhXdDF0cExEaXVMYnhpcVZtMWRjS2xiSFBEWkY2c1FLQlEzY29BQWhEREp1?oc=5",
+    "source": "The Futurum Group",
+    "language": "en",
+    "published": "2026-09-22T15:47:01+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "Fastly apuesta por la gobernanza de la IA, ya que el tráfico de máquinas supera el 50 %",
+    "summary_es": "Fastly apuesta por la gobernanza de la IA mientras el tráfico de máquinas supera el 50% The Futurum Group"
   },
   {
     "id": "181ae6258017",
@@ -182,6 +483,24 @@
     "date_added": "2026-09-22",
     "title_es": "OpenAI insta a EE. UU. a liderar los estándares internacionales de seguridad de IA",
     "summary_es": "OpenAI insta a EE. UU. a liderar los estándares internacionales de seguridad de IA Conservador húngaro"
+  },
+  {
+    "id": "a16cc8d24ed1",
+    "title": "UNGA81: DCO Chief calls for global voice in AI governance as digital imbalance widens",
+    "summary": "UNGA81: DCO Chief calls for global voice in AI governance as digital imbalance widens Tech Review Africa",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHRrWWtPdzcyMFNCVC04NVFwUDFycm5kMnRzWHc1dFA2bVp0dkxTQWxlb0ZLTWJHMWl6WTIzLUhoV05XSjJ2T0RSdGVzZjFWdTJ2VVhUNjZhd0Fvd0xBVGlXTFRtdXFKbHhYY2VNV2hqZ29VYVBVSDZQd1pLR3BXaUJiZVpFajF2ZC1HdTFJQUZWRm5TN3lhQjFxVkxpamVEam0tV09KVkp0WmFabFpka3hxNnFwdGxtcHU1UGw5STE?oc=5",
+    "source": "Tech Review Africa",
+    "language": "en",
+    "published": "2026-09-22T13:03:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-22",
+    "title_es": "UNGA81: El jefe de DCO pide una voz global en la gobernanza de la IA a medida que se amplía el desequilibrio digital",
+    "summary_es": "UNGA81: El jefe de DCO pide una voz global en la gobernanza de la IA a medida que se amplía el desequilibrio digital Tech Review Africa"
   },
   {
     "id": "a64a48673133",
