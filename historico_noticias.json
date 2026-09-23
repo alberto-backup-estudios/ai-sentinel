@@ -1,5 +1,97 @@
 [
   {
+    "id": "51a71f9a1123",
+    "title": "Why I'm scared of RL",
+    "summary": "Summary: First, I give several different angles on how I feel about reinforcement learning: Theoretical case: RL is a black-box source of agency — this should give us classic misalignment worries, especially compared to agency-via-scaffolding Recent incidents (huggingface etc) and more mundane forms of misaligned behaviour in personal use give m...",
+    "link": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-23T12:07:33+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Por qué le tengo miedo a RL",
+    "summary_es": "Resumen: Primero, doy varios ángulos diferentes sobre cómo me siento acerca del aprendizaje por refuerzo: Caso teórico: RL es una fuente de agencia de caja negra; esto debería generarnos preocupaciones clásicas de desalineación, especialmente en comparación con la agencia a través de andamios. Incidentes recientes (abrazar la cara, etc.) y formas más mundanas de comportamiento desalineado en el uso personal me dan..."
+  },
+  {
+    "id": "11c3f6b89068",
+    "title": "White House Calls for an ‘AI Force’ as Debate Over AI Safety Intensifies",
+    "summary": "White House Calls for an ‘AI Force’ as Debate Over AI Safety Intensifies Clearance Jobs",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSktUSnpZenFNaVhxeWRPTUp1d25BLWpKYlVENWVHV3plWFAwcGVudWtmWFV2WVVlTkRBVGo4SjEwRV9RTmhjbmQ4b2dSbF9fMW13dGM2Q1Zuc05LeWc4ai1YTUM0LUcyZ2prRFFkenk2SF85Y3NBaTVzVmkzWGVzeHliZjFsVGtSb3M4bDZOM2hvZHFnQmlaRVVHZlR4MWpuSW9rSkQ0TC1xV2dORERGUnZEMA?oc=5",
+    "source": "Clearance Jobs",
+    "language": "en",
+    "published": "2026-09-23T11:30:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "La Casa Blanca pide una \"Fuerza de IA\" a medida que se intensifica el debate sobre la seguridad de la IA",
+    "summary_es": "La Casa Blanca pide una \"Fuerza de IA\" mientras el debate sobre la seguridad de la IA intensifica los trabajos de limpieza"
+  },
+  {
+    "id": "a409a60a4f94",
+    "title": "Godfather of AI warns of ‘catastrophic harm’",
+    "summary": "Godfather of AI warns of ‘catastrophic harm’ News.com.au",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcFVkQ0NKZnVPOHRiaVBVZFZiVHUxWHRBRUZWcDJEUlY3YXYxSGJsaGd4enBhRUctVTRGZHJRdlVfc1c5eFN2Qk1rMGgyTFZyenF1UjF3cUoydmRhRm9na0VuYmhNMlQ1aU16RnRRcGlueXNfR1FNY3dkY0tFQjVYcTR0T2NDYkJQSlcyb283SlpiUGM0a3JlcEZyTnJTUHZETGNiMUZnTlV2RUstUk9KUXo3YTV3UjU0dTAxM2pHNlI3enlVRFBGT0o0NmtCd2cza1JLbzlBOGVaU0ZzTjRfMHNzNm5rdHNnbXVZc1NGRGlwdjNLZC13U2lLbFQ3NnlzM2ZuSlYzM3JFQ1XSAZACQVVfeXFMTWdNSFdvdjNEbzZDQVRyX0t1akFWTjVXT0Q1NnFuVnREaHpGOHMxN0tMMnFsb0xpeWxWQ0c2Z2N3RTBJcHNZRXprXzlTal90VnljQ3Z0cnQ5WmR0QnNxVDVZREJ6V09palZjaUdiVVh5RUEtT0NFLVRHN2dSRzhnUWttYTFhYURLeHc1LUE3bkd6QlNoQUFuXy1VUDhoeGFuN0hfUmJ5RzFkMHFNcExxUXQtandJUW1HbjdDT1B3N1ZaaTROWlBRWl9fenhiNU1GakJYWGNpYWFPb0g5TFR4WTdET1pObl9IQ2xpTGd6SDVxVGFlaE9TQ2tmbGRnMGhFUFVPczlNaWg5NDE2TWdpbUw?oc=5",
+    "source": "News.com.au",
+    "language": "en",
+    "published": "2026-09-23T11:25:03+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "El padrino de la IA advierte sobre \"daños catastróficos\"",
+    "summary_es": "El padrino de la IA advierte sobre \"daños catastróficos\" News.com.au"
+  },
+  {
+    "id": "46b0148c787a",
+    "title": "The AI Governance Gap: Why Responsible AI Drives Adoption",
+    "summary": "The AI Governance Gap: Why Responsible AI Drives Adoption SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFhSbkdjcGp5ejhSXzRwQV9xc2txd0E2eFlrSENxT0VOLTk1Qm0wYXc4ZlExVkdNWWtjcnA0NVRmTHFpOXRWeEUwNmxScF90aGcwUGV0bDFGOWZWNTV3T2o1WDdVN2FQUXI5RDh6MGpHNjdfb0FvNjJSdFNWLU5nZHZUMEM?oc=5",
+    "source": "SAP News Center",
+    "language": "en",
+    "published": "2026-09-23T11:20:08+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "La brecha en la gobernanza de la IA: por qué la IA responsable impulsa la adopción",
+    "summary_es": "La brecha en la gobernanza de la IA: por qué la IA responsable impulsa la adopción Centro de noticias SAP"
+  },
+  {
+    "id": "9747bbd73b07",
+    "title": "OpenAI calls for independent testing of AI safety measures",
+    "summary": "OpenAI calls for independent testing of AI safety measures Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGhxMURjNXZmc0JDWXpmSFM5dnNfUUJfeUlUVnltSEQwUDdwTUZyQlFweHBBekYwU0JKS09XRU9HbnYzUVlWSjAySkVNVTMzc3VYenk3c0xkeDIyY0Jxa2xSdUJsS2g0SDRBa2JtTXhqRkpiV2pSUlFsZnFUbEJvUDAxS0s5XzV6aVI2dDhWclczTkZaMTFjVGJSWnc?oc=5",
+    "source": "Seeking Alpha",
+    "language": "en",
+    "published": "2026-09-23T10:57:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "OpenAI pide pruebas independientes de las medidas de seguridad de la IA",
+    "summary_es": "OpenAI pide pruebas independientes de las medidas de seguridad de la IA Buscando Alfa"
+  },
+  {
     "id": "d7776290bc6e",
     "title": "Global rules 'urgent': AI 'Godfather' pushes against Trump's rejection of guardrails",
     "summary": "Global rules 'urgent': AI 'Godfather' pushes against Trump's rejection of guardrails abc.net.au",
@@ -18,6 +110,26 @@
     "date_added": "2026-09-23",
     "title_es": "Las reglas globales son \"urgentes\": el \"padrino\" de la IA se opone al rechazo de Trump a las barreras de seguridad",
     "summary_es": "Las reglas globales son \"urgentes\": el \"padrino\" de la IA se opone al rechazo de Trump a las barreras de seguridad abc.net.au"
+  },
+  {
+    "id": "325a9de6a799",
+    "title": "'Need the world to wake up': AI 'Godfather's' stark warning after Trump's speech - ABC News & Headlines – Australian Broadcasting Corporation",
+    "summary": "'Need the world to wake up': AI 'Godfather's' stark warning after Trump's speech ABC News & Headlines – Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYU10dkNZZWlieTJIMmlWbUFCZmlHYUx6WXEtREN5WVF6S19EUkE5M2FFa3lMWU9kYUhlYlBWZ0ptbHZkYzE5bHZHbklpbDI3dDVXa3FIUUhMTjMwQ05uX1lQdHVld2t0MWNOV09UWlVMUlFpcmRzbGc4V1FpMGljNUF1dWpzQWxwSzVwX1p2M3ZWVkY4aV9NNWZSTThEaWpTckVNMWVn?oc=5",
+    "source": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "language": "en",
+    "published": "2026-09-23T09:54:15+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "'Necesitamos que el mundo despierte': la dura advertencia del 'Padrino' de AI después del discurso de Trump - ABC News & Headlines – Australian Broadcasting Corporation",
+    "summary_es": "'Necesitamos que el mundo despierte': la dura advertencia del 'Padrino' de AI después del discurso de Trump ABC News & Headlines – Australian Broadcasting Corporation"
   },
   {
     "id": "cc5b7c852da0",
@@ -127,6 +239,45 @@
     "date_added": "2026-09-23",
     "title_es": "Más allá del cumplimiento: la gobernanza de la IA como ventaja competitiva en el sector asegurador",
     "summary_es": "Más allá del cumplimiento: la gobernanza de la IA como ventaja competitiva en el sector asegurador Inese"
+  },
+  {
+    "id": "0c2e05555fd2",
+    "title": "Noticias Mundo",
+    "summary": "Noticias Mundo lafmnativa.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFFrZmd3X0l0aEJ0cEwzUHM5OEM2STZOa1Y3cWpZU0lPVWFsS3lXbF9WWUcxZzRnTVB3MU5wRXY0Q3ctVk42S184N2N0S0ZtUDR5eXRTemxIbkVYMEZKakJvXzM1QlJvQ0VVX2pXdG5vNlUzZ0N5MFVNSFJab0dkSElrbWt0UVluY1dxbTZwbkpOWWhNUmpWYnZ6U2VhQUtFcmtzcWZxQXN1RG53OFdRVHJXOTlpVHVSN3FjcERJTmotcmVPTFE?oc=5",
+    "source": "lafmnativa.com",
+    "language": "es",
+    "published": "2026-09-23T05:50:21+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Noticias Mundo",
+    "summary_es": "Noticias Mundo lafmnativa.com"
+  },
+  {
+    "id": "157258afa840",
+    "title": "AI Godmother Fei-Fei Li Calls for Public Verification in AI Safety",
+    "summary": "AI Godmother Fei-Fei Li Calls for Public Verification in AI Safety 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnVQZXNHOWk5Q3V2OWJrTktPallDN2NRaXpXYW1rWExWcEpXd0JPOVMxUmN1OE43blNHNk5OUkZVWFl6NVRkWXdMLUhlOUdpeWloZHBNN3VXYXVENDdUQ0dGUDZZeFJObU1WdTFkaWdoX1dpbzNDYUFNamdHam40bng1NUtVaDJK?oc=5",
+    "source": "조선일보",
+    "language": "en",
+    "published": "2026-09-23T05:21:29+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "seguridad",
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "La madrina de la IA, Fei-Fei Li, pide una verificación pública de la seguridad de la IA",
+    "summary_es": "La madrina de la IA, Fei-Fei Li, pide una verificación pública de la seguridad de la IA 조선일보"
   },
   {
     "id": "5acbce2c0a6f",
@@ -478,6 +629,26 @@
     "date_added": "2026-09-23",
     "title_es": "Mire a Fei-Fei Li: El futuro de la IA es \"sobre los humanos\"",
     "summary_es": "Mire a Fei-Fei Li: El futuro de la IA es “sobre los humanos” Bloomberg"
+  },
+  {
+    "id": "6b6ae2fcb886",
+    "title": "Musk, Harari, la IA y el mundo que viene",
+    "summary": "Musk, Harari, la IA y el mundo que viene lagaceta.com.ar",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTU5ScTU0UWdmWTRQa1pIT3dScDlWdmVKTHA5dktKWVhzUVVQVDlvckNxd2xzYlZUa3NidkJ3WTFZM1VYaG83QlQ2N2hvWXYtNG1aTnd1Q3plSktqajIzQW1YM2d0QUFhd2hfLXhCdFkxbjJ5amFzcFdqUTQzdkI2bnh1RHBjQknSAYwBQVVfeXFMTkZpTVl0OHBBdGU4RTNudnJ6TjgzbHRmNUpqMFFKdHhCZlVoMktVRmNkX3prX1NRVWpvaVBmNXpCZDgxcXRKQ1JuZnczbnU2VkdERWpaOUNlTXdtZXdmbmJWckh1QXNCZ3ZISjZpcnJCeHlrNmRnT1JKQTZ0N3RTUFpIQl93R3RkT0RMY00?oc=5",
+    "source": "lagaceta.com.ar",
+    "language": "es",
+    "published": "2026-09-14T23:36:53+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "Musk, Harari, la IA y el mundo que viene",
+    "summary_es": "Musk, Harari, la IA y el mundo que viene lagaceta.com.ar"
   },
   {
     "id": "0c1ad5b84063",
