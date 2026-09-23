@@ -1,5 +1,240 @@
 [
   {
+    "id": "d72fe0f1d79a",
+    "title": "EU AI Act literacy changes may complicate, more than simplify, compliance",
+    "summary": "EU AI Act literacy changes may complicate, more than simplify, compliance iapp.org",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUdhdFpUSFRScktuVjJNUk9PaTVTRTBKYmdGNDFBUzNIMVgweXJUeEMyLVBrd1dQM0tjQy0xZ2s0Rm5KVEVuaEl4YUcxd1g5MlRLUFZENjlyUWdpYlhIa2FaRmlzYUluVGVmUkZ6UVg5NXVIbVVLT1BqXzBIOXVhVFpxeC12NXRsVkEtLTRDclIxZXQtdk8tZDRCTQ?oc=5",
+    "source": "iapp.org",
+    "language": "en",
+    "published": "2026-09-23T16:02:29+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Los cambios en la alfabetización de la Ley de IA de la UE pueden complicar, más que simplificar, el cumplimiento",
+    "summary_es": "Los cambios en la alfabetización de la Ley de IA de la UE pueden complicar, más que simplificar, el cumplimiento iapp.org"
+  },
+  {
+    "id": "5ce94d7507f7",
+    "title": "New York’s AI Safety Law Puts Banks’ Vendor Plans to the Test",
+    "summary": "New York’s AI Safety Law Puts Banks’ Vendor Plans to the Test PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0ZtcjlpZlJyckJjWlV5QnI5Ym1qbUFHbXRyTjRLM2pjZ01ia3RmaTNfbkdKM1R5THNTajlGVWJ1VjZ2bzdLZ0N3Y01hRHZ0aElQTWlab1N4T1E2enJPekR3OUtyLVRJaTFyRjhMZXZpSFU5Qy1WN0hhLVdydmpJMmFXMjJhRGpiVFFkbVRnSmdmc3lTaUFRZGhXVzgtYlhkaEVSampxQzhsWmp2OEFCeGdmNHhub1Bw?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-09-23T15:43:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "La ley de seguridad de la IA de Nueva York pone a prueba los planes de los proveedores de los bancos",
+    "summary_es": "La ley de seguridad de la IA de Nueva York pone a prueba los planes de los proveedores de los bancos PYMNTS.com"
+  },
+  {
+    "id": "52515e2267dd",
+    "title": "Nearly half of big US firms have bypassed AI governance",
+    "summary": "Nearly half of big US firms have bypassed AI governance TechInformed",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk1Ua1VEUXdpa20xZFVzRzdEOGdZUHJsSkhyMEF3Y0VXVDYySHdhNG5tZ3p6bjZWS1ZMQ2xGeTFBb0lFSUdaczJZMHhyOGxoQndBdnp3N1p5OUdYdHQ1MC1QMmxqaTZHal85X1lZV1NfYlZVSUotNzE2RlpjSVJ2WmR3WkNnRGh3?oc=5",
+    "source": "TechInformed",
+    "language": "en",
+    "published": "2026-09-23T15:33:04+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Casi la mitad de las grandes empresas estadounidenses han pasado por alto la gobernanza de la IA",
+    "summary_es": "Casi la mitad de las grandes empresas estadounidenses han pasado por alto la gobernanza de la IA TechInformed"
+  },
+  {
+    "id": "8d6ff690b401",
+    "title": "Trump and Xi set to meet in Washington as AI safety concerns take center stage",
+    "summary": "Trump and Xi set to meet in Washington as AI safety concerns take center stage scrippsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2dndURwaHU3alI2WmI4VGRQTDd4ZjNxdnZZWnRYclZBUmRkX25KaHU1N2tnamtmSTBJWktiazVFMVdUM2RHa2MwTThvWDFCUDlYenJZUjNyZHFKYVNyb1hpLS0wRU0tdnUyMG1aRWlvM2lPZnROWlc5aUE2eFVuN0NWaTM4dVU1RGROZFlkblBmZU9JMVQzQTVhVVUxMGxfVFFESUtFQm1Ed0NoOExkamZ1N2NJZDVFbnI5TDA0Q1hJaVIyY3A5UUNOUTU4T040SWtzY2Exb21sbTkxWEVkcw?oc=5",
+    "source": "scrippsnews.com",
+    "language": "en",
+    "published": "2026-09-23T15:02:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Trump y Xi se reunirán en Washington mientras las preocupaciones sobre la seguridad de la IA ocupan un lugar central",
+    "summary_es": "Trump y Xi se reunirán en Washington mientras las preocupaciones sobre la seguridad de la IA ocupan un lugar central scrippsnews.com"
+  },
+  {
+    "id": "ddf7fdebd8de",
+    "title": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+    "summary": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag?oc=5",
+    "source": "California State Portal | CA.gov",
+    "language": "en",
+    "published": "2026-09-23T15:02:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "El gobernador Newsom anuncia que expertos líderes a nivel mundial cumplirán su orden ejecutiva sobre IA, incluido el avance en la creación de un \"interruptor de apagado\".",
+    "summary_es": "El gobernador Newsom anuncia que expertos líderes a nivel mundial cumplirán su orden ejecutiva sobre inteligencia artificial, incluido el avance en la creación de un “interruptor de apagado” Portal del estado de California | CA.gov"
+  },
+  {
+    "id": "5d5ef0c5a595",
+    "title": "In the AI governance race, EY’s Dilek Çilingir explains how compliance can keep AI in step",
+    "summary": "In the AI governance race, EY’s Dilek Çilingir explains how compliance can keep AI in step Compliance Week",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRjRTUXVSRGhsQnlPeFRNZU1jVGx4TTFBd0NZSFJqT1FseWdUdTNtNHRmYlIyRWtKS0pGcHAxaVFsZjAtUDFjV19ScUVpenRJOXVvb1RJMUpSZzZFS05DSEowd3FPcjBXa1lKM3E4MWZ3d3VsY0ZhZGUwdUR2dnNIRzZ4bGpTM1ZqTTRXcWJsUlgwOWM4NVhHaXh3bDA4dzFSV0czbm1sS05SN3ZIbXUzLWQyM2t2RFZvZ3l5RHZSV3RYaFhGSVVaZjVXeUF2WVhEU1RJam1jX3hpM3ps?oc=5",
+    "source": "Compliance Week",
+    "language": "en",
+    "published": "2026-09-23T14:57:36+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "En la carrera por la gobernanza de la IA, Dilek Çilingir de EY explica cómo el cumplimiento puede mantener a la IA al día",
+    "summary_es": "En la carrera por la gobernanza de la IA, Dilek Çilingir de EY explica cómo el cumplimiento puede mantener a la IA en el ritmo Semana del Cumplimiento"
+  },
+  {
+    "id": "fe7b61f155e7",
+    "title": "Illinois creates AI cabinet to prepare for emerging risks",
+    "summary": "Illinois creates AI cabinet to prepare for emerging risks The State Journal-Register",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSXhGUklPLTFHSmVpQngzVldseFAtVVYyVEh5LXFBRG50ZDZFajBlUENTSkkxN2xhVmdXOXJhYmlxaDFSSUxTMlpNRXp4LXN4NGZfbVozYlF2MnprTDEwMzd2MmNmWDI1TmlkWVZ2ZUNKc2t5NWViSEY1UUZvQldlOHU4NWZQNEVwUVg5THpCd0NHOW40UXA2NDhkRGRCamhDOHRXRjhCSlUweUZjUkEwbnJGZ1QybzhTVm1BaG0yQXZXRlQzMzItdktPOEtZSTh2?oc=5",
+    "source": "The State Journal-Register",
+    "language": "en",
+    "published": "2026-09-23T14:42:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Illinois crea un gabinete de IA para prepararse para los riesgos emergentes",
+    "summary_es": "Illinois crea un gabinete de IA para prepararse para los riesgos emergentes The State Journal-Register"
+  },
+  {
+    "id": "a5b87b10b760",
+    "title": "AI Safety Outranks Competitiveness as Top Concern Among American Public, Investors, and Corporate Leaders",
+    "summary": "AI Safety Outranks Competitiveness as Top Concern Among American Public, Investors, and Corporate Leaders Just Capital",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2VWbnZEQlNXdnI1WkpRY1ZEemdpX1ljc3lvdDF4M0RpTVRqbGVvdU9INldlRFJBTEp6aVFXVEtHMUdqbmFMZkU2SkFwOXdfVFBtTXpBNGZveEpfb2hENE13d0Jjall4cUNtYkdKSjNPY1JVSjhGM1NxYlVzZG90N1VDRnM3aElXMFdXUGhmU2dQcllwVnlDZ01PWWw0YzRrcGhFY21hSGhDWHFLM1N3TEt0TFdYcWFpN1UwN0RNb2U3NFNkY0JfMWx3TjlEdw?oc=5",
+    "source": "Just Capital",
+    "language": "en",
+    "published": "2026-09-23T14:25:14+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "La seguridad de la IA supera a la competitividad como principal preocupación entre el público, los inversores y los líderes corporativos estadounidenses",
+    "summary_es": "La seguridad de la IA supera a la competitividad como principal preocupación entre el público, los inversores y los líderes corporativos estadounidenses Just Capital"
+  },
+  {
+    "id": "5c535081bddb",
+    "title": "Belgian CIOs name AI governance biggest priority",
+    "summary": "Belgian CIOs name AI governance biggest priority Telecompaper",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdURuQU9SWGs4UU5BaERLb1ZUcVZkWXVHcmY3TVkzaUd0UWhIci0wUGNGckdtNXY3dXQ2NnVrVktkaUdFTU5JZGZSb25nMTN0b2NfTUtpN1RuVmd6TVhfandvNndMLUp3UVJBSHd4UzJNbTlWQ1BxcFNHeVVueXJTZURfTmdlSUQxQ2w5V181ancyRXJHOFE?oc=5",
+    "source": "Telecompaper",
+    "language": "en",
+    "published": "2026-09-23T14:04:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Los CIO belgas consideran que la gobernanza de la IA es su mayor prioridad",
+    "summary_es": "Los CIO belgas consideran que la gobernanza de la IA es su mayor prioridad Telecompaper"
+  },
+  {
+    "id": "5b647c4436df",
+    "title": "A Hotline for the AI Age: The U.S.-PRC Imperative to Cooperate on AI Safety and Prevent Terrorist Misuse",
+    "summary": "A Hotline for the AI Age: The U.S.-PRC Imperative to Cooperate on AI Safety and Prevent Terrorist Misuse The Soufan Center",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xdzJmN2M2Z0VjYVRKUTNtNnhMMWtzUVFBcUxQbk9lZmdBZlhlc0VQN0wyZFJEWnZZRkkwMWV0dmUwTW94RlFWRERFZWFlSEEwRFk2UXJXWWJGZXlybXR1X3hGZW9XQjd4?oc=5",
+    "source": "The Soufan Center",
+    "language": "en",
+    "published": "2026-09-23T14:03:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Una línea directa para la era de la IA: el imperativo entre Estados Unidos y la República Popular China de cooperar en materia de seguridad de la IA y prevenir el uso indebido de terroristas",
+    "summary_es": "Una línea directa para la era de la IA: el imperativo entre Estados Unidos y la República Popular China de cooperar en materia de seguridad de la IA y prevenir el uso indebido por parte de terroristas The Soufan Center"
+  },
+  {
+    "id": "09c6ee8c5427",
+    "title": "Stepping out of the shadows: Ensuring proper AI governance in tax and audit",
+    "summary": "Stepping out of the shadows: Ensuring proper AI governance in tax and audit Accounting Today",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHdtOEM0bnhKQzI3SWNDbmloeGtON01VdDFCcGtIWk1UeHVRMWtycjNObHhaZW1GN3VaM2hUNU1zM1Z2a3dpUTdGeWY1QlE4VDRSMVFmUkZsNE9RZy1FR2FYRHd6dDh2dFc1RFUzclJ0azlpODYwTzBCRUwtTVkzenVNRjZTekxZcndfY1kzaEdnaFVjVEdwb2hXVUNvOVRQVlFVdVMwUmtvNi0ybmFNZ2FONDk?oc=5",
+    "source": "Accounting Today",
+    "language": "en",
+    "published": "2026-09-23T13:53:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Salir de las sombras: garantizar una gobernanza adecuada de la IA en impuestos y auditoría",
+    "summary_es": "Salir de las sombras: garantizar una gobernanza adecuada de la IA en impuestos y auditorías Accounting Today"
+  },
+  {
+    "id": "0e5619d5bddd",
+    "title": "Keysight, University of York to Develop Automotive AI Safety Validation Technology",
+    "summary": "Keysight, University of York to Develop Automotive AI Safety Validation Technology thelec.net",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M245ekFsS0xaa1R6alhQc2JGSkliaGplRmJDX1VzU0oteWhmTHpXYUJNUDdMNmpaaDRYRVZ2TWt1aGtrV0ZSU3RmZDJkVFZEWFJhSUUxMEJydVNONDdFWkZlWjQ5LWM?oc=5",
+    "source": "thelec.net",
+    "language": "en",
+    "published": "2026-09-23T13:46:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Keysight y la Universidad de York desarrollarán tecnología de validación de seguridad de IA automotriz",
+    "summary_es": "Keysight y la Universidad de York desarrollarán tecnología de validación de seguridad de IA automotriz thelec.net"
+  },
+  {
+    "id": "bc51a4c215cc",
+    "title": "AI Safety: Replace cavalier oversight with professional standards",
+    "summary": "AI Safety: Replace cavalier oversight with professional standards BCS, The Chartered Institute for IT",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUNrOFN3SXlpVERRWFJ4bmNIUWNVbHcyaHhWNEVEZDM3OEQ0NDNOQzBKcTdLVWVZM2pvbzF2UkwzWjhpVk1PU2xaUkd6eG1FNGZnNFAxLXB1S3Z3V1dKdGJSTDBkejBNQWlEcTA2MXZnTFV2aldXU19Ic1FuWHhSa2Iwb2dhdE14MFRNOHg0ZURHQTFqRGZ4R3dIQkhaMkFadUVfTTFfakhvUDNvQ1BaeVhJdlpzUQ?oc=5",
+    "source": "BCS, The Chartered Institute for IT",
+    "language": "en",
+    "published": "2026-09-23T13:08:27+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Seguridad de la IA: reemplace la supervisión arrogante con estándares profesionales",
+    "summary_es": "Seguridad de la IA: reemplace la supervisión arrogante con estándares profesionales BCS, The Chartered Institute for IT"
+  },
+  {
     "id": "51a71f9a1123",
     "title": "Why I'm scared of RL",
     "summary": "Summary: First, I give several different angles on how I feel about reinforcement learning: Theoretical case: RL is a black-box source of agency — this should give us classic misalignment worries, especially compared to agency-via-scaffolding Recent incidents (huggingface etc) and more mundane forms of misaligned behaviour in personal use give m...",
