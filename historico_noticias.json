@@ -1,5 +1,287 @@
 [
   {
+    "id": "9166870cf7e2",
+    "title": "US rejects global AI governance at UN Security Council",
+    "summary": "US rejects global AI governance at UN Security Council The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91T3RtMWY3eXVESkx1ejhOajVremZjQkhXQVlWdU41TjZVanBqTm0tc2ZXbXZMV2hlS21DTXJKdWl2NHBZTHZqV18ybEtFeG9nZ2d6YVdLb3dpQ2ZMT0Z2TS1CeUlZX1dlZzZJ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-09-23T20:56:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Estados Unidos rechaza la gobernanza global de la IA en el Consejo de Seguridad de la ONU",
+    "summary_es": "Estados Unidos rechaza la gobernanza global de la IA en el Consejo de Seguridad de la ONU The Next Web"
+  },
+  {
+    "id": "165a38016b52",
+    "title": "China silent as US touts plan for AI safety alerts that omits tech experts",
+    "summary": "China silent as US touts plan for AI safety alerts that omits tech experts Ars Technica",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1NZWnNlRkU5OGRxeF9aWXlyUTJrdm5UUkRFZkVib0pSazJoWkdWUUlNX3U5YnNZWXFRRl9mZGZ2ODRnOFpkeWxwOWs5V0pMZVk0S1BDd1JWNF9hZHJ1eUZBc0xsOU5BRjkydzkyS0hneE5uaU4tMDg1SElRVnNUbGdNam5FQndnTWcteWR5NnFYd0w2eGd1czFWclJPYkJhTmJETl93MWNCRWZrOXhCSlpDX0RrelpHRnE0?oc=5",
+    "source": "Ars Technica",
+    "language": "en",
+    "published": "2026-09-23T20:52:28+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "China guarda silencio mientras EE.UU. promociona un plan para alertas de seguridad de IA que omite a los expertos en tecnología",
+    "summary_es": "China guarda silencio mientras EE.UU. promociona un plan para alertas de seguridad de IA que omite a los expertos en tecnología Ars Technica"
+  },
+  {
+    "id": "a3c7b1a2fee4",
+    "title": "Genesys CIO Trevor Schulze on why AI governance is just governance - and identity is what really matters",
+    "summary": "Genesys CIO Trevor Schulze on why AI governance is just governance - and identity is what really matters Diginomica",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2luYUpwTmFqXzVfUUlmYVhUeHpUOXpIeEtIeXNSQk5ITlpLbWtlQ2t1QWZ2WkQzdkFIaXBCY05zaG9vekFhUEstdUJxZkVSdm1sUWVnOTZoaVZXcEh5LUJVa2ljdXdscjY3bWF3clJkdE53MG5CR1NrbTYtalRrQlR6a0xrczJxcnk1WktzNXNUSDBsMDR5a25PV1oyRzllQ0MwMmZ5WVBpTFpUSWxLZnpmRUUwZ0k?oc=5",
+    "source": "Diginomica",
+    "language": "en",
+    "published": "2026-09-23T20:49:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Trevor Schulze, CIO de Genesys, explica por qué la gobernanza de la IA es solo gobernanza, y la identidad es lo que realmente importa",
+    "summary_es": "Trevor Schulze, CIO de Genesys, explica por qué la gobernanza de la IA es solo gobernanza y la identidad es lo que realmente importa Diginomica"
+  },
+  {
+    "id": "fe673fbc0c9a",
+    "title": "Yoshua Bengio pide licencias para la IA fronteriza ante el Consejo de Seguridad de la ONU",
+    "summary": "Yoshua Bengio pide licencias para la IA fronteriza ante el Consejo de Seguridad de la ONU DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYTVOX2cxSzlrNkJrdTE2VlVSbDQ5Sjl6RTh2bllsQmM3eVZCcGdTa3JIYUxkalRqdHpuaWxOb0U5QjhfRVN3SHpETkk3U3k2NENQdmRpTWJBNEVpQ09MVWpCdEc4OS1xTFJxSE1XaHF6NGlGLTZQWEJ6X2Z4SFF0b3NEZUdjb2ZwdnBvUldITGR2UFhLWDZySjZxZHY5Y2YtSGtWYXNaRVYyUjR1c09SVDNqVVFhWUtZZHQ0X1UxNUtyanB0NmVJd253TQ?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-23T20:44:25+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "Yoshua Bengio pide licencias para la IA fronteriza ante el Consejo de Seguridad de la ONU",
+    "summary_es": "Yoshua Bengio pide licencias para la IA fronteriza ante el Consejo de Seguridad de la ONU DiarioBitcoin"
+  },
+  {
+    "id": "381c86902737",
+    "title": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN",
+    "summary": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN CTV News",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNNNG03VGdXR1gweDNlRWZjclVhODNoajhQS01BOHRlZ2J0NjdhYUlGNVp4REp2NTZqOTd6NGx3WGQ2Z0J5R0ZrR3hOelFzN0FfYXVjR1RPUTltcXpLcnBuV1ZBdFhnc1pCMFpiVTREdnhOemxEMkxSQl8yUl9KZk8wYmlaNHEyckhMVkI1aE1VRmJNcWFzejBNRHJGMmFZWVNldFFxNk9VMUp3N0Y3VmpRNA?oc=5",
+    "source": "CTV News",
+    "language": "en",
+    "published": "2026-09-23T20:33:28+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "Los peligros de la IA son \"reales e inminentes\", dice a la ONU el pionero canadiense de la IA, Yoshua Bengio",
+    "summary_es": "Los peligros de la IA son \"reales e inminentes\", dice a la ONU el pionero canadiense de la IA Yoshua Bengio CTV News"
+  },
+  {
+    "id": "c180e966c61d",
+    "title": "AI safety cooperation takes center stage",
+    "summary": "AI safety cooperation takes center stage Politico",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzM1U0JIbVhtT2xFTXpzZjhGYUVXd3dJRkNxdUl0SDBzbTRxd21yNktyUVJJUU9QSEFsU3RiU19vMllfbDdaYkdONU94emhvLURPQnp0OTJTNHpyRXdQWllnRWpKZlR0dlZsSjNBblBoejMyMnhaOTFCNUpjbHlQMncwS1VfTjJ5bW5jbk1VM1B0SGFOc2tONHpQWDNQLV9vbl90QTNBaw?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-09-23T20:19:42+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "La cooperación en seguridad de la IA ocupa un lugar central",
+    "summary_es": "La cooperación en seguridad de la IA ocupa un lugar central Politico"
+  },
+  {
+    "id": "1a7ee2e5a3f8",
+    "title": "CEO de Anthropic afirma que 'reducirán el ritmo' para garantizar la seguridad de la IA",
+    "summary": "CEO de Anthropic afirma que 'reducirán el ritmo' para garantizar la seguridad de la IA aristeguinoticias.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWJmWmRma3VKSTRWMmlYUTh0N0JyYkQyTUhMVlFGRUJxVEswRF9PY18xMG5DNE1pSDh2YXlHN1VlUk9ZZHdRcnpBSzA0YUw4UVk3SXpFSkdPY3RHeThsUTkwM0NEdEtUX0JVTXVtS2dfY0tVMXd0eUNDMkNlU2RtZlhRVW5vU25ZWTUwT3J4N2pMMXd6Sy1wWHhhclh5d0xiZEs3cHJ1dFVrVUMydXQxTld0cy03TmZHekdCeEQ1dW9QczF6?oc=5",
+    "source": "aristeguinoticias.com",
+    "language": "es",
+    "published": "2026-09-23T20:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "CEO de Anthropic afirma que 'reducirán el ritmo' para garantizar la seguridad de la IA",
+    "summary_es": "CEO de Anthropic afirma que 'reducirán el ritmo' para garantizar la seguridad de la IA aristeguinoticias.com"
+  },
+  {
+    "id": "0b1f250a1a63",
+    "title": "Exclusive: Thune believes Trump is willing to listen on AI guardrails despite public defiance",
+    "summary": "Exclusive: Thune believes Trump is willing to listen on AI guardrails despite public defiance Axios",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SUEI3TlB1NmxYQ0swQ0xZR2R2N2ZySDhmazVXZUNnejVWaWc1UzE0Yy15cE5xVndqTEN0Vmc4OUdLVms1LU14eVE4Wk9IREkzQ1RKZ280UWdQNU4zYW84bWNURWp0OHVJYmlN?oc=5",
+    "source": "Axios",
+    "language": "en",
+    "published": "2026-09-23T19:46:23+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Exclusiva: Thune cree que Trump está dispuesto a escuchar sobre las barreras de la IA a pesar del desafío público",
+    "summary_es": "Exclusiva: Thune cree que Trump está dispuesto a escuchar sobre las barreras de la IA a pesar del desafío público Axios"
+  },
+  {
+    "id": "793c2fbd7442",
+    "title": "AI pioneer Yoshua Bengio addresses the UN",
+    "summary": "AI pioneer Yoshua Bengio addresses the UN CP24",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmItRTM0d3pQMGtETkJkemlUei1vQlAzWVpTYXZUUzhUWlhoV0laUmZ6TFhJcnhFeXhob3V6WHBFcU1NT2ZFWE1sb015dlJWaDNNNE4xUWd3b0lzVUdseWtidGNjYVducEpTTXdPU1ZvUFVoaV83QVNmaFNPd0p6U3hsUWx2c3FacW02akU5OA?oc=5",
+    "source": "CP24",
+    "language": "en",
+    "published": "2026-09-23T19:29:52+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "El pionero de la IA, Yoshua Bengio, se dirige a la ONU",
+    "summary_es": "El pionero de la IA, Yoshua Bengio, se dirige al CP24 de la ONU"
+  },
+  {
+    "id": "a92fceac6e9b",
+    "title": "Healthcare AI Governance: Moving from Data-Sensitivity Tiers to Reversibility Controls in Agentic Systems",
+    "summary": "Healthcare AI Governance: Moving from Data-Sensitivity Tiers to Reversibility Controls in Agentic Systems HIT Consultant",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYW95WDY4ZFpJcGt5SDR3TGJ3SC1neUF4Y1otblhFSmZ3RzRPeFM2NzU5RWxNbmtpVGxRUG1mZEJNYkpSaTZ0M1ZnRlhlNkNOVllMYzdvUmZ5WnJ0TUNCWUZTT29YakNTbVp2REVvYkVhNXVJUTZLR1RRVTRDdEM5LXVGZWRDZ1B6R21lZmdnZXVnVXlIU1FXOUU3V2VKMU5CM00ySERPQTJ3WTZmTWd1TWl4LUE4V0U?oc=5",
+    "source": "HIT Consultant",
+    "language": "en",
+    "published": "2026-09-23T18:51:05+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Gobernanza de la IA en el sector sanitario: pasar de niveles de sensibilidad de datos a controles de reversibilidad en sistemas agentes",
+    "summary_es": "Gobernanza de la IA en el sector sanitario: pasar de niveles de sensibilidad de datos a controles de reversibilidad en sistemas agentes HIT Consultant"
+  },
+  {
+    "id": "5a2996cf4247",
+    "title": "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
+    "summary": "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks Barron's",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYlhqQU9iM3o2ZWh3a1dGcXpwMnVTWUwwREZQZEZtM2didGVGa0dha3BYa3hMRUx4Sy1NXzY3cHAtLXBJRjdYNjhRbkVpWHdVTXE3b3pQa0hyWWh1S2xnZ3drOWg0Q0V0dVBDa0ZqRDk4ZnBFdUxSMUVZVDNVeDYyTm1CZTZyWWo5bG9EMGdBbw?oc=5",
+    "source": "Barron's",
+    "language": "en",
+    "published": "2026-09-23T18:41:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Trump minimizó las preocupaciones sobre la seguridad de la IA, pero su cartera de inversiones compró acciones de ciberseguridad",
+    "summary_es": "Trump restó importancia a las preocupaciones por la seguridad de la IA, pero su cartera de inversiones compró acciones de ciberseguridad Barron's"
+  },
+  {
+    "id": "ac34324fd929",
+    "title": "Microsoft President Backs Deployment of AI Safety Evaluators",
+    "summary": "Microsoft President Backs Deployment of AI Safety Evaluators bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJnWGVLRmwwakVvV2pOMTViWVFmXy00b2N5eFhscnhOM1RxUzNVZEtKY3lYa2U0NHJTSEpxc083VFZSMjVoLW1DVzFjZk9BNDZyUFFMWnJ0M003d3dtZ2oydTNIRGtGLTMxdlhnNjZNOTV0TmRuUnZRMldHOE1pbHBLbDhSY0p6ZUR6UDBQbFRodDc1TzhCUGtlRHJEeFYxZjJaRzNEMkFHOFNheThHRQ?oc=5",
+    "source": "bloomberg.com",
+    "language": "en",
+    "published": "2026-09-23T18:40:26+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "El presidente de Microsoft respalda el despliegue de evaluadores de seguridad de IA",
+    "summary_es": "El presidente de Microsoft respalda la implementación de evaluadores de seguridad de IA Bloomberg.com"
+  },
+  {
+    "id": "c7f26b0c5fd5",
+    "title": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council",
+    "summary": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council CTV News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbGRiQzdwTFZRcXhqd1hoYTNldDg4aTl0by1OWE1rbUU3SzJWUUF3d19wNTctbWptUU5XNlhzc3JsRHBTVGw1TnNPZ2FoZnlrd2hOaWJGdU4ybjlXUmYxSm1fSFR3bE5rN0tHWFp5cnFWc1NPMVpwVUNwS21pRUVaTGszWXd6dFVVR3d5Tmh2d3JoX3VOVzdkcnVJeWpXcW5fMFVvUDM3a2tibVdXb09SQllicFJLd2lqLUl6aFN1bnVobFNL?oc=5",
+    "source": "CTV News",
+    "language": "en",
+    "published": "2026-09-23T18:39:47+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Canadá se suma a los llamados para una mayor supervisión de la IA mientras Yoshua Bengio se dirige al consejo de la ONU",
+    "summary_es": "Canadá se suma a los llamados para una mayor supervisión de la IA mientras Yoshua Bengio se dirige al consejo de la ONU CTV News"
+  },
+  {
+    "id": "f606d87e23d5",
+    "title": "AI LIVE 2026: Building Trust and AI Governance in Finance",
+    "summary": "AI LIVE 2026: Building Trust and AI Governance in Finance AI Magazine",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWd3d0R3VUUtd09FS3ljMWZVQ2EyMWZKRFMwbEI0UUV2QmdGUFRpRkpySnlDcnp4eG5IdVlTMVpoQXpDaFVVd2JJanhTek13OVM5aXNaelFFVGdMOUQ2eXlaZWxWazYzcGpzbzd0NUtKQktPcW9HMWQ1MGtxdDJfMWN1M3gyNk1xNDBSVg?oc=5",
+    "source": "AI Magazine",
+    "language": "en",
+    "published": "2026-09-23T16:21:02+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "AI LIVE 2026: Generación de confianza y gobernanza de la IA en las finanzas",
+    "summary_es": "AI LIVE 2026: Generación de confianza y gobernanza de la IA en las finanzas Revista AI"
+  },
+  {
+    "id": "75812b959ea4",
+    "title": "Italy's AI framework: Operationalizing the EU AI Act",
+    "summary": "Italy's AI framework: Operationalizing the EU AI Act IAPP",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wVFZYdjg0czFOTzZxbHMyNG1la1pIQ2VFVnlTVjFvc2V1UlBFYWxGeDFYVHFKVm0yd0JDSW1KdlotcUR4TXZPV1NXeVk0aE5aNnJmTzlXTVRxY21OQ3k4amJFT0NodTRNQW9rWlpqVzlzTzZmaXczWUR1bWVzRGs?oc=5",
+    "source": "IAPP",
+    "language": "en",
+    "published": "2026-09-23T16:17:29+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "El marco italiano de IA: hacer operativa la Ley de IA de la UE",
+    "summary_es": "El marco italiano de IA: puesta en funcionamiento de la Ley de IA de la UE IAPP"
+  },
+  {
     "id": "d72fe0f1d79a",
     "title": "EU AI Act literacy changes may complicate, more than simplify, compliance",
     "summary": "EU AI Act literacy changes may complicate, more than simplify, compliance iapp.org",
