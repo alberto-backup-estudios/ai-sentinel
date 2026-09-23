@@ -1,5 +1,211 @@
 [
   {
+    "id": "d7776290bc6e",
+    "title": "Global rules 'urgent': AI 'Godfather' pushes against Trump's rejection of guardrails",
+    "summary": "Global rules 'urgent': AI 'Godfather' pushes against Trump's rejection of guardrails abc.net.au",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYU10dkNZZWlieTJIMmlWbUFCZmlHYUx6WXEtREN5WVF6S19EUkE5M2FFa3lMWU9kYUhlYlBWZ0ptbHZkYzE5bHZHbklpbDI3dDVXa3FIUUhMTjMwQ05uX1lQdHVld2t0MWNOV09UWlVMUlFpcmRzbGc4V1FpMGljNUF1dWpzQWxwSzVwX1p2M3ZWVkY4aV9NNWZSTThEaWpTckVNMWVn?oc=5",
+    "source": "abc.net.au",
+    "language": "en",
+    "published": "2026-09-23T09:54:15+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Las reglas globales son \"urgentes\": el \"padrino\" de la IA se opone al rechazo de Trump a las barreras de seguridad",
+    "summary_es": "Las reglas globales son \"urgentes\": el \"padrino\" de la IA se opone al rechazo de Trump a las barreras de seguridad abc.net.au"
+  },
+  {
+    "id": "cc5b7c852da0",
+    "title": "AI Safety Needs More Evidence and Less Fruitcake Speculation",
+    "summary": "AI Safety Needs More Evidence and Less Fruitcake Speculation prospect.org",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXVid2hkOUxFdlpqVWo1QTVPQVdWU2o0MHdxYUx1QVgyWlpHRFlmcHNmdWJFSktUOV9GVmJFOU1kY0MzRVVMYXgzaUpGZzJhdi1IVXpPZEFMWGxMdkg2V24tRVlLUXhqc0dFZ0hrSHlGaWNibzM5WEZLeGVTSkxpWGJJQUE2R1FJVXVsUFR6US1zcGs?oc=5",
+    "source": "prospect.org",
+    "language": "en",
+    "published": "2026-09-23T09:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "La seguridad de la IA necesita más evidencia y menos especulaciones absurdas",
+    "summary_es": "La seguridad de la IA necesita más pruebas y menos especulaciones absurdas prospect.org"
+  },
+  {
+    "id": "98de55cda665",
+    "title": "Meet the top Anthropic scientist who predicted the core of today’s AI doom debate",
+    "summary": "Meet the top Anthropic scientist who predicted the core of today’s AI doom debate Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1M1UEVZOXN6dkRBSDljdjNqSHplQldhUnZ6bkwxdkJWY3NRQTB4ZThGV25wT3hKU2xvSEJsS0FUZ2ZmbmJoRnBGRExBSnlOQkktU3F0LW8tbHdaenhwQ0RUTHdkVzhLcmItVHlHaFExN0p2R2dhd3c2UGZZVElzblVtbS1GTDB0SzZDMHpTTUhzZkNxUXRMQVpnQWlUSkRQUUd5alFWWQ?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-09-23T09:01:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Conozca al principal científico antrópico que predijo el núcleo del debate actual sobre la fatalidad de la IA",
+    "summary_es": "Conozca al principal científico antrópico que predijo el núcleo del debate actual sobre la fatalidad de la IA Business Insider"
+  },
+  {
+    "id": "9a8f284f8b4c",
+    "title": "How Enterprises Are Closing the Gap Between AI Adoption and AI Governance",
+    "summary": "How Enterprises Are Closing the Gap Between AI Adoption and AI Governance AiThority",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2k2RXoxMm5heVB3SG94Y09VSE9EdWJfQzY0ancxRUlKdHhrbFZtTGRiVVpzOC1VWm5oSnJ6NWFTdnZIeUVXS3BsYUJSZnVLQldMb2Jla01wTWc5Tzl5YVFkbHNQVFZYYkdLWnRWX2pGT2lqZm01SmJBcWNuMlFSNEhvdTd2VGttWVdzZ3pFMUQta0JVZTR2eG9JNXdoSHM5T0VhR0w5aGs1X1p4dDRpMkc4SjNBQQ?oc=5",
+    "source": "AiThority",
+    "language": "en",
+    "published": "2026-09-23T07:58:35+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Cómo las empresas están cerrando la brecha entre la adopción y la gobernanza de la IA",
+    "summary_es": "Cómo las empresas están cerrando la brecha entre la adopción de la IA y su gobernanza AiThority"
+  },
+  {
+    "id": "abc93e731b06",
+    "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+    "summary": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down cnbc.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczZ5TVhnb0JkM3VYZzhRR0MyOGNxNkY1c1JLZlNDR3pEQzJ6c0p4R1F4SVBiSkE2eDUxY3RkclhzUkpsREtpV2c4QTUyd1FlQzRmNU1rTVI4SEFoSGJ5N2ExNnpwM21lQUhLZEZzQVFnQVY5bDJDX09LaFd0NW1oa21KYTNjbVR5dTN0bzY2R3bSAZYBQVVfeXFMUEZQTV8zRk5POGkzLVdDMDFuMGpvN3dJWUhMVFNmWDRoU291VmFMOVg1QWFwbzFNazNLSnJyclItWDQxWDJwa09lSU1Xc2pGWUlKYVM1YVJkbWQwMmx0bThxRkxoUW5iWmo0MWpmYk1nTTJKQkQxTDBVTDVYNFh0YkR3c2JSSFp0bzlDa2x6WXROUmI3WWNB?oc=5",
+    "source": "cnbc.com",
+    "language": "en",
+    "published": "2026-09-23T07:36:47+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "La cumbre Trump-Xi pone sobre la mesa las conversaciones sobre seguridad de la IA, pero ninguna de las partes quiere frenarlas",
+    "summary_es": "La cumbre Trump-Xi pone sobre la mesa las conversaciones sobre seguridad de la IA, pero ninguna de las partes quiere frenarla cnbc.com"
+  },
+  {
+    "id": "265f5b8697a5",
+    "title": "Trump rechaza en la ONU la regulación IA global y rebautiza la super inteligencia en Estados Unidos",
+    "summary": "Trump rechaza en la ONU la regulación IA global y rebautiza la super inteligencia en Estados Unidos moncloa.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0txajQ2M1NOMHV2YlEzeVJ4bnlnMmNKNXBFblcxQU1OOVVzeHdoV2ZGMi1BZncwWV9oYVNaRTlwRl83blRDdUhRT2dyZjNxcTVWSWhKMnp2UUhhZHpNNlFENk81N0trd19QOFg0UlRSdzVWaXRxWVpBbkpuWU1sWklTcEM?oc=5",
+    "source": "moncloa.com",
+    "language": "es",
+    "published": "2026-09-23T06:40:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Trump rechaza en la ONU la regulación IA global y rebautiza la super inteligencia en Estados Unidos",
+    "summary_es": "Trump rechaza en la ONU la regulación IA global y rebautiza la super inteligencia en Estados Unidos moncloa.com"
+  },
+  {
+    "id": "63be0c66a22e",
+    "title": "Más allá del cumplimiento: la gobernanza de la IA como ventaja competitiva en el sector asegurador",
+    "summary": "Más allá del cumplimiento: la gobernanza de la IA como ventaja competitiva en el sector asegurador Inese",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dFX2pUMllnMlVWZ0VKQjVWdmxSOTNFaW5QZ2hTcnpPV19md3M1N0dkRC10anVhN1ZwRE5KN2hQNXN6bzNSeUFZcTB2cXlFQVJfNlNTM1F6b3JXRXRjNU1OUEN1VnVsLWUtNWwtaGdwUndzX19KZW93NUxRdkYwT2FFUTR0STdodzJBdkNTUnFPbGR2dVc1eC0tUzdtNHdSNktEcXBDb0tTWU44LWhxbDAwSmxZV0tvSVFN?oc=5",
+    "source": "Inese",
+    "language": "es",
+    "published": "2026-09-23T06:25:54+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Más allá del cumplimiento: la gobernanza de la IA como ventaja competitiva en el sector asegurador",
+    "summary_es": "Más allá del cumplimiento: la gobernanza de la IA como ventaja competitiva en el sector asegurador Inese"
+  },
+  {
+    "id": "5acbce2c0a6f",
+    "title": "Can Accenture (ACN) Profit From AI Safety While AI Pressures Its Own Business Model?",
+    "summary": "Can Accenture (ACN) Profit From AI Safety While AI Pressures Its Own Business Model? Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGNQel8tVGFvcFlZd0tJanVSX1JaU1hrVTM0QkE1ZVZxX0RmbG82bE02b3BxVmlOa1hzX3NsYXczMURJZEMzTGJ0S1h1Q0xnVDVGQ2g3dUVJemRaY29UNHlXWWtnZkdiN0NVLVFxcy0wQmZBRkpXSW9nb200ZUVfSVhRNDNjdjlyTlhncmRzU0t4S0N6THVXR3JB?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-09-23T05:12:20+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "¿Puede Accenture (ACN) beneficiarse de la seguridad de la IA mientras la IA presiona su propio modelo de negocio?",
+    "summary_es": "¿Puede Accenture (ACN) beneficiarse de la seguridad de la IA mientras la IA presiona su propio modelo de negocio? Yahoo Finanzas"
+  },
+  {
+    "id": "c2866a0da4bc",
+    "title": "AI Could Outsmart Humans In 5 To 10 Years, Warns ‘Godfather Of AI’ Geoffrey Hinton | Exclusive",
+    "summary": "AI Could Outsmart Humans In 5 To 10 Years, Warns ‘Godfather Of AI’ Geoffrey Hinton | Exclusive News18",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc3RYSHhSNEdteVhpOTZadTZJZ2JKWjEwZ1Q0Umw0V1ZQM1dDVjJRQnRLV19TbU1ScGtwNUZhSzlJNGJKN0Qzei1FNXFrYVhDUjFpX3BXR2J6Mk95TnA0Nk9lNGJpeEgtcEU4YVpiOUNUOXBUV0NORjhXTUxQZF96R1NJWXFxNnZKQlZoZ09zU1dnYVJSc0haeGFnZ3lZTW1BdEdWVUk0MzNpbE0zY1dHaEh4cEJZeVZpV0RZVW0zd1hRUHVqZFdJQm1YQ2tWRVkyak44?oc=5",
+    "source": "News18",
+    "language": "en",
+    "published": "2026-09-23T04:58:45+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "La IA podría ser más astuta que los humanos en 5 a 10 años, advierte el 'padrino de la IA' Geoffrey Hinton | Exclusivo",
+    "summary_es": "La IA podría ser más astuta que los humanos en 5 a 10 años, advierte el 'padrino de la IA' Geoffrey Hinton | Noticias exclusivas18"
+  },
+  {
+    "id": "6e517a349868",
+    "title": "Loyola Responds to AI Safety Concerns",
+    "summary": "Loyola Responds to AI Safety Concerns The Loyola Phoenix",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDU0N6Q281bXV4ZmFiT29rRFNGcml2ZF9BYThIeWpyUGRCOVJMUEdhYVhScWdmWkMtWGFZcTZVNnRCZC03VkZWS1hRMDhQOFBfelpSLWpuV1BsblBINXBNLThsQTc5WHFvZUdJRU05Q3hrOVktS0pnbDA3MTE?oc=5",
+    "source": "The Loyola Phoenix",
+    "language": "en",
+    "published": "2026-09-23T04:01:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "Loyola responde a las preocupaciones sobre la seguridad de la IA",
+    "summary_es": "Loyola responde a las preocupaciones sobre la seguridad de la IA The Loyola Phoenix"
+  },
+  {
+    "id": "7e1b46b46555",
+    "title": "Godfather Of AI Takes On Nvidia's Jensen Huang Playing Down Slowdown Call — 'He Has Trump's Ears'",
+    "summary": "Godfather Of AI Takes On Nvidia's Jensen Huang Playing Down Slowdown Call — 'He Has Trump's Ears' NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRG4wcDZrRDh4QWI5ZWNQclc0eTF5cVNlQXdHaE9RNlZyZndWd09zUldGd0dZMGtvVlhmNWpSVVlKQjlWSlJKZ2JpQm1zdC1RbE5QWGtUU1NpcDNiMzl1UUYxNUV2VXF2VU9ZZkhYMDRXdTRvZnVHeGNxdFotcVVaMVBUUEZIa3JpMzBTZk83NnI0VF9pOFZqZ3hkRVFkMXZLLU5qMWNKVjR1eXR1LUhMZktReVpndGdaaDJPbklpS0Jodmx6elB1dnA0SU9PQkdlRGtHMncxamExUG1Cbl9WM3NsczEtc2cxdkHSAfIBQVVfeXFMTkloZ0M0Vk0zZHU1YXFGdm9Kb0g5eXpTZ3daUUVxSGJJWWpNODl4RmNxYjFHeXpIemNNb2dwaEFwUVJnT3NsdDdOWXdIREVudzA2WkhkTE5RLWM4TWQ5bmtTOURiOVZXSE1xSVdPQmRRR2pIZ1FwRUJkMkRlZGx6a3Q4NFFNbURtWUU4dVBySVphaExTMmdZYU9oNUJxRU1qOU1wWVNNYXBmdkpIcXpLQ0tncDBFYWk4NGtZYUFPLW9ycDcwODFmVTF4R010RmNIV2hiMWlIQ2YwSkNIaTVIRldCV2dUTHFraE1YNTZVUDRNS0E?oc=5",
+    "source": "NDTV Profit",
+    "language": "en",
+    "published": "2026-09-23T03:48:33+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-23",
+    "title_es": "El padrino de la IA se enfrenta a Jensen Huang de Nvidia restando importancia a la llamada de desaceleración: \"Tiene los oídos de Trump\"",
+    "summary_es": "El padrino de la IA se enfrenta a Jensen Huang de Nvidia restando importancia a la llamada de desaceleración: las ganancias de NDTV 'tiene los oídos de Trump'"
+  },
+  {
     "id": "2f75c706a153",
     "title": "AI governance raises the bar for observability in Southeast Asia",
     "summary": "AI governance raises the bar for observability in Southeast Asia technode.global",
@@ -126,6 +332,24 @@
     "summary_es": "Lo que está en juego mientras Trump y Xi discuten la gobernanza de la IA The Strategist | Sitio de análisis y comentarios de ASPI"
   },
   {
+    "id": "8a049d865c24",
+    "title": "Minimal regulation versus CCP security: Trump and Xi discuss AI governance - The Strategist | ASPI's analysis and commentary site",
+    "summary": "Minimal regulation versus CCP security: Trump and Xi discuss AI governance The Strategist | ASPI's analysis and commentary site",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFBRbDl0cllLRTVkbzZ6aTRDSzc4S0V2RHNzQ0YybURiUGRqalIyZ2tJUU1PazRfTV9OZHVJWWRnNEtYb250Z2lBRmQ5VkFtWS1ZSmZpU3pRRjZOWjY3TEhzVGJQY3lab29INUtPNE9nbVJrNXVtMFFNVXdtRGxnbTBST1ZJTFhxMnBmOWpuVS0?oc=5",
+    "source": "AI Governance & Policy (Global)",
+    "language": "en",
+    "published": "2026-09-22T23:05:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-23",
+    "title_es": "Regulación mínima versus seguridad del PCC: Trump y Xi discuten la gobernanza de la IA - The Strategist | Sitio de análisis y comentarios de ASPI",
+    "summary_es": "Regulación mínima versus seguridad del PCC: Trump y Xi discuten la gobernanza de la IA The Strategist | Sitio de análisis y comentarios de ASPI"
+  },
+  {
     "id": "8d8dc6fe9305",
     "title": "Ex-Google safety chief warns AI could harm children more than social media did",
     "summary": "Ex-Google safety chief warns AI could harm children more than social media did Reuters",
@@ -198,6 +422,26 @@
     "summary_es": "El gran plan de seguridad de la IA entre Estados Unidos y China: dos chicos y un teléfono Politico"
   },
   {
+    "id": "61eedd420eee",
+    "title": "World Labs Founder Fei-Fei Li Urges Independent Oversight Of AI - Bloomberg News",
+    "summary": "World Labs Founder Fei-Fei Li Urges Independent Oversight Of AI - Bloomberg News TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYzN4NzMzQW40OF9KeVpScThrU0FWcW1makZXQzhFNFVoU09LbW5WbUdtWVcxWVdVSWlfLVppQ0hRYVhvU1NWaXAzd1luV2I4X0JVTG5oT3pueU84Qy1aS3Zyb2VjVXVKZmtrb05ibUJKQzA3czBoVnlpeHdacGw4SlNDOTcxUi1naVdTeVVSeVRTYjRDYk9meWlQd204S1VESmpSR2dmZEpEcUpXOXlWTzZXcVJoQkRaX25PcE1qNDViclliOHdOamhTV2U5VDB2d1JpN29vWThRY1JWdHhZTjJR?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-22T19:24:01+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "El fundador de World Labs, Fei-Fei Li, insta a una supervisión independiente de la IA - Bloomberg News",
+    "summary_es": "El fundador de World Labs, Fei-Fei Li, insta a una supervisión independiente de la IA - Bloomberg News TradingView"
+  },
+  {
     "id": "4ac78437de0d",
     "title": "Sam Altman y Dario Amodei están listos para informar al Consejo de Seguridad de la ONU sobre la seguridad de la IA.",
     "summary": "Sam Altman y Dario Amodei están listos para informar al Consejo de Seguridad de la ONU sobre la seguridad de la IA. es.qz.com",
@@ -214,6 +458,26 @@
     "date_added": "2026-09-23",
     "title_es": "Sam Altman y Dario Amodei están listos para informar al Consejo de Seguridad de la ONU sobre la seguridad de la IA.",
     "summary_es": "Sam Altman y Dario Amodei están listos para informar al Consejo de Seguridad de la ONU sobre la seguridad de la IA. es.qz.com"
+  },
+  {
+    "id": "f646d85e9583",
+    "title": "Watch Fei-Fei Li: AI’s Future Is ‘About Humans’",
+    "summary": "Watch Fei-Fei Li: AI’s Future Is ‘About Humans’ Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFREUU4yX3dEam50OUR0WUItR1JVTDdReXdpVUJmQkxJbUlWdlN0UHJNWWdOczFQR083WjB6Z05ZX3ZPazB4SWJLNlhNNm9ja1E2Ukh0OE1RbHlMOG9TRTR6TXdqbHNNNUtnZ3lYU0JPX2ZQbjczbDl4TlEyYXRxMHZWS0NpcFI2dmZLaGhvSTg1aTB1SUxNaQ?oc=5",
+    "source": "Bloomberg",
+    "language": "en",
+    "published": "2026-09-22T18:31:29+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-23",
+    "title_es": "Mire a Fei-Fei Li: El futuro de la IA es \"sobre los humanos\"",
+    "summary_es": "Mire a Fei-Fei Li: El futuro de la IA es “sobre los humanos” Bloomberg"
   },
   {
     "id": "0c1ad5b84063",
