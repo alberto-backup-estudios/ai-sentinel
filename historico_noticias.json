@@ -1,5 +1,247 @@
 [
   {
+    "id": "5c0a7edcf431",
+    "title": "OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices.",
+    "summary": "OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices. Reason Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXR3UG1kR3RxOHNsU19uRlVORWdNQkdSUFZaYXdET2RYc2dSVlpTXzYtWGZBZU5UdzZQTWtFVlRCeFZ1Y0o2UUUyS21qZ0YxemcyMlNLanpHWExEeEF6OHVnUmdkYk56SnlsVTRtbHAxNnh3Z3RHU1c3VXlyaS1mODhtRnVfRnVYR0txdWFLdDR3emVlZVdjdk91OWRRMGRmNWJNaE1B?oc=5",
+    "source": "Reason Magazine",
+    "language": "en",
+    "published": "2026-09-24T20:40:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "OpenAI predica la seguridad de la IA. El incidente de Australia muestra lo que se practica.",
+    "summary_es": "OpenAI predica la seguridad de la IA. El incidente de Australia muestra lo que se practica. Revista Razón"
+  },
+  {
+    "id": "4800a553b840",
+    "title": "GOOGL, OpenAI, Anthropic Are Reportedly Building Their Own AI Safety Watchdog — But Without Government Oversight",
+    "summary": "GOOGL, OpenAI, Anthropic Are Reportedly Building Their Own AI Safety Watchdog — But Without Government Oversight TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHNRcU1zSGxyMVZvNDY5NHhJRWphNk1TdnR6aGcxTzBHSk9pZnpCNkhnYllWc1BKSXVOMzhNSW9hVGZEUmdzU19UU0I2UXdfV1pWcWJBWG54VThWY3BONVg5MVp1R1Y4ajdrWHBhTTJIMS02aDJfZWxLS2M4NTN5b3FoaEpZSzlueUxqaENuTjJwa1AzbzQxZmhtOEtRWklJTElSWDRWTld4MGkxaUd2aGZXakpiQmVvTllwQm84UHY0X3RuZngwUGYwellpdVlVX1B1OG05NExVQmRnT3VKRVJvc0hJWGhhdWlYQ1BROERmMkdDV0k1bmNXZFc3dw?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-09-24T20:30:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Se informa que GOOGL, OpenAI y Anthropic están creando su propio organismo de vigilancia de la seguridad de la IA, pero sin supervisión gubernamental",
+    "summary_es": "Se informa que GOOGL, OpenAI y Anthropic están creando su propio organismo de vigilancia de la seguridad de la IA, pero sin supervisión gubernamental TradingView"
+  },
+  {
+    "id": "a285c834495f",
+    "title": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards",
+    "summary": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEJ6b0dzel84NjZLVGRhcVM2VHltQW5QVEZwX24wTWJLU0tBc3ZaazZWM2NaSGRSYmhKZmJrd3VXSXh1Q1p3N2ZmbXh1aXBWMW5WZ21DeW1jV294MFVHS0R5ZWI1U00ySk9xTld1b0ZySktfRlo2bmpoWmRnQ05tSmRFOHIwbXViM2VfWm5NaGM1OWJqZXdYTEVERVFwLTRWQlhabE4wbUgwUE1nUFd1U3VTOE1hZUpFZjZXdHZNd045UQ?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-09-24T20:27:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "OpenAI, Google y Anthropic unen fuerzas para establecer estándares de seguridad de IA",
+    "summary_es": "OpenAI, Google y Anthropic unen fuerzas para establecer estándares de seguridad de IA PYMNTS.com"
+  },
+  {
+    "id": "29bcd3a1d35a",
+    "title": "Microsoft’s Suleyman Says Industry Needs ‘Red Line’ for AI",
+    "summary": "Microsoft’s Suleyman Says Industry Needs ‘Red Line’ for AI bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGZ2RnNnSWRJRW5OVWNqcGhhQ2ZpSDJPWm5ZRkM2Rm11bWgxQ3pMS01OOEQzam5LeVAzWDZQMnNiWUhJMDM5R1FIdzFjdEJsbUNKUTU3cDVfMFBISFB0aXJPMzJpZmpYbzMxa2FpTURMa2xBRExuVnQ1WlhPRkVhMzNlV09UTlRuZDhlQ3A3YlRIZmJZMDZDUm1ORGp1X0Z1ZUF2NTEyOWhHRERwMGR3?oc=5",
+    "source": "bloomberg.com",
+    "language": "en",
+    "published": "2026-09-24T19:26:47+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-24",
+    "title_es": "Suleyman de Microsoft dice que la industria necesita una “línea roja” para la IA",
+    "summary_es": "Suleyman de Microsoft dice que la industria necesita una “línea roja” para la IA Bloomberg.com"
+  },
+  {
+    "id": "c63834b3a86f",
+    "title": "Warner says AI safety can't wait, and ties the fight to data centers in Virginia neighborhoods",
+    "summary": "Warner says AI safety can't wait, and ties the fight to data centers in Virginia neighborhoods The Alexandria Brief",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzM5bXZ2OTJoWmVqOXYzRkFNZVlOUVVjU1JIM3d1VDl3X1VoYkhIcjVqbm8zSktSMmVRVXpabGZLeFlOaHlCUV9fT2xLSDBHTkFTd0ZJenY5VXVqZWxmaFdZRDUtVXF5MkgwbXljaWtrajNhaWEtQzJ2N3FNcWNUdmE5OWdPS01peDYyVE02bGhaT3VQMWZxbjJNd1doU2RqY3AzVkp3SGJqVWYtTHNlMW0ybWR2VE40alZ4c1hzRDBMYXM?oc=5",
+    "source": "The Alexandria Brief",
+    "language": "en",
+    "published": "2026-09-24T18:53:22+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Warner dice que la seguridad de la IA no puede esperar y vincula la lucha con los centros de datos en los vecindarios de Virginia",
+    "summary_es": "Warner dice que la seguridad de la IA no puede esperar y vincula la lucha con los centros de datos en los vecindarios de Virginia The Alexandria Brief"
+  },
+  {
+    "id": "6558518d6cff",
+    "title": "Nasdaq (NDAQ) Backs AI Governance Push With Investment In Regulated Finance",
+    "summary": "Nasdaq (NDAQ) Backs AI Governance Push With Investment In Regulated Finance simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG5KWERndUJzOVR2bXNxelBzUDFOb0kyR2VfSkFHYTg2RWtsN3lQYjFUVHEtTUdLTGtQZ1NoZ0dCV1ZIR3NzOUFCMlpxYUsxcTE3WVg2Q0gxeGtZcnF4LVlnWktIVHl5dU50STVLejY1VmVCSHlOR01ZUlhMa1hEd2FZa0ZQWGM0aHlrUDZURXhobnVPbzF2UHl4U2s4Wm5iT0FWN1h3cU9UVDdabDZyc1dDNUctb1YwRVFQeTRhQVk1STFsN05ZaENscURDMXFPUV9kTFJ30gHbAUFVX3lxTE5HNkozQkJYM3dSNmc5TXZtM1Z0WXpyN3UtdTZkcDA2Q2NQSmVuM2JXV1NTOXFDTHJKTzZJTmxoYnhZNHdUUmUwaHU2akY0TG5zcU5JcHNib3FvRDRzUmpwQjBuQmhmaVkydy1ITXFiUnZlRjdTR19JeW1iWDR1ZEI0Qks4Nk1BeUp5WFNYYlhKRWNiYzFJM1dBcXVSdlpRZG12QVRCdEJTTm10VmFYZHdLRDdQeGR5dDk3eWhrdW9jal93XzZ2S05rSkxBYkFPQ3F2d3VhS3lSV0Rfaw?oc=5",
+    "source": "simplywall.st",
+    "language": "en",
+    "published": "2026-09-24T18:50:02+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "Nasdaq (NDAQ) respalda el impulso de la gobernanza de la IA con inversiones en finanzas reguladas",
+    "summary_es": "Nasdaq (NDAQ) respalda el impulso de la gobernanza de la IA con inversiones en finanzas reguladas Simplywall.st"
+  },
+  {
+    "id": "2d5515a4a9ce",
+    "title": "What the future holds for AI safety",
+    "summary": "What the future holds for AI safety Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMWWpVZ0hJSVNCSFpVTG1SNEFLbVh6ak5pNkpheWNNeVE3ZVRFVmxlZXN4WGR6ODVwNlJCVWNmd2xLU3FvUGs5X2NyOE55U1p4aFdRbjAybDJ1aHM?oc=5",
+    "source": "Fox Business",
+    "language": "en",
+    "published": "2026-09-24T18:47:48+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Lo que depara el futuro para la seguridad de la IA",
+    "summary_es": "Lo que depara el futuro para la seguridad de la IA Fox Business"
+  },
+  {
+    "id": "3e868be6df59",
+    "title": "Inteligencia artificial: \"Nuestro futuro está en juego\", dice Yoshua Bengio en la ONU",
+    "summary": "Inteligencia artificial: \"Nuestro futuro está en juego\", dice Yoshua Bengio en la ONU Radio-Canada",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTDMtVGp3Nng4b3p6Q0xGajYtSFNteGxuZ0EzRlFiam9GQUN2Zzg1SFNUZm9BQXZIbHJ5OHVyR3RoSlczRGJUY29ZMGg0WFFnakF4a0N6cjhZSnVZWmg1UlpqR3VBUDJzRXdLRk9QR2E2TnRyZEV3bm12QnJUQnJkUGQyUExadGdYc1h3bUx1NHNnZ1V6dVFkeVZsV2c3ZUhaLUNlbnhlN2oyNnJVUVNZMExCalNibkgtOEhjQzRFY2RmN1BrWHMyRTdrSzQ?oc=5",
+    "source": "Radio-Canada",
+    "language": "es",
+    "published": "2026-09-24T18:35:28+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-24",
+    "title_es": "Inteligencia artificial: \"Nuestro futuro está en juego\", dice Yoshua Bengio en la ONU",
+    "summary_es": "Inteligencia artificial: \"Nuestro futuro está en juego\", dice Yoshua Bengio en la ONU Radio-Canada"
+  },
+  {
+    "id": "ab31af6e34f5",
+    "title": "AI safety debate intensifies as leaders urge global cooperation - ABC News",
+    "summary": "AI safety debate intensifies as leaders urge global cooperation ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlVacU5tX3JCQkVvek1VcUMxZjRjQzlHTGJPcWhRci1Rc01pMWNoUk1uczlzblduLWJnbGRWaTU1X2lOTXViekh5ZUNrX0dXWk9JYXAwYzdsMnJGa2xEY2czdXFybmUzb0labG9nR1JmcGxHVEFLZjQzZ1BCdld5c01QZzdCN0JXZmRaY05qOVZ6VENGakdZYnVMQ2YtUGY1?oc=5",
+    "source": "Breaking News, Latest News and Videos",
+    "language": "en",
+    "published": "2026-09-24T18:30:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "El debate sobre la seguridad de la IA se intensifica a medida que los líderes instan a la cooperación global - ABC News",
+    "summary_es": "El debate sobre la seguridad de la IA se intensifica a medida que los líderes instan a la cooperación global ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+    "id": "92004322f434",
+    "title": "Anthropic Taps Accenture for Embedded AI Safety Evaluations",
+    "summary": "Anthropic Taps Accenture for Embedded AI Safety Evaluations Channel Insider",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1BvRV9WWXF1dl91NmNDYlVmTVJGdVJjcGdGelZQWUViVkFXU1Zpa2JxNU9FejEyRi1FN0UwMi1wV3hUampyTGRsWW14b1YyV29rNFQ5Um5TQXF0aG5yN1lLVlVWdXNfYmhzUjZWckhHTGtKYjQ4R3hYNmhUZ1AwcXljS1o?oc=5",
+    "source": "Channel Insider",
+    "language": "en",
+    "published": "2026-09-24T18:12:54+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Anthropic recurre a Accenture para evaluaciones de seguridad de IA integrada",
+    "summary_es": "Anthropic recurre a Accenture para evaluaciones de seguridad de IA integrada Channel Insider"
+  },
+  {
+    "id": "10e48a3b57f6",
+    "title": "La Unión Europea reclama un papel central para la ONU en la gobernanza de la IA",
+    "summary": "La Unión Europea reclama un papel central para la ONU en la gobernanza de la IA UN News",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MMWRocFc3VU1NVFVvaVhjUXMzQXMtZ01BTEVqMFkxRVZGV1ZwSklrLXpzWHphMmNsYWVWUFAzYjRKU0l6MG9oRDl0bkxwR3dXeW9CWm80UQ?oc=5",
+    "source": "UN News",
+    "language": "es",
+    "published": "2026-09-24T17:48:54+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "La Unión Europea reclama un papel central para la ONU en la gobernanza de la IA",
+    "summary_es": "La Unión Europea reclama un papel central para la ONU en la gobernanza de la IA UN News"
+  },
+  {
+    "id": "2abd844cd36a",
+    "title": "The EU AI Act: Key Dates for Compliance (UPDATED)",
+    "summary": "The EU AI Act: Key Dates for Compliance (UPDATED) jdsupra.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTVuU21jWnZiMHYzRlJvTG1zaU5RN3V6Q1hERlktNVhDbnJfdFFPdjFDYkpwLUFCUDFqc1ZvZHl2UVVXbnFFZUVmUjRzY1FINkNEWFBGQnFQWk5aWTJJdFBMTXlDN0JGdVJrdTAxcVBaZFpSdk9taW5vcEY3bHk2ckdYYk04NHdw?oc=5",
+    "source": "jdsupra.com",
+    "language": "en",
+    "published": "2026-09-24T16:41:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "La Ley de IA de la UE: fechas clave para su cumplimiento (ACTUALIZADO)",
+    "summary_es": "La Ley de IA de la UE: fechas clave para su cumplimiento (ACTUALIZADO) jdsupra.com"
+  },
+  {
+    "id": "72df4fcfd27d",
+    "title": "Microsoft AI Chief Warns Over Claude’s Safety",
+    "summary": "Microsoft AI Chief Warns Over Claude’s Safety varindia",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YZE5yNXR1YlVHMG9INkt5ZkdHSzNqNXNfMVlsTkZ2aVIzT1Q4QXJUb0ctMVVHejRWWHlKbllUUFk4UXV0QWtzOEJVa3R5RTdGclQ0QXVxemZ3TlhPQ3ZFOVIzS0xRekYzSXQwRkx6VUpfblNad2JzV2t6ZEZfQQ?oc=5",
+    "source": "varindia",
+    "language": "en",
+    "published": "2026-09-24T16:37:35+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-24",
+    "title_es": "El jefe de IA de Microsoft advierte sobre la seguridad de Claude",
+    "summary_es": "El jefe de IA de Microsoft advierte sobre la varindia de seguridad de Claude"
+  },
+  {
     "id": "001e02816f80",
     "title": "Altman Takes A.I. Safety Push to The United Nations",
     "summary": "Altman Takes A.I. Safety Push to The United Nations cheddar.com",
