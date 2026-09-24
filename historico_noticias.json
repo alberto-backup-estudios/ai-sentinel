@@ -1,5 +1,277 @@
 [
   {
+    "id": "001e02816f80",
+    "title": "Altman Takes A.I. Safety Push to The United Nations",
+    "summary": "Altman Takes A.I. Safety Push to The United Nations cheddar.com",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDlHMHVHazlIb3NkcGxWdkItQXlQR0t2UkhPTHZnMUlvNUxIaVFrRS0wek42NVNCbVpJdHp3M2xCc3VXajRBTk8yNUdQVkYyMWFISDJqUG1lRENFWktBVFV5MERLbUo2VlZCODNtZTFUcUQyeDBVQ2Y3SkFQSkdZTjFvNXNjdFE?oc=5",
+    "source": "cheddar.com",
+    "language": "en",
+    "published": "2026-09-24T16:03:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Altman toma la IA Impulso de seguridad a las Naciones Unidas",
+    "summary_es": "Altman toma la IA Impulso de seguridad a las Naciones Unidas cheddar.com"
+  },
+  {
+    "id": "7e227383d55d",
+    "title": "US Leadership on Open-Weight Models is Key to Global AI Safety",
+    "summary": "US Leadership on Open-Weight Models is Key to Global AI Safety Tech Policy Press",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnFHei04WDlYOE9RbV9iTm1jektFb1BId1hJaEN5bENQRDlpNjVJcFpsRWc5UzVuUVUwSmJ0TzgwdlBTc3FBSU9nRDZKWGtBOFdLR1pjNHhBSnczUGlkTHhQdV9EYnRvS1RpakhwUVhBdWhIbExuN3oxNlNsaHQ2cThXVFlpX3gyYUQ2OUMybWJYdi1lMU5J?oc=5",
+    "source": "Tech Policy Press",
+    "language": "en",
+    "published": "2026-09-24T15:44:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "El liderazgo de EE. UU. en modelos de peso abierto es clave para la seguridad global de la IA",
+    "summary_es": "El liderazgo de EE. UU. en modelos de peso abierto es clave para la política global de tecnología de seguridad de la IA"
+  },
+  {
+    "id": "ec6cddc27bfb",
+    "title": "SolarWinds Report Outlines AI Governance Gaps In Public Sector IT",
+    "summary": "SolarWinds Report Outlines AI Governance Gaps In Public Sector IT ExecutiveBiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkpFZl9ydGhlZzRuMW8xN2VXV3JWNW5jSTZxSllMQTJJNDZVSmJKYzhESS13V21scTVCbmhPLWplbVBUXzJlbUFKU2xHLXFuSjRiNTF3WnFSdXUzWk13ZlNBd3BPRThQQm0xZ0I1Nm5YNXlRRUNvd24tN3Jza0VFeEtB?oc=5",
+    "source": "ExecutiveBiz",
+    "language": "en",
+    "published": "2026-09-24T15:41:41+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "El informe de SolarWinds describe las brechas en la gobernanza de la IA en la TI del sector público",
+    "summary_es": "El informe de SolarWinds describe las brechas en la gobernanza de la IA en el sector público IT ExecutiveBiz"
+  },
+  {
+    "id": "8b47bfcecf67",
+    "title": "A nuclear moment? Fractures show at UN Security Council meeting over AI safety",
+    "summary": "A nuclear moment? Fractures show at UN Security Council meeting over AI safety Straight Arrow",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGZWS3otVXROQ041NUIxTEJRcEpnQjg4T0hILVItdlhYS2VjMFBvcnRHaWRicHhQX2JUMlhBWUs5NFROcE4zNVVYZzZaSldoQm9oY0lBd1pRUHVraEVTUi1pNlN0a1EwSkJKVGZRZnJrcHVZQTNzcUZjb2owWmZIbFR0RnJXRTBhY2dLekVwRVdUb2UtWG1uM3Y2QmFrdw?oc=5",
+    "source": "Straight Arrow",
+    "language": "en",
+    "published": "2026-09-24T15:33:47+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "¿Un momento nuclear? Se muestran fracturas en la reunión del Consejo de Seguridad de la ONU sobre la seguridad de la IA",
+    "summary_es": "¿Un momento nuclear? Se muestran fracturas en la reunión del Consejo de Seguridad de la ONU sobre la seguridad de la IA Straight Arrow"
+  },
+  {
+    "id": "26d8f2b3b17f",
+    "title": "Nick Clegg says AI labs can't keep marking their own homework",
+    "summary": "Nick Clegg says AI labs can't keep marking their own homework The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUVYenRCNV9tSUJ1YzMxSnktZXdSVnI4UlBVczEwMmZydndiUXVPZ24tLVU5M2J5ejZBUnc2UGkwT1YxV3FfOW52WTA2WUdmRW1tZmZvWV9tTmp2a2drVFN6VDFnMWtkUVplbm9ZZ0JGSXE4aDhIU3lyY1V1Qk5kcTFERDJWZ3g3N2VoaQ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-09-24T15:33:17+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "Nick Clegg dice que los laboratorios de inteligencia artificial no pueden seguir marcando sus propios deberes",
+    "summary_es": "Nick Clegg dice que los laboratorios de inteligencia artificial no pueden seguir marcando sus propios deberes The Next Web"
+  },
+  {
+    "id": "56e005dd36c7",
+    "title": "Notes from the Asia-Pacific region: Medicare breach shows convergence of AI governance, cybersecurity and privacy",
+    "summary": "Notes from the Asia-Pacific region: Medicare breach shows convergence of AI governance, cybersecurity and privacy IAPP",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1lsWjRPTHNabUtUU09tZzc0eXVQWGtjaHhPYTk0Mks4ckdyZnNwSDdsNWZCYWFBTmZoaDRSWFFOaE51eXBsOTZtTHFkZVNMbkc1b0RvNWxMcU5xVWJYVGFOOTBlLTNQdXE5RG5VNGxvVXBndzI1MWFKZUJwR0Q1c0tjUW5Fa1NJTFY4eExzWWxBdXVTVmQ4RUhwUXlGS0VuR0ZhYXBCUjdYSlotRHdWaU0yWXZZcXl5MEVzM05LZ0d1dHRhR3V3QkJHZ3o1M3dH?oc=5",
+    "source": "IAPP",
+    "language": "en",
+    "published": "2026-09-24T15:17:57+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "Notas de la región de Asia y el Pacífico: la violación de Medicare muestra la convergencia de la gobernanza de la IA, la ciberseguridad y la privacidad",
+    "summary_es": "Notas de la región de Asia y el Pacífico: la violación de Medicare muestra la convergencia de la gobernanza de la IA, la ciberseguridad y la privacidad IAPP"
+  },
+  {
+    "id": "7e47d136d78d",
+    "title": "AI Safety Concerns",
+    "summary": "AI Safety Concerns WKOW",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWllDUTQwSHlKSHF5ejRib1lwM2xCQ0lpT3N6ZGtXQTMyQTRtcTZvRlB4Z1l1S0Rjb1B5X2w2cjlWMkVLckVZZ0dqOFl5TG5sLWxKZ0VCdHhsMnpRaVdkd2RIQjdMejhCQ2JKTXJ4MHpXTmt3d3Rnb2Rmek9VWFhNOTlLSHJjT0RlYmxqY2loY0I?oc=5",
+    "source": "WKOW",
+    "language": "en",
+    "published": "2026-09-24T14:31:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Preocupaciones de seguridad de la IA",
+    "summary_es": "Preocupaciones por la seguridad de la IA WKOW"
+  },
+  {
+    "id": "b4061235dffa",
+    "title": "New York Could Share Frontier AI Safety Reports Nationwide Without New Legislation",
+    "summary": "New York Could Share Frontier AI Safety Reports Nationwide Without New Legislation Lawfare",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWk1falZRYjRiLVR4U0VqM2ozakZOa0RzUl92TWx4OE1hZWZQR05ScFAwSmx4eklBam84WmttbWVoUmI3Z05oUUN2MHFETkZJV0VZb2hrcTVPTjNMUDZ2QlNQbzlrQmxReXhseFZ3cEdGLU5HckR5MHZEdzVqejAxZHIzOWZ0TkhvNUo0a1hraGl5d0ExV3lSODI3QmVSRnpMZWRrT1pWd0gtWDlqT1UyZzdlZnhaV0Q3TFRJ?oc=5",
+    "source": "Lawfare",
+    "language": "en",
+    "published": "2026-09-24T14:09:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "Nueva York podría compartir los informes de seguridad de la IA de Frontier en todo el país sin nueva legislación",
+    "summary_es": "Nueva York podría compartir los informes de seguridad de la IA de Frontier en todo el país sin nueva legislación"
+  },
+  {
+    "id": "fe629628fb8d",
+    "title": "Wisconsin AG joins multistate push for federal AI safety rules",
+    "summary": "Wisconsin AG joins multistate push for federal AI safety rules WKOW",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUVTaHJYSnIzRHNLb040Ym5MQ3pnMWdsaDdBU1FQZmxjTktENzBLdWJUdTZJWXl0WWhZc3ViaHNuRkQ0SDVlV01CMmlEM2FBcl9JYnJNRlJWbHBqYXpuY0pxX0I4S0ZNU3FiSEZoNElvWFN0WFo4N3hnTUpVLVI1anJiZEVIckxtdDVKcmkweE9ZYTJOa1RYWVNZelBwS1lWMjFrWU0tazF1MGp5LVI0MkJEWEJ2WGVjWnl2S0ZoWEJfYzZYTW50TnYxN0lQb1Zfc2NJZ25tYmVCSjV1ZDJXcUlRNEc?oc=5",
+    "source": "WKOW",
+    "language": "en",
+    "published": "2026-09-24T13:36:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Wisconsin AG se une al impulso multiestatal para implementar reglas federales de seguridad para la IA",
+    "summary_es": "Wisconsin AG se une al impulso multiestatal para implementar reglas federales de seguridad para la IA WKOW"
+  },
+  {
+    "id": "0a81a24a34ee",
+    "title": "OpenAI presenta MentalHealthBench para evaluar la seguridad de la IA en salud mental",
+    "summary": "OpenAI presenta MentalHealthBench para evaluar la seguridad de la IA en salud mental DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWFXM0VJM2tWeGt6cGxYd1U3VzhnUUdraGN4SlZKdklZTmNtc0ZYX0hXdUFYQkw0c01KSDJvZ3Q1QUVZZlVDVG1xaUlIX1JqTTVOdnFwMXJBdXpmaVF0TXVvU0F3NU11WHdQWFYzSFZaWkpQUTZUV0w1d2hPOFJTeW5RbzNlTVFULVVpZ2pSOWtEakFYZTZjU0lnSkR4R2ROOW5DYngyX0lKcnhWTUU2aUNGM3ZHcHJEMnZkRE5wSzhZQQ?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-09-24T13:30:52+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "OpenAI presenta MentalHealthBench para evaluar la seguridad de la IA en salud mental",
+    "summary_es": "OpenAI presenta MentalHealthBench para evaluar la seguridad de la IA en salud mental DiarioBitcoin"
+  },
+  {
+    "id": "f11a4067b186",
+    "title": "China Rejects 'quest For Digital Hegemony'; US Dismisses Global AI Governance",
+    "summary": "China Rejects 'quest For Digital Hegemony'; US Dismisses Global AI Governance RTTNews",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTVfR2pLZzU0blNpaWlVS2ZJZm16ck83T0RqcnItREt0TXh5YXR2TUp6T1paRkM5NlJiNGdVbS1EbllSTkdYMTdEeGN0ejZRVGtzVklSbF90ejZnNWRkZkMxWkV2YVU4My1HbGduRjhTTjVacWxmNE5yTG1lTmFjUm8yMzdnNHdIUzVPdEh0WUhQZ2VXSDVFU3diZ0h4NWRSQnBuaWF0aVZRODl2Qjdiaw?oc=5",
+    "source": "RTTNews",
+    "language": "en",
+    "published": "2026-09-24T13:04:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-24",
+    "title_es": "China rechaza la 'búsqueda de hegemonía digital'; Estados Unidos descarta la gobernanza global de la IA",
+    "summary_es": "China rechaza la 'búsqueda de hegemonía digital'; Estados Unidos descarta la gobernanza global de la IA RTTNews"
+  },
+  {
+    "id": "a3eb5f1ca367",
+    "title": "OpenAI executive addresses AI safety fears and government system hack",
+    "summary": "OpenAI executive addresses AI safety fears and government system hack foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZ0dQYUdtYWxjbjdJNzFWbkRDSG5WbzZhMDRqc0ZXNWd5djhoQThMSzdqMUFzS2gyaG1ET25PWUJpSzQ4d0NIZ1FQOXdTRTJIQWtubjJ3?oc=5",
+    "source": "foxnews.com",
+    "language": "en",
+    "published": "2026-09-24T13:02:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "El ejecutivo de OpenAI aborda los temores de seguridad de la IA y el pirateo del sistema gubernamental",
+    "summary_es": "Ejecutivo de OpenAI aborda los temores de seguridad de la IA y el hackeo del sistema gubernamental foxnews.com"
+  },
+  {
+    "id": "7f5fb1716967",
+    "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape",
+    "summary": "Google, OpenAI and Anthropic AI Safety Group Takes Shape The Information",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmgyX1dTWG0yMEZFb2RRTmNReFM1aVFxa3Vid2hqWmMzU1hQQTNBR0p3MXlJWWZadUEtZHpvWUtiUnluMHRkNHNsZjViU1Y2MUZKdExNdjg0cDlIbFltWEc5bHdySEMyakJvQUhfSTFGSXQ2Wk1EaVJIOTNCRWNZZzhhZUJ2SEdlM2luUmh2ekxhRlBjMkE?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-09-24T13:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "Google, OpenAI y Anthropic AI Safety Group toman forma",
+    "summary_es": "Google, OpenAI y Anthropic AI Safety Group toman forma La información"
+  },
+  {
+    "id": "389653977ad6",
+    "title": "Governor issues executive order to advance AI safety and oversight",
+    "summary": "Governor issues executive order to advance AI safety and oversight nrtoday.com",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGpWdEZ5TmNTUjdMN0dkQ1BZNGdQU2FqTWNaX0pPQXFBbHVINzRqSDBMQWZGd1RrLWtTdXppRWxpMFlwN1Vld0dIcXh4SHJfbllrZEhaQmtqZG80eHZhVGd6ZmNzNkh3amRuSHl4ODAxM1FPQkxfNlJCR1NMVXI0Zm03dzFodXZleEZhZjFLRjFDVVFlQTdubUsyaXpOTXRDNjdSSEU3dzRJbWc0T1lrRVM3OHUyRFc0ejJfUmhlWmFYREZoY2t6UDVBMGdCSUtrd3kxX1VEREdwUG9VY0E?oc=5",
+    "source": "nrtoday.com",
+    "language": "en",
+    "published": "2026-09-24T12:55:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-24",
+    "title_es": "El gobernador emite una orden ejecutiva para avanzar en la seguridad y supervisión de la IA",
+    "summary_es": "El gobernador emite una orden ejecutiva para avanzar en la seguridad y supervisión de la IA nrtoday.com"
+  },
+  {
+    "id": "c3b67add55fb",
+    "title": "Statement: World leaders at the UN call to rein in superintelligence race",
+    "summary": "Calls for pacing, coordination, and capacity-building are welcome, but the urgency of our shared situation requires practical solutions.",
+    "link": "https://futureoflife.org/statement/statement-world-leaders-at-the-un-call-to-rein-in-superintelligence-race/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-09-24T12:06:45+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-09-24",
+    "title_es": "Declaración: Líderes mundiales en la ONU llaman a frenar la carrera por la superinteligencia",
+    "summary_es": "Los llamados a acelerar el ritmo, la coordinación y el desarrollo de capacidades son bienvenidos, pero la urgencia de nuestra situación compartida requiere soluciones prácticas."
+  },
+  {
     "id": "e608d7aff6aa",
     "title": "UK firms sharpen AI governance focus",
     "summary": "UK firms sharpen AI governance focus IT Pro",
