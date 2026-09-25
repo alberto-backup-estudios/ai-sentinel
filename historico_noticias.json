@@ -1,5 +1,226 @@
 [
   {
+    "id": "04c3780b98a8",
+    "title": "The case for embracing AI’s inhumanity",
+    "summary": "The case for embracing AI’s inhumanity Fast Company",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZbTFlc2lncVRISUxMX3VvbVU5Ump4blRCd3NXT0dnZ1lTdVNzOGhvUmZqNVdRZl9MbEp4M3hwd2FOU2NYTGpwTEdOMk10R1dzc0FJc1RFRl9URVgtdXVFOHdLa2p4Szl5MGVEZVowQmVETXVnVk11akdLUzZ3UQ?oc=5",
+    "source": "Fast Company",
+    "language": "en",
+    "published": "2026-09-25T16:01:49+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-25",
+    "title_es": "El argumento a favor de aceptar la inhumanidad de la IA",
+    "summary_es": "Los argumentos a favor de aceptar la inhumanidad de la IA Fast Company"
+  },
+  {
+    "id": "0a1015d5959e",
+    "title": "Is the world moving toward a global agreement on AI governance? | Elizabeth Cousens | Global Stage",
+    "summary": "Is the world moving toward a global agreement on AI governance? | Elizabeth Cousens | Global Stage Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnR6Zms4Q2lWOGJPVmVYTUtka1ZDemRuMk5wUm5FY2pTbVh1cDlFY2ZDQ2tXang0RGQxRzBYY3kyS1I1NjJfWG95amRTX1c2TERldWdPOGJYVDlxamp5VnZJYUgwLVZLVVdPZkdVRVk4VW00QTZvSEpucUlxQU9xQ2lvakFqSlh1elhJZFFR?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-09-25T15:59:10+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "¿Está el mundo avanzando hacia un acuerdo global sobre la gobernanza de la IA? | Elizabeth Cousens | Escenario global",
+    "summary_es": "¿Está el mundo avanzando hacia un acuerdo global sobre la gobernanza de la IA? | Elizabeth Cousens | Escenario global Yahoo"
+  },
+  {
+    "id": "dcd03c5f5378",
+    "title": "Trump-Xi AI Safety Summit Brings Tech Leaders to Table",
+    "summary": "Trump-Xi AI Safety Summit Brings Tech Leaders to Table techbuzz.ai",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUhNbVVyQVZoMHU2Y09rM3dXb3ZlWWVRa2tYS3Fmd1lCcS1PQ1RubTFtQmQ4VVdVUU54b0VvcWx0UmYyS0VMOVZXOVNkN0QzTUdJWDFaQ3diR29lMzRLdnF3MVpCaUpYb0NEZU5UUlN3YkVueWE1V0FjTHF4SnBwcDRFb1ZydjVsbG1rcGhaTkk?oc=5",
+    "source": "techbuzz.ai",
+    "language": "en",
+    "published": "2026-09-25T15:35:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "La cumbre sobre seguridad de la IA entre Trump y Xi reúne a los líderes tecnológicos",
+    "summary_es": "La Cumbre de Seguridad de IA entre Trump y Xi reúne a líderes tecnológicos techbuzz.ai"
+  },
+  {
+    "id": "3fa2251f3c21",
+    "title": "Bill Gates pide regulación IA en Washington frente a la autorregulación de OpenAI y Anthropic",
+    "summary": "Bill Gates pide regulación IA en Washington frente a la autorregulación de OpenAI y Anthropic moncloa.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHIxVFhzZFRWdWhFOTlKMG85alp6aUctWW9SbnVHM21BclM3djFrOFctWUw3MWxlYWFXQkxBOGlNUXM1X1VJUl81NUE0OUdpSHdHUlZiUnlMTUZEX09UM2lDSlFIUm5icTZoZ2JaaFZuVzZJM3hkdzQydnZOZlZXX3BsdW1pQQ?oc=5",
+    "source": "moncloa.com",
+    "language": "es",
+    "published": "2026-09-25T15:26:51+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "Bill Gates pide regulación IA en Washington frente a la autorregulación de OpenAI y Anthropic",
+    "summary_es": "Bill Gates pide regulación IA en Washington frente a la autorregulación de OpenAI y Anthropic moncloa.com"
+  },
+  {
+    "id": "e7c203908be7",
+    "title": "Trump, Johnson plan meeting with tech execs to discuss AI safety",
+    "summary": "Trump, Johnson plan meeting with tech execs to discuss AI safety Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTNPdGRfYnA3NWI5M25sWFk3MjM1bW1teHBNRkxaY3dHTnNtanZsNVNJZzRrNTRqaHZOTHc4Y0Y4WHRMMV9pd0tSZTdWX1J6MEh5RTdDT25IcHh6Z0NoQTNtRGctbHhVNE9NTlVDQzFtc1VsQTJndWYwRnVOTFFuTktCX1E1dXl4MHVZMjdVdERWV0VGbjl5TWthWVJSUExMZ3lN?oc=5",
+    "source": "Seeking Alpha",
+    "language": "en",
+    "published": "2026-09-25T14:41:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Trump y Johnson planean reunirse con ejecutivos de tecnología para discutir la seguridad de la IA",
+    "summary_es": "Trump y Johnson planean reunirse con ejecutivos de tecnología para discutir la seguridad de la IA"
+  },
+  {
+    "id": "46b11bf12a4e",
+    "title": "Microsoft CEO Satya Nadella talks US-China AI safety norms",
+    "summary": "Microsoft CEO Satya Nadella talks US-China AI safety norms Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWltaTZxcXhZTVJlbG5LTHdvRUV4OVRsbUhHZVY2UF9qNGMxeFQxRG82ODdKQXlDWElnV0hLcU1FVDltVHJUa1NYZF84MkZpbXV4dU5UaVhIbzRwaENkdE5maXg4V0RRUHRwQnRPTG1YYUx1VUxfaks2aS1sdzM3dDduM2ZCd0FxZHVaUzE0NHZNR25XN1doYmtWc3UyWGVnX3poRkRuSGc?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-09-25T14:07:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "El director ejecutivo de Microsoft, Satya Nadella, habla sobre las normas de seguridad de la IA entre Estados Unidos y China",
+    "summary_es": "El director ejecutivo de Microsoft, Satya Nadella, habla sobre las normas de seguridad de la IA entre Estados Unidos y China Yahoo Finanzas"
+  },
+  {
+    "id": "4eb7f4e8b15d",
+    "title": "Microsoft’s Mustafa Suleyman says AI needs a red line",
+    "summary": "Microsoft’s Mustafa Suleyman says AI needs a red line YourStory.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFlYdWpPWG95WUlDVEpFRXRxeEEyUnJULTliLWFjVmdxRGQ3VUZ1ZFdxbGI3QXlmOFEtaVNkMkpibTBtZGVQQTV1bTQ1ai1jSFlJcV9mSVFzWUdqOGxrUjhXM2VzUWY1WVJvU1poREdzSkhiTjlZdFZrbjBzb1JBLUdjaGNHT294UGFn?oc=5",
+    "source": "YourStory.com",
+    "language": "en",
+    "published": "2026-09-25T13:59:01+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-25",
+    "title_es": "Mustafa Suleyman de Microsoft dice que la IA necesita una línea roja",
+    "summary_es": "Mustafa Suleyman de Microsoft dice que la IA necesita una línea roja YourStory.com"
+  },
+  {
+    "id": "c196af596cf8",
+    "title": "USPTO Scales AI Governance With More Than 20 AI Capabilities, CIO Says",
+    "summary": "USPTO Scales AI Governance With More Than 20 AI Capabilities, CIO Says cdomagazine.tech",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdW9pdlpwbE5qcEVYdUY0cVJwcFZKb2pIbXJkZ2g4ZmZfTVhYOU44NWJXZmp4OEdhMDdua0YwWWw4QmFXUXNsR3lySlpNTGJoUjB5VGRvNjRNMW1RaTJNWGZKc3UtamVlenptUUNlMUJuNUdXanN1WmJ4dUxxbHV4RE10U3ZzbUNhWUpGODRZZ2NlbTRsc05zTjhsd3ZkWENjNklzaHBDRjN5LWk3MDlLM25QS2xuT3hrZE5QTUhR?oc=5",
+    "source": "cdomagazine.tech",
+    "language": "en",
+    "published": "2026-09-25T13:26:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "La USPTO amplía la gobernanza de la IA con más de 20 capacidades de IA, dice el CIO",
+    "summary_es": "La USPTO amplía la gobernanza de la IA con más de 20 capacidades de IA, dice el CIO cdomagazine.tech"
+  },
+  {
+    "id": "25ba90d966e0",
+    "title": "Australia’s Medicare AI Breach Spurs Calls for Stronger AI Governance",
+    "summary": "Australia’s Medicare AI Breach Spurs Calls for Stronger AI Governance cdomagazine.tech",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2R5VXdidE5oc1VBUDlVU3p1YjhWcXN4UUwycVUzMXpCclJvZDRuZkhUUTRmN2ZNRzJITnVWTGNxOUlNLXVkMmlSWEw0ZEtsdnJBTmR3Z1lsMmI1a3AyeXUxZGtEbzdyYmxuNE5HNGV4Z3dVV0tNVVFLR2stazMtY2hQZ2NfVDdMb2NSLWI4NTlmaDJrQldrYlZHWFk3TVpxY2hzaA?oc=5",
+    "source": "cdomagazine.tech",
+    "language": "en",
+    "published": "2026-09-25T13:25:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "La violación de la IA en el Medicare de Australia impulsa un llamado a una gobernanza de la IA más sólida",
+    "summary_es": "La violación de la IA en el Medicare de Australia impulsa un llamado a una gobernanza de la IA más sólida cdomagazine.tech"
+  },
+  {
+    "id": "4e89677ec08a",
+    "title": "EU AI Act vs. Housefishing: New Rules for AI Real Estate Photos - News and Statistics",
+    "summary": "EU AI Act vs. Housefishing: New Rules for AI Real Estate Photos - News and Statistics indexbox.io",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZV9wVklhOW5qTU9XXzZ5VGtJN3FDUkdzSE9kQjRJajc0NnZaVmFIbFE2NVlKcGw4ZDZSdWtZUEt1Ynp6UHBNTXlTSnZqMnZRTWxrZXNTTS00VWlTQTlackdZRnoyVG5SYWkwaWhhRm42RnlWMnNmMzJpTnpVM21CRVRFYTZFNTF0OTRwcE1iSmJQZzVKYWI0QTEzUmU1MnBSX3BxXw?oc=5",
+    "source": "indexbox.io",
+    "language": "en",
+    "published": "2026-09-25T12:50:40+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "Ley de IA de la UE versus pesca doméstica: nuevas reglas para fotografías de bienes raíces con IA - Noticias y estadísticas",
+    "summary_es": "Ley de IA de la UE versus pesca doméstica: nuevas reglas para fotografías de bienes raíces con IA - Noticias y estadísticas indexbox.io"
+  },
+  {
+    "id": "3d15428cc653",
+    "title": "This Week in AI: AI’s Safety Problem",
+    "summary": "This Week in AI: AI’s Safety Problem O'Reilly Media",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VOGZxOXBOSnZNNklTaTE4ekhmc254R3M5VlpOZ1ctcFdyak5LaC1iRGh5emJWUUdGSDVxbHhYM1JReGlYcDNBM1NvWG5kUncwcXRrSzdBWGFJNEVDejZ1UnluOW9HbE9sUUlvY0RPVk1qd2M?oc=5",
+    "source": "O'Reilly Media",
+    "language": "en",
+    "published": "2026-09-25T12:49:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Esta semana en IA: el problema de seguridad de la IA",
+    "summary_es": "Esta semana en IA: El problema de seguridad de la IA O'Reilly Media"
+  },
+  {
+    "id": "1c633736490f",
+    "title": "How Much Should We Really Be Worried About AI Safety?",
+    "summary": "How Much Should We Really Be Worried About AI Safety? The Hollywood Reporter",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQklOMDhMdE1SOHpGaVh5VmtfVzVSMDhXbm5iVDZ4Tzg3VHJFUzNhWjhSSU16VWR0VklESkdZOUZOR0o1SnJCcmdaTnAteWltb3R3Tlk2bzRaWnJpdDdEc3U3OE1hNmh4ZXFrUkE1WGRVbFZHMjVSeTcyZVdCR0YwNkRuWW1IWDFqTUlOTTZZS2JVay1pdFpURDlmdjQ5THd2NEVkcFdfRWc?oc=5",
+    "source": "The Hollywood Reporter",
+    "language": "en",
+    "published": "2026-09-25T11:31:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "¿Cuánto deberíamos preocuparnos realmente por la seguridad de la IA?",
+    "summary_es": "¿Cuánto deberíamos preocuparnos realmente por la seguridad de la IA? El reportero de Hollywood"
+  },
+  {
     "id": "249637409706",
     "title": "AI governance lags behind deployment. CIOs need to fix that",
     "summary": "AI governance lags behind deployment. CIOs need to fix that Information Week",
@@ -36,6 +257,24 @@
     "summary_es": "Mientras Xi habla sobre seguridad de la IA en Washington, académicos chinos advierten sobre riesgos nucleares El Proyecto China-Sur Global"
   },
   {
+    "id": "99f3da7257db",
+    "title": "AI Security Awareness is the New Frontline of Cybersecurity",
+    "summary": "AI Security Awareness is the New Frontline of Cybersecurity Infosecurity Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2x1ME5oNGx2UjhOSjFlNVYwX210Ynh6YVB2djEySkJMQmRtaWhWVzVMMW52blVXY0RPT3ZHR0tVM1lvZTZSODQ5SHM5MEI1MG5yTTFncU93LTJHTFZrRWdGVGNLbXFEaWlBc0o2ODdHSGFuTXRLTHBHRHJEUlBnMTZhbnYzTGFINkpF?oc=5",
+    "source": "Infosecurity Magazine",
+    "language": "en",
+    "published": "2026-09-25T11:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "La concienciación sobre la seguridad de la IA es la nueva línea de frente de la ciberseguridad",
+    "summary_es": "La concientización sobre la seguridad de la IA es la nueva línea de frente de la ciberseguridad Revista Infosecurity"
+  },
+  {
     "id": "708bc831a8eb",
     "title": "AI governance is fast becoming an unmanageable chore",
     "summary": "AI governance is fast becoming an unmanageable chore cio.com",
@@ -52,6 +291,26 @@
     "date_added": "2026-09-25",
     "title_es": "La gobernanza de la IA se está convirtiendo rápidamente en una tarea inmanejable",
     "summary_es": "La gobernanza de la IA se está convirtiendo rápidamente en una tarea inmanejable cio.com"
+  },
+  {
+    "id": "b5c6cc689e06",
+    "title": "Acemoglu: Armenia’s computing power alone is not enough—a comprehensive AI strategy is needed",
+    "summary": "Acemoglu: Armenia’s computing power alone is not enough—a comprehensive AI strategy is needed ARKA-Telecom",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakZPY003S3YzLVhaUF9CVEtPQnlRX0pBdmxucnVUVlhZUThYVG1DYnFZaWNaNWgzNHpCWW10WlFCVkFOVG9FSlpiQVloNjVNcm91WGRYbU9FbW9NMWdDak1KeF9HRElRbXlQYml1X0dSaG8zaW00WjI2RzZZR1pXRTlmSmNsWS1HTi1uMEF6NFdwSFpLT29RVlVDWjFPaHZZNlRvR0NQMGkzZnBIenF5XzBSXzQtakFjeVBmcU5FZU82V240VXNRVW1oNjg?oc=5",
+    "source": "ARKA-Telecom",
+    "language": "en",
+    "published": "2026-09-25T09:32:29+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-25",
+    "title_es": "Acemoglu: La potencia informática de Armenia por sí sola no es suficiente; se necesita una estrategia integral de IA",
+    "summary_es": "Acemoglu: la potencia informática de Armenia por sí sola no es suficiente: se necesita una estrategia integral de IA ARKA-Telecom"
   },
   {
     "id": "98a745ba072e",
