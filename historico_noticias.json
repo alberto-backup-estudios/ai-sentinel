@@ -1,5 +1,284 @@
 [
   {
+    "id": "f4eaed6b89f7",
+    "title": "Microsoft AI CEO Mustafa Suleyman wants Humanist AI: What it is, and is it really safer",
+    "summary": "Microsoft AI CEO Mustafa Suleyman wants Humanist AI: What it is, and is it really safer The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSFhHUi1BTW0tY3pkQ3dHTXJNbWJFaklwSkxydUtKX0hrVXpjRVZMZV9OMS1sMUkyZjhoWndXT3RoYk1MSi1mWEg0NlJta0l1bVlqbzlid3FHX2R5MGtaMWxWVTBja0h3MUhNclVNVXRreVBIeHVsVFVzZnBKUFIwS2tFRGZ2MUx1Nm10bU9WYWlJTDloTkFXa1ZKUEVtOU5aU2FHYW11YU1rdmZhdVpOdllGOW1odXhWZnNpNzhiUm1xcHdFT09HNVR0X3M3WGdHQVZCT1JHT3JSdm0zczF1cHlVdzZnY3ltOEMydXYyZzZadVdjcGJMaWJlSnc?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-09-25T03:25:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-25",
+    "title_es": "El CEO de Microsoft AI, Mustafa Suleyman, quiere una IA humanista: qué es y si es realmente más segura",
+    "summary_es": "El CEO de Microsoft AI, Mustafa Suleyman, quiere una IA humanista: qué es y si es realmente más segura The Times of India"
+  },
+  {
+    "id": "6fbcf0bce638",
+    "title": "Wisconsin joins multistate push for federal AI safety rules",
+    "summary": "Wisconsin joins multistate push for federal AI safety rules WXOW",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0I1ZjRCenl3eWtNbG16YUcteTM3OUdYY2U4dmtNMTRNX0NLb3BpcmdFR212ZlBsejVDXzlhS29mZ3BWUVdjZF9DaFFrYVE5Z0hJaGZNN1JyVWNrUFlwLTF6RERNTnQxcE43NFMxa0E3N0JPVWkwampERHJoVlF6VEhLbmlfa3FBNE9TRXJuVjN5WU1VMXlQTUNTRHpJMm9LNWJ0WGV3VG5LaGVJQ2hJSC1rVGhkNjgtUjNxeFNscXJjSlJlQUI5TXJXVlUybzlGZFZtczhIMUhPdzFMYmUzSHBYZDlwODRxR3c?oc=5",
+    "source": "WXOW",
+    "language": "en",
+    "published": "2026-09-25T00:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Wisconsin se une al impulso multiestatal para implementar reglas federales de seguridad para la IA",
+    "summary_es": "Wisconsin se une al impulso multiestatal para implementar reglas federales de seguridad para la IA WXOW"
+  },
+  {
+    "id": "758787d41c0f",
+    "title": "MSFT No Longer Wants To Just Back OpenAI — AI Chief Eyes Spot Among ‘Top Four Labs In The World’",
+    "summary": "MSFT No Longer Wants To Just Back OpenAI — AI Chief Eyes Spot Among ‘Top Four Labs In The World’ Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZTVnWFZLaDM2dWhDOGlpMkxINURWVHB2STFxallNczM2anQxSjdWQXNiSnlicVlpRWNPZUlDRXQ2cHpWZ0NMSWdnOUlQRWhYRmo0Ti1HNzkxeGFIUGNoVDgxeFlRTEpXME5Ib2hocWJIeTh5SHZSeVFkdTJ2RjZiN2p4WHV2Zlh5UUppeDdsdkR3eHB2STVyNmk1RTBfdm5sdk5DSGRiaHgzX0sxTnpVUUFEd2tRZE5TejRVNGtMZXcyWDQxSnBMZGJwX0pYNk5rUTZ6NTJGb1JYd0dvZFE?oc=5",
+    "source": "Stocktwits",
+    "language": "en",
+    "published": "2026-09-25T00:22:40+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-25",
+    "title_es": "MSFT ya no quiere simplemente respaldar a OpenAI: el jefe de IA busca un lugar entre los \"cuatro mejores laboratorios del mundo\"",
+    "summary_es": "MSFT ya no quiere simplemente respaldar a OpenAI: el jefe de IA busca un lugar entre los 'cuatro mejores laboratorios del mundo' Stocktwits"
+  },
+  {
+    "id": "3b13856e7e15",
+    "title": "The Hugging Face Doomsday Preppers",
+    "summary": "The Hugging Face Doomsday Preppers puck.news",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtVmk3aWdFWnFpc2xkSndOSlNWNUdJZEtRdUF2NWpqS20zSXRWMDNudUc4MEtJRzh3Uy1MOE1hY2JaQnRrTjlybjJkemZIY3VoN25PYlRqUEE5WlRnNEQ3X3BxNENWQXJ6ODVCRHdvOU9aNGNoNlFBalpBVWM?oc=5",
+    "source": "puck.news",
+    "language": "en",
+    "published": "2026-09-25T00:11:15+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Los preparadores del fin del mundo con cara de abrazo",
+    "summary_es": "La cara abrazadora Preparadores del fin del mundo puck.news"
+  },
+  {
+    "id": "17ecbdd845c9",
+    "title": "Continual learning might make your blocking monitors nearly useless",
+    "summary": "Many control protocols work by intervening on an untrusted AI's actions during deployment. For example, you might set up a monitor that scores each action's suspiciousness and blocks actions above a threshold, replacing them with actions from a weaker \"trusted\" model (a defer-to-trusted protocol). Interventions like this cost usefulness: the pro...",
+    "link": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-09-24T23:45:34+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "El aprendizaje continuo puede hacer que sus monitores de bloqueo sean casi inútiles",
+    "summary_es": "Muchos protocolos de control funcionan interviniendo en las acciones de una IA que no es de confianza durante el despliegue. Por ejemplo, puede configurar un monitor que califique la sospecha de cada acción y bloquee las acciones por encima de un umbral, reemplazándolas con acciones de un modelo \"confiable\" más débil (un protocolo de aplazamiento a confianza). Intervenciones como esta tienen un costo utilidad: el pro..."
+  },
+  {
+    "id": "5a995c49eab7",
+    "title": "US states 'implore' Congress to take immediate action on AI safety",
+    "summary": "US states 'implore' Congress to take immediate action on AI safety MLex",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUN0amR1VFpGbm1ZR1RmdmRhNGltUldwUjItaXdCZUkyamU0YndBMEZtUHVkdkVqT29zRVk4RVRWbF8ydVQtVVJJVXV5WlFXdV9ybUNXSmhzNDVmY2F0RUxtM2xCR3k0dXd0WFhQNExaX3NPMG9VOGZkVzFLaGRselZHVk1RbjdpcmJ6M3c2NHpqZU5lT1l5N2ppVDNibnlQZGhFN3BFUTdNYkMxbDR4X0FEc1F6eFNmbEwwZFppVXAxMUdEbi1FaTlETdIBWkFVX3lxTE1ic2hPTEFNc1l0ZWh3b3NpWnFkQXQwMTlzcDhSSDZocENDRG9ZOGhaNHIxcWZBSHRzVjZwbFoxeUdrTG84Yi1ZMWtQZVdDSVphRkowMWxGOXRGQQ?oc=5",
+    "source": "MLex",
+    "language": "en",
+    "published": "2026-09-24T23:32:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Los estados de EE. UU. 'imploran' al Congreso que tome medidas inmediatas sobre la seguridad de la IA",
+    "summary_es": "Los estados de EE. UU. 'imploran' al Congreso que tome medidas inmediatas sobre la seguridad de la IA MLex"
+  },
+  {
+    "id": "c2d4d2ed027d",
+    "title": "Xi backs AI safety with Trump, draws Taiwan line, urges Iran talks",
+    "summary": "Xi backs AI safety with Trump, draws Taiwan line, urges Iran talks Asia Times",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVG9GSHh5WmFwOWYtai14Y1ZEVGFqT2pJVFNkVVQ3NFJBRm9MQzEwNk82cEhPSnpkdWlpVEpDWjZIdG1MQU45eXZWbVlHNWJzTlZHbG1OWUF4ajQ1RFBsR09vd0JvVy1wNHE3WXV0MWhGZy1RbUotWnlEOE56azF3NzVRUVpRZHpBalZfOFo1YlNOQTNwb05uMk4yNA?oc=5",
+    "source": "Asia Times",
+    "language": "en",
+    "published": "2026-09-24T23:13:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Xi respalda con Trump la seguridad de la IA, traza una línea con Taiwán e insta a conversaciones con Irán",
+    "summary_es": "Xi respalda con Trump la seguridad de la IA, traza una línea con Taiwán e insta a conversaciones con Irán Asia Times"
+  },
+  {
+    "id": "e81d67f99a4d",
+    "title": "North Carolina joins push for national AI safety regulations",
+    "summary": "North Carolina joins push for national AI safety regulations ABC11 News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1hObl9BS1Z0UG9vSWlacHhQckNVYjk1V1pITXNwaGVVTEd6eXhORWE1ekczZnVLTGo1SFF4aDFwU2xIdDRCWlFOZjJidkZmX0dJQ2pjalhvWDJaZzRfc2l1QU9jTjJYbkt6N2dvZjg5STg3b2tvcmNXYngtZ01tTkF3STNqM1lzNk0weXRBbzU1OVnSAZgBQVVfeXFMTkpkWC1jeVA1WjAtNndKVEstUXM2WWdiVi04RTd6VWlkTnY0UUdhOFpDaVJXd0haUEtJMlFIMmppbUVRN3BaUHg0MWNPcWxLb2Y1SkF0Z0Y5ZUZWYWh3RGVnaWNab25FWlNwX0hCaHZ2RkJoakxYbkY4ZEQ5Z0FBcENLMm5kMkE3VmlyTUJMb0owLVd3OWNuUjI?oc=5",
+    "source": "ABC11 News",
+    "language": "en",
+    "published": "2026-09-24T22:56:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "Carolina del Norte se une al impulso para normas nacionales de seguridad de IA",
+    "summary_es": "Carolina del Norte se une al impulso para normas nacionales de seguridad de IA ABC11 News"
+  },
+  {
+    "id": "51414a0b877f",
+    "title": "Buck center in Novato develops AI safety system",
+    "summary": "Buck center in Novato develops AI safety system Marin Independent Journal",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVk41OURrSDhuQzNTbG92UkFMaHNYWDZ4TGViaGFTb3pSZ1pFVjFZTFFqNkdWbUVyODk3N0lnYUlVYS1DSVR0THB6S1ZxcVpQVVp1RElFMFc4VVpGa3hBeHBudTB6M0RKREx1VlliTy1qZ2swNlktQzBGTWZOdjI0Nkd0OEtaRmJMQWRN0gGQAUFVX3lxTE1kbFNtNk1rOGtwdlhVRUZsRnRvZVVscDNpMDQ4cjRQa2tnaEY2X1hGcENCV3k3YXhCT1hxZUhiMm5VcFk0T0w4eXlFRXJQeXJzajZ4eGFRRXZzYVNIT0xOUkJmZktpcG85T1p3NjNJd1Z2Y3NtelV0UlJNbXVFc3FvaTBtbXJnSTR6Nm5SdUhGUQ?oc=5",
+    "source": "Marin Independent Journal",
+    "language": "en",
+    "published": "2026-09-24T22:42:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-25",
+    "title_es": "El centro Buck en Novato desarrolla un sistema de seguridad de IA",
+    "summary_es": "El centro Buck en Novato desarrolla un sistema de seguridad de inteligencia artificial Marin Independent Journal"
+  },
+  {
+    "id": "86eec2645a8d",
+    "title": "Warner pushing new AI safety regulation legislation",
+    "summary": "Warner pushing new AI safety regulation legislation CBS 19 News",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnVrRm5WcHI1WXE5aUNVQ19WSEZLQ1d2ajhlSWljdXRFN25XTS1lRl9ITncxZzhacjdJVjVyd1VoZ19aMjY1eGRmc19FTDFkTUUxa2dRZER3S3E5UG9aRVFMSW9VRUI5SU1EWFptbENuaWZJcF80WFpDZEtpOElhNEJITWU0QWo2X05Hc2ZGdGRqX3ozUDlQbncwLVRfX1poUnBtY0l5Xzk3ZUhDdUViQTN6bWE5UjB2ODR0dXhXMlJOUHB0TlRpMmFfRUQ?oc=5",
+    "source": "CBS 19 News",
+    "language": "en",
+    "published": "2026-09-24T22:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "Warner impulsa una nueva legislación sobre regulación de seguridad de la IA",
+    "summary_es": "Warner impulsa una nueva legislación sobre regulación de seguridad de IA CBS 19 News"
+  },
+  {
+    "id": "67b403843f1a",
+    "title": "AI Governance, Infrastructure Face a Critical Moment",
+    "summary": "AI Governance, Infrastructure Face a Critical Moment Mexico Business News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmtqNW5OZDZXNndGbVBlaUJVaFRHdXZwdWxWb1NtcEFzMXlCak1oVW5xNnkycXlMM1R5N09hTExWa3FGN2dSeEJhLS1IX2o3R1FwREpqQ21pSmNyaTA3NU5UY3JBOVRlUGp5cXI4TE14MXdfdGNEUDl5cjFwUXpOYmxIMTlQVUVObUY1WS0xWnFmMzBpZ1JPdGEzaw?oc=5",
+    "source": "Mexico Business News",
+    "language": "en",
+    "published": "2026-09-24T21:40:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "La gobernanza y la infraestructura de la IA se enfrentan a un momento crítico",
+    "summary_es": "Gobernanza e infraestructura de IA enfrentan un momento crítico Mexico Business News"
+  },
+  {
+    "id": "54f011854efa",
+    "title": "Según especialistas, México prepara una ley de inteligencia artificial sin una visión de Estado",
+    "summary": "Según especialistas, México prepara una ley de inteligencia artificial sin una visión de Estado Cambio de Michoacán",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObnBXSVUwQmZoRDVjTmY3a3VVOEs1OW9kWnRHU3RkYzRfdDM1dlc0VmpCZFV3VUtnOV9Yak5xVmtEZlo5QlpnanlqVEZncGJWLUk2cHFPcEdGOUVGVDJvWTVvZ2R6eWFET3ZlWVAtTUpxaW9JQTRYamN2NVI0SkxBY1BvdzUzbUNrQ2g2aHZzQ29RajY4bk0yZzNkMlBZaVlCZDBUSnVpVklDeFMwMmpzV0RKUi1OUngwZE5aakJiRTh5ZGQ4UTFYZmd2cGE0cjE3LUxYWVZB0gHWAUFVX3lxTE5ucFdJVTBCZmhENWNOZjdrdVU4SzU5b2RadEdTdGRjNF90MzV2VzRWakJkVXdVS2c5X1hqTnFWa0RmWjlCWmdqeWpURmdwYlYtSTZwcU9wR0Y5RUZUMm9ZNW9nZHp5YURPdmVZUC1NSnFpb0lBNFhqY3Y1UjRKTEFjUG93NTNtQ2tDaDZodnNDb1FqNjhuTTJnM2QyUFlpWUJkMFRKdWlWSUN4UzAyanNXREpSLU5SeDBkTlpqQmJFOHlkZDhRMVhmZ3ZwYTRyMTctTFhZVkE?oc=5",
+    "source": "Cambio de Michoacán",
+    "language": "es",
+    "published": "2026-09-24T21:37:09+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "Según especialistas, México prepara una ley de inteligencia artificial sin una visión de Estado",
+    "summary_es": "Según especialistas, México prepara una ley de inteligencia artificial sin una visión de Estado Cambio de Michoacán"
+  },
+  {
+    "id": "1bd0c44bf93d",
+    "title": "¿Se está malacostumbrando a los modelos de IA a actuar de manera muy humana?",
+    "summary": "¿Se está malacostumbrando a los modelos de IA a actuar de manera muy humana? Infobae",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTWZldzdHQlBWVDhNVzN5SktUc2dnRGRtXzdBbkJDQzZrU2t2TUtjS0hLWmdhX2xtQ0o0dmZtck54Ykg2RTNQSnVzWVNWdEtpTlBzelRMdENHdUc4V0lHMkR0OUh2TENRTk1EQkdQRGY3cU1EdngyckQtVlV5eUlhY3VuNS1mODE2aEpXTFFhNWNZOW50dTVSbFdSdEFMMmlaejJHNlZEQ1E0RDl0NlBsOUtsdWhOQUlHWkZfaXZaMHlDZERVVG1GZG9NR1ZrWkM1YW5n0gHuAUFVX3lxTE9Jc21OM1hWN3g0dTZkM245YkdxdXl3WkEzR250akhLdjU5MVlZQmQwWjROaXd2bWl5Z05aNnAxMTdJVWpmaVJxZDNFY1lOSlBrVUpORGsxc1JxdWJpUERYOHpBYjkxYm5BRUdfdjczX2tENlU4V3ZmS2VvSUxxdnJYT19MVWFvRmg3TWZPNUpCYUI4cEo5TGFQeXJ4WXktdlBvWjViQmx1QkVnQjNNbmZCc1Z0SDBqdzJQMERvbTBaQjhmRmlvcDdwZmxOWE9zUkF1MnVueXVkNVZjaTBINGltYjNvY1k4OTJ2TnlPZXc?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-09-24T21:25:24+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "¿Se está malacostumbrando a los modelos de IA a actuar de manera muy humana?",
+    "summary_es": "¿Se está malacostumbrando a los modelos de IA a actuar de manera muy humana? Infobae"
+  },
+  {
+    "id": "cb5c51fd02eb",
+    "title": "Gobernanza de IA generativa: el freno técnico para escalar procesos",
+    "summary": "Gobernanza de IA generativa: el freno técnico para escalar procesos thestandardcio.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDR5UUVNZDFRaEhfd1hvYkJacGYzcmpqUG9nd29CX3BZbWhaMVBGQUxGdGFqREdKSURIV2dseEJXUHhhcGJWSGx2LTFfSFR1TkJwT0FMdG5pRjB3QXRRaXlTQk5qZGxnTWZ6aGxmRVhNenpVUWg3TmFPWmFyQkJSVVlwRXRYcGs3TTc5UllVQjRUZmk1YWc?oc=5",
+    "source": "thestandardcio.com",
+    "language": "es",
+    "published": "2026-09-24T17:45:17+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-25",
+    "title_es": "Gobernanza de IA generativa: el freno técnico para escalar procesos",
+    "summary_es": "Gobernanza de IA generativa: el freno técnico para escalar procesos thestandardcio.com"
+  },
+  {
+    "id": "5e75d6c140a5",
+    "title": "FAST Panel Explores AI and Armenia’s Future",
+    "summary": "FAST Panel Explores AI and Armenia’s Future The Armenian Mirror-Spectator",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0tPMTZhajR1el9SVVdvNUpQMDhSaV9qRmFoOFpNRzk3TWxTRmVxdkVHUFlPSkFmMldNbl95bXBtUVVEdXd4VUwxbXpTR0MxdFNSRjRGX2prcXNhWldtbnZWS3VuUHBnR1hkZU94UUFYSjgzS0h1SkVMdWR5Q25TS0xSMWh1c1pBbmc?oc=5",
+    "source": "The Armenian Mirror-Spectator",
+    "language": "en",
+    "published": "2026-09-24T10:43:42+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-25",
+    "title_es": "Panel FAST explora la IA y el futuro de Armenia",
+    "summary_es": "Panel FAST explora la IA y el futuro de Armenia The Armenian Mirror-Spectator"
+  },
+  {
     "id": "5c0a7edcf431",
     "title": "OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices.",
     "summary": "OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices. Reason Magazine",
