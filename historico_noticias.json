@@ -1,5 +1,97 @@
 [
   {
+    "id": "5345dea85f6d",
+    "title": "ICYMI: Bennet Calls for New Federal Agency to Prevent Catastrophic AI Risk",
+    "summary": "ICYMI: Bennet Calls for New Federal Agency to Prevent Catastrophic AI Risk U.S. Senator Michael Bennet (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGloX0FDWnJnay1uQ2xxdEFNblNrdTNReTRVVzJSQlA0dHRMWTU1c2F1bUt3NGRyUUdRdzd0SUYtX2hFaFR6aXlwX19SdVZNV2F6NW1LNHlKNmFkT2NLWnNxWUotVkxRNnJHckhadktQYVhHTm9VdUtVUEN3Zy05ZFZNanZXak54ZHpuTzVTdng1THdVYVF2TnpRMU5FSm5fWEp4OFJkaHdvN016RXhPMFMtLTFZdw?oc=5",
+    "source": "U.S. Senator Michael Bennet (.gov)",
+    "language": "en",
+    "published": "2026-09-26T01:18:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-26",
+    "title_es": "ICYMI: Bennet pide una nueva agencia federal para prevenir riesgos catastróficos de IA",
+    "summary_es": "ICYMI: Bennet pide una nueva agencia federal para prevenir el riesgo catastrófico de IA Senador estadounidense Michael Bennet (.gov)"
+  },
+  {
+    "id": "cbbbe1b59034",
+    "title": "Proofpoint integra la seguridad de la IA y los datos bajo un mismo enfoque",
+    "summary": "Proofpoint integra la seguridad de la IA y los datos bajo un mismo enfoque eSemanal",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFgzTE9KckdHWW5OVnM2Q2ZLeWMxUWhadXlVcmJ1RmU4OFhEcFBoSGxKSzJuTEJteUlldUtMM3JrMkxlQnV5M1ozSTRjSS10MGdDRzJBVzhZazJxM1hhdGF0dkgxeWlTaENNRjNDM0pMVDBZSW1jVVpFdXZnTUg1N2dyNmJmVXNHdVMxTW9iMlFsSUFiTDBESGszYjZndS1DbkZETFVn?oc=5",
+    "source": "eSemanal",
+    "language": "es",
+    "published": "2026-09-25T23:17:21+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-26",
+    "title_es": "Proofpoint integra la seguridad de la IA y los datos bajo un mismo enfoque",
+    "summary_es": "Proofpoint integra la seguridad de la IA y los datos bajo un mismo enfoque eSemanal"
+  },
+  {
+    "id": "37f60113594d",
+    "title": "Bill Gates Says AI Is Powerful Enough to Cause a Billion Deaths",
+    "summary": "Bill Gates Says AI Is Powerful Enough to Cause a Billion Deaths Startup Fortune",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkZWNExoR2FDZFhoLWNXcDhHWXBHVEdjem5EalEwdUI4UC1MVVd6VFhmVGVEVi04QkloQ1dzWFVKSEFaSDEzVWZheHFvcVBsZkVNV1U4SHQ1b3pmSE4wSkRfVEtFMnRTazJZeE5sSzdwcVJLMnJHOXlBNE4tSFozTHBTT0VDb0tjUDFicDVhUENfTk1tRGc?oc=5",
+    "source": "Startup Fortune",
+    "language": "en",
+    "published": "2026-09-25T19:29:53+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-26",
+    "title_es": "Bill Gates dice que la IA es lo suficientemente poderosa como para causar mil millones de muertes",
+    "summary_es": "Bill Gates dice que la IA es lo suficientemente poderosa como para causar mil millones de muertes en una startup fortuna"
+  },
+  {
+    "id": "539a18e4adf7",
+    "title": "Oregon, 25 other states urge Congress to pass AI safety rules",
+    "summary": "Oregon, 25 other states urge Congress to pass AI safety rules KPTV",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblAwWVktZTN3aERGWE41aTd0R3BwWHNQNG1UV2ZnWVNfSzdOZXZFQXVsQmJ6dHg5TS1OVVo2ZlFweVVxSFdTSU1uT2VNVnhkanN6cUNOVjJuRTM5Yk9yWGthRHVVZEs3NzRPVVR5eTFFeUgwc2tUaUZIb0VWejgwQU41U3BMcUc5VzJ0aS1rWDc0clRR?oc=5",
+    "source": "KPTV",
+    "language": "en",
+    "published": "2026-09-25T17:45:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-26",
+    "title_es": "Oregon y otros 25 estados instan al Congreso a aprobar reglas de seguridad para la IA",
+    "summary_es": "Oregon y otros 25 estados instan al Congreso a aprobar normas de seguridad para la IA KPTV"
+  },
+  {
+    "id": "e6bbb6376183",
+    "title": "Is the world moving toward a global agreement on AI governance?",
+    "summary": "Is the world moving toward a global agreement on AI governance? Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm10dDVrY01KLXlvRGxwVDVDNjNxaTMzalVkNTFOWVVZeWNNdWgzR3paMms3aGp4a2F1ZmFsbFJ5T1VWakNwY2xnb3dBaVJsSkFQLUVUWGdhNVAtclNkUHdfdjZUU2RYRkdLeGo3dFRGMWJveUoyYng1b1cyQmRubjFQNVFuUXhsSUlrSmdiTUhMeHF4VTJHRw?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-09-25T14:28:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-26",
+    "title_es": "¿Está el mundo avanzando hacia un acuerdo global sobre la gobernanza de la IA?",
+    "summary_es": "¿Está el mundo avanzando hacia un acuerdo global sobre la gobernanza de la IA? yahoo"
+  },
+  {
     "id": "8d454ff0f25f",
     "title": "When AI Safety Tests Leave The Lab, Someone Else Inherits The Risk – OpEd",
     "summary": "When AI Safety Tests Leave The Lab, Someone Else Inherits The Risk – OpEd Eurasia Review",
