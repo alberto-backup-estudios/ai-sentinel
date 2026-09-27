@@ -1,5 +1,43 @@
 [
   {
+    "id": "95c08c2de6a8",
+    "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout",
+    "summary": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout WSJ",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
+    "source": "WSJ",
+    "language": "en",
+    "published": "2026-09-27T01:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-27",
+    "title_es": "“Las cosas nunca volverán a estar frías”: los Doomers que dieron forma al pánico por la seguridad de la IA",
+    "summary_es": "“Las cosas nunca volverán a estar frías”: los Doomers que dieron forma al pánico por la seguridad de la IA WSJ"
+  },
+  {
+    "id": "bd6759209ac6",
+    "title": "Microsoft retreats from personal AI chatbot race, refocusing Copilot on the workplace",
+    "summary": "Microsoft retreats from personal AI chatbot race, refocusing Copilot on the workplace Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSXl3WlM2N0hieGoxcnVPZDNwSmxfRUI3cUxUY3UxNEFvYUxlSUFBaHlUcXEzR1pvbkEyWFdvX1R0LUdoZjhnUDliSTBQZHJIaUhYQUhsYkZLM3JTZDNyX2gzZzZ3UDRwRTZSWjBzM2tHVUFkai1QTkRpTnhUMnVPMVg2cjl4a1BYUjBLRVRsMUI0Z0FmVmxZNGtkVkZKRlg0aUFVcE5ESkZ5NENRdHFoY2xRTkxoNGExMEJETnRTOGM1VDBPNmtlUG5R?oc=5",
+    "source": "Los Angeles Times",
+    "language": "en",
+    "published": "2026-09-25T16:01:29+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-27",
+    "title_es": "Microsoft se retira de la carrera de chatbots personales de IA y reenfoca Copilot en el lugar de trabajo",
+    "summary_es": "Microsoft se retira de la carrera de chatbots personales de IA y reenfoca a Copilot en el lugar de trabajo Los Angeles Times"
+  },
+  {
     "id": "2d865c05080e",
     "title": "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate",
     "summary": "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate Barron's",
