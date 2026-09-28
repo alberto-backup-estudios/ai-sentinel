@@ -1,5 +1,338 @@
 [
   {
+    "id": "182953c7b2e2",
+    "title": "'Madrina de la IA' se une a AMD en un acuerdo de 8,200 mdd • Inteligencia Artificial",
+    "summary": "'Madrina de la IA' se une a AMD en un acuerdo de 8,200 mdd • Inteligencia Artificial Forbes México",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2Fuc3VZME1Sd1ZKLVVLa2NQdTlmQ1hrWWVjT3JyMW9fYXZnU0g4cW9LSFdaVHdLQUEzOHlSVVVHUy1ER0ZVTUEyU3J1bENWVWo1TzR1emFQaWVDOGVmOE00Z0hqcWh5QUw3U1FMdFpIa3FWb2tQRmNPUW92djI4T2xGSWY?oc=5",
+    "source": "Forbes México",
+    "language": "es",
+    "published": "2026-09-28T22:46:00+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-28",
+    "title_es": "'Madrina de la IA' se une a AMD en un acuerdo de 8,200 mdd • Inteligencia Artificial",
+    "summary_es": "'Madrina de la IA' se une a AMD en un acuerdo de 8,200 mdd • Inteligencia Artificial Forbes México"
+  },
+  {
+    "id": "37beff470a99",
+    "title": "OpenAI shelves new AI model after internal safety tests, WSJ reports",
+    "summary": "OpenAI shelves new AI model after internal safety tests, WSJ reports Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-09-28T22:35:43+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "OpenAI deja de lado un nuevo modelo de IA después de pruebas de seguridad internas, informa el WSJ",
+    "summary_es": "OpenAI abandona el nuevo modelo de IA después de pruebas de seguridad internas, informa WSJ Reuters"
+  },
+  {
+    "id": "4402ef5d0006",
+    "title": "AMD adquiere World Labs, fundada por la “madrina” de la IA Fei-Fei Li",
+    "summary": "AMD adquiere World Labs, fundada por la “madrina” de la IA Fei-Fei Li Gestión",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0tGWmtud1lSMWJRTF9mNWdKLVFMN2lxZHhlMWxWbUZLYnhyM3M5RWc1YThDVnZ3N01TOUxzREtYbGxXR3gtM0ZCN185d2RTN2hOdzViN3BlWk84OXAwY1lPYy10djE0aVJreUtQcjU5M21IZElKWEM5OGZleWx5djlmMUNTSzljLUdBOWQxcVVXNXctdzVWMlBVZktZallUVVBVQVVGV0lYQUpvMUN6dDJuUXprZjV3TmJIUGU5anZPdjJ3?oc=5",
+    "source": "Gestión",
+    "language": "es",
+    "published": "2026-09-28T22:26:42+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-28",
+    "title_es": "AMD adquiere World Labs, fundada por la “madrina” de la IA Fei-Fei Li",
+    "summary_es": "AMD adquiere World Labs, fundada por la “madrina” de la IA Fei-Fei Li Gestión"
+  },
+  {
+    "id": "1082a0724b9e",
+    "title": "Nvidia releases AI safety platform",
+    "summary": "Nvidia releases AI safety platform Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZVBpVV90b0VVU1FhVjR5Q0g4VXhqelladmhIY1Z0ZXdDNWk2Mk9SWno0QkpJSnBjaG5kUGp2ZndWNUU0eHBKSDdLTXF1YlRjblllcGF4dl9GZzA?oc=5",
+    "source": "Fox Business",
+    "language": "en",
+    "published": "2026-09-28T22:23:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "Nvidia lanza plataforma de seguridad de IA",
+    "summary_es": "Nvidia lanza plataforma de seguridad de IA Fox Business"
+  },
+  {
+    "id": "b78f1baeb2c7",
+    "title": "El papa León XIV dice que la seguridad de la IA no es “noticias falsas”",
+    "summary": "El papa León XIV dice que la seguridad de la IA no es “noticias falsas” The Morning Call",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNME4yb3ZZYlZnM0dBaUs1OHFvdFpJT0hiV09NSW1ESHFlUmFXWHBwQ1l5cGd3SGd1Y2lOVVpnRVdUeW1JNHdLZHRuWERBc0VzT2ZvcG5TTGFOWkc2cS1aOHhKWDE5dk12Z3VCRjl0WlE5Z0M3WnFvZUU2VW9WVUEwMS1OU2lEam9kN0RyTDFrYXRzUGkzZTFrSERyVGlBaXNKZVNlOWx5SQ?oc=5",
+    "source": "The Morning Call",
+    "language": "es",
+    "published": "2026-09-28T22:23:03+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "El papa León XIV dice que la seguridad de la IA no es “noticias falsas”",
+    "summary_es": "El papa León XIV dice que la seguridad de la IA no es “noticias falsas” The Morning Call"
+  },
+  {
+    "id": "ec182ddf6ffc",
+    "title": "Iran war, AI safety debate put pressure on Trump ahead of midterms",
+    "summary": "Iran war, AI safety debate put pressure on Trump ahead of midterms KCENTV.com",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeEtkb2hha0REZVhMdkF5QTFYR2s4MmtRQ0VERDZjbkNDR3hkUVFIcGFubW9SYVhCTXZ4Z29mS0paUl9CbzVmY2c5X1l5NnI5TVMzeXlyNmhEVlFCMHk3bGJsclJPR3lPUjlrYXNSLWRGUWxDb1EycFlfUjFPZFhSOFF2bmdQRTRzSmNsV0ZsbEFXUXZUdEpocGdmZW0wbHVHNVU0NGMyQWNmOE44c01femRFZnBhdG8zd3NXa2gzbjZuek1WOTlBdVFtdXY1TlBhRE5yc0ZtUkxzaTBrYUkxUlEzaw?oc=5",
+    "source": "KCENTV.com",
+    "language": "en",
+    "published": "2026-09-28T22:18:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "La guerra de Irán y el debate sobre la seguridad de la IA presionan a Trump antes de las elecciones intermedias",
+    "summary_es": "La guerra de Irán y el debate sobre la seguridad de la IA presionan a Trump antes de las elecciones intermedias KCENTV.com"
+  },
+  {
+    "id": "c26dfc506fa7",
+    "title": "Opinion | AI doesn’t need a conscience. It needs a leash.",
+    "summary": "Opinion | AI doesn’t need a conscience. It needs a leash. The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbS04Q3h0QlhxcV9HY3FsSk5VVXJFTXdodGNQemJSbzdkMmRBREhXYmxmSzlFMlpCQWw2OU1RNXRLZnJ4eTk1WThXekptaEVwWDY0NXVSeUtJNFByOW9KS1FSNTBSeXV2dVhXTVo3d3lLdkU3cUV5R0lJSURJX3R6R1prcWJOams2cnY5SGlIUVVhUFdNN0p5OGk5bm94MG1Ebm12dWt4Mkc?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-09-28T21:44:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "Opinión | La IA no necesita conciencia. Necesita una correa.",
+    "summary_es": "Opinión | La IA no necesita conciencia. Necesita una correa. El Correo de Washington"
+  },
+  {
+    "id": "4cd391a5dd7b",
+    "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
+    "summary": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12MUwtTy11dnBwd0xxdHROaXlFdmV3MWJaR1dRUGt6cHBCMjhneHhxZEpkTTdQdWRDWUFHY2RXc05HLW4zSDRSUmxGVE9vRWdRQldrb3JNbnFGRXlHeVdxdjdKZjFXR3gtU1HSAW9BVV95cUxQN01MRktKY1YwRVFEYllRUWxONTBfSkNTUEhHLUVXS2kzWjgySEVYS0M3Sk8tNDN2TmQ5WjA2d2lWTWVBTHoyVGJmSjlEZ1dKTkFuMWZ6WldSSFRUbkdqQmVwa0ZiOHFqN3NhczN3WXM?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-09-28T21:43:40+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "Khanna presentará un proyecto de ley de seguridad de la IA que prohibirá la tecnología 'recursiva' hasta que existan salvaguardias",
+    "summary_es": "Khanna presentará un proyecto de ley de seguridad de la IA que prohibirá la tecnología 'recursiva' hasta que existan salvaguardias CNBC"
+  },
+  {
+    "id": "c7b77432735a",
+    "title": "Nvidia's new AI safety platform could help overcome headwinds in AI space: Deepwater's Gene Munster",
+    "summary": "Nvidia's new AI safety platform could help overcome headwinds in AI space: Deepwater's Gene Munster CNBC",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RQldvcWE4cEtaWFdZYk5mTWJmei1MbVNBNktmbEhIcnBicURLRUw2NE4zcWNoMV9pTFRPdVhNclVNVVIzNTNGRWdwcXU4M3dSNHFSSkxSSnJnakRWZ2JpbE1hV25fcDRoWDJ2RmxXQWFYQTA?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-09-28T21:39:43+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "La nueva plataforma de seguridad de IA de Nvidia podría ayudar a superar los obstáculos en el espacio de la IA: Gene Munster de Deepwater",
+    "summary_es": "La nueva plataforma de seguridad de IA de Nvidia podría ayudar a superar los obstáculos en el espacio de la IA: Gene Munster de Deepwater CNBC"
+  },
+  {
+    "id": "bdf490873e54",
+    "title": "Nvidia launches AI safety platform after agent security breaches",
+    "summary": "Nvidia launches AI safety platform after agent security breaches TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFE3RVZJbEdpa1RJYkpPRzJSMTZVaWxFZzVTeHpwUkZULURFZDVtMmQzTkpTVTk5R05NZmhOR1BfVEg4Ujl4Z0VIdEtrU3E4QXdMaGxYTHF0NzF3RlIxbjNNN281WjJ3UkFneDlKb2VzbnZvTC1jUHk2cFJnY0M3bkVmV1JMWlhBVDBfVGtnZWp4VGJ3a3hoZ1FLeUZKVDIyak50NEx5SGlFNWJFT1E?oc=5",
+    "source": "TechTarget",
+    "language": "en",
+    "published": "2026-09-28T21:18:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-28",
+    "title_es": "Nvidia lanza una plataforma de seguridad de inteligencia artificial después de las violaciones de seguridad de los agentes",
+    "summary_es": "Nvidia lanza una plataforma de seguridad de inteligencia artificial después de que los agentes violaran la seguridad TechTarget"
+  },
+  {
+    "id": "15cafb298e5d",
+    "title": "AI Governance Is Not a Checkbox: Practical Lessons from an Interdisciplinary Panel",
+    "summary": "AI Governance Is Not a Checkbox: Practical Lessons from an Interdisciplinary Panel Spencer Fane",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXhTYmVoVnlGUENyZWNKeUZnb1VDT1RBQ292d1pPYnZqNWtmN0xWRHZpWmhxcVpMeE1VVWIwd2dYdUZZelpwdUJZRDBYdmhvZUZfWTROVk9NY0ZsSndnd0Z5TW1wcGMxOVBqV09RakdWZlZVbVFoWks4NXo3YjNaU1NNMDJOVzFGWTFyTW1zdlhRR21yQWFZek9kM01tLUFHNHI3X1VwOF9McnRjb0Y0QXJMZnBIRUpmVHc?oc=5",
+    "source": "Spencer Fane",
+    "language": "en",
+    "published": "2026-09-28T20:57:52+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "La gobernanza de la IA no es una casilla de verificación: lecciones prácticas de un panel interdisciplinario",
+    "summary_es": "La gobernanza de la IA no es una casilla de verificación: lecciones prácticas de un panel interdisciplinario Spencer Fane"
+  },
+  {
+    "id": "a6338ad7c095",
+    "title": "AI governance: What manufacturing legal teams need to know",
+    "summary": "AI governance: What manufacturing legal teams need to know Wolters Kluwer",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYk5sX1NxTzQybHYwY0U3bnlLcFhDREdfWXFCRGJqX1F3MzdTZkprYUswT0VialhOVWpxRG13dTl3VzRza2VDWGl6YmliUmdfcl94LVhlU3FrVDVZR2NTQnBLbnBDcy12TURsWF8tTHIxR2F0b3JQUXRrYWE4V0ZLY1pYVDlkYWU4ZkVtemtMTnk0VnY3T1E0d2E4QTFMdXplOTN3Vmw3Y0diUQ?oc=5",
+    "source": "Wolters Kluwer",
+    "language": "en",
+    "published": "2026-09-28T20:30:53+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "Gobernanza de la IA: lo que los equipos legales de fabricación necesitan saber",
+    "summary_es": "Gobernanza de la IA: lo que los equipos jurídicos de fabricación necesitan saber Wolters Kluwer"
+  },
+  {
+    "id": "e6b7b4f256d0",
+    "title": "The AI Governance Momentum: Why We Need to Fill the Accountability Gap Now",
+    "summary": "The AI Governance Momentum: Why We Need to Fill the Accountability Gap Now Just Security",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTZrVDJ6WnNmMmYwbFZMbHNIMVFObkc3azhkOE9CMnBXVk1ZYUd6bzFoNVlsSWotZkZmNTFyZkdRc0hQM0MzS1JhZ2ZiMURzWndranZLMGI1MmpURzktdVNZcF9PbnhxTWFGWEVNaUZfSGRkcWJybDdSd2tVNkVnanMzcEE?oc=5",
+    "source": "Just Security",
+    "language": "en",
+    "published": "2026-09-28T17:46:20+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "El impulso de la gobernanza de la IA: por qué necesitamos llenar el vacío de rendición de cuentas ahora",
+    "summary_es": "El impulso de la gobernanza de la IA: por qué necesitamos cerrar la brecha de rendición de cuentas ahora Sólo seguridad"
+  },
+  {
+    "id": "8f1f9fe7d283",
+    "title": "AI safety: Is there too much industry self-interest for regulation now?",
+    "summary": "AI safety: Is there too much industry self-interest for regulation now? Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIOW1aaTE4aUd5V3FaQzV2OWZQUHU4Nl9yS0VqMVI5MnFqTjVSN2EzTmhoWU9DTG0zaFNuODVkV2JFUDZnYnc5cWlrb3lBekFPQTJpZ3pwRk9uTi1pRi1zaGV4eEJ3Q2pEdXZjNURtNHZ2RUtyWXc3SWVqb3RZb1k?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-09-28T16:56:22+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "Seguridad de la IA: ¿Hay demasiado interés propio de la industria para regularla ahora?",
+    "summary_es": "Seguridad de la IA: ¿Hay demasiado interés propio de la industria para regularla ahora? Yahoo Finanzas"
+  },
+  {
+    "id": "932331a2f0b6",
+    "title": "Artificial Intelligence: ‘In 10 Years We Could Be The Cows,’ Warns Prominent Author",
+    "summary": "Artificial Intelligence: ‘In 10 Years We Could Be The Cows,’ Warns Prominent Author Plant Based News",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWJSMkFTWGlJVHJTNXY3dno0YkpRNW9uTlFQQW8xWkpyMXdRcXFQcUU4ZFZkMnY5ZUZBSnNMY3RRT19fNTFmWlVjRFpuZkU0S3Z0RlFwMEc2aDI0NzBVT2JfVUJrcXNSMGp0QmRFbjZUUEFKR0JKdk1ISktFLXJhd0NnV2Y?oc=5",
+    "source": "Plant Based News",
+    "language": "en",
+    "published": "2026-09-28T14:00:00+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-28",
+    "title_es": "Inteligencia artificial: “En 10 años podríamos ser las vacas”, advierte destacado autor",
+    "summary_es": "Inteligencia artificial: “En 10 años podríamos ser las vacas”, advierte un destacado autor Plant Based News"
+  },
+  {
+    "id": "4ac0c48cad03",
+    "title": "Statement: We must pressure AI companies to immediately limit the use of recursive self improvement",
+    "summary": "FLI's Director of Policy Mark Brakel responds to \"A Call for Control of Frontier AI Models\", joint statement by heads of states.",
+    "link": "https://futureoflife.org/statement/statement-we-must-pressure-ai-companies-to-immediately-limit-the-use-of-recursive-self-improvement/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-09-28T13:39:20+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "Declaración: Debemos presionar a las empresas de inteligencia artificial para que limiten inmediatamente el uso de la automejora recursiva",
+    "summary_es": "El director de políticas de FLI, Mark Brakel, responde a \"Un llamado al control de los modelos de inteligencia artificial de frontera\", declaración conjunta de jefes de estado."
+  },
+  {
+    "id": "8ffe0b02f9aa",
+    "title": "Government leaders call for treaty negotiations on autonomous weapons for the first time",
+    "summary": "At a New York forum cosponsored by six governments, the ICRC, The Elders and FLI, ministers and UN officials called on states to begin negotiating a legally binding instrument on autonomous weapons at the CCW Review Conference in November.",
+    "link": "https://futureoflife.org/ai-policy/government-leaders-call-for-treaty-negotiations-on-autonomous-weapons-for-the-first-time/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-09-28T13:34:15+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "Los líderes gubernamentales piden por primera vez negociaciones de un tratado sobre armas autónomas",
+    "summary_es": "En un foro de Nueva York copatrocinado por seis gobiernos, el CICR, The Elders y FLI, ministros y funcionarios de la ONU pidieron a los estados que comenzaran a negociar un instrumento jurídicamente vinculante sobre armas autónomas en la Conferencia de Revisión de la CCW en noviembre."
+  },
+  {
+    "id": "afe76369c386",
+    "title": "MegazoneCloud Partners with Portal26 on Generative AI Governance and Security",
+    "summary": "MegazoneCloud Partners with Portal26 on Generative AI Governance and Security Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVdZRkd0cjZ6MDIweWxQMWxPRmNDMElZNC0xS1JQeGJrWlRhb2x2YllrbnpFTll6c3BYeTVleUsxWlE5QjdXYzN0NHpDM3JfLWt0Tk5qdTQ0WFZWUmpsMlNJeGg5SV9YMnJrSk8xN1RBOUJRbkpsZ2tldkxwOEZJaUgtWVZxMU9YWFhOa3hqSjRrOXREbWl4MGJJWEdudlNsaDZEeFhpU0I1b0lKdExGWVpvbHdueDh0UGYyUWRBbzNiRmxtWG1lME80X0RqUjQ?oc=5",
+    "source": "Business Wire",
+    "language": "en",
+    "published": "2026-09-28T13:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "MegazoneCloud se asocia con Portal26 para la gobernanza y la seguridad de la IA generativa",
+    "summary_es": "MegazoneCloud se asocia con Portal26 en seguridad y gobernanza de IA generativa Business Wire"
+  },
+  {
     "id": "25abcd9e9c6a",
     "title": "Trump meets Anthropic CEO after Pentagon clash over AI safety",
     "summary": "Trump meets Anthropic CEO after Pentagon clash over AI safety KVII",
@@ -34,6 +367,24 @@
     "date_added": "2026-09-28",
     "title_es": "Bill Gates afirma que las preocupaciones sobre la seguridad de la IA \"no son un engaño\", contradiciendo a Trump",
     "summary_es": "Bill Gates afirma que las preocupaciones sobre la seguridad de la IA \"no son un engaño\", contradiciendo a Trump Forbes Chile"
+  },
+  {
+    "id": "bfa8572d0f25",
+    "title": "AI Governance Has Arrived in Mortgage Finance. What Comes Next?",
+    "summary": "AI Governance Has Arrived in Mortgage Finance. What Comes Next? Urban Institute",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3pSRzNqdHVfVGxQQ0pSRlZNa21fSWRYaXBHQkQ5YzlYUUdZUnlNcTY3Mnc0NTd3aURCeEIxVTV5NkE5blVBckVDZVZhaTJ1QVFFaFVlZHBvOGlUc21xdFVNOXdvR1ZFYUQtZS1BNHZkSHZjRjl0WVZ5V2hzcXJCcHNoejZ5SnBHMnhyY1BZYUN5Smh6RUE?oc=5",
+    "source": "Urban Institute",
+    "language": "en",
+    "published": "2026-09-28T12:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-28",
+    "title_es": "La gobernanza de la IA ha llegado a la financiación hipotecaria. ¿Qué viene después?",
+    "summary_es": "La gobernanza de la IA ha llegado a la financiación hipotecaria. ¿Qué viene después? Instituto Urbano"
   },
   {
     "id": "4920e740d8e4",
