@@ -1,5 +1,319 @@
 [
   {
+    "id": "5a6f57f5cda9",
+    "title": "Trump again rejects calls for AI safety laws, says companies can self-regulate",
+    "summary": "Trump again rejects calls for AI safety laws, says companies can self-regulate WJAC",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS0hUV1VZSzd6emI2YzltandBWFhFMGZCTVhoUXZZbXk1RS1yV0EzTGo3VDhTZlVtRE1Kd0cycWxQODhZMWtWYklmV2hXOG5yQ0xkQ0EwMXJqdkd3Ynpqd2lpN1U2SnhBNVkya295Q3UwNjJpYlctazRVOWNDeWgtY3Nqbl81QS05dC1qS1dyazVJV1psZVdmNTJUOGZILWZ5dDVWTlRkTTBXVi0zcnIwR0kyWHJEcWQ5ZEUyNkxpdS1RcWN0WXNXdkhFMTZWMEZEYThyWEFITTVPVEZtRlYteFhZOWY0V00?oc=5",
+    "source": "WJAC",
+    "language": "en",
+    "published": "2026-09-29T21:51:18+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "Trump rechaza nuevamente los pedidos de leyes de seguridad para la IA y dice que las empresas pueden autorregularse",
+    "summary_es": "Trump rechaza nuevamente los pedidos de leyes de seguridad para la IA y dice que las empresas pueden autorregular el WJAC"
+  },
+  {
+    "id": "65efa4b7f316",
+    "title": "AI 'safety topic has still not been solved,' says Deepwater's Gene Munster",
+    "summary": "AI 'safety topic has still not been solved,' says Deepwater's Gene Munster CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1M5ZlJJNkxsTlJkWGpTVlJfSVJ4eFhoMFNkMWJScGp6YXJyUWdjYXRLUTdIc2RrZERQOVA5S2doM2NMem1sMkpkYmNpazZ2eHZ6V3lEZFZiREZHTndBVzBVbkVwWXdOTXRPXzY3OWREdkxTOWEweXotRVczRDNSZnNncl9zUmE3NFd5aG4zWTZ6T3dHbUtqblJkMkNLdmRzNmJhcmJSeTZOaTU5S3Q0MDhMSQ?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-09-29T21:42:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "\"El tema de la seguridad de la IA aún no se ha resuelto\", dice Gene Munster de Deepwater",
+    "summary_es": "El 'tema de seguridad de la IA aún no se ha resuelto', dice Gene Munster de Deepwater CNBC"
+  },
+  {
+    "id": "1a720dd2e8d3",
+    "title": "Reco Lands $55M to Extend AI Governance Into Agents",
+    "summary": "Reco Lands $55M to Extend AI Governance Into Agents BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2EwUEQtWFBDS25ZODdJNjVzTjdWRUJDQll1QjVKM0NCM29kWnFNbFBQYWgyUjdSZXMzNWhTeUh3STZ6aDY2S0lkZERvZV9TOXBER1VpSlR5WDZyTkpSRC1yQU1vS3pacUJhT3B6Ukd4OEpkMUoyNElxYzNqR1o3dno1YkNCRXUxendoRjJndGdJNHZZNUE?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-09-29T21:08:01+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "Reco consigue 55 millones de dólares para ampliar la gobernanza de la IA a los agentes",
+    "summary_es": "Reco consigue 55 millones de dólares para ampliar la gobernanza de la IA a los agentes BankInfoSecurity"
+  },
+  {
+    "id": "50db75d9b0b1",
+    "title": "Tech leaders discuss AI safety at White House roundtable",
+    "summary": "Tech leaders discuss AI safety at White House roundtable WQAD",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYkl4Wm5yUk82T2JSWFYyd0hlUldIWlBfVUMwTmtmMkFLVEJiVUZmN3JCQloybVQ3ZktBbXVMSUM5T3RzR0Y0aVBYNVBGRmFpZU0xcmN2cmp0Q0N1TGE2ZlNoeWNZSnkwa1ZrWHdGOXFoNkpmd043YjBpOXJsbEtqaVhobVo5UFU1YnR2QmxfdkV4SlNKcDRuZ1MxWGpienNhMC1qTkpkQ3F3TmZaaGxNU0FGUVJGd09nZExMRHpWZ0RWQ0dhZlNPbw?oc=5",
+    "source": "WQAD",
+    "language": "en",
+    "published": "2026-09-29T21:06:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "Líderes tecnológicos debaten sobre la seguridad de la IA en una mesa redonda en la Casa Blanca",
+    "summary_es": "Líderes tecnológicos debaten sobre la seguridad de la IA en la mesa redonda de la Casa Blanca WQAD"
+  },
+  {
+    "id": "09d858a7cddd",
+    "title": "Watch Trump Rejects AI Safety Laws After Meeting Industry Titans",
+    "summary": "Watch Trump Rejects AI Safety Laws After Meeting Industry Titans bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHZ6dFYyVHJtSXQ1dU5Jb0Z2RHMzeDhGNjBPem5aSml6SDNYTjRLS0lCMWQxT3lHQ2Zaa3dtSWJWWHNucWx3WEJmZ29qVWF6d2ljOG5rdEdUWWxTS1FSd19qY3U5Ymd5bjBIZmp5T0xLTTdEbnppS1ZOVFVab3lNTE90STVqRzRPUTZXb1hjc2I4YmxDRHBYR1E0R2Jvdw?oc=5",
+    "source": "bloomberg.com",
+    "language": "en",
+    "published": "2026-09-29T21:01:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "Vea cómo Trump rechaza las leyes de seguridad de la IA después de reunirse con los titanes de la industria",
+    "summary_es": "Vea cómo Trump rechaza las leyes de seguridad de la IA después de reunirse con los titanes de la industria Bloomberg.com"
+  },
+  {
+    "id": "12476ebbe962",
+    "title": "OIG Says SBA Advances Federal AI Governance Efforts",
+    "summary": "OIG Says SBA Advances Federal AI Governance Efforts ExecutiveGov",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0NSbjc4WTAtdllLYW1hbnRpMEFCUjZJcHFxSHZPVTZQWFZRMDZYUVRrbmVOV1RNVkJjNGlLdFI1Vmd5aDVtTmNJdE92Z3ZJQW5JWDZJOXo4WnRKemg4bVNSOUFiZjlfdU5tdDdVOWxaNzFpcWw3cEk5MGw4SXRsZl93OEllVGt0Xzg0bA?oc=5",
+    "source": "ExecutiveGov",
+    "language": "en",
+    "published": "2026-09-29T20:48:46+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "La OIG dice que la SBA avanza en los esfuerzos federales de gobernanza de la IA",
+    "summary_es": "La OIG dice que la SBA avanza en los esfuerzos federales de gobernanza de la IA ExecutiveGov"
+  },
+  {
+    "id": "655048327370",
+    "title": "Trump says tech companies will ‘police themselves’ amid AI safety warnings",
+    "summary": "Trump says tech companies will ‘police themselves’ amid AI safety warnings NBC News",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ016aUh0bkMzRmFLTjVTckdhWmwxNW1kQ1lEMGcyakV6dmhCRlNlb1ByQ1RvbE1IOUU1Z2ZHdGZ5OUg5UDB2QW8yUHNFcWZUM2tRaDRueXZpd3VKTU9Db0Z5dm93RXBLX2RRN1VIdXJuVmJnOUdsRFhMZkR6cWV3M28xcHFURnd4a196UnJWd1hDc0pSaTZFaHNId2o0Y1Z1Y3dLSDEzcGw0eVphSGhVQ1pZYkF3NUZYenRmajJPYWRlWkt2VnRvV2RR?oc=5",
+    "source": "NBC News",
+    "language": "en",
+    "published": "2026-09-29T20:44:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "Trump dice que las empresas de tecnología se 'vigilarán a sí mismas' en medio de advertencias de seguridad de la IA",
+    "summary_es": "Trump dice que las empresas de tecnología se \"vigilarán a sí mismas\" en medio de advertencias de seguridad de la IA NBC News"
+  },
+  {
+    "id": "3a95edfe8dad",
+    "title": "Tech CEOs Address AI Safety Concerns, Trump Says CEOs Will \"Police Themselves\"",
+    "summary": "Tech CEOs Address AI Safety Concerns, Trump Says CEOs Will \"Police Themselves\" C-SPAN",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZURhWUR1cmlxdTlyYm5CMF9vN2tDdC16SFVjZTVOOVd6RGFVYXhNQXM4ZGd1WTc3RTJudzBFM2hGejd1YUdxeUhaNFpoQTBJampnMUpMVG12TF9BRlZIb19OLU5ZVEpBU3NJLXlIdF9Yc0dqZjlGaEVDR0xEalF4WWN3eUc3czZyMExDcVNvM2kxejdsSlBwMFdQX2ZUSjdTQmJJaG9CV2NOb28xalRtdm5BOGpQVXU2NjdWaWw0QlBtNks2QncyZw?oc=5",
+    "source": "C-SPAN",
+    "language": "en",
+    "published": "2026-09-29T20:43:24+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "Los directores ejecutivos de tecnología abordan las preocupaciones sobre la seguridad de la IA, Trump dice que los directores ejecutivos se \"vigilarán ellos mismos\"",
+    "summary_es": "Los directores ejecutivos de tecnología abordan las preocupaciones sobre la seguridad de la IA, Trump dice que los directores ejecutivos se \"vigilarán ellos mismos\" C-SPAN"
+  },
+  {
+    "id": "40145b993a20",
+    "title": "Trump recibe a los líderes de Silicon Valley en una cumbre sobre los riesgos de seguridad de la IA",
+    "summary": "Trump recibe a los líderes de Silicon Valley en una cumbre sobre los riesgos de seguridad de la IA LaRepublica.co",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM1E2YW9JYlljc3h3RGtkbEtOMHFRcHVsTllOVVp2TEZmVWF4VEszb05IWW4zakF4UGlXa21IcDBWeFBFcjJ3QlhFNUtsb1ZhM0cyWHJ4LUphZ0t6c1BiNUdKb0dEdG1YMXduSTMzUHIyLW1paU5ub3RsaHQzTDFjazNkdmJyQmZIbFVHNUxQTk5kLXRlaEVObnR6VlBGTmxwREJ4WTQ4N0VfbDl4X2hRRGl6dzE1b2wxNGh0WWx0bDBsQVpxV0ktT1NxcEpmVEpkWUpqbDJVSWJJSHFURzVGeA?oc=5",
+    "source": "LaRepublica.co",
+    "language": "es",
+    "published": "2026-09-29T20:40:28+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "Trump recibe a los líderes de Silicon Valley en una cumbre sobre los riesgos de seguridad de la IA",
+    "summary_es": "Trump recibe a los líderes de Silicon Valley en una cumbre sobre los riesgos de seguridad de la IA LaRepublica.co"
+  },
+  {
+    "id": "f27824ce3e1d",
+    "title": "AMD Lands Fei-Fei Li, the ‘Godmother of AI,’ In $8.2B World Labs Buy",
+    "summary": "AMD Lands Fei-Fei Li, the ‘Godmother of AI,’ In $8.2B World Labs Buy HPCwire",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1JfdGF2elNoRGNvM0FBSDU3Xy1RdkRxRF9WN21hLUlzbHJsWDdMMUhHMEVtMjZ5VXd2bzY4OGFpR21QQUpWNmwwTTJOT25aVjNza0dXUGhSa2dMRXFtR0tUUFFtRHNSTEhDc3RVcFBlOFJ3clI1SjlTZ2w3YXI3WXI4OTdsNjBVSUlfQkw1aUtRa1pKMlBDdEpuVGdTSl93?oc=5",
+    "source": "HPCwire",
+    "language": "en",
+    "published": "2026-09-29T20:39:48+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-29",
+    "title_es": "AMD consigue Fei-Fei Li, la 'madrina de la IA', en una compra de World Labs de 8.200 millones de dólares",
+    "summary_es": "AMD consigue a Fei-Fei Li, la 'madrina de la IA', en World Labs de 8.200 millones de dólares. Compre HPCwire"
+  },
+  {
+    "id": "81df67b6275c",
+    "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress",
+    "summary": "Trump rejects calls to work with China on AI safety despite Xi summit progress South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTRPVkI2a3ViUGcxYlJldktDS0ZtTXhuWmJibFo5azRiNlVGLTd2am51eFhCaVhjaWs3U0owOXNrdnRsQVZlUDk1dFdRMExxbmt3UzdZNk9rVnF6SDNERVpXWTlodHlHMVFzT0RVQ2c1N3gxY2pwWThHRUZfb2RtY29qZzV6N1pFUnprVXdkeXFSYm1aVS01T184akF4LXlHcjFKM3VaQzhkdTduNDFaS1RMTVFTc2FOOEowRmFsRUI2T1k?oc=5",
+    "source": "South China Morning Post",
+    "language": "en",
+    "published": "2026-09-29T19:32:03+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "Trump rechaza los llamados a trabajar con China en la seguridad de la IA a pesar del progreso en la cumbre de Xi",
+    "summary_es": "Trump rechaza los llamados a trabajar con China en la seguridad de la IA a pesar del progreso en la cumbre de Xi South China Morning Post"
+  },
+  {
+    "id": "5c9aa67a6f32",
+    "title": "Mistral CEO Says AI Safety Debate Masks Negligence",
+    "summary": "Mistral CEO Says AI Safety Debate Masks Negligence Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGRnY2oyLVhYZ3h0LVBNVEI0RVlBaFNhRzV5SE14RU1wbzFMdXZtSWE5c21MWXJVY3JkRmxoeW9PQ3FYQTBBVHNWYk8xUUwtZXl6Vk9ncEV2YjYyLVkzZWY1Y3dDSk5adTFxNl9oUV9UN3ZYTjVEUUMzZlhMV2dPSUE2d1dtMnN2amZsYWFiOW5mdlJH?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-09-29T19:12:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-29",
+    "title_es": "El CEO de Mistral dice que el debate sobre la seguridad de la IA enmascara negligencia",
+    "summary_es": "El CEO de Mistral dice que el debate sobre la seguridad de la IA enmascara la negligencia Yahoo Finanzas"
+  },
+  {
+    "id": "915878578526",
+    "title": "Developing Nations Urge Greater Say in AI Governance at UN Debate",
+    "summary": "Developing Nations Urge Greater Say in AI Governance at UN Debate Global Banking & Finance Review",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNk12Y3BucmE1enVVdkQwbUJxS2NWMVFhTXdtNXlSSXhUWWJiUjNUUVVZUHdCdlJDOXg1YkZNWVlYSEJ3NXJNdnVrdzZMa0MyVDBsVkhDN0NGM0ZvRjVYRkVvbVE4Y0tHcDZVSUdRWHEyX2pTdkRnbUk5bXMxY1JHWFBHTlNBWlYySW9rNXgzLUJ1RnNualFMVFNQWmw?oc=5",
+    "source": "Global Banking & Finance Review",
+    "language": "en",
+    "published": "2026-09-29T18:52:32+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "Los países en desarrollo instan a tener más voz en la gobernanza de la IA en el debate de la ONU",
+    "summary_es": "Los países en desarrollo instan a tener más voz en la gobernanza de la IA en el debate de la ONU Global Banking & Finance Review"
+  },
+  {
+    "id": "ce62765b4817",
+    "title": "Advanced Micro Devices (AMD) To Acquire World Labs In AI Push",
+    "summary": "Advanced Micro Devices (AMD) To Acquire World Labs In AI Push simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOallGRjVHU2VidjdMTWVTMlZpcWJZTzd4b1dIZzJUdWFVbmQzOTM4OU82a2J2emdGbS0zdEd5dURYRjdyNTZGNnJlMUtZbUdMZVM3UVQ2RDA5WW9rWXRBa2hOYmtOWFNMT282YWlDUGVrQTJHampSOUl0N0JvcTJqcFo4djQ1YTViYzFTNGtUSTlkSkpZVkR2eERnOXdPTU1iZDdhOEc4cEkwbWhSdlkxeDVsb01sWmxYQUJxd1ltcmtCNlZhVjVhUDc4OFhTX0lvbkFTQ1ZETXJ6cGtyUWfSAeMBQVVfeXFMT2plMWZkQmhnQ3A4b3o0UjVYemcwd3lpYzRmbGdBcW9QNUREWWNvZC1TS0hEcFJTVEVLVTdMbUYtVXZHTUU3UUJYOFE4VFpEaDJOVUUzTDQ1cFZxb042WHFjb3JRNV9wMUd2d1kteFdENUcza3k2Zzg3U1hqbzJ3MmlQclg2d1poNlRTX291X0hab1owQUd0aDhTdjdoS0syRGlybVVOWF9RbjZiVHBQU2pib05TRzYzLV9lM1EyeFJ3VFpubGh6aDBOYXlreUg5MEZqVzdycFR5VWtIYUdLa3B4dHM?oc=5",
+    "source": "simplywall.st",
+    "language": "en",
+    "published": "2026-09-29T18:33:43+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-29",
+    "title_es": "Advanced Micro Devices (AMD) adquirirá World Labs en IA",
+    "summary_es": "Advanced Micro Devices (AMD) adquirirá World Labs en IA Push Simplywall.st"
+  },
+  {
+    "id": "70010d96e8d8",
+    "title": "AI governance, contract intelligence emerge as focus areas as firms integrate autonomous agents into ente",
+    "summary": "AI governance, contract intelligence emerge as focus areas as firms integrate autonomous agents into ente The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQS1dDWndnZ2Q5V3hCckR0b0RBNnpBbE9BQ1lZQTl0RGJwMkxKazIycS1wV0NPWTJvQnk3RnRwUkN5VjJ3UlRycUZsaGtoSWdFMkhUcF84cnFuczhTNXZKbnhTN0hmTWtyZllYQ2FhRVNLQU54TllMRkZkZEFfMUx6ei1YaUZ3aFBkUkJpbHZoSWEyQjdCSzNvZjRWMVVwRGpvSHIyUU05WHF2bERVcUpWNFZUTlBJT0MxZWcxRkhFYUR6QVhsSl9oNUlZQjRhdEpMNzB2eTFFN2VqNnROQmRLMG5MTkJNbUVzTEFBbnBSUzVQZHNmemVicHRSWi1KaXRFUWNyemIxeGJ1VHBfTlpjaXgzUHZ4SGZEYlFWbEsza3ktWVBqUGFEdUpURnJmcTBv0gG2AkFVX3lxTE5qQWhhYVdodWpNWTVIWi02SHVtLWlaejJaMGkxTEViVElhX0VULUJwQ3I2aHNSblpMRkZHUG9lOTg1em1TOU9XTE5IYkQwTmplc0dfSlNOQjNmT2UzYnBybERWdXNGTFFCeHV1MHpVTkFaNUxSRFhkWEVOdEVBRWVNOU5JOHQ3b1JxT3g1R0xkQ255MEhvYTFjUTBYNWpXeDFKcGh6Y21RTXNMTWMydGlIeVgteWNpRmU2ckRhWWVoSnZnemg0UzRGMGI3ZkhpVjFrTkt6M3ZnOF9QS203dmpLTDZXaEZ2akhyQVd5T1lBNWE0OV9PNzB3aVY0YU9xaVllcUtsNzBoS21Tbl9BMmp1RXFib0FJMVZ0OGtabXRGOEhIQlhPUi1Gc1RQazlBa1hPQlZWUUE?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-09-29T18:23:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "La gobernanza de la IA y la inteligencia de contratos emergen como áreas de enfoque a medida que las empresas integran agentes autónomos en la empresa.",
+    "summary_es": "La gobernanza de la IA y la inteligencia de contratos emergen como áreas de enfoque a medida que las empresas integran agentes autónomos ente The Times of India"
+  },
+  {
+    "id": "96836fe7589e",
+    "title": "Trump Hosts Silicon Valley Chiefs for Summit on AI Safety Risks",
+    "summary": "Trump Hosts Silicon Valley Chiefs for Summit on AI Safety Risks Bloomberg Law News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2JzLUxwWTNWNDYzNDRIX2hKbVM4SjBxZ1h0dmhYREpKRGxQcnk0SFRadHRHYnVCNEJIbVU1aXkxbDB0X1pNdFJCODhhTF9aX3RFNzhqVnowZEd4b0RWNXU4WnRkRk5fOEd5NUhkWmRRWGhTNm1fQWJfZkFmRnJNOVFXNXhuQkpQb3JFTGtKQ3hjS3Q2WUktbENRT2otQUE0OENkUlctVF9uTzd6bUVEMDRTbFN4RE5f?oc=5",
+    "source": "Bloomberg Law News",
+    "language": "en",
+    "published": "2026-09-29T17:27:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "Trump recibe a los jefes de Silicon Valley para una cumbre sobre los riesgos de seguridad de la IA",
+    "summary_es": "Trump recibe a los jefes de Silicon Valley para una cumbre sobre los riesgos de seguridad de la IA Bloomberg Law News"
+  },
+  {
+    "id": "71297745ffe7",
+    "title": "AI Safety Collaboration Faces Antitrust Law Barriers",
+    "summary": "AI Safety Collaboration Faces Antitrust Law Barriers Legis1",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wc3NfTmhLZ0xQN3VUSWJzTm8yUTJPT3J4akx3MENfR3JhQUxQTjlXZEJSOERIWmVtWGdpMWxNMXNZeHhGNjJ5NUlub044bk1tVDQxM3FLcmVjalFUV1ZDRkk2V3VEc1dZU2pfbkkyelBLdWVKaHc?oc=5",
+    "source": "Legis1",
+    "language": "en",
+    "published": "2026-09-29T15:15:47+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-29",
+    "title_es": "La colaboración en seguridad de IA enfrenta barreras legales antimonopolio",
+    "summary_es": "La colaboración en materia de seguridad con IA se enfrenta a las barreras de la ley antimonopolio Legis1"
+  },
+  {
     "id": "5be69ed3a35b",
     "title": "Contradicting Trump, Pope Leo says AI safety concerns are not a hoax",
     "summary": "Contradicting Trump, Pope Leo says AI safety concerns are not a hoax Audacy",
