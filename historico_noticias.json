@@ -1,5 +1,305 @@
 [
   {
+    "id": "d11c023d808f",
+    "title": "AMD Acquires World Labs: $8.2 Billion for Fei-Fei Li’s AI Startup",
+    "summary": "AMD Acquires World Labs: $8.2 Billion for Fei-Fei Li’s AI Startup Basic Tutorials",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd1hHWmJIS1Vqdlpscjc4M05RNEpoaDlMUEpmcFdhdGVFOFp0cktnMGVNVDZkenp3TERDQndRNTd2cG5XVWxYcFRLLWdHY0tjbGV0elM0VF9QWG5DY2NvbzBDVW85UjV5YWF3T2NRTnExOC1yTzhZYUZPVzM2VTl3cHVJYkxDaDRvbDMtUndkUlZMaTNsck9UMUJ6a0M?oc=5",
+    "source": "Basic Tutorials",
+    "language": "en",
+    "published": "2026-09-30T03:21:47+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-30",
+    "title_es": "AMD adquiere World Labs: 8.200 millones de dólares para la startup de inteligencia artificial de Fei-Fei Li",
+    "summary_es": "AMD adquiere World Labs: $8,200 millones para los tutoriales básicos de inicio de IA de Fei-Fei Li"
+  },
+  {
+    "id": "5bb3a3d769e1",
+    "title": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance",
+    "summary": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOelhGY1ptX29PNm90RUlrME9ybTY1b3Zjekx1eEhRU3hRVHVDb3Jhdm85ZGp3RS1vc0JIaDJtbTdQNE0teThpWHVaVUI0bElyVXFqMk5sUUNLbms4MFdKN0ExTEF4V1hKNENwOU8tQnVSVmxQQ0h2VzBaQ2FYMkw3YVFwdlVyQlQtSUk1YXdNLVkyOFZaSGdEM01pcTB4dFRHSUd3RA?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-09-30T03:15:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-30",
+    "title_es": "Breakingviews - COMENTARIO: Los laboratorios chinos son comodines en la gobernanza de la IA",
+    "summary_es": "Breakingviews - COMENTARIO: Los laboratorios chinos son comodines en la gobernanza de la IA Reuters"
+  },
+  {
+    "id": "2dae14ac4bf0",
+    "title": "Trump, tech CEOs sign AI safety pact",
+    "summary": "Trump, tech CEOs sign AI safety pact LiveNOW from FOX",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVRFg2SnlMQU1pajNNNTg3ZGkwbEkxZk9QTHlmR0JFU01uOWo4TDZhZmN2SV84dnotOWtZajlpNmRQSFczX3Q0bkdvR3VLOGlLR2FjN3pub1dNNWNqbEQ4X0Ztd9IBaEFVX3lxTE0wcUxsb0NZaWdTdTBEY3NlWktqU0lnLV9iclQ2MkFET1FObUp1eGVkODRENDQ1VEZZQ09LeTN6UlZsUGhsQlcwaXJ6UU92WEtTNzRlbVRPWG1xam5DS1ZxWXBBUTE3MU5k?oc=5",
+    "source": "LiveNOW from FOX",
+    "language": "en",
+    "published": "2026-09-30T03:05:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "Trump y los directores ejecutivos de tecnología firman un pacto de seguridad de la IA",
+    "summary_es": "Trump y los directores ejecutivos de tecnología firman un pacto de seguridad de IA LiveNOW de FOX"
+  },
+  {
+    "id": "502b68bc98e3",
+    "title": "Donald Trump Secures “Morally Binding” Voluntary AI Safety Pact With OpenAI, Meta, Google, Nvidia",
+    "summary": "Donald Trump Secures “Morally Binding” Voluntary AI Safety Pact With OpenAI, Meta, Google, Nvidia NewsCord",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkNlcUY3eEV4VFF5RnBkemVMNjJyUDJ4cUtrZjRDQTNGQmg2cU9ISnV2TVI1RV9lMkxxTHlJSWhuSGI0VW1YYlRCb0o2SGMzNnlMZ3A4YUlPYlpiWlh3Y3pBU3lCX0pYVnluZXBZNTNzdldmd2VHWnM5OXFxMzFKQ0dxX3Y1UzFtajNKTVM3N2NuUzhCVkpXUk5EV2t5aU9zVjA0M3pwXzllOVRocnVmc3BieklZTXdIdERUWkR4ZkxLQW9tTDBBUnF1UWtteWc?oc=5",
+    "source": "NewsCord",
+    "language": "en",
+    "published": "2026-09-30T02:36:27+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "opensource",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "Donald Trump asegura un pacto voluntario de seguridad de IA “moralmente vinculante” con OpenAI, Meta, Google y Nvidia",
+    "summary_es": "Donald Trump logra un pacto voluntario de seguridad de IA “moralmente vinculante” con OpenAI, Meta, Google y Nvidia NewsCord"
+  },
+  {
+    "id": "c555281b9a4c",
+    "title": "AMD adquirirá World Labs para impulsar el futuro de la computación de IA",
+    "summary": "AMD adquirirá World Labs para impulsar el futuro de la computación de IA Prensario TILA",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmpjQWNoeVczSldZaGhLaFROaUJDSmVUVUlESHlRd1NUZDJhZHVtSENsMGowQXBFR1pUN1V6UEE0TTE2aWVUM2Q4b1VYSWMtaGdTWXJHem9VRjVYV3ZJVWRrM0t6eVd3cXp6ODJ4TW16VDAtNDFGV1A2U3M1WFN1S3NhT0h6d2kzMGx5OVF0R3l3dm44eW11aG5mMmtoQWRS?oc=5",
+    "source": "Prensario TILA",
+    "language": "es",
+    "published": "2026-09-30T02:20:11+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-30",
+    "title_es": "AMD adquirirá World Labs para impulsar el futuro de la computación de IA",
+    "summary_es": "AMD adquirirá World Labs para impulsar el futuro de la computación de IA Prensario TILA"
+  },
+  {
+    "id": "80bd4002b4f9",
+    "title": "Self-regulation 'not enough' for AI safety, Gary Marcus says",
+    "summary": "Self-regulation 'not enough' for AI safety, Gary Marcus says PBS",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11UVI4ZW1rSTF4djl2MHpGMkhLYXplcHQ5aFF4a3I0SUxUVFFydS11aDBYalgxM3pCdGpicmR4SVJmTXU4X0pwdnlwRHlCaENVc0xTXzQ0bkhPUQ?oc=5",
+    "source": "PBS",
+    "language": "en",
+    "published": "2026-09-30T01:38:47+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-30",
+    "title_es": "La autorregulación \"no es suficiente\" para la seguridad de la IA, dice Gary Marcus",
+    "summary_es": "La autorregulación \"no es suficiente\" para la seguridad de la IA, dice Gary Marcus PBS"
+  },
+  {
+    "id": "00eb5be84b83",
+    "title": "Trump announces AI safety agreement after meeting with tech CEOs",
+    "summary": "Trump announces AI safety agreement after meeting with tech CEOs ABC10",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTTRlX2NGSXdxY2Z4NzdRb05nQ2p3R0xmT2ZEdkowaFRod1BrRUtEV1pRMUNJTFZmRkNTLS1YN2NUZnJnVmNDMUxkWFRKSVJtejFDLVpJVjdiT2IyOVBQY2RjYldVdDhGbGlyRG9LOFhQbTlhRTJLSFg2ZUhqYXAyYmlNQXJYYWhHY3ZGcTg5aGVtSV94TGlXU1FLdW12R29RQlUyT3AtYV9PREIyOWJOSHZNTFlkWjEyRG1wX0dEazJlLVA4WWVBT1dVV3U2MzZVR2xlZ01abVdrX0R1aGcyUUxVeEpkc3lydXlSRU83Mk1MazVzNXViZg?oc=5",
+    "source": "ABC10",
+    "language": "en",
+    "published": "2026-09-30T00:44:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "Trump anuncia acuerdo de seguridad de IA después de reunirse con directores ejecutivos de tecnología",
+    "summary_es": "Trump anuncia acuerdo de seguridad de IA después de reunirse con directores ejecutivos de tecnología ABC10"
+  },
+  {
+    "id": "24eb80521fd8",
+    "title": "OpenAI retrasa su IPO: Altman pone la seguridad de la IA primero",
+    "summary": "OpenAI retrasa su IPO: Altman pone la seguridad de la IA primero El Ecosistema Startup",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnB6Q1JxVTZuRjc4eUJBR0pVeTZMbkp4UUNfUW9MZmpwTFVzam1iZUN6VEJqbDFHM0xjSnoxXzdvZ3BpRHBDWWpxeExrR1lWc1ZrWEQ3cEtZZE1obHZtcndkVGRsZzFxanZhQzVILV95cWFKUVBiMFBzcEhKVFhCa3JJeTZuSU9aYW9nMlpKSzNDbXJQdVJMbVF3?oc=5",
+    "source": "El Ecosistema Startup",
+    "language": "es",
+    "published": "2026-09-30T00:39:31+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "OpenAI retrasa su IPO: Altman pone la seguridad de la IA primero",
+    "summary_es": "OpenAI retrasa su IPO: Altman pone la seguridad de la IA primero El Ecosistema Startup"
+  },
+  {
+    "id": "1111fe5e5f94",
+    "title": "Watch AI Safety Debate Deepens as Trump Backs Self-Regulation",
+    "summary": "Watch AI Safety Debate Deepens as Trump Backs Self-Regulation Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDFEUUx1am9BRUVVRE1ZYldiUXJXZm9JT0JDNnZFRDNwQnRMb3U3TmtiTDBJNll2Q3ZjVklOM3BvMG80dFo4VFJGYlp5RTJXSk1GNFZ1dDR3UUswcHRDeDhmQ3VzLVlpSTJLUlBOc2F2c1BGRnYtRTZoUE1XQzhNRjZyRHppd2VFNXZQUHZtMVZtaWp1ckxzUEdEUkh1RDRHa0tUYkJZRzRHR3pManNj?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-09-30T00:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-30",
+    "title_es": "Vea cómo se profundiza el debate sobre la seguridad de la IA a medida que Trump respalda la autorregulación",
+    "summary_es": "Vea cómo se profundiza el debate sobre la seguridad de la IA a medida que Trump respalda la autorregulación Bloomberg.com"
+  },
+  {
+    "id": "1e5448dffa70",
+    "title": "Trump, Tech Execs Unveil Voluntary AI Safety Accord",
+    "summary": "Trump, Tech Execs Unveil Voluntary AI Safety Accord newser.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXEwem9XY1RQckJTbTFqV1hfY1lnUXFnRTdTN3ZBNjhtUVFLOTBSRGdhbFUycko5ZEJ4OFBNU0xGV3dkNUFlb3hiUWtlWGctdXU2TThJZG1KcTQzWFNpVlEzdll3MFFPWlo2TVROOHlyRFlPVnBaSHhfNWJ2SkREYktLZkNGWkdseUpWR1JfRjdQZ2NBaUE?oc=5",
+    "source": "newser.com",
+    "language": "en",
+    "published": "2026-09-29T23:34:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "Trump y ejecutivos tecnológicos revelan un acuerdo voluntario sobre seguridad de la IA",
+    "summary_es": "Trump y ejecutivos tecnológicos presentan acuerdo voluntario sobre seguridad de la IA newser.com"
+  },
+  {
+    "id": "a5b6e1df2654",
+    "title": "'Tremendous self-policing': President Trump unveils voluntary AI safety accord with tech leaders",
+    "summary": "'Tremendous self-policing': President Trump unveils voluntary AI safety accord with tech leaders KOCO",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTBSSlQxNWlHTG83SF83anBXTlJodlpEMXZHY3dCVnpDcnFhVmtzcVh2UnBFb3BpZlV2OENwSlA2VU9aUlE3NDZRWUFRTG9sYXl1TXVrMDhVWVdPRWJ5OG9iYmV3ZEdxRGxHbTZGUklpSGp2anF0YldEaVRDenB5Tk9MRkVZNVJ6MlU4OWZHaTdsdnFEM1hPcGFQc3JvS2xxWHRlYUxYaHhZZw?oc=5",
+    "source": "KOCO",
+    "language": "en",
+    "published": "2026-09-29T23:22:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "'Tremenda autovigilancia': el presidente Trump revela un acuerdo voluntario de seguridad de la IA con líderes tecnológicos",
+    "summary_es": "'Tremenda autovigilancia': el presidente Trump revela un acuerdo voluntario de seguridad de la IA con líderes tecnológicos KOCO"
+  },
+  {
+    "id": "280950fd61a0",
+    "title": "Check Point y NVIDIA se integran para atacar un creciente punto ciego en la seguridad de la IA",
+    "summary": "Check Point y NVIDIA se integran para atacar un creciente punto ciego en la seguridad de la IA La Gran Noticia",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRDVwbklUNlU0SmJiUld3RUM2cGhEMTdyeTVjNDl6R1VmVHVZNjVJemVBYmVJZ0U5ZFU0Ylc2TmdxX3VpNlRDRU8wMlBQR2ZrOS0zNEN2X1JFWk1tdlQyNGVodEE2emR1VDdReVB5bTJGc2RmSWRGYlZac2dGdkFQb093djQ2YzRjSDV4NGkwU2dQbm9RbU9pcURsVUhTdjZsY3BBUlZJOXpzb2RtZDZtNWZrdjE2MDdjV1BKamtXTE5zZFExNkZ5TXFDYw?oc=5",
+    "source": "La Gran Noticia",
+    "language": "es",
+    "published": "2026-09-29T23:05:35+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "Check Point y NVIDIA se integran para atacar un creciente punto ciego en la seguridad de la IA",
+    "summary_es": "Check Point y NVIDIA se integran para atacar un creciente punto ciego en la seguridad de la IA La Gran Noticia"
+  },
+  {
+    "id": "5be3778bc0b3",
+    "title": "Donald Trump, tech moguls, release AI deal following White House luncheon",
+    "summary": "Donald Trump, tech moguls, release AI deal following White House luncheon The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ydmR4Tjl3YzRvSzNDSnV5TG11R28tTjNYblBLSGVpUjEzS3IwMWJwWTRIM0FSSllfeVJZRzNmZFRleWNaekY0VFZaTEsxb2pidUxjS3FPVzFEcnZEZkRWbEFLMTQ3WGNRX21kQQ?oc=5",
+    "source": "The Jerusalem Post",
+    "language": "en",
+    "published": "2026-09-29T22:57:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-09-30",
+    "title_es": "Donald Trump y los magnates de la tecnología lanzan un acuerdo sobre IA tras un almuerzo en la Casa Blanca",
+    "summary_es": "Donald Trump y los magnates de la tecnología publican un acuerdo sobre IA tras un almuerzo en la Casa Blanca The Jerusalem Post"
+  },
+  {
+    "id": "f9cde5f0d4c4",
+    "title": "Kakao partners with AI safety institute to evaluate models, agents",
+    "summary": "Kakao partners with AI safety institute to evaluate models, agents upi.com",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEZtYTc2OUotMEFRSXJrQUZWZzlYNDRkVzRxU1Z2TDNQMEUweGdyM1NaYzJjVDVxZzBRYm5JVE5BYmZOTVpHUXY4TFNidDdJMjRzNXVReU03Y2d1aGRqNi1URXYxQ3NrOWdBUE9EMFpyRXEtX0x3SFRQc0pfMEZoX09yS1F2X0ZNWkJQbXRrekwtV2U1UEE?oc=5",
+    "source": "upi.com",
+    "language": "en",
+    "published": "2026-09-29T22:55:45+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-30",
+    "title_es": "Kakao se asocia con el instituto de seguridad de IA para evaluar modelos y agentes",
+    "summary_es": "Kakao se asocia con el instituto de seguridad de IA para evaluar modelos y agentes upi.com"
+  },
+  {
+    "id": "d5ff26b9a42e",
+    "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress",
+    "summary": "Trump rejects calls to work with China on AI safety despite Xi summit progress South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTRPVkI2a3ViUGcxYlJldktDS0ZtTXhuWmJibFo5azRiNlVGLTd2am51eFhCaVhjaWs3U0owOXNrdnRsQVZlUDk1dFdRMExxbmt3UzdZNk9rVnF6SDNERVpXWTlodHlHMVFzT0RVQ2c1N3gxY2pwWThHRUZfb2RtY29qZzV6N1pFUnprVXdkeXFSYm1aVS01T184akF4LXlHcjFKM3VaQzhkdTduNDFaS1RMTVFTc2FOOEowRmFsRUI2T1nSAcMBQVVfeXFMT2JON2h4b2tJNE1ENUNhR0tIWGZTV3RiQTIxckxZY0d5N181UjBnWFFEa3lXMnIwT01rMVZRRXRmS1N4Z3dIME5MVDlZRGdDTVRPempvVEIyeFBRQkFnck5GT3Y0WUVYclpEajRSaDhDUzdlbkRWOWhqbzFtMEh3UW95dWVmb3hmaHJHU3JDdW5TZ0hmNlJBUXB0TnZELXozMy1pNzNSa2JkSkhXZlhjQkRHc01aSTVoNS1LVWFPZGgxN1Qw?oc=5",
+    "source": "South China Morning Post",
+    "language": "en",
+    "published": "2026-09-29T19:32:03+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-09-30",
+    "title_es": "Trump rechaza los llamados a trabajar con China en la seguridad de la IA a pesar del progreso en la cumbre de Xi",
+    "summary_es": "Trump rechaza los llamados a trabajar con China en la seguridad de la IA a pesar del progreso en la cumbre de Xi South China Morning Post"
+  },
+  {
+    "id": "9a56749c1826",
+    "title": "Can AI Stay Under Human Control? | CEO of Microsoft AI, Mustafa Suleyman",
+    "summary": "Can AI Stay Under Human Control? | CEO of Microsoft AI, Mustafa Suleyman YouTube",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FaWxfTDNRaFoxeTg0bDgwYi04R1p3SmJ5OS1qRGZJRzNGZHVJNV9sRm5rb2NSVW15RWtwdm9WT2VYUFJhVnc1YkJ6WVRYN1dvWF9XckxQSUZrbEpU?oc=5",
+    "source": "YouTube",
+    "language": "en",
+    "published": "2026-09-28T13:32:03+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-09-30",
+    "title_es": "¿Puede la IA permanecer bajo control humano? | Mustafa Suleyman, director ejecutivo de IA de Microsoft",
+    "summary_es": "¿Puede la IA permanecer bajo control humano? | Mustafa Suleyman, director ejecutivo de IA de Microsoft YouTube"
+  },
+  {
     "id": "5a6f57f5cda9",
     "title": "Trump again rejects calls for AI safety laws, says companies can self-regulate",
     "summary": "Trump again rejects calls for AI safety laws, says companies can self-regulate WJAC",
