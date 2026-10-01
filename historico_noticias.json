@@ -1,5 +1,355 @@
 [
   {
+    "id": "55fcb5a6f958",
+    "title": "Whatever AI Safety Is, It’s Not This",
+    "summary": "Whatever AI Safety Is, It’s Not This WIRED",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4X0h0SzFmS0JnYk10b29nTlZTcFdfZFM5cXhJbW5IS2wtaGNQOVRyM0hvUERTNVZfQzh2akNLWUt0NmRqOEVweWg1NWtEQXVUdlA5VlZlcDJ5SWRLbDB2eFJSSVRQVGFRMU5SRHZodVZqaW1qdWJGZVdJVQ?oc=5",
+    "source": "WIRED",
+    "language": "en",
+    "published": "2026-10-01T22:10:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "Cualquiera que sea la seguridad de la IA, no es esto",
+    "summary_es": "Cualquiera que sea la seguridad de la IA, no es así"
+  },
+  {
+    "id": "62f470e30a34",
+    "title": "Trump’s AI Safety Pact Is Toothless. But There is a Path Forward.",
+    "summary": "Trump’s AI Safety Pact Is Toothless. But There is a Path Forward. Council on Foreign Relations (CFR)",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTjRobHZ6NHNidnhXRU13SXpEX01tZnNEZUVpeFdnWlUtNGFsbFVPeUxSSldOaU5wT25FVGQ2czh5ZW1vbFVWMTVaQUhfMDUyc0pMYUR1MnR1RkprYXJGbHpKbm5yeXIxU1ZtRU41MzJ6RXJydkI1VDEzS0pvemdmSXlfOGp6QTZoQTh0V1laTDV5TjFSZmc?oc=5",
+    "source": "Council on Foreign Relations (CFR)",
+    "language": "en",
+    "published": "2026-10-01T21:05:54+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "El pacto de seguridad de la IA de Trump no tiene efecto. Pero hay un camino a seguir.",
+    "summary_es": "El pacto de seguridad de la IA de Trump no tiene efecto. Pero hay un camino a seguir. Consejo de Relaciones Exteriores (CFR)"
+  },
+  {
+    "id": "dc5737dbb43a",
+    "title": "Bret Taylor and Saul Van Beurden weigh in on AI safety",
+    "summary": "Bret Taylor and Saul Van Beurden weigh in on AI safety CNBC",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaHZJcnBGZWU5ZUZ5MDk3Z3RxSWtlZXJrY0tLMThYcDdDWkYzUUhlamxvakRkUU56eDVfeHNWeWhXRC03YXh2cy1lRk0xbEFzTER5N2ZXVXA1NE5od2R3TUgtLWZiN3dodUtCOFNmaFR5MVFpWXo3U0VLLUNVbEMxZ29ONERzLUpFT1FwRXZ4RWYzOFEzVjRXV05DZkNhZw?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-10-01T21:05:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "Bret Taylor y Saul Van Beurden opinan sobre la seguridad de la IA",
+    "summary_es": "Bret Taylor y Saul Van Beurden opinan sobre la seguridad de la IA CNBC"
+  },
+  {
+    "id": "ee236e50e162",
+    "title": "Cronología de incidentes de seguridad de la IA: de Hugging Face a OpenAI",
+    "summary": "Cronología de incidentes de seguridad de la IA: de Hugging Face a OpenAI Business Insider España",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmNZNEc5azlZSjRDSkQtM05IUlZNdWo4Z21sSFNwclJaT1J2LTdabTRVNlkzTXRyWnJJSkxyLWtJMTc0ekRQY2szY2NOZzhaWVN6LUhmbW5CQ24yUVVLaGMzV3hzdWtfTWhEYnZiX2UzSURFaTM1MDNkbUlaX196U2RjcWMtV2ZZaTV1NFBmSXBkQmpYRHdvMnVZNUc3RmwyOGsySFRTa19oV3d6ZTdubNIBtgFBVV95cUxNX1h3NjdjSVB1U3hzMTZnX0FlcWkzLWNRN3daOW85ajRpWFhqdFcydVY4SnpqVXlzRmRPcGVVcG1wZUQ4aHJjRzhRb0h1d2dGdFBnTTBtX0M0dlZyMndHQ0RNQ2ZRWGROc3ZfYV9KT212aXpHbktxWW9sQmx0cXVjYWxuTFVIUHN4MWZpaDNGQkV2Y1lVdmJLdG1lenlnejFqMUFOQzJyNVlTa1JiTUZGZkRfMmRBdw?oc=5",
+    "source": "Business Insider España",
+    "language": "es",
+    "published": "2026-10-01T20:58:23+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "Cronología de incidentes de seguridad de la IA: de Hugging Face a OpenAI",
+    "summary_es": "Cronología de incidentes de seguridad de la IA: de Hugging Face a OpenAI Business Insider España"
+  },
+  {
+    "id": "464cdf50097f",
+    "title": "OpenAI reacts to FTC investigation into AI safety",
+    "summary": "OpenAI reacts to FTC investigation into AI safety WZTV",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTkRwci1MOWZpZHkzSmRaVUhqMUlWYk1qNER5anFHbGNheUJrSmpkQ21rUTM5SzNhUVpiMzNDRmV1QnBnWGk2NENuWW1IcTVBZ0dBakNXNkI2ZWVqZnk0UGZsWm5rQkhOOWJQQWR4MmR4XzZhRmhoS2ctZk5ROG90SDJUbFUzYmpIWkxFdkpvVkk3ei1KMFNLTWY2bENCUGV0TC1kNDVnX185V0pRUFo5bEFWeW1DTU1VdnpTTTdaZjljbUhrRmFQN1AyVQ?oc=5",
+    "source": "WZTV",
+    "language": "en",
+    "published": "2026-10-01T20:53:04+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "OpenAI reacciona a la investigación de la FTC sobre la seguridad de la IA",
+    "summary_es": "OpenAI reacciona a la investigación de la FTC sobre la seguridad de la IA WZTV"
+  },
+  {
+    "id": "6569218d7496",
+    "title": "VCs need to ‘move as one’ on AI governance",
+    "summary": "VCs need to ‘move as one’ on AI governance New Private Markets",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQVhyQ21tYjZSTlNkOHFDUTI0eENsa0xFVm1JU29ESGNHTkNiMnFRNE95eG9qd1pwWnBIbGs1dTV6RURoRVZSYlpvU0xST1B3aGstdnMyU0c3SmotMElKRW9Sd2UxbGlEYnhpdWU4X1RoU0tLZ0RIVFNLN2dBbzdSRg?oc=5",
+    "source": "New Private Markets",
+    "language": "en",
+    "published": "2026-10-01T20:48:21+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Los capitalistas de riesgo deben “avanzar como uno solo” en la gobernanza de la IA",
+    "summary_es": "Los capitalistas de riesgo deben “avanzar como uno solo” en la gobernanza de la IA Nuevos mercados privados"
+  },
+  {
+    "id": "131231681760",
+    "title": "‘Turning the Page’ in AI. Google, Microsoft & AI Safety. ARD #175",
+    "summary": "‘Turning the Page’ in AI. Google, Microsoft & AI Safety. ARD #175 AI: Reset to Zero",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMEQ0QTRYdkZXbU5VTEt3dEk2QmQ2TEUzS2JDQk56bU53Sm56VkhsaG1vYnZBZWhHNEhTT2VMQzY2MU1QV1JuVjN4eXJhQ0NsQmY1TmhiSTEwVFQ1WXc1RTBXVV9hcXBOekVQcVJGa3o0Z0NZZFpuMkhOb1o0bmR4STB3?oc=5",
+    "source": "AI: Reset to Zero",
+    "language": "en",
+    "published": "2026-10-01T20:03:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "'Pasar página' en IA. Seguridad de Google, Microsoft y la IA. ARD #175",
+    "summary_es": "'Pasar página' en IA. Seguridad de Google, Microsoft y la IA. ARD #175 AI: Restablecer a cero"
+  },
+  {
+    "id": "21c9d4deb35a",
+    "title": "OpenAI ousts 3 employees who allegedly shared confidential info with AI safety group",
+    "summary": "OpenAI ousts 3 employees who allegedly shared confidential info with AI safety group nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMG9vMW5JdVNHU0RPbFIxRjlJOUNJbmVCQTJWVHAycUh4SVNxLXZoSDBtMm1HX1dPc2JUcHVSZ3ZCYnpSRmZwVkUzOHA3WU9BTkJWTXdqS3hhZVd6MG8tTUNiZEViNjF5MngtMXNibDRPRkFYeEtxV20wYXhBdEpsNFZmZmM0NXZETktQSUpibzFpbW9sOEx6V0dJMlBzV3g3RWNTTmNZakYwLVBFNGZiUmstbFF5NUgyeTRfWlN4MjhIUQ?oc=5",
+    "source": "nypost.com",
+    "language": "en",
+    "published": "2026-10-01T19:17:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "OpenAI despide a tres empleados que supuestamente compartieron información confidencial con un grupo de seguridad de IA",
+    "summary_es": "OpenAI despide a 3 empleados que supuestamente compartieron información confidencial con el grupo de seguridad de IA nypost.com"
+  },
+  {
+    "id": "e5aa71e92b89",
+    "title": "Jimmy Kimmel on Trump’s plan for AI safety: ‘Like asking your kids to self-police their Halloween candy’",
+    "summary": "Jimmy Kimmel on Trump’s plan for AI safety: ‘Like asking your kids to self-police their Halloween candy’ The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RYThTc0paYVRkbWRLTG9OSkVXaDhBQU5YelhRbGRlaHRVcWtwQ0VOWExMcEZzTDJxN3QzZGtibWFsMGRtM2tZRUQtYnV2YWdpVUNPUEZSZVNycEZhb2ROMEtFcnJhWnBLdFpjVUdoX195ekZRNkQ0SQ?oc=5",
+    "source": "The Guardian",
+    "language": "en",
+    "published": "2026-10-01T19:04:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "Jimmy Kimmel sobre el plan de Trump para la seguridad de la IA: “Es como pedirles a tus hijos que vigilen ellos mismos sus dulces de Halloween”",
+    "summary_es": "Jimmy Kimmel sobre el plan de Trump para la seguridad de la IA: \"Es como pedirles a tus hijos que vigilen ellos mismos sus dulces de Halloween\" The Guardian"
+  },
+  {
+    "id": "04ff59bc429a",
+    "title": "How To Establish Solid Enterprise AI Governance",
+    "summary": "How To Establish Solid Enterprise AI Governance Forbes",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkVrakgta0V6SklwUDZmZ015eUZhLVlUNDl1VWFKU1ZJYmRWbXo2ZmtNM1dXZ1VKYUpsaWR3eEZCSlF1TmhGaDVzVnp2aFBtQWhValR4MkNWdW5ObEV5R3lLV3pRRkRFczNGdFoxb0FqWmlMWmw0QnhtQnZwQ0NUaFVPcE9aZ3JRdWh4R0VZS3hVWFBRY01v?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-10-01T17:02:11+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Cómo establecer una gobernanza sólida de la IA empresarial",
+    "summary_es": "Cómo establecer una gobernanza empresarial sólida de la IA Forbes"
+  },
+  {
+    "id": "c3efdfeb2147",
+    "title": "A big-tent or small-tent AI safety movement?",
+    "summary": "The unstated disagreement that underpins safety debates",
+    "link": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-10-01T16:34:51+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter",
+      "seguridad"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-10-01",
+    "title_es": "¿Un movimiento de seguridad de IA de tipo grande o pequeño?",
+    "summary_es": "El desacuerdo tácito que sustenta los debates sobre seguridad"
+  },
+  {
+    "id": "7190caef54fe",
+    "title": "Coretek Achieves ISO/IEC 42001 Certification, Reinforcing Leadership in Responsible AI Governance",
+    "summary": "Coretek Achieves ISO/IEC 42001 Certification, Reinforcing Leadership in Responsible AI Governance PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOU1DdVJ3OGlLbDVneEZZT3hmTDBUTWFlRUcwMjZBcDVYcVQzTVVVQTVxbGJJYUtxMFRKa2U0YmE0Y1l1cGx1NnRRclR2d2RKaWJ6QnhOR0NaRkpGR1FMTGZBRzA0azBGYkgzeDZ0cUx4TllBc0xQZDNPbjlDdTdCalA1ZUpja3YtaXEtZmJnamNfSjNHVnM3VkJnQnZzMnhHX091Qkh3dDFkWFNqdWtJM05kdy1GQm9SSU5nYmtlVGt6SjhkUG80YzNXamNIcjNVb3dEcWNIeERqZHFKVGJVSUNCeUc1UQ?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-10-01T16:31:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Coretek logra la certificación ISO/IEC 42001, reforzando el liderazgo en la gobernanza responsable de la IA",
+    "summary_es": "Coretek logra la certificación ISO/IEC 42001, reforzando el liderazgo en la gobernanza responsable de la IA PR Newswire"
+  },
+  {
+    "id": "e08266a18b8a",
+    "title": "AI governance: beyond compliance to competitive advantage",
+    "summary": "AI governance: beyond compliance to competitive advantage Lewis Silkin",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVhyT2dxSE5PbHZmcDExdkUtclQ5emI0SEFySTZMUlBoVkRDWllBYVpLNDQwaVRPcnlZNXRqYkduU2FRVDY4Z0l6SWZZd2h1NjU2VU5ZbEZsMVlKNlNUN1lHbF9KTFpmMW1PTWZVNnpjOWZtRVEtcl92SDYtNWhjQUJGOHp6Z1JXaUs5SXo5a2RfV1pUanR1Ym91S2EzR3RRQmZleXJObTZhVk40RjkyUEZaak1LQkp5SUEzaXRBWmNxRWNFenJTMnNjRWs?oc=5",
+    "source": "Lewis Silkin",
+    "language": "en",
+    "published": "2026-10-01T16:17:46+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Gobernanza de la IA: más allá del cumplimiento, hacia la ventaja competitiva",
+    "summary_es": "Gobernanza de la IA: más allá del cumplimiento, hacia la ventaja competitiva Lewis Silkin"
+  },
+  {
+    "id": "01ddea1812f3",
+    "title": "AI governance: good plumbing, not a brake on innovation",
+    "summary": "AI governance: good plumbing, not a brake on innovation Lewis Silkin",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHFTUUFKQ2syanNYd2kzeTJtVjZ0ZTV2SVJNVW5rQk8tMi16V0g3a1dLOGNYUkNOd015YUlvSWxMdEthMnRZTUtSOV9objVaWlpPLVh1N2k5Zkh6R2lvMHZPd20wTVhhakdrTlRSb2kzOFhCT2pyWEYzRG1heWVjWnFEczZMX0JjSjFUUDRURnZhUkZUV09YMXRkNnVzV2JTa0tValZ2SnJPcTJad25OOG0zRUpfTDBtaUlESXQ2MmtmT2FHZmY0eQ?oc=5",
+    "source": "Lewis Silkin",
+    "language": "en",
+    "published": "2026-10-01T16:16:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Gobernanza de la IA: buena plomería, no un freno a la innovación",
+    "summary_es": "Gobernanza de la IA: buena plomería, no un freno a la innovación Lewis Silkin"
+  },
+  {
+    "id": "8913d28074e2",
+    "title": "Distorted intelligence at the AI frontier",
+    "summary": "Distorted intelligence at the AI frontier The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDgwa0l2UXZhdlVVRUZtMFBrckhWaXN5elBpbXVUUWxkZ0RtU1hCMUgtXzhfVjVFNmtaQWFCbWVKVHQyS20wOUVyQ0tmWWZvbUEyRUhidXlZaEtlN1pZZS1Kb3JMeFNtQk1CMzV4NjY3NzNyQWdsdE96OHB2SWwwdnFVUTAzQmdmc1RtSDlFOVVzaC1vY1RUQVZXV29HRWJiMGEzQm9rVnVCRm1XcGfSAbMBQVVfeXFMT0M0aHJaNXZMMVZjWE9YSHZsRE5sRkdGbl9ydWd1YkUxckZMZGN4VFJOR3ZkOUItbUQ1OG1EQXFWS01SaVNvNnhNYUpYWXkzR092MDctZ0ktcmRsQ1BNOUplODZEMXdlaXdiYjlkbFlOZlN2TFA5LVE4Ni1WRWhHdjRPWjRkSmpudTNRY01uZExlS0pNOFJqbVpyZjlreGRieEdmWDBoc0J1NXRfSzNaT0V6VWM?oc=5",
+    "source": "The Manila Times",
+    "language": "en",
+    "published": "2026-10-01T16:02:00+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "Inteligencia distorsionada en la frontera de la IA",
+    "summary_es": "Inteligencia distorsionada en la frontera de la IA The Manila Times"
+  },
+  {
+    "id": "9e5f56591c1e",
+    "title": "Ley de Inteligencia Artificial y obligaciones del nuevo reglamento europeo",
+    "summary": "Ley de Inteligencia Artificial y obligaciones del nuevo reglamento europeo Legálitas",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tTkdqTWpQQk5wNlU2azd3TzNGbFZsc09IRFAxdngwQUM5U1R2SDB0dEIxT1BMVzlCeGZVVjA4N3FmaWFUa0ZqU0h5LTc0OVdDNVM5U0NOaTFqTkk4YUZKSWtiUFdWWmx2YXROcHlYSUZ0TE55Q1E?oc=5",
+    "source": "Legálitas",
+    "language": "es",
+    "published": "2026-10-01T15:11:52+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Ley de Inteligencia Artificial y obligaciones del nuevo reglamento europeo",
+    "summary_es": "Ley de Inteligencia Artificial y obligaciones del nuevo reglamento europeo Legálitas"
+  },
+  {
+    "id": "d817877a5240",
+    "title": "India Must Urgently Build Its Own AI Safety Institute",
+    "summary": "India Must Urgently Build Its Own AI Safety Institute orfonline.org",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHBkbi04bTFPbzM5dm9QTTFpTklCbTJzbVpMUHotSXd2OE1qWXh4S2pZbGVUR2FYMmZVVElqcHRHUXRBaFhzSm5ZOUwtQlFCOVRJclg1anFWMFhtaEpyR3Y0VTRvQUdxQ0JhSDB3amlzb05VcVdKbFVaTUNJN2dfeXJHMVMyY2dvamwwalNZS3REZw?oc=5",
+    "source": "orfonline.org",
+    "language": "en",
+    "published": "2026-10-01T15:09:20+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "India debe construir urgentemente su propio instituto de seguridad de IA",
+    "summary_es": "India debe construir urgentemente su propio instituto de seguridad de IA orfonline.org"
+  },
+  {
+    "id": "57ab80fcc94d",
+    "title": "AMD compra World Labs, el laboratorio de IA de Fei-Fei Li",
+    "summary": "AMD compra World Labs, el laboratorio de IA de Fei-Fei Li Infosertec",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUUdhU29tdE1CZ1J6dlgxdkxKdFNMNzBPVkVzMHo0ajZKVnVCSEt1MHd5T1QxN1V6MEhxckhQUWtYcXJrSWxRSHB4YUhobFU2TmxBU3l3dHBINU1DLVBxNUpZcVN0NkxhekY3bA?oc=5",
+    "source": "Infosertec",
+    "language": "es",
+    "published": "2026-10-01T14:00:00+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "AMD compra World Labs, el laboratorio de IA de Fei-Fei Li",
+    "summary_es": "AMD compra World Labs, el laboratorio de IA de Fei-Fei Li Infosertec"
+  },
+  {
+    "id": "784f81b21413",
+    "title": "Yann LeCun calls Dario Amodei deluded and crazy over AI cybersecurity claims",
+    "summary": "Yann LeCun calls Dario Amodei deluded and crazy over AI cybersecurity claims Startup Fortune",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVMtTFNiUFZNZU4zZWRYTDBTNnREWE8yeVE1LUotNk1HSllSYWpZVnpBTEJZLXM1X3BtdFpYeUg1YS1NeW9iU1pOMWI2SHExeElxeF82T21oR2Z1REp0VjhXM0IyTFhTNnNXaDFWMVFsNDZsZUJGV3h1N1M1VEMwMDd5TkdDeG9tMW14cktwZ1BId29VV1dJUzQ3cHZ1My1Nb245WHQ3WQ?oc=5",
+    "source": "Startup Fortune",
+    "language": "en",
+    "published": "2026-10-01T13:26:39+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "Yann LeCun llama a Dario Amodei engañado y loco por las afirmaciones de ciberseguridad de la IA",
+    "summary_es": "Yann LeCun llama a Dario Amodei engañado y loco por las afirmaciones de ciberseguridad de la IA Startup Fortune"
+  },
+  {
     "id": "2d55e1167f2c",
     "title": "A timeline of developments in AI safety shows incidents since the attack on Hugging Face",
     "summary": "A timeline of developments in AI safety shows incidents since the attack on Hugging Face toledoblade.com",
