@@ -1,5 +1,282 @@
 [
   {
+    "id": "2d55e1167f2c",
+    "title": "A timeline of developments in AI safety shows incidents since the attack on Hugging Face",
+    "summary": "A timeline of developments in AI safety shows incidents since the attack on Hugging Face toledoblade.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVduT3JUUEtJTlNxWWpKSGhHZmtzQ3l4RTVDNHFtVUpQUVN1SnZHQVF0YURyTUcxYklsLUYxNXptU0pmNXBDbFdDT1JGQXllakpjdDA0akdobC1Uc0xWZXpOcXZxcTR0cDZJU0NSMTVPbXdCQ0trb3had1JXdXdmVkI0ZmxsM3dlSE1KdkFFWV9EUDJLMnpiMWZVSkpJelcxblFhMGhncEtOWVVkNXpVVGRUMW9VV1lxNzlZMGJlcFN4WFJSOTVHam9R?oc=5",
+    "source": "toledoblade.com",
+    "language": "en",
+    "published": "2026-10-01T12:28:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "Una cronología de la evolución de la seguridad de la IA muestra los incidentes desde el ataque a Hugging Face",
+    "summary_es": "Una cronología de la evolución de la seguridad de la IA muestra los incidentes desde el ataque a Hugging Face toledoblade.com"
+  },
+  {
+    "id": "15b9e22ea710",
+    "title": "EE.UU. investiga a Anthropic y OpenAI por seguridad de la IA - Diario El Norte",
+    "summary": "EE.UU. investiga a Anthropic y OpenAI por seguridad de la IA Diario El Norte - San Nicolás",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXl3ZmZWb24xdFFwaEFiM1pVZkswb3dqZ21iS21Ra0lfR0IzUnQzUG9VQ0pyWGpxV19mXzlpdEI1M1ZHTUpPMS1qTWpxaC1KVS1XWTRMSmoxbFF3aFU2c09saG9yeHFCRVlYOUpUQXJTUE8yRDc2VWNvb292SERTYTBUOXd3akEzNVd5b3pvRk5iRWs?oc=5",
+    "source": "San Nicolás",
+    "language": "es",
+    "published": "2026-10-01T12:07:09+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "EE.UU. investiga a Anthropic y OpenAI por seguridad de la IA - Diario El Norte",
+    "summary_es": "EE.UU. investiga a Anthropic y OpenAI por seguridad de la IA Diario El Norte - San Nicolás"
+  },
+  {
+    "id": "871c56a37eb7",
+    "title": "AI safety, data centers emerge as issues for voters, poll finds",
+    "summary": "AI safety, data centers emerge as issues for voters, poll finds WSHU",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEQzWGQzRThKZ3Vtd3QyMWtiNXV1RFI4ckN4aXdGNUs4UFBWazhDU2lkbDJsSEQ0UXliZ0hCRXE0RDFRdFRCTUxBTC1JN3B1b0JzeDRCN2E3UkhvU2NjYjhROEhZSU5oY2Y0T05Ca0xlUTdfM2RlNmExRFZBSkNBRGxBR2NjUjJvTmgwcmZZU3VlcklEY3VrMnBKTzJHbjQ?oc=5",
+    "source": "WSHU",
+    "language": "en",
+    "published": "2026-10-01T12:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "La seguridad de la IA y los centros de datos surgen como problemas para los votantes, según una encuesta",
+    "summary_es": "La seguridad de la IA y los centros de datos surgen como problemas para los votantes, según una encuesta WSHU"
+  },
+  {
+    "id": "96dd426e91b7",
+    "title": "Axemere Introduces Multi-Provider AI Governance and Cost Control Platform",
+    "summary": "Axemere Introduces Multi-Provider AI Governance and Cost Control Platform PR.com",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51U0VzV1JiMDlQR201dnN6VmpPYzdnelE4ajN1cFRfVzZNb1lDa0UxTTU4cjZ5ZUpGYjQzRUkwWmhLT1FhRmhtdWtPc2dUVDNu?oc=5",
+    "source": "PR.com",
+    "language": "en",
+    "published": "2026-10-01T11:49:38+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Axemere presenta la plataforma de control de costos y gobernanza de IA de múltiples proveedores",
+    "summary_es": "Axemere presenta la plataforma de control de costos y gobernanza de IA de múltiples proveedores PR.com"
+  },
+  {
+    "id": "1bb92ce59155",
+    "title": "The Competitive Calculus Behind Yann LeCun’s Attack on Anthropic",
+    "summary": "The Competitive Calculus Behind Yann LeCun’s Attack on Anthropic forkast.news",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajJmai1hUFhLY2NDajFwTkwySTA1ZkZES1N5TW14c3NRQ0JJRHVaZVI3aTRXa0lLenBKMnZVTFNlT3ZHVzIyVGxMQkYzRWpMdW5MWVY2OHRSbDd3dHBlSGRFX3pPSHNCZVgwanZ0ejZtNFdRZDItbERkczZzUjBkSExCZDdHcldTOFJYWlp3?oc=5",
+    "source": "forkast.news",
+    "language": "en",
+    "published": "2026-10-01T11:15:30+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "El cálculo competitivo detrás del ataque de Yann LeCun a lo antrópico",
+    "summary_es": "El cálculo competitivo detrás del ataque de Yann LeCun a lo antrópico forkast.news"
+  },
+  {
+    "id": "5060bbb53582",
+    "title": "Why Contact Center Buyers Must Rethink CX for 2026",
+    "summary": "Why Contact Center Buyers Must Rethink CX for 2026 CX Today",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5La2VkRmFCSkgxY000STJjMVE1TW5VUU1fSUJXY0kxcEp4VTh3Nmdsd2xvN2ZSLXA0RjA3S0U4Y0NPcEduWlJyOW9Mb0tUYU1iVVpxX3VLby1WLTBvTVdZc0l2elJxVWg3ZHBzZ3ZKWTVPWWlCd2FYSzhB?oc=5",
+    "source": "CX Today",
+    "language": "en",
+    "published": "2026-10-01T11:06:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Por qué los compradores de centros de contacto deben repensar la CX para 2026",
+    "summary_es": "Por qué los compradores de centros de contacto deben repensar la CX para 2026 CX hoy"
+  },
+  {
+    "id": "7586abbd46a0",
+    "title": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity",
+    "summary": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity Fortune",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUxXaW9wZ3RjVXV6ZUNKRFBJVTdMZXNhU0I3eUNhRnI0alc0MmNMbmR4TlZVb3VKRUdYNmRiMW1jM3lyZUk1elphb1VvWVRXTmpKM3IyMmRfbVdvSjZIb2I2LVZWaVdqQ0taQTBUZzBHZTJyNkZRcnR3NWVoT3JNSHhObkxEdHo2cC1kUmw4Tml6RnRWVkhMVXdqN0R4QQ?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-10-01T10:06:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "El 'padrino' de la IA, Yann LeCun: el director ejecutivo de Anthropic, Dario Amodei, está 'engañado', 'loco' y no comprende la ciberseguridad",
+    "summary_es": "El “padrino” de la IA, Yann LeCun: el director ejecutivo de Anthropic, Dario Amodei, está “engañado”, “loco” y no comprende la ciberseguridad Fortune"
+  },
+  {
+    "id": "2d72b79cb760",
+    "title": "ESET lleva la seguridad de la IA a su propuesta B2B",
+    "summary": "ESET lleva la seguridad de la IA a su propuesta B2B ituser.es",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTJGTUI4Q3NCc0U5YXExaW1CRGh5Y05XMG5mVDYxREJaYlJ5LXU5QXhWb2hUZmF3eGlKUElPNE1GN0dUNHVxRzlscjZ4WVVJSmV6aXZRSndrbkNsLVU4U0RUVHBQUzNCbU1hZ0xQcFl4MU9TemdyaGQxM0hTQmFySzZpSFJkN0pHV2FPanBXbFd4VDVmc2c?oc=5",
+    "source": "ituser.es",
+    "language": "es",
+    "published": "2026-10-01T10:03:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "ESET lleva la seguridad de la IA a su propuesta B2B",
+    "summary_es": "ESET lleva la seguridad de la IA a su propuesta B2B ituser.es"
+  },
+  {
+    "id": "8f0b259071d8",
+    "title": "Stuart Russell, científico británico: \"Los directores ejecutivos de las grandes empresas de IA están jugando a la ruleta rusa con toda la raza humana sin nuestro permiso\"",
+    "summary": "Stuart Russell, científico británico: \"Los directores ejecutivos de las grandes empresas de IA están jugando a la ruleta rusa con toda la raza humana sin nuestro permiso\" Mundo Deportivo",
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNeE5PTzdXWHlSTGU0c0RtdDdlaUc3cU9oWjEwRTdxckRYa0pkX0FGT2ZmX0hkTy1HVE94RTYtc29wYzhBd3JXLThva3RJZEgwZzJDTEp4T3hGRGxWRWVFQkktYVdfd2MzTWdQcURoN0UxaFNkVENaZ0FTNnd3c2tyRmdmcUZ1ODM0NEVBT2tUYU9QWkFITUhnN3B5RmVSUHZsa1Z3LVN1VDdLSlV1S2J0N1A0TG44RV9iaTdHdkFRQ1RtQ19BNE5rMlVVcmdJdHFGcU9wS0dFVkJjZ0lJanItTnVMWktPR1lXbUhDWHhndWdra2FxZ3hhWjFnb09qNXpsVHlQdVZLRHBMekpEM3pWa2I1VjUzdW1aSkJmdWliMFBPNjk2ZjlaZdIBtgJBVV95cUxPSnRYSzJEZ2FhdVNqUzN4ZV8zUkRoQVl1Ymh0Y3ZsLUZxNlItU3BhSDAzSUNmemo5TVVlUzJ6S2o5RW8xeXE4UzRETDBMQTl5Y20tcXpSZ1VJbmE5cS05MzB0TGdmTGFaREtEYWRLZ3Y0V0dhSWptZW9KdzFGbzR5NDZGS1NhUEpHVjR3amZBVTZyZ09YekNtVTl5Rkl6OGN2UGpCWXJ6cC04STJYTl9GTWRDQ0xmY01qR3JuamNKOU9CejNVeW51YkR1Y3dYVzJKMFZSR01maWNHbEp4RFpNLVVRcDZfcUx0TkR2N1l4eEdQcmcwZWktMTVSbWRwenB5b3Q0NG9uRUdUeHZDOXcyRWRjS2M4ZTFqT2xmOVhOODRXYURNMmtjT0VnUWVGN2YtSEtzeTdB?oc=5",
+    "source": "Mundo Deportivo",
+    "language": "es",
+    "published": "2026-10-01T09:22:20+00:00",
+    "feed_name": "Stuart Russell (Español)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "Stuart Russell, científico británico: \"Los directores ejecutivos de las grandes empresas de IA están jugando a la ruleta rusa con toda la raza humana sin nuestro permiso\"",
+    "summary_es": "Stuart Russell, científico británico: \"Los directores ejecutivos de las grandes empresas de IA están jugando a la ruleta rusa con toda la raza humana sin nuestro permiso\" Mundo Deportivo"
+  },
+  {
+    "id": "154eeee1223a",
+    "title": "The AI Alignment That Can Save Us",
+    "summary": "The AI Alignment That Can Save Us washingtonmonthly.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjg3dXo1RjRxVS1GSzhJMGdtdFgyLUJQZVJ4UC1NSHpJb0puUzQzMGpJZGVvR1JJZG5QOXV3OFFJdjBxSG54TWRHVE9idEJfVXRtTTVQYllOYjhZaEFLRzc4ZWRPZWtJMUNlT1NSMHMtc255RnhfUHdJakExN2FCTg?oc=5",
+    "source": "washingtonmonthly.com",
+    "language": "en",
+    "published": "2026-10-01T09:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "La alineación de la IA que puede salvarnos",
+    "summary_es": "La alineación de la IA que puede salvarnos washingtonmonthly.com"
+  },
+  {
+    "id": "6dcf9c475a3f",
+    "title": "Beaver Dam AI safety advocate urges public to understand technology before it advances",
+    "summary": "Beaver Dam AI safety advocate urges public to understand technology before it advances Daily Dodge",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXFBMDNoMU9ja1VNMFZoNGpsb29DdmpDeENOV2t2aFo3dGZrcjFzeTU0ak0wVHdLS0JRd2kxcTlsNVJIUUwzQzcweVlvWWp3QTBYYkoyN0tXWC1pSDNNVl81TWRjRl84THc4U2dsRkxRYzY3TTZHSGx1QmhaeDhLdmhEc3g2T1RJVTZHeVZ3eUY4QVJSczFxX1oxUVJuSG55X1lZb0d2MjFMX25HbFNB?oc=5",
+    "source": "Daily Dodge",
+    "language": "en",
+    "published": "2026-10-01T08:56:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "El defensor de la seguridad de la IA de Beaver Dam insta al público a comprender la tecnología antes de que avance",
+    "summary_es": "El defensor de la seguridad de la IA de Beaver Dam insta al público a comprender la tecnología antes de que avance Daily Dodge"
+  },
+  {
+    "id": "9cb2f15b87bf",
+    "title": "CyanConnode Executive Dushyant Singh To Address AI Governance And Risk",
+    "summary": "CyanConnode Executive Dushyant Singh To Address AI Governance And Risk DirectorsTalk Interviews",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHE5NmU2VjJockZZVTNLOW5zSUk0LW5VcU1DYmFaTFNtV2lwd0Mza0tZd2hmcS1JMnM1WXpsM2ZDdXpTWE5VMWg5UlVrNTBaSk1HNXdfZkNVRG1vNHJGb0R0cWpqNXhTZEFiOXhLRVdXNHZPaG85dVZzSW9sMUlvU29XNU10bDlLN2JHNWt0aFNjbXhnOWN6NHp6NzF3TWc4Qk80Qk4yd2N6aWQzNjliWUtaTUMxMFR6c0pJUFN3?oc=5",
+    "source": "DirectorsTalk Interviews",
+    "language": "en",
+    "published": "2026-10-01T08:14:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "El ejecutivo de CyanConnode, Dushyant Singh, abordará la gobernanza y el riesgo de la IA",
+    "summary_es": "El ejecutivo de CyanConnode, Dushyant Singh, se dirigirá a los directores de riesgo y gobernanza de la IA: entrevistas"
+  },
+  {
+    "id": "db2d40b32279",
+    "title": "La FTC abre una investigación sobre los riesgos de seguridad de la IA y planea citar a los directivos de OpenAI",
+    "summary": "La FTC abre una investigación sobre los riesgos de seguridad de la IA y planea citar a los directivos de OpenAI moncloa.com",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbmxKbUxtc0ctSG1CZEI3VjE4eUJndHlCd0lRUjZJRDdqUjlQcHE4ZXV6YktOTXlYYllPLUZzeEhYS1A3cUVLTG45V2pKNWR2Mk4zd25DcENFeUYwRFBpcUJjS3NBWjVNVFJhcmVvRkw5b2d0YUh0QVV4dw?oc=5",
+    "source": "moncloa.com",
+    "language": "es",
+    "published": "2026-10-01T07:16:10+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "La FTC abre una investigación sobre los riesgos de seguridad de la IA y planea citar a los directivos de OpenAI",
+    "summary_es": "La FTC abre una investigación sobre los riesgos de seguridad de la IA y planea citar a los directivos de OpenAI moncloa.com"
+  },
+  {
+    "id": "65debae42a8c",
+    "title": "US regulator launches broad investigation into Anthropic, OpenAI over AI safety",
+    "summary": "US regulator launches broad investigation into Anthropic, OpenAI over AI safety China Daily Global Edition",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUVXY3FmMW41UExCLWdtX3BhLVRqNnRTa2lCVjZnQWRMemtEbGRSZ3ZKeF92T0FfMUZSakotT2Nxc1JRaFhTQXNFNmV2bVNSLXphcEpBTTZTb2xPaHhIa2tjNWxDZEg5TTRoMnI5ZGNWWXIwZEt3UmZsVlk5RHROM2RB?oc=5",
+    "source": "China Daily Global Edition",
+    "language": "en",
+    "published": "2026-10-01T06:29:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-01",
+    "title_es": "El regulador estadounidense inicia una amplia investigación sobre Anthropic y OpenAI sobre la seguridad de la IA",
+    "summary_es": "El regulador estadounidense inicia una amplia investigación sobre Anthropic y OpenAI sobre la seguridad de la IA China Daily Global Edition"
+  },
+  {
+    "id": "7b380d7eeee7",
+    "title": "3 Software Stocks Tied To AI Governance As Model Risk Spending Grows",
+    "summary": "3 Software Stocks Tied To AI Governance As Model Risk Spending Grows Simply Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdW44djlFYTc5V0VHMHU4NlVyRVMwRGljNElFOTdUNlpkNWJtUHpDZVFoVlExb2xHZlc0TFFUc0FDZWVJWkFvTGM2UDdkMmFYb2dFRVVWRDdia1ZnYnJ2bWY3bGp5YWQxWEhOVFVzZlNCMUZpMTc5dVdQZkd1RE1LNFpKU19WVl9wOGVnQmVGMmRya2xJNXI5S0xsTlRkRFpDSFlhTXZHN3o1VzF4M3pQZ2VYWVR2Um9OUmczam5kOUdDRThWa3dTUWJmRlZCc0ppNkkzYkNHMURwZUt3dWlnWFhZZXXSAeoBQVVfeXFMT2FLRklnM0xoSnNNaEZqZ0NfSGFfdjdybmQzMF8td3dZdXNxS200THRJUTctR1RYaWl2Q2NTcTJRYjM5aEg2V2QtbkEyUFNYeV9sc3AyclFaMldfWUZJNzVkYTZuNUhFT3A1bDRxRjNLSy1TQjY5bnJySlNKZ1l3aDBiTUJ0RWtYS1hMa2tMTE9YUG8ydHo5WmIxbkE5bDdqVml4aV8yRTcyRWxIbXpPSVNMVm9iSUZ3bTk0d0padWtPWDJDZnpWZmVYS2lOeDlfSDBqR2V0bXJadVlUREJrYmZiWEw2S2hlVzJB?oc=5",
+    "source": "Simply Wall Street",
+    "language": "en",
+    "published": "2026-10-01T05:18:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "Tres acciones de software vinculadas a la gobernanza de la IA a medida que crece el gasto en riesgo de modelos",
+    "summary_es": "Tres acciones de software vinculadas a la gobernanza de la IA a medida que crece el gasto en riesgo de modelos Simply Wall Street"
+  },
+  {
     "id": "069737024675",
     "title": "Gemini 4 Argon makes AI governance operational",
     "summary": "Gemini 4 Argon makes AI governance operational ContentGrip",
@@ -73,6 +350,25 @@
     "summary_es": "India debe conseguir urgentemente su propio Instituto de Seguridad de IA Hindustan Times"
   },
   {
+    "id": "94100b8067c6",
+    "title": "India must urgently get its own AI Safety Institute | Hindustan Times",
+    "summary": "India must urgently get its own AI Safety Institute | Hindustan Times Hindustan Times",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm1TbzBfUElVM05kU3lIMnplWHlBcHJwM09rYXp2cHVVRXFybUxvT2JTNk51UVRjeVhBMTdUXzhPVDh3RmVPeTZnVWdxb3paT3lla3hXazZuZWdEV1hiZUEwdm1EQ0psTGhhM2VDajYyRzR2VWRxemt2ejVrVVQ1TGZVdWlpT1ZPeENuNWQxd05PX0cxODBiNWhPM1VVcUtrenBYSDVrQmxmaHVDWURGN9IBtgFBVV95cUxNaGQ0cEdlUXc0Y2dPQ1VhY1JUSGpNM1Y5UEstd0xQcDQzNnN3LVpqQXdSMWZtdThGUXhBX0lsVmE4MlRoVnNLYmpSRmp2WWUzZWlNY0RXQjBKOG9rNTc1eW82eEI2djdxU1d1bFE5ZHN2c1Z0cEJrc1ZieUl0UDBqRUlDYmR5NVdYODkwSDgtRzRqbmk4QWJTVHhTeWpONWh3WVREbTBHVUdrQjB4S3FRYlUwNE85Zw?oc=5",
+    "source": "Hindustan Times",
+    "language": "en",
+    "published": "2026-10-01T00:40:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-01",
+    "title_es": "India debe conseguir urgentemente su propio Instituto de Seguridad de IA | Tiempos del Indostán",
+    "summary_es": "India debe conseguir urgentemente su propio Instituto de Seguridad de IA | Tiempos del Hindustan Tiempos del Hindustan"
+  },
+  {
     "id": "852fed0e6661",
     "title": "AMD to acquire World Labs for $8.2bn | ETIH EdTech News",
     "summary": "AMD to acquire World Labs for $8.2bn | ETIH EdTech News EdTech Innovation Hub",
@@ -91,6 +387,26 @@
     "date_added": "2026-10-01",
     "title_es": "AMD adquirirá World Labs por 8.200 millones de dólares | Noticias de tecnología educativa de ETIH",
     "summary_es": "AMD adquirirá World Labs por 8.200 millones de dólares | ETIH EdTech Noticias Centro de innovación EdTech"
+  },
+  {
+    "id": "34bc7ca21b64",
+    "title": "AMD makes $8.2bn AI bet with World Labs acquisition as Fei-Fei Li joins as Chief Scientist",
+    "summary": "AMD makes $8.2bn AI bet with World Labs acquisition as Fei-Fei Li joins as Chief Scientist EdTech Innovation Hub",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUhMR1FpcG9BakRyVTB4QTRkS1F1QW1RNWRod2VmMVU1NktCSFdlbzNLSDVOaWpMVExZc21sZy1YWHczRF9fa0xpaUY3ODNBcF9vTDdCSVZxSlplWWxKNFdMVXgtRWxmQjN6VXZLelZKS1ZFWDl0eF9uOGxENlZGejlTOEg5UExKWjE5M3VqcTd5ZUdxRE11c3JPMUp3dm82algyVmR6cGR1U2hXRlJyS3REOW5JdVp4Tjg2b2VvZkE0Rzk4c0c3NA?oc=5",
+    "source": "EdTech Innovation Hub",
+    "language": "en",
+    "published": "2026-10-01T00:00:40+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-01",
+    "title_es": "AMD apuesta por 8.200 millones de dólares en IA con la adquisición de World Labs y Fei-Fei Li se une como científico jefe",
+    "summary_es": "AMD hace una apuesta de 8.200 millones de dólares en IA con la adquisición de World Labs mientras Fei-Fei Li se une como científico jefe del EdTech Innovation Hub"
   },
   {
     "id": "87cb4d63a776",
