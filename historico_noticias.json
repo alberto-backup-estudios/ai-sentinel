@@ -1,5 +1,302 @@
 [
   {
+    "id": "86a6e485d9a3",
+    "title": "AI Safety Kids",
+    "summary": "AI Safety Kids The Killeen Daily Herald",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTc2Q3pDMHIyNWxMRHhDTXpZbU5fLWZ4MUhZQnE4OGJ1OS0zWnc0VFlTdnhZM0VhX3YzUVpSMklodmlwbU5YQ0dCLVRwOTlHTExROEhLR2h1Wm02V3RzSUxvWXhTQjZQLUxKZlBBR09XemE5d0FCWktZN0o4VXZpUmhvWkpOY0RLbEgxQ21wRV9FaUpDNWcwQ1RKMy0?oc=5",
+    "source": "The Killeen Daily Herald",
+    "language": "en",
+    "published": "2026-10-02T16:56:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "Seguridad de la IA para niños",
+    "summary_es": "Niños de seguridad con IA The Killeen Daily Herald"
+  },
+  {
+    "id": "a7600ad90d3f",
+    "title": "AMD TO BUY FEI-FEI LI’S WORLD LABS IN $8.2 BILLION AI DEAL",
+    "summary": "AMD TO BUY FEI-FEI LI’S WORLD LABS IN $8.2 BILLION AI DEAL PressReader",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XRnhvWHV0RFE3a3RGMVVXTUhQYzRpc1NfcV91cGt5U1lDUlAxWS1nUzhMVHNGYnh3cnZMdmEtRk5DZUpGTjE2aVBwVnBxSmd1MENZb2FIa29KTE80TndxRllmbVBXRE1NVElPYk03RXlhaUlVSGV3c0ZB?oc=5",
+    "source": "PressReader",
+    "language": "en",
+    "published": "2026-10-02T15:29:18+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "AMD COMPRARÁ LOS LABORATORIOS MUNDIALES DE FEI-FEI LI EN UN ACUERDO DE IA DE $ 8.2 MIL MILLONES",
+    "summary_es": "AMD COMPRARÁ LOS LABORATORIOS MUNDIALES DE FEI-FEI LI EN UN ACUERDO DE IA DE $ 8.2 MIL MILLONES PressReader"
+  },
+  {
+    "id": "36be792fd00d",
+    "title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves",
+    "summary": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves cnbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nUWNDM05ycHpILU91ZEliWk94VHVjX1RKSmF4SG1JNnBMLVVOT214UGt4WERxUml0RXJ4V0trSVRXZU5MeEc5cWxXcWJ5OEMyQUdqdDgxSDZRM0ZsbDcxcEllYVRwUjhxNlkwc2NIQVVQTmttVmZJMl9R0gF_QVVfeXFMTU13Y0hIZW5lT09WUzZ6WFBzN21wT3pVMWFuZG5RUFNNNnJJY1MxS2w0NjdPQldtZDczTHVyQlpMOUR2Nmx3SGQzUllrMGVtd05qa1ozX0d0T2diRlFsX2loQjl6aHAwZjZNdy16MHNYeEt4WjV1aXAxNjBfLUwtVQ?oc=5",
+    "source": "cnbc.com",
+    "language": "en",
+    "published": "2026-10-02T14:22:39+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "La denunciante de Facebook Frances Haugen cuestiona si las empresas de inteligencia artificial pueden controlarse a sí mismas",
+    "summary_es": "Frances Haugen, denunciante de Facebook, cuestiona si las empresas de inteligencia artificial pueden controlarse a sí mismas cnbc.com"
+  },
+  {
+    "id": "3a13f6c47781",
+    "title": "Tokayev Urges AI-Driven Industrial Transformation, Proposes ‘Washington Model’ for Global AI Governance",
+    "summary": "Tokayev Urges AI-Driven Industrial Transformation, Proposes ‘Washington Model’ for Global AI Governance The Astana Times",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU3NWSURxWWN1YkdIUk5ha1dndGY1OFNmdmp4dV8zSG1PbGRyRUk5REpxT0psUjdsMW9hSUpaQkNVTlRwLXhHN0hrUWZVRWwyYm5TbzBYOGNRaDc5VjdfV3U1ODE1NnZPVUp4UnZTVzdoWDNobDY1aTdINzZQQTd5ZldQWXBldThBdEN3Rm5fRmtQSS1uWjJ5ZkFVQ2lMVm4wM205SG50T3ZfNE1oXzUxaTlsdDgtV21tMkgzcUE4WUFGWkFld0xOdElzLWVLdw?oc=5",
+    "source": "The Astana Times",
+    "language": "en",
+    "published": "2026-10-02T14:20:20+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Tokayev insta a una transformación industrial impulsada por la IA y propone un “modelo de Washington” para la gobernanza global de la IA",
+    "summary_es": "Tokayev insta a una transformación industrial impulsada por la IA y propone un “modelo de Washington” para la gobernanza global de la IA The Astana Times"
+  },
+  {
+    "id": "5f97e9322334",
+    "title": "FTI Bets on AI Governance Demand With Morris Healthcare Hire",
+    "summary": "FTI Bets on AI Governance Demand With Morris Healthcare Hire The Futurum Group",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGhZZVR0SmFEeWRObHJPckpiZGFzUDM1Sm45ZDVyay11ZS03aUM3OEVuTmpqY01CQ2FHdUpVZWlZQnI5VWRfaGJQdlMyclVNb1hEelJQYnZ1MjZtUkhseFR5cTRjd1hXNTl3ZXdKTjJXUFEwNVZBMWNoVVp1QW9HdFpTandMcG96WXpqVURYT3NRdHBsR3RrQVU2WQ?oc=5",
+    "source": "The Futurum Group",
+    "language": "en",
+    "published": "2026-10-02T14:04:26+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "FTI apuesta por la demanda de gobernanza de la IA con Morris Healthcare Hire",
+    "summary_es": "FTI apuesta por la demanda de gobernanza de la IA con la contratación de Morris Healthcare The Futurum Group"
+  },
+  {
+    "id": "fb04e048f527",
+    "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+    "summary": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLS1LQThoTGlsdkFVTGdSb0tFYzlZcmxPVV95bng4dVNnTzhzei1hX3VydTd1bjNVZkdtNlNESFZueUJFb3VZM2NOT1JSSVNmSDJFZU5SbXFDZHVnYjdkS0NkUGpQOVBoaWlIV3JHUkxnM09zWnRzaXZycm1rWjlHSkFjU3BXYW9kY2Q4dFBfMWluY0xaTmdvT2JIWjl5cXNCdm9fUm1kVlhJZk1PV18tTHkxMlg?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-10-02T14:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "A pesar de los nervios de las OPI y las preocupaciones por la seguridad de la IA, Anthropic se apega a una oferta para 2026",
+    "summary_es": "A pesar de los nervios de las OPI y las preocupaciones sobre la seguridad de la IA, Anthropic se apega a una oferta para 2026 SiliconANGLE"
+  },
+  {
+    "id": "e96dc9aa911f",
+    "title": "OpenAI fires researchers for sharing data with AI safety advocacy group: Report",
+    "summary": "OpenAI fires researchers for sharing data with AI safety advocacy group: Report Washington Examiner",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRThlSzJNX2x4QU1xOFRhM0ZxTnVGcTRaOW1sOWdJMmdjcmI5OUF4TXZsclN5UFpvdkhJRlhQNzM0Q3BnZ1NfNm03eVRkTzIycVNVbjBpeW5lclo5MklzNFVZaW9QMVJKT3RXSVVlSjZ6SzNTbHl3eXVvUlZQSFFPV3p6N18zMEllbkNTa0VSLTZvc2wtbTJnd3NjUTVQR3lBTnV5bWVYNV9Dd2I1NklIbklPcVdJbDcwUEdpSE1GMWZLQQ?oc=5",
+    "source": "Washington Examiner",
+    "language": "en",
+    "published": "2026-10-02T13:43:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "OpenAI despide a investigadores por compartir datos con un grupo de defensa de la seguridad de la IA: informe",
+    "summary_es": "OpenAI despide a investigadores por compartir datos con un grupo de defensa de la seguridad de la IA: Informe Washington Examiner"
+  },
+  {
+    "id": "726571325d1b",
+    "title": "OpenAI Chairman Bret Taylor on debate around AI safety: CNBC AI Forum",
+    "summary": "OpenAI Chairman Bret Taylor on debate around AI safety: CNBC AI Forum cnbc.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnE5U214d3RQaVFVTVVLN08xZUExZG95YU5pVHZyejQ0eWFEMUZlaGttUXdHZmdETTg2VkY4X1ktcjRDbFVWRDFra1pPdFRCZTV4ckZZZWJxMGxESkJTbmw4Y2JLU1JaRVA0ZFVkZGZpdVM2UTc2STRfRGlDUFJhcWJ6c3N1dE94b1FwVWpWNE9veEVCaTlpUkFYZUdYVDBxeFBKajRaUzlmRTVncjNDRQ?oc=5",
+    "source": "cnbc.com",
+    "language": "en",
+    "published": "2026-10-02T13:42:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "El presidente de OpenAI, Bret Taylor, habla sobre el debate sobre la seguridad de la IA: CNBC AI Forum",
+    "summary_es": "El presidente de OpenAI, Bret Taylor, habla sobre el debate sobre la seguridad de la IA: CNBC AI Forum cnbc.com"
+  },
+  {
+    "id": "2ca335f593d3",
+    "title": "AI Governance: Between the Prompt and the Policy",
+    "summary": "AI Governance: Between the Prompt and the Policy Security Boulevard",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjlJUWNmTVBGZ3BZRjNGWTNuaWlJdEk1THlmVmNaXzN0R2VoblY2Uk90VmtJZnhvcVdnOE5oeVhDM1RGY3Y3eGVPQ0hnYnd1ODVybTkzcFFhLWNHNDE5UGxrMHh6UnUtSW4tSHVndHFtWldKcWxaWUVORHhoQ0VYRVVEY3FxUlRVNmtuZ0NOYw?oc=5",
+    "source": "Security Boulevard",
+    "language": "en",
+    "published": "2026-10-02T13:40:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Gobernanza de la IA: entre el aviso y la política",
+    "summary_es": "Gobernanza de la IA: entre el bulevar de la seguridad inmediata y la política"
+  },
+  {
+    "id": "9a4e418c1d06",
+    "title": "October 2026 Declared Holistic AI Governance Month After a Summer of Rogue AI Agents",
+    "summary": "October 2026 Declared Holistic AI Governance Month After a Summer of Rogue AI Agents EIN News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3ZhUmdKUmllanFqODBXcm1LbGdwVGNpbWtWY1o2Z0ljZWlCb3EzRm9sY2VReDZiZUFLWjQ2NlI4X1lrSzhJX1p0YTFCWC0zaWh2YUs5Z1Q4WnVKTlJ1MUh1YUFLV2dRNWVpUm8tbUlpX21udVBzVi1KeWZWNjBVWGV1SG9SajhLLXQwOGZqeFBKdGRxbkZDZDlnRkJ4dTZMY3RYZ3pvWHZTbG1QMjM3dlFyMHB2ZmVVT3FSZkh2NmJBdmdJ?oc=5",
+    "source": "EIN News",
+    "language": "en",
+    "published": "2026-10-02T13:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Octubre de 2026 es declarado mes de la gobernanza holística de la IA después de un verano de agentes de IA deshonestos",
+    "summary_es": "Octubre de 2026 es declarado mes de la gobernanza holística de la IA después de un verano de agentes de IA deshonestos EIN News"
+  },
+  {
+    "id": "fd6cd2031063",
+    "title": "Hinton and leading AI researchers warned of an 'intelligence explosion' in new paper",
+    "summary": "Hinton and leading AI researchers warned of an 'intelligence explosion' in new paper qz.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CaGNaV2VHOTM4QjhsNzdGQjdjS2FzUWl2T081bXRGTGtEMGpWekk1VzlNZUx2MVNtRGpCS284Z3pOdGlROXNlTXB5eHh0WGU2cEVWMnMydnk1UlVnWXlVbW54QW1ZSFlURFdsOGFHSzEzcDVUSUIwcGVEaWIyZzA?oc=5",
+    "source": "qz.com",
+    "language": "en",
+    "published": "2026-10-02T12:54:22+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "Hinton y destacados investigadores de IA advirtieron sobre una \"explosión de inteligencia\" en un nuevo artículo",
+    "summary_es": "Hinton y destacados investigadores de IA advirtieron sobre una \"explosión de inteligencia\" en un nuevo artículo qz.com"
+  },
+  {
+    "id": "aadd76783a76",
+    "title": "From working at her family’s dry cleaner to an $8.2 billion AI deal: Fei-Fei Li’s journey",
+    "summary": "From working at her family’s dry cleaner to an $8.2 billion AI deal: Fei-Fei Li’s journey calcalistech.com",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MUXFQZmxZMS1KQVBUcm9ZTXpRMmxiLVYwRzNSMl91UzNIWjlGQ2F2TWFNajFfMm9WcVdjdWFTYjFnODBnMGtHa2o1MFZkOE8xQ0dZSDNMQTNneWJYRGltYlhrVzBSVmF1?oc=5",
+    "source": "calcalistech.com",
+    "language": "en",
+    "published": "2026-10-02T12:39:00+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "De trabajar en la tintorería de su familia a un acuerdo de IA por 8.200 millones de dólares: el viaje de Fei-Fei Li",
+    "summary_es": "De trabajar en la tintorería de su familia a un acuerdo de IA por 8.200 millones de dólares: el viaje de Fei-Fei Li calcalistech.com"
+  },
+  {
+    "id": "805620e044ee",
+    "title": "‘I think he’s completely deluded’: Yann LeCun on Dario Amodei",
+    "summary": "‘I think he’s completely deluded’: Yann LeCun on Dario Amodei The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMC1pV1ZTVW1DYXlvXzd2dW5ZMXFLU0hfNWZ6NmRybmp4dkQ4QjRqeGNFQ0REakF3czlSRkw3d0NaclBJVi1SdWpBbElZUUJqOTlYUFpzV05DOWpPVDdmNFZyWkxWcVRWZFdPVTlzbV9JSENiQTJPdUduU1lEVFFMN0VUNXdBNTQ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-10-02T12:36:42+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "“Creo que está completamente engañado”: ​​Yann LeCun sobre Dario Amodei",
+    "summary_es": "“Creo que está completamente engañado”: ​​Yann LeCun sobre Dario Amodei The Next Web"
+  },
+  {
+    "id": "85e1d7b30f7c",
+    "title": "OpenAI despide a tres empleados que compartieron detalles de sus agentes con una empresa de seguridad de la IA",
+    "summary": "OpenAI despide a tres empleados que compartieron detalles de sus agentes con una empresa de seguridad de la IA El Periódico",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1ZYcE9FOHl1TGNEZDJrZnZHUFBrYTdfZThyZFVxZU9yc3FFQkpTNDlvMDI5X0RTZlhOOVdRbnB0dzAwNWdScGZERzFZeEJUX3M4Q09kTkxmX3RmdFhsSEM5MHp3ekxPcFpWeElJbzZBT1l1S3BSSU53bUw0MkVzNTJqdFh2MUpqd3JXclJPSTRNZG9uQ2VrMElqMm1HUW0xQVg1UU1xcEZqeE92WDFDcWEtNm9WQktFREdJM1U2Q2pRaU50MFQ3RzJOQ05tS3lxdnJhTDYxVTZJR2hybGRBNEdNbmHSAeQBQVVfeXFMTy1nRTltc2c3UVdJVlFfSFFEd2QzNHY0Y0dOWEllakFfZzd1ZzFhWGpUVGhiOWw4T2NZTWUxNWY0UDZRa2tURkdwdmFBcEhIaVE3c1dfUW9fMlhWTlBmMWsxUThkZ2pDR1V4QWRRcjZwd2JSTEpMdFFSODJxU1RuekF3NUFUNHBaQ25NclpIVzl1eUtDOU82c2s3SlJaU1l3YVNJMmJORzNad2l0Y09UMDNDeWYwZnM1TmpaYUw1WC1mMHNDR2ctV2E2UnR6Q1kzZU9vYUZndjRlMnhJOHpCeXhiOXY0?oc=5",
+    "source": "El Periódico",
+    "language": "es",
+    "published": "2026-10-02T12:16:39+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "OpenAI despide a tres empleados que compartieron detalles de sus agentes con una empresa de seguridad de la IA",
+    "summary_es": "OpenAI despide a tres empleados que compartieron detalles de sus agentes con una empresa de seguridad de la IA El Periódico"
+  },
+  {
+    "id": "32429005459b",
+    "title": "MSPs can turn shadow AI governance into a recurring service",
+    "summary": "MSPs can turn shadow AI governance into a recurring service ChannelE2E",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnVGNnVKSTdNalNJZWR2aUxEVFliMnQ1TUZMdG9odW83Mm45YVJjMW9tZmZmaG9UaEY4azRBckF4d25oQU42dUM3LVFNVjJSZUxQRzdkdEZ3Tl8waXhaV0tOemZWLXQzS0JsV0owMXhsb0cxUHEtSUdkb290OGtyVHJMVkpBVEZMak5GREx0anhHN0tfRURTRVUtS0hzSjc3?oc=5",
+    "source": "ChannelE2E",
+    "language": "en",
+    "published": "2026-10-02T12:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Los MSP pueden convertir la gobernanza de la IA en la sombra en un servicio recurrente",
+    "summary_es": "Los MSP pueden convertir la gobernanza de la IA en la sombra en un servicio recurrente ChannelE2E"
+  },
+  {
+    "id": "f822b049c955",
+    "title": "After the Kimi Jailbreak: The AI Safety Playbook Is Already Broken",
+    "summary": "After the Kimi Jailbreak: The AI Safety Playbook Is Already Broken Vocal",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGtNZ2ZiS0hMbk5BNFJjaHhNSHRyd0Zlc3BERE4tOS0zSjhLZFl5MU5VMURWUFN6UDhTX21XZEJTR3czb1RCTG9xSGtFMXRXZEJraFk0R0E0ckFoMEJIeHRFdzZ6alJhR0dlM01ldHltclU2djJNQ0dqRWRyZWlDSkJkMER5T2tBeEYwSlJjSjh4UQ?oc=5",
+    "source": "Vocal",
+    "language": "en",
+    "published": "2026-10-02T11:58:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "Después de la fuga de Kimi: el manual de seguridad de la IA ya no funciona",
+    "summary_es": "Después de la fuga de Kimi: el manual de seguridad de la IA ya no funciona"
+  },
+  {
     "id": "c77a09ce05f4",
     "title": "OpenAI fires staff for sharing ‘sensitive information’ with AI safety firm",
     "summary": "OpenAI fires staff for sharing ‘sensitive information’ with AI safety firm Yahoo",
@@ -422,6 +719,26 @@
     "date_added": "2026-10-02",
     "title_es": "El pacto de seguridad de la IA de Trump no tiene efecto. Pero hay un camino a seguir.",
     "summary_es": "El pacto de seguridad de la IA de Trump no tiene efecto. Pero hay un camino a seguir. www.cfr.org"
+  },
+  {
+    "id": "9aceecd52f77",
+    "title": "Distorted intelligence at the AI frontier",
+    "summary": "Distorted intelligence at the AI frontier The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2FmVm03RjR1OV8yMFdtUHdLc3lONVJLQ2pZUG1XNG0tcnFDVWtneVNsdFlVUWNzWHlUcVJUUElSRUc4eHg1YlVEX3ZHOGZVX1FtR0x1aVhHMWc0TUpaMjhjMGUyOFJ1UDFiRGF0NVdaZzdkU0c2b2JiazhDV2t6ckwxTUF6WEpBelFOSFJoNUQ0MmF2MFpQZ1FJVlpBa0ZpclRIRGJNWQ?oc=5",
+    "source": "The Manila Times",
+    "language": "en",
+    "published": "2026-10-01T16:02:00+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "Inteligencia distorsionada en la frontera de la IA",
+    "summary_es": "Inteligencia distorsionada en la frontera de la IA The Manila Times"
   },
   {
     "id": "2028b2535f6d",
