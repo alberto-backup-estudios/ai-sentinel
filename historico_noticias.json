@@ -1,5 +1,96 @@
 [
   {
+    "id": "31afbe7527c5",
+    "title": "Fast Takes: The real route to AI safety, ‘conflict is inevitable’ and more",
+    "summary": "Fast Takes: The real route to AI safety, ‘conflict is inevitable’ and more New York Post",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlR6c0NPNW1HYm1xdGoyTDduWFc5SWFGWVNBRjRNakhkU1NuRHJPbnhaYTMyeHpHNGQwVlRjbEhVdnBzQTJSUzZDU0V5TTRsQ1d2dE9mT1VxbEtoRTJCMzc1SkNSVDZnbHpWUWQzUGdLZUY5emhUa0g5emxvd2JFSUJKdUFkMDN4OEFYWlBMaDBaeGhya3RPOW8zTzVYcngtQUtMdWJhS0dSSEY4emc?oc=5",
+    "source": "New York Post",
+    "language": "en",
+    "published": "2026-10-02T20:42:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "Tomas rápidas: el camino real hacia la seguridad de la IA, \"el conflicto es inevitable\" y más",
+    "summary_es": "Tomas rápidas: el verdadero camino hacia la seguridad de la IA, “el conflicto es inevitable” y más New York Post"
+  },
+  {
+    "id": "213b0f9601c9",
+    "title": "TMC Fall Meeting focuses on AI, safety and technician skills",
+    "summary": "TMC Fall Meeting focuses on AI, safety and technician skills Transport Topics",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVmh5bk8xRWo5c0dMOFZXUkQxeEVmU0F5ZExaVkV5SFNZYW4taTVvaVFDbHhkTC1iNmx2NXZhV0NQVVpULUhjanp1T0ppRVpwR0MzMWpzSzRvZ1FfUlF1Tm1UcjhtblkzTG9Z?oc=5",
+    "source": "Transport Topics",
+    "language": "en",
+    "published": "2026-10-02T20:29:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "La reunión de otoño de TMC se centra en la inteligencia artificial, la seguridad y las habilidades técnicas",
+    "summary_es": "La reunión de otoño de TMC se centra en la inteligencia artificial, la seguridad y las habilidades técnicas. Temas de transporte"
+  },
+  {
+    "id": "cd04e3cc90b2",
+    "title": "The ‘Black Box’ in Your Servicing Tech Stack: Why Investors Are Demanding AI Governance Now",
+    "summary": "The ‘Black Box’ in Your Servicing Tech Stack: Why Investors Are Demanding AI Governance Now MBA Newslink",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORmYzYktwc3VKN3FuLTg0bGJfanF3YkVkU3dmeTJkTVItbjRTY055aXY4cElHMURWNFQwYkRnZ3BwZVA4YXl5Ykl1MnRZSE1wdXpFVGFFa2k1YTNxOTJac2ZPTDJab1RLaGxCYS1PZ1FkcVBTbUVIbG81a2dPelA4T282VVB6dUQtUWZSVXhMS202RTRvQ2RRbDRjM0VzMTQ4alNMNlB3TjFYd3k2TWtUQXhCOHNLMmZDYThwVDdxR19LeGhFaGFTMjVwclJvLTZqdUVUQzR6TUVVb0VzMFhoQVVRekZ1RE81SXJRSkI4bXVid1hJdGY0cDJUOEV5bWc5?oc=5",
+    "source": "MBA Newslink",
+    "language": "en",
+    "published": "2026-10-02T18:59:38+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "La \"caja negra\" de su tecnología de servicios: por qué los inversores exigen ahora una gobernanza de la IA",
+    "summary_es": "La \"caja negra\" de su tecnología de servicios: por qué los inversores exigen ahora una gobernanza de la IA MBA Newslink"
+  },
+  {
+    "id": "16a81c202f7c",
+    "title": "El Caso de \"los 7 de Cornell\" y el cambio para la Ley de Inteligencia Artificial",
+    "summary": "El Caso de \"los 7 de Cornell\" y el cambio para la Ley de Inteligencia Artificial Tele13 Radio",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGRpZDFoTEZKM2R6RDgyMkhOZjFXWmRuMmh4WjkxS01xRnRHUHlKS1NPNkZZd1RvUEh3V2pfZGc3QXplRVkwZVpHcDgwYXljUGtmci1fbVloeWNINTE5TUlrSFJQTkstaU0td245dkRXM003aW50YUhOa3VHak5XT21CZWhpRVZmbDZZSWUwM0xPNTNSeW82UjNLRzhkcXU2WkpHM1A5cHd0T3Uxcmc?oc=5",
+    "source": "Tele13 Radio",
+    "language": "es",
+    "published": "2026-10-02T18:18:48+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "El Caso de \"los 7 de Cornell\" y el cambio para la Ley de Inteligencia Artificial",
+    "summary_es": "El Caso de \"los 7 de Cornell\" y el cambio para la Ley de Inteligencia Artificial Tele13 Radio"
+  },
+  {
+    "id": "01d6e2784a58",
+    "title": "Exclusive / Meta parts ways with Virtue AI",
+    "summary": "Exclusive / Meta parts ways with Virtue AI semafor.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10QVR3LXRaazlUSjFnRlF6Z0VGT3VlTTZBbVJDRGJVbXBybWlWMjVVbElFWUtoU25wcndnZkhrQkp3RUpVaVU5c3N3eTBReFVDbGJYeXBPN2JCLUttdmdYczA4eGdFdVFiTnQ5M2VuX0xsMDNWbVlwWUlXRHB1QQ?oc=5",
+    "source": "semafor.com",
+    "language": "en",
+    "published": "2026-10-02T17:26:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "opensource"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "Exclusivo/Meta se separa de Virtue AI",
+    "summary_es": "Exclusive / Meta se separa de Virtue AI semafor.com"
+  },
+  {
     "id": "86a6e485d9a3",
     "title": "AI Safety Kids",
     "summary": "AI Safety Kids The Killeen Daily Herald",
@@ -110,6 +201,26 @@
     "summary_es": "A pesar de los nervios de las OPI y las preocupaciones sobre la seguridad de la IA, Anthropic se apega a una oferta para 2026 SiliconANGLE"
   },
   {
+    "id": "daa0843d2129",
+    "title": "Yann LeCun calls AI apocalypse warnings “the worst marketing campaign”",
+    "summary": "Yann LeCun calls AI apocalypse warnings “the worst marketing campaign” Cybernews",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43T2hSQWFtaXRjYlZCcmtXdkZjSzloeGE2el93NS1kanJwTDBNVWtvM3EtZHptQjBwYjU0cXJJRzRSM0xTbWxoTjdGUEhDWXVtd2tHT3B1VkNqdlR1WUh3ZUV3?oc=5",
+    "source": "Cybernews",
+    "language": "en",
+    "published": "2026-10-02T13:43:44+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "Yann LeCun califica las advertencias de apocalipsis de la IA como \"la peor campaña de marketing\"",
+    "summary_es": "Yann LeCun califica las advertencias de apocalipsis de la IA como \"la peor campaña de marketing\" Cybernews"
+  },
+  {
     "id": "e96dc9aa911f",
     "title": "OpenAI fires researchers for sharing data with AI safety advocacy group: Report",
     "summary": "OpenAI fires researchers for sharing data with AI safety advocacy group: Report Washington Examiner",
@@ -180,6 +291,24 @@
     "date_added": "2026-10-02",
     "title_es": "Octubre de 2026 es declarado mes de la gobernanza holística de la IA después de un verano de agentes de IA deshonestos",
     "summary_es": "Octubre de 2026 es declarado mes de la gobernanza holística de la IA después de un verano de agentes de IA deshonestos EIN News"
+  },
+  {
+    "id": "0006b26635a5",
+    "title": "October 2026 Declared Holistic AI Governance Month After a Summer of Rogue AI Agents",
+    "summary": "October 2026 Declared Holistic AI Governance Month After a Summer of Rogue AI Agents EIN Presswire",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXUyQldyekJqNWtaZzBtRG41Nl95cWZuMmZtWnJPUnp1TUFDc1BRUzVkYlFTT1ZVM3A1MXBRMWphdGxFNTQxbGdpd2NCRU1hOXQ1RldkNjRHRFBxZHBOU1gycHlQYWdBTXhHTHdYOFYwMGgxVldaM0ZwSmdXWnk2c19EQ0FGVjRxYUpWdDFPdG9TeGlhVW9YQVB0RVhZbDdDNlZFcUFoZnpHVnFZMWFSZnYzWUE5bDhzTTJzUGQwVmlkcFpNa2dLeWpaMA?oc=5",
+    "source": "EIN Presswire",
+    "language": "en",
+    "published": "2026-10-02T13:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Octubre de 2026 es declarado mes de la gobernanza holística de la IA después de un verano de agentes de IA deshonestos",
+    "summary_es": "Octubre de 2026 es declarado mes de la gobernanza holística de la IA después de un verano de agentes de IA deshonestos EIN Presswire"
   },
   {
     "id": "fd6cd2031063",
