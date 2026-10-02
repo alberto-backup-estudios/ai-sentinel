@@ -1,5 +1,263 @@
 [
   {
+    "id": "c77a09ce05f4",
+    "title": "OpenAI fires staff for sharing ‘sensitive information’ with AI safety firm",
+    "summary": "OpenAI fires staff for sharing ‘sensitive information’ with AI safety firm Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzh0NENpNmQ3dzYtZE5VZVhyWWhmSHk4MDA5RlJMWER1WDdYNHo2RDkwcTlvejJtMElIek9zZk5iR2d0ekdBRzV4bHdnMW9oN29uZk8wankyWWpwUllSWnlUNk1Sc1RucGJlNGpFZTMyMWlYQWYyS0k5UlI1d3dleTRKanlQWENLM093djBBRjcwakxVVFBNQVhUYw?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-10-02T11:28:08+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "OpenAI despide personal por compartir “información confidencial” con una empresa de seguridad de IA",
+    "summary_es": "OpenAI despide personal por compartir \"información confidencial\" con la empresa de seguridad de IA Yahoo"
+  },
+  {
+    "id": "47926abe903a",
+    "title": "86% of Americans back independent AI safety standards",
+    "summary": "86% of Americans back independent AI safety standards Beinsure",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEowbkhlMnpWeGJFbkZFdjNMdkpVZEczUTNhZ0xuMVJ3R3R5MG5OcnBZemZ0X05PSk1sYlU5VGZoekFvNG1kMnp4NXhETnZRT1NCQU04Nlo2NDBiNk10NFJ6M0M4eEZaVHhNbTlTMVR5UmVacHB1WlVrZnNrY0ljUjN5bUNrZw?oc=5",
+    "source": "Beinsure",
+    "language": "en",
+    "published": "2026-10-02T10:57:08+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "El 86% de los estadounidenses respalda los estándares independientes de seguridad de la IA",
+    "summary_es": "El 86% de los estadounidenses respalda los estándares independientes de seguridad de IA Beinsure"
+  },
+  {
+    "id": "5fd663fc26bb",
+    "title": "AI Safety Commitments Need A Way To Measure Success",
+    "summary": "AI Safety Commitments Need A Way To Measure Success Forbes",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeE9XNW9zMkc3TUV3X3pEeVdUWVZnT1FuNnBEVlRYNkpheVkwZnVLSm1aYURWWHZZYjd5aE9aRUFUVXhIc3p1S1YtRUNUTjJmWFZUTjV6QzA2bG5JeUpXQUdTdHdOekFobmluNFpRdEZ5Yng0RWVuZzJCaWVzTmM5MkQ1cHp5dGtvRGVITXNBbDJNQ3lFX3Fia2phLS0xRWhZdUNZRm9Xdy11djl3?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-10-02T10:17:09+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "Los compromisos de seguridad de la IA necesitan una forma de medir el éxito",
+    "summary_es": "Los compromisos de seguridad de la IA necesitan una forma de medir el éxito Forbes"
+  },
+  {
+    "id": "7b2ae737b31c",
+    "title": "Who gets to decide if AI is safe? Africa wants a say",
+    "summary": "Who gets to decide if AI is safe? Africa wants a say restofworld.org",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUpqMENtek8tN3JENk5La3FEd0lISnhtaEIwNENsa0F0WW10dFc3bE1TQk9sb3ptbjlDQURYNlYtLUUtMmhvUHpBSGY4ajB0dGJ6SnRXbURsdkRGc3VBSjNkbEZOWnBrRUJUaHNXMUF0SEFmMmxfUUNNRjBqWTFiVg?oc=5",
+    "source": "restofworld.org",
+    "language": "en",
+    "published": "2026-10-02T10:05:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "¿Quién decide si la IA es segura? África quiere opinar",
+    "summary_es": "¿Quién decide si la IA es segura? África quiere opinar restofworld.org"
+  },
+  {
+    "id": "1b035da2fec2",
+    "title": "Yann LeCun calls Anthropic CEO Dario Amodei 'deluded' and 'crazy' for pushing AI doomsday warnings",
+    "summary": "Yann LeCun calls Anthropic CEO Dario Amodei 'deluded' and 'crazy' for pushing AI doomsday warnings Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEs2QjhJRXRSeDc2TVdydFFQUUl3dUNHbWRVTms3aFBPOTNiM2xncWxUcG9rQ1BfOVhybGZwdDY0bXlPeDZSVGZDMU1BNUFTY1llekU3QlJXdy1YU3BvLUVYMU5veFRDOHd6QzNmdDFxUk4zT2YzdC03X0t1NVg1UEhUNXUybVd1NmM5UVFBcTF3cE9wMkJOdE5R?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-02T09:00:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "Yann LeCun llama al CEO de Anthropic, Dario Amodei, \"engañado\" y \"loco\" por impulsar las advertencias apocalípticas de la IA",
+    "summary_es": "Yann LeCun llama al CEO de Anthropic, Dario Amodei, \"engañado\" y \"loco\" por impulsar las advertencias apocalípticas de la IA Yahoo Finanzas"
+  },
+  {
+    "id": "55516bfab870",
+    "title": "LeCun blasts Amodei's AI doomsday talk",
+    "summary": "LeCun blasts Amodei's AI doomsday talk moneywise.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTF1Nnc1WjNNRTlkNGdIQ0x4bkpFb1hkaThoYlR2aWhNNnVCbEloTWk5TE1VU0xsX0R2N0pZX0Nzbm9ZSmluSGdvMzRTX1E5RGJfNnRGa1lHcEM1eVZzY3ZiY0xUSDVyeTBtZVdiSzJjLXVSZ2w5SFdaT0hwaVhRNG9vdEtzeF94d0Nycg?oc=5",
+    "source": "moneywise.com",
+    "language": "en",
+    "published": "2026-10-02T08:38:29+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "LeCun critica el discurso apocalíptico de la IA de Amodei",
+    "summary_es": "LeCun critica el discurso apocalíptico de la IA de Amodei moneywise.com"
+  },
+  {
+    "id": "b86841e8e6d9",
+    "title": "Qhala Wins Innovation Award In New York For AI Governance Work",
+    "summary": "Qhala Wins Innovation Award In New York For AI Governance Work CIO Africa",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWQzeU83NlR3T1NUM0dFWk9UeHNaSXduNUlBMXFELVJLdU0wN2owaFVKQVVocEdFS2ZtUjlpd2hKRTNLX2NjVmJYdGNEZWRfQi0yYzJVNHk4QkhMNTVaS2xFTHFJcUpaUlp1NXpNRjkwUEE2YUthSkhkcEluOUVublNEY3JVYXNveFJuZw?oc=5",
+    "source": "CIO Africa",
+    "language": "en",
+    "published": "2026-10-02T08:25:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Qhala gana el premio a la innovación en Nueva York por su trabajo en la gobernanza de la IA",
+    "summary_es": "Qhala gana el premio a la innovación en Nueva York por su trabajo de gobernanza de IA CIO África"
+  },
+  {
+    "id": "5c5ba656bdb9",
+    "title": "When AI adoption outruns governance: What credit union boards should ask now",
+    "summary": "When AI adoption outruns governance: What credit union boards should ask now CUInsight",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTlMckhTZjNmMXFVNTdXdHEzdE0wM0tLdWxoOXA5anpIM3JGbmp1QVh1M3NmUmgydU4zMU80bjE3dk51Q2tNcWhiR3dHeG55RWFqT1BJUXFsUXYzVkhCcGx2TFY4bHh1NzN4MzJDbklrWTVBU3ZQbDRuUWN0MEFiOXZ5bmdRZllPdzFkdktsSzVyUVA1RjdaeVQzN2l5YzRUN05BTg?oc=5",
+    "source": "CUInsight",
+    "language": "en",
+    "published": "2026-10-02T07:21:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "Cuando la adopción de la IA supera a la gobernanza: lo que las juntas directivas de las cooperativas de crédito deberían preguntar ahora",
+    "summary_es": "Cuando la adopción de la IA supera a la gobernanza: lo que las juntas directivas de las cooperativas de crédito deberían preguntar ahora CUInsight"
+  },
+  {
+    "id": "b9010b688ab1",
+    "title": "Why Anthropic Is Asking Religious Leaders About AI Consciousness",
+    "summary": "Why Anthropic Is Asking Religious Leaders About AI Consciousness NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU9vOGZOWG1PdUFCYk9TWkRQajMwbVNuYjZScWgwc2N1ZV9hM1AxZ3prSGdzZDlLUHZhaU5TY0JYd011M0lzWlVOM3FQaWI5UVp3eEltcktjT25LaGlaSnJodTZnOGphOEFjb1BfN1FFZmJzeGJyd3FjRzh6bGxHeUhnRzNKYVAzRlAzRXJPdVVaRzNpeldYeVFTbmtwQlZpRDhEUUFrMzJQQ0oxQlRpa1h2OTZ0OWdoemfSAcIBQVVfeXFMTTV3UjNMdDdpTElHalRiY3MyWGxjVHEyRG04emtTX2d4bEZrN3piUDhVRzhWU250LTUxQnlBbFBHU3UtLUdHRXZadk9TRTJkSHR2T0J3T1RoZ1ZucEdHZXlQSmsxWW5GbUI4S2lqOEhZQjZPNC0xeXA0RUhiLThWSzJoRnB6R05La3hOZkF1Mnp5OHlPNlFQOElFTTFfWDRXVV9MdGFJRExaWVJkODNHUkxvSzBVTUpPak5sZ2JickZhS2c?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-10-02T07:16:35+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "Por qué Anthropic pregunta a los líderes religiosos sobre la conciencia de la IA",
+    "summary_es": "Por qué Anthropic pregunta a los líderes religiosos sobre la conciencia de la IA NDTV"
+  },
+  {
+    "id": "9297edd29709",
+    "title": "OpenAI despide a tres investigadores de seguridad de la IA acusados de filtrar información sensible",
+    "summary": "OpenAI despide a tres investigadores de seguridad de la IA acusados de filtrar información sensible elmundo.es",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HVzJaMDRESGExa1AxWkx6Qmo4cDZPSVpJZ1Vhb2dUbHBIYzQwaE55U09nRGtmRVVVM1JSQ1BpdU5yeDRRTXpGQmpLWVA3V1BKZHUybVItUm45dUlyMDhCaEhIZ0JtcldORDYwb3BRcW1aWXRvcXU5WW1oRGLSAXxBVV95cUxQM0N5VUNIOFdCdzNuaUZMTW14M0huYXRmelQ3U0tzWnZLTFdzbjB2T0xpT2xjb0ZUWkR0aVQtblpPNkRCcjhoY1lJeEtZM3lUT25ma1p6OVVLcno3OHlqRFhxYWpMbnpJRk1nT3NqMzZsbEd5M3pydi05RUlR?oc=5",
+    "source": "elmundo.es",
+    "language": "es",
+    "published": "2026-10-02T06:12:19+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "OpenAI despide a tres investigadores de seguridad de la IA acusados de filtrar información sensible",
+    "summary_es": "OpenAI despide a tres investigadores de seguridad de la IA acusados de filtrar información sensible elmundo.es"
+  },
+  {
+    "id": "cc21faf9201e",
+    "title": "Is Greece Finally Entering the Global AI Governance Conversation?",
+    "summary": "Is Greece Finally Entering the Global AI Governance Conversation? tovima.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelJZdG9MNmtNN1N5dnc5X05FNFlZSzVBR1Y4c090TGsxWnA4UmdJSkpMbllkTGlUXzBqZXpWSGlnX2Z6ZEkxOEdSRG5YMDNkVW9VUXRnSEVJVnBqdzhKSmpDNkt2YkdjcmgyMk9yRjJKMFBjbUVyQ1hJRjRNWTlyWTBLeTVTVndlZ1JHZXExaHNYNHIzMXM3ZE1FbXVNUdIBowFBVV95cUxQNl9hVkhJWlM5bWtNVnZtSGZ6eE9DLW5CMW9mUkhmYm02bDZWOW9mazM2RGktVkV5MlFGTjBMbWNBOXd0VFpURzJudFo0VFotaEpMZE1sUVhvS3JYZ2dYMTlxTFJodDY5V0RLeTV2YnFFLU5SRTdZcDI1cU9SNk5taGZOYnNnS094dnFfbDhJU3ViMjNrTVhtSS12aFlNLWRqUVRN?oc=5",
+    "source": "tovima.com",
+    "language": "en",
+    "published": "2026-10-02T06:04:40+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "¿Grecia finalmente está entrando en la conversación sobre la gobernanza global de la IA?",
+    "summary_es": "¿Grecia finalmente está entrando en la conversación sobre la gobernanza global de la IA? tovima.com"
+  },
+  {
+    "id": "8e707439f69c",
+    "title": "Why a decade of AI safety promises keep failing to bite",
+    "summary": "Why a decade of AI safety promises keep failing to bite The Conversation",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUE2YU8zcWRmem10dnZnVE9ycW1rbDRUX3hyUTcxODJCX0dEaURHN2F4RXdPclozTV93WnJKVXFZYTJqMmg5bkFoMFd0b3ZzZDBWZXR1a0VFMFNCX3VWekxWaGZTZk9uTld3ZjFMSnhLaGRERENmUjRnb0FPUXpSRXREY1plX3VLc2FiVVFrNFhVa1lv?oc=5",
+    "source": "The Conversation",
+    "language": "en",
+    "published": "2026-10-02T04:42:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "Por qué una década de promesas de seguridad de la IA sigue sin dar resultado",
+    "summary_es": "Por qué una década de promesas de seguridad de la IA siguen sin dar resultado The Conversation"
+  },
+  {
+    "id": "ce6cfb771376",
+    "title": "California orders AI safety panel, reviving a 'kill switch' idea Newsom once vetoed",
+    "summary": "California orders AI safety panel, reviving a 'kill switch' idea Newsom once vetoed Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUFQUktlZHZmNzV5bjRxcF9lUjRuU0hqNGllWnBzNkM4VHFlSnZ1ZnZzVWg1ZXZoN2t5T0VCbS1heWw3WWdJM0x4b3M3dkVSUGctOEc4OVhET19xcTFtallfOXhTY19TUnphUlpWTV9LWXRPYkE5WUptZFppR2M3MWN0UjBBbVRKQzU2SHpsenM1dVhBeU5Rdg?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-10-02T04:24:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-02",
+    "title_es": "California ordena un panel de seguridad de IA, reviviendo una idea de 'interruptor de apagado' que Newsom alguna vez vetó",
+    "summary_es": "California ordena un panel de seguridad de IA, reviviendo la idea de un 'interruptor de apagado' que Newsom una vez vetó a Yahoo"
+  },
+  {
+    "id": "3ce5dd3e5952",
+    "title": "The World Needs A Just and Equitable System for AI Governance",
+    "summary": "The World Needs A Just and Equitable System for AI Governance China-US Focus",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0dqNTZqNlFiVnJIdUJkNmhpZzZteE5iMEM0SndFRUtZTHhZWFJrdGpsUTZuUGlLN0t3Z0pEOGs0SnRNT1VTTm0tYll0YlJTdVVMRU5ubnJzUXc5MllORXVXRFgtWFFSVFRjNkFOTWVDNXVkekVTLWlBeFN4SlU3dWx0Q0M3V0xLN1hyMjVtQksxel9GYmZLeU9yZWRTaXdmVXduYnpaSlU?oc=5",
+    "source": "China-US Focus",
+    "language": "en",
+    "published": "2026-10-02T03:37:17+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-02",
+    "title_es": "El mundo necesita un sistema justo y equitativo para la gobernanza de la IA",
+    "summary_es": "El mundo necesita un sistema justo y equitativo para la gobernanza de la IA Enfoque China-EE.UU."
+  },
+  {
     "id": "c3b51af51c33",
     "title": "Controlling agents a joint priority for data, AI governance teams",
     "summary": "Controlling agents a joint priority for data, AI governance teams TechTarget",
@@ -164,6 +422,47 @@
     "date_added": "2026-10-02",
     "title_es": "El pacto de seguridad de la IA de Trump no tiene efecto. Pero hay un camino a seguir.",
     "summary_es": "El pacto de seguridad de la IA de Trump no tiene efecto. Pero hay un camino a seguir. www.cfr.org"
+  },
+  {
+    "id": "2028b2535f6d",
+    "title": "AMD anuncia la adquisición de World Labs, el laboratorio de IA de Fei-Fei Li, por US$8.200 millones",
+    "summary": "AMD anuncia la adquisición de World Labs, el laboratorio de IA de Fei-Fei Li, por US$8.200 millones Infosertec",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUUdhU29tdE1CZ1J6dlgxdkxKdFNMNzBPVkVzMHo0ajZKVnVCSEt1MHd5T1QxN1V6MEhxckhQUWtYcXJrSWxRSHB4YUhobFU2TmxBU3l3dHBINU1DLVBxNUpZcVN0NkxhekY3bA?oc=5",
+    "source": "Infosertec",
+    "language": "es",
+    "published": "2026-10-01T14:00:00+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "AMD anuncia la adquisición de World Labs, el laboratorio de IA de Fei-Fei Li, por US$8.200 millones",
+    "summary_es": "AMD anuncia la adquisición de World Labs, el laboratorio de IA de Fei-Fei Li, por US$8.200 millones Infosertec"
+  },
+  {
+    "id": "f7a464017515",
+    "title": "Professor Yoshua Bengio’s speech at the UN Security Council",
+    "summary": "Professor Yoshua Bengio’s speech at the UN Security Council Yoshua bengio.org",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOME5vcmFvdnQ4clR4bV9IdjR1TkpRc2xmZVhiR254OUlHNEU5Qll5eGJHQUJsX1NLaTZXNW83RUk4RlhlclFzN3JuYUZJTmVHb1hEc1lPQ0ZaN0Nzenp1Ri1UcjhWU2dxbU5TemJVNDhwd1dJMjdnZXM5YXBfZ3doX3dLM3Rtcl9wcmZ0Uw?oc=5",
+    "source": "Yoshua bengio.org",
+    "language": "en",
+    "published": "2026-09-23T19:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-02",
+    "title_es": "Discurso del profesor Yoshua Bengio en el Consejo de Seguridad de la ONU",
+    "summary_es": "Discurso del profesor Yoshua Bengio en el Consejo de Seguridad de la ONU Yoshua bengio.org"
   },
   {
     "id": "55fcb5a6f958",
