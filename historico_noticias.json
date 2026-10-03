@@ -1,5 +1,23 @@
 [
   {
+    "id": "84a81ee6443e",
+    "title": "La mayoría de los estadounidenses prioriza la seguridad de la IA sobre la innovación, según encuesta",
+    "summary": "La mayoría de los estadounidenses prioriza la seguridad de la IA sobre la innovación, según encuesta DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXlERnItNEFFMHl3eW5MdUlic3p4MDNvbVlNYlA2TGdwOFVnLXpSOG5NUlZwekM5Q0Y0b0lBWkpIc1h3aWJZVmRtZ0xMS2tIczlZLWIzS01oYUd1ODdrbDFoN0lIMUszMks3MWRMdGxIVXVPN1lLd041MjhTYWFJN3l0b2lPRDlLREdCam55VmpvTVUwajlLbGtWNTg0V1FYblFVSmptSFl4ZUVnYUxRTDRfOVA1bkdySHNuaS1Ra1FtZGRVRi14Q2R5WmNWdVVSRWMyclFGLTI?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-10-03T11:30:28+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "La mayoría de los estadounidenses prioriza la seguridad de la IA sobre la innovación, según encuesta",
+    "summary_es": "La mayoría de los estadounidenses prioriza la seguridad de la IA sobre la innovación, según encuesta DiarioBitcoin"
+  },
+  {
     "id": "7bf97c6b3bdd",
     "title": "AI Safety Starts With Children Feeling Safe Enough To Speak",
     "summary": "AI Safety Starts With Children Feeling Safe Enough To Speak Forbes",
@@ -170,6 +188,24 @@
     "summary_es": "Trump está logrando el equilibrio adecuado para garantizar la seguridad y el éxito de la IA New York Post"
   },
   {
+    "id": "8c4a912da681",
+    "title": "Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology",
+    "summary": "Weekend profile: Eliezer Yudkowsky, the pioneer of AI safety who inadvertently advanced the technology The Economist",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGpFeHF6dzBfc2Z5VnRKeFBoRkhpTG43UjZfajIzTjd0ejBUb3U1VzVwSE5ZU0J2ZTFNMXVBci1NNFo0UGJ3QUNwREl2THM0OEhUb21wMmUwOFhMbWFzWWJWbVhUdGg0cjZrdDRYTDB4d0sxZldSWG5CX3dxakVRdTIxMjlaaTRRQzRTSTBGaGIzZGVaMnJz?oc=5",
+    "source": "The Economist",
+    "language": "en",
+    "published": "2026-10-03T00:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "Perfil del fin de semana: Eliezer Yudkowsky, el pionero de la seguridad de la IA que sin darse cuenta hizo avanzar la tecnología",
+    "summary_es": "Perfil del fin de semana: Eliezer Yudkowsky, el pionero de la seguridad de la IA que sin darse cuenta hizo avanzar la tecnología The Economist"
+  },
+  {
     "id": "cb80384aee3c",
     "title": "WSJ Opinion: Pete Hegseth Says ‘No Beardos, No Weirdos’ / Donald Trump’s AI Safety Accord",
     "summary": "WSJ Opinion: Pete Hegseth Says ‘No Beardos, No Weirdos’ / Donald Trump’s AI Safety Accord WSJ",
@@ -240,6 +276,26 @@
     "date_added": "2026-10-03",
     "title_es": "La \"caja negra\" de su tecnología de servicios: por qué los inversores exigen ahora una gobernanza de la IA",
     "summary_es": "La \"caja negra\" de su tecnología de servicios: por qué los inversores exigen ahora una gobernanza de la IA MBA Newslink"
+  },
+  {
+    "id": "bf01fff41222",
+    "title": "Google DeepMind | History, Innovations, & Controversies",
+    "summary": "Google DeepMind | History, Innovations, & Controversies Britannica",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95ZVNmWXdZb241VlFiOU5WbnJxWXA1UzJpa1E1VkVZX1dJdk9TcmItUGRhemFCVUU1V3BsMWdyX0JwZ1otdGJqdDNyZnRCczRhTTczeVU2dlRVLWth?oc=5",
+    "source": "Britannica",
+    "language": "en",
+    "published": "2026-10-01T05:00:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-03",
+    "title_es": "Google DeepMind | Historia, innovaciones y controversias",
+    "summary_es": "Google DeepMind | Historia, innovaciones y controversias Britannica"
   },
   {
     "id": "31afbe7527c5",
