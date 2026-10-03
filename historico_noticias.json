@@ -1,5 +1,97 @@
 [
   {
+    "id": "13c7459bf0d6",
+    "title": "Lisa Su Looked Up, Fei-Fei Li Looked Down: Two Pioneers Shaping the Global Tech Landscape",
+    "summary": "Lisa Su Looked Up, Fei-Fei Li Looked Down: Two Pioneers Shaping the Global Tech Landscape 36Kr",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MYVg2Rlg1RExXOXVLX29rb2MtaVJuNDh5dE1uZlFlY0FfaDhReU5xWnlRQncwV2hKRnBHQVNjTUxETnZTUXJPV1UycTRZbnk2elJF?oc=5",
+    "source": "36Kr",
+    "language": "en",
+    "published": "2026-10-03T01:42:25+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-03",
+    "title_es": "Lisa Su miró hacia arriba, Fei-Fei Li miró hacia abajo: dos pioneros que dan forma al panorama tecnológico global",
+    "summary_es": "Lisa Su miró hacia arriba, Fei-Fei Li miró hacia abajo: dos pioneros que dan forma al panorama tecnológico global 36Kr"
+  },
+  {
+    "id": "81eb18671ceb",
+    "title": "Trump's striking the right balance for ensuring AI's safety — and success",
+    "summary": "Trump's striking the right balance for ensuring AI's safety — and success New York Post",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTVCQlZjbFhjNnh3eDdsZU9oVVlNbWZLU2JITTU1Q1pORFpEeTJCNXYyaV9LU2hpbFRxMEZTOVkyQTZwY2NBNUxmZU9aYzUzSjF2TUppUWV4SUpCNmk1eUlzNFh0aF81WUk1bngyRUFjMUNLZVJtNHJwOXVnRk5RVUROQi1CRHltOWthZEQzOGhMaFExVlFiRFdSNXhDVWpzbUpOMUxGak9CM1hN?oc=5",
+    "source": "New York Post",
+    "language": "en",
+    "published": "2026-10-03T00:41:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "Trump está logrando el equilibrio adecuado para garantizar la seguridad y el éxito de la IA",
+    "summary_es": "Trump está logrando el equilibrio adecuado para garantizar la seguridad y el éxito de la IA New York Post"
+  },
+  {
+    "id": "cb80384aee3c",
+    "title": "WSJ Opinion: Pete Hegseth Says ‘No Beardos, No Weirdos’ / Donald Trump’s AI Safety Accord",
+    "summary": "WSJ Opinion: Pete Hegseth Says ‘No Beardos, No Weirdos’ / Donald Trump’s AI Safety Accord WSJ",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcnp6YWdIb2Jnakwzd3hNZzFqckxDZjhuWjNzY3lUN19tTXpOaFlOd1hQX2c0YXNvdEczZDctdW9KdUNJUEk5NVc3UzgzV25WMEZ4SWtNN2lFZU14ZjBGM3dJczRyVm10T0ZKcEM2Ql85Z3FnbnNwcDRkWkZMbVpKMGotQmxLVnRvZXR4YzVoWUFkU3V0cEd0bGtzUjJCckp4cDNfZ3pZb2xpTnluY3YxdWhReGZDS2JLdmpWdEhYUkN5U0hLR182aUY3Wl9UcURmd0ZtRkpmUFgxYmw2azg1bThZQTdLX1ltSVJfbDRodkpzZEVuaF8wMXBpNUdiSUY4aHJOREVn?oc=5",
+    "source": "WSJ",
+    "language": "en",
+    "published": "2026-10-02T22:46:54+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "Opinión del WSJ: Pete Hegseth dice \"Sin Beardos, no hay bichos raros\" / Acuerdo de seguridad de la IA de Donald Trump",
+    "summary_es": "Opinión del WSJ: Pete Hegseth dice \"Sin Beardos, no hay bichos raros\" / Acuerdo de seguridad de IA de Donald Trump WSJ"
+  },
+  {
+    "id": "d6c8db74ed85",
+    "title": "Is It America First, AI Safety Second?",
+    "summary": "Is It America First, AI Safety Second? BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWEyb0lINmo0NS1pTm5Oa1d6NlRoeXc4a1gzaVQweENSbmNrX0h0U2JvNkcyemEzbW9lOVRxUUFYbU8wTGNkSlZ3RzZzSW5HV1ljaS1CRklub3IzSUJwMWJIZlRjOU1QVjRKeC1QUElaSHFxdmozTjZ4Y3J5TldObmhyYjlWdw?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-10-02T22:18:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "¿Es Estados Unidos primero y la seguridad de la IA en segundo lugar?",
+    "summary_es": "¿Es Estados Unidos primero y la seguridad de la IA en segundo lugar? Información BancariaSeguridad"
+  },
+  {
+    "id": "8c41b5b24892",
+    "title": "AI Safety Concerns Dominate: Zacks OCT Strategy",
+    "summary": "AI Safety Concerns Dominate: Zacks OCT Strategy Zacks Investment Research",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTF5enlSNGZGRGhBejZDTndGZ0J2MHRtNFNvZjVoWVBnSE10Z0R2Y1htMnRQbXgybVBfOFBERGZtS2J3M2pYc2JyVWJBNjgzX2lqanRGOEhtRjRTZnJqR2VoMTYwVUY1X2dKYkZZZkRWbUtzUUNXclVGN01sX0Z0X0poSWFEOGx0MGdPaHZ6aUU?oc=5",
+    "source": "Zacks Investment Research",
+    "language": "en",
+    "published": "2026-10-02T19:31:38+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "Preocupaciones por la seguridad de la IA dominan: estrategia OCT de Zacks",
+    "summary_es": "Preocupaciones por la seguridad de la IA dominan: estrategia OCT de Zacks Zacks Investment Research"
+  },
+  {
     "id": "31afbe7527c5",
     "title": "Fast Takes: The real route to AI safety, ‘conflict is inevitable’ and more",
     "summary": "Fast Takes: The real route to AI safety, ‘conflict is inevitable’ and more New York Post",
