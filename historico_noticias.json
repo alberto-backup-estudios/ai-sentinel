@@ -1,5 +1,64 @@
 [
   {
+    "id": "943ebcec3edb",
+    "title": "Child safety advocate calls for AI safety reforms after losing her son",
+    "summary": "Child safety advocate calls for AI safety reforms after losing her son Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdHhFeDRNZFloLTBSaVExYmJ5aVo3TWFMRG0yRVA5ZVVMTDN1SFNGcE5ydnJVem5DcWk2cnNWLXJoQlhnQW1FaEVXSlhWTnhvbnNqOUdB?oc=5",
+    "source": "Fox News",
+    "language": "en",
+    "published": "2026-10-03T17:49:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-03",
+    "title_es": "Defensora de la seguridad infantil pide reformas en la seguridad de la IA después de perder a su hijo",
+    "summary_es": "Defensora de la seguridad infantil pide reformas en la seguridad de la IA después de perder a su hijo Fox News"
+  },
+  {
+    "id": "79cb1a38c14f",
+    "title": "Geoffrey Hinton, Nobel de Física, y varios expertos piden a los gobiernos que se preparen: \"Una vez que empiece una explosión de inteligencia, la ventana para actuar puede cerrarse\"",
+    "summary": "Geoffrey Hinton, Nobel de Física, y varios expertos piden a los gobiernos que se preparen: \"Una vez que empiece una explosión de inteligencia, la ventana para actuar puede cerrarse\" huffingtonpost.es",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa2NSdjBDNHJUd3pwOWI2SHg0ek5EQ3U0X2Y3dkVXQURrd3FjQ21Lb3poLWxYNmVySkhiT0dIa09Ld1Nwb0xhN1gtb2F1dEN6UGxXNnNLUUNHTUhaWllRRlVuSGpjYzJQT0h1RlZ3aTVqaUhmblB2TlJSdU9jNVUxemc5RG9mRkl5SVNHUkQ2ajh1QlU3UkVkSXV2RzlJVldRN0d4Zk1iM1hXNFpfejN3TUtlQldhdnVUY0hETGhaaXozRFVhclNDeUZSMzB1eHIxbjJ4T1M2VjcyLWVkWTFtOWVxNXBQNDhvWWNfbGRadUhfMTYxUERPYzZrZ0lQZmlfc1NiUWd30gGaAkFVX3lxTFB1RlRYWDNxOXJwRWNHSW4xTVRZWmZLMmVoaGZueE9WaVRFM1JNaTl3NTd5ZVN0WVpwQlg5bll1WUlhWVRiT3dGMF9lT1J2OXIzUnZDT1FJRzJDQ2lSTURvQWIwajVnbWNqNUxTZWpXMjNVemxicVI4aFhMbFlpM0RnWUZwTUtmT3NFRFlWQTgzeXJtTURNZlo2UXRQTURGVGp0SzhCZUJDSHFKQVVjckJPOGRzbnJnWGZRNnBXY0ZjREt2a2psd2xNZTdYRGlXelRJT3liX25IRHpuekZwV01Zdi0zY3cwSFZ1MVMyRmxMMXpDVTM2c2x2S0JLYmZqLTBkaVh4X0doanVDbk8tWlRhMnlWeWduY1NaUQ?oc=5",
+    "source": "huffingtonpost.es",
+    "language": "es",
+    "published": "2026-10-03T17:02:43+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-03",
+    "title_es": "Geoffrey Hinton, Nobel de Física, y varios expertos piden a los gobiernos que se preparen: \"Una vez que empiece una explosión de inteligencia, la ventana para actuar puede cerrarse\"",
+    "summary_es": "Geoffrey Hinton, Nobel de Física, y varios expertos piden a los gobiernos que se preparen: \"Una vez que empiece una explosión de inteligencia, la ventana para actuar puede cerrarse\" huffingtonpost.es"
+  },
+  {
+    "id": "9daaa3339a05",
+    "title": "🔮 Quick weekend reads: the big AI questions",
+    "summary": "🔮 Quick weekend reads: the big AI questions exponentialview.co",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YckJmRi00b2pWR2p0eVZKLUlYcUtNV0JvTkFJQndaZXNsQnpDS2hldzVMb0VtT2ctVzBSVU9qM29qUEJJbFVlWHU2VXp0azlvQWRVSWxiYmhtUG5tZEZsdzB4WURpNGdNS3lLWlIxRWFDRUlMVHl0ODNDREhLZw?oc=5",
+    "source": "exponentialview.co",
+    "language": "en",
+    "published": "2026-10-03T12:54:07+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-03",
+    "title_es": "🔮 Lecturas rápidas del fin de semana: las grandes preguntas sobre la IA",
+    "summary_es": "🔮 Lecturas rápidas del fin de semana: las grandes preguntas sobre la IA exponentialview.co"
+  },
+  {
     "id": "84a81ee6443e",
     "title": "La mayoría de los estadounidenses prioriza la seguridad de la IA sobre la innovación, según encuesta",
     "summary": "La mayoría de los estadounidenses prioriza la seguridad de la IA sobre la innovación, según encuesta DiarioBitcoin",
