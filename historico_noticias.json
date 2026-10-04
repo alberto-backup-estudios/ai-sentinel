@@ -1,5 +1,79 @@
 [
   {
+    "id": "a4a9625e3e62",
+    "title": "AMD’s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem",
+    "summary": "AMD’s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem Yahoo Finance Singapore",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LUFY1cTlSRW9MdFQ0MzVrWmlNd3A1WXZhbUhmelpGanFhR1A1bXhvN1o0dlhNZHFXQXJWTW5PVHN1bzY4bUJmNjY2Z2M5bDBiZUpfSHozOVNJV3JwMVZJeUF0NzRRMHUxR0tnRU9MMG55VU92LVE?oc=5",
+    "source": "Yahoo Finance Singapore",
+    "language": "en",
+    "published": "2026-10-04T19:01:59+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-04",
+    "title_es": "La apuesta de AMD por 8.200 millones de dólares en IA conlleva un problema de valoración de 1 billón de dólares",
+    "summary_es": "La apuesta de AMD por 8.200 millones de dólares en IA conlleva un problema de valoración de 1 billón de dólares Yahoo Finanzas España"
+  },
+  {
+    "id": "308a97d28f8f",
+    "title": "MediaJustice brings AI governance fight to Oakland with screening of ‘Ghost in the Machine’",
+    "summary": "MediaJustice brings AI governance fight to Oakland with screening of ‘Ghost in the Machine’ Oakland North",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHlfYmtadEdjUzU0UWhLWFlRb0dMRGpMVjV0VlRmU296c0ZwWlJGYlFtX1hzSERLLTRrM2xhVXVYVFFaX3lHQjlVemVQLVFxeExyUEpXQmlpcWh0MjBVbldxb3NQbWF6MC1RY1hiR3FQUFNtZVpWSk54TWNCS3ZXQk9LSHM?oc=5",
+    "source": "Oakland North",
+    "language": "en",
+    "published": "2026-10-04T19:00:55+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-04",
+    "title_es": "MediaJustice lleva la lucha por la gobernanza de la IA a Oakland con la proyección de 'Ghost in the Machine'",
+    "summary_es": "MediaJustice lleva la lucha por la gobernanza de la IA a Oakland con la proyección de 'Ghost in the Machine' Oakland North"
+  },
+  {
+    "id": "d3fcfaeb18be",
+    "title": "What to Watch in Business This Week: Fed Minutes, AI Safety and Retail Sales",
+    "summary": "What to Watch in Business This Week: Fed Minutes, AI Safety and Retail Sales NBC Palm Springs",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOS1zNFB4ZndkcnRDeGFNeXZFNEQ0Qmh3ZUFDeHJWR2M1Zzl5MUVBalNvVWVkX203VVROblRVUi03SXBYRnNQUHBybzFnZU9vNUlPUUJVekJOZ3Y0cTVGVnAwNjRxZXFfUHdyVEhrcXFsVHNWTkkxMmw2cERiWFdMOE9fQVhWd3JjcWhubXFmVjAwa1dkdlcxTklwMzhXSW1kQ2xiSmNTVUNWdmhOdW16V0p1MDlEYlg3bmlqdjlhN1k4ejBNV2FQYTJGUGhJbUFQaG1jbDBCVEl5Zw?oc=5",
+    "source": "NBC Palm Springs",
+    "language": "en",
+    "published": "2026-10-04T17:56:54+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-04",
+    "title_es": "Qué observar en los negocios esta semana: actas de la Fed, seguridad de la inteligencia artificial y ventas minoristas",
+    "summary_es": "Qué observar en los negocios esta semana: actas de la Fed, seguridad de la inteligencia artificial y ventas minoristas NBC Palm Springs"
+  },
+  {
+    "id": "d05290334334",
+    "title": "The EU AI Act Can’t Regulate What We Haven’t Learned to Test",
+    "summary": "The EU AI Act Can’t Regulate What We Haven’t Learned to Test Cybersecurity Insiders",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWIxZXFnUDNQTWtLV3hqd01hU29qTlcydl9uemtRLVFXUzI1UTRTQjd3N05abnkweE1LTHhJbExiVWhEMFdfaGNMVkxpanpfSmZJeEsycjN4a01nQVdCdVZaWDdqQy1STTVlT19ra20wRDd5VHdxU1BxSGdWVjFsWXd1WTF3aFZ1elB1THh4MUlLektfOXpXZW9tSmx4TUE?oc=5",
+    "source": "Cybersecurity Insiders",
+    "language": "en",
+    "published": "2026-10-04T17:00:21+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-04",
+    "title_es": "La Ley de IA de la UE no puede regular lo que no hemos aprendido a probar",
+    "summary_es": "La Ley de IA de la UE no puede regular lo que no hemos aprendido para poner a prueba a los expertos en ciberseguridad"
+  },
+  {
     "id": "5c58483e5276",
     "title": "SoftBank’s Son warns of AI safety risks despite $65B OpenAI bet (SFTBY:OTCMKTS)",
     "summary": "SoftBank’s Son warns of AI safety risks despite $65B OpenAI bet (SFTBY:OTCMKTS) Seeking Alpha",
