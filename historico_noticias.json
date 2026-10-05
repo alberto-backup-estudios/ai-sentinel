@@ -1,5 +1,247 @@
 [
   {
+    "id": "18b2df02660c",
+    "title": "Building AI Governance, Monitoring Shadow AI in Tennessee",
+    "summary": "Building AI Governance, Monitoring Shadow AI in Tennessee GovTech",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjlHMFo0T28zZVhYZHpVRXAyb25sVHB2MDdSN2VhTkhYMHgxb2dWU0x6eV9PdlF5VTVuaVlsdmh6ZFlaWE5LbXJ5VV9jQ29NYVRoT2xYQzYxZjJEenFld29lOHRVZURqTktnWUZLQUhxQjU4MkVZbmw2cG9fbGVRTHI0WXFkUUc3QUlzMFFGWHNlNmJGQ3VsYVBNVGZpZ2dZWU1xM2JLMA?oc=5",
+    "source": "GovTech",
+    "language": "en",
+    "published": "2026-10-05T22:38:06+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-05",
+    "title_es": "Construyendo gobernanza de IA, monitoreando la IA en la sombra en Tennessee",
+    "summary_es": "Construyendo gobernanza de IA, monitoreando la IA en la sombra en Tennessee GovTech"
+  },
+  {
+    "id": "a74dbb34bafa",
+    "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
+    "summary": "The AI safety check that runs on a laptop and nearly matched a 35B model The New Stack",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTNURFRkl3dkZvd0tqcV9jcjUwczd4Y1BtM3hDaS04Nzh6TXJ5QVpzQ1lQS3Z0R0RKYnR4TndQc2ZwWWpvQWlBV1JqU3BKRXA2Z0RqWm41Yk82S3pjdXFtaw?oc=5",
+    "source": "The New Stack",
+    "language": "en",
+    "published": "2026-10-05T22:06:34+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-05",
+    "title_es": "La verificación de seguridad de IA que se ejecuta en una computadora portátil y casi coincide con un modelo 35B",
+    "summary_es": "El control de seguridad de IA que se ejecuta en una computadora portátil y casi coincide con un modelo 35B The New Stack"
+  },
+  {
+    "id": "d353bc081ab9",
+    "title": "Aligning AI With Human Goals Might Be Impossible, Says AI Prof. Stuart Russell",
+    "summary": "Aligning AI With Human Goals Might Be Impossible, Says AI Prof. Stuart Russell The Information",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczk0MkdkZ3Q2NGI1eDVuSktBa0FJMURNT1pxb3ptdXZ1ZHRtOGdqZWxNRDBjY24tbHJyYV9IVjlnWDByQmptb04zcHVJLWZYYjRFV3B0cjFsRGhpS3JLVFRWYVdib1R1UVFiQV83bFNQRUpESVM2dDVmalhCcGR3M2NBMWRnaXJOVHZWdElBeGxwYXJGSkk0TmhOVW83NHRkd1R2NnY4OEZRMlUy?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-10-05T21:53:00+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-05",
+    "title_es": "Alinear la IA con los objetivos humanos podría ser imposible, dice el profesor de IA Stuart Russell",
+    "summary_es": "Alinear la IA con los objetivos humanos podría ser imposible, dice el profesor de IA Stuart Russell The Information"
+  },
+  {
+    "id": "6e1d4aa35f54",
+    "title": "LeCun Dismisses AI Extinction Fears, Criticizes Anthropic and OpenAI",
+    "summary": "LeCun Dismisses AI Extinction Fears, Criticizes Anthropic and OpenAI 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGh2akxCT3p1by1DX3VjeHRURXpScFYtZHFkSkRDNTBqbl92ZEswNjIxSUV0NzZwaDhpb0w1VnVRckw0ZDkwbEtlMTBzejVxWTgyM2dVb3BscWp3OWxaT1hOSi1PVG4zb1VBNTBvT0VBVDJVelFUSmdKM1hXRkN1ZWpiVXJtMk5G?oc=5",
+    "source": "조선일보",
+    "language": "en",
+    "published": "2026-10-05T20:29:35+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-05",
+    "title_es": "LeCun descarta los temores de extinción de la IA y critica Anthropic y OpenAI",
+    "summary_es": "LeCun descarta los temores de extinción de la IA y critica Anthropic y OpenAI 조선일보"
+  },
+  {
+    "id": "e869266c297c",
+    "title": "Fact check: Donald Trump says the left is behind AI safety warnings",
+    "summary": "Fact check: Donald Trump says the left is behind AI safety warnings Houston Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlZ3bE1fZXhSeUtPc1BkdWZINHk1aUtCclV4M0RYelFQNDdTQkZiVTVJYk1remV1OXVSZktkSlowMk9HZThFTFpjVmRhX196aEhDYS1oaXFsa1RDdmZ0WXdDa2RCeXRiOXpVcjdYSWZXN3FJRzJHdnZZN3g3R0xROXFYTUgtTlpaMHJtOXYxNkdNMy1kdU5INlppM3dhdFcxOVpHaA?oc=5",
+    "source": "Houston Chronicle",
+    "language": "en",
+    "published": "2026-10-05T20:17:18+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-05",
+    "title_es": "Verificación de hechos: Donald Trump dice que la izquierda está detrás de las advertencias de seguridad de la IA",
+    "summary_es": "Verificación de hechos: Donald Trump dice que la izquierda está detrás de las advertencias de seguridad de la IA Houston Chronicle"
+  },
+  {
+    "id": "4bec0b02e7d0",
+    "title": "Can We Solve AI’s Alignment Problem? — TITV [Video]",
+    "summary": "Can We Solve AI’s Alignment Problem? — TITV [Video] The Information",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yMVo2X05hcEozZzFiUDNyNWZBMlhSVDlRZVFTUGYxOFhkY0NfQnJaNzR0Y0pJSXBFN044RGRxSzBHbkIwZURaUXBfMmVzWllZWTVF?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-10-05T20:05:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-05",
+    "title_es": "¿Podemos resolver el problema de alineación de la IA? — TITV [Vídeo]",
+    "summary_es": "¿Podemos resolver el problema de alineación de la IA? — TITV [Vídeo] La información"
+  },
+  {
+    "id": "9f0e38b8cd56",
+    "title": "Ex–OpenAI researcher tells NYC lawmakers AI safety fixes may be ‘duct tape that will fall off’",
+    "summary": "Ex–OpenAI researcher tells NYC lawmakers AI safety fixes may be ‘duct tape that will fall off’ Fortune",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMC1OZFVHa1hpUlNwOGhCaGlROXZveUpDdWxuNGM5YTVnVEFLNWRaUEJCanp6ck9GallxZm95Y0hnVXhIcUhrNWhPLW9ZOXFZck1aMVJNWE5QLThWM3hxRDNiZWJTazdkYXRBcERsOC1waGRBSHo4ZVNXYnhONXlORC1saHo5WnB3OUZEcmdyM2p2TzZHNDhaYVlJc0I1cW9EbXc?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-10-05T19:55:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-05",
+    "title_es": "Un ex investigador de OpenAI dice a los legisladores de la ciudad de Nueva York que las soluciones de seguridad de la IA pueden ser \"cinta adhesiva que se caerá\"",
+    "summary_es": "Un ex investigador de OpenAI dice a los legisladores de la ciudad de Nueva York que las soluciones de seguridad de la IA pueden ser \"cinta adhesiva que se caerá\" Fortune"
+  },
+  {
+    "id": "d0e74a68b38e",
+    "title": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates",
+    "summary": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWThCNUU3ODdPSzZuSEdQMWJvM1ItQTFvX0dnOXBiS2VaY3BMMkJ0aDVuQkJ4N1ZrcXJ0YWdWWXBqbUthNlZTX0N5S0ZOcjY3N2xGdDhobE9yd0ZxclRkY3QyRWJKYUN2R2kzZWFW?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-10-05T19:42:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-05",
+    "title_es": "OpenAI lanza marcas de agua de texto para cumplir con los mandatos de la Ley de IA de la UE",
+    "summary_es": "OpenAI lanza marcas de agua de texto para cumplir con los mandatos de la ley de IA de la UE PYMNTS.com"
+  },
+  {
+    "id": "24fcf932c7d0",
+    "title": "Microsoft Nears $4 Trillion as AI Safety Fears Become a Selling Point",
+    "summary": "Microsoft Nears $4 Trillion as AI Safety Fears Become a Selling Point Barron's",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VU3FmVU9OVWh4NDhfcXNMZ1B0ZE05TW1wd24xT1Z1ZlVLLUZGRTNnbkJnVDA5TWRSZzBIdG5OaElZaUNGNWFuaDk5ODRuck53LUFsbllFZVlNdDhjdms3UWE4NEJiWk03UEJidXNfRGpYMnpKaS1nTVdjaHU5QQ?oc=5",
+    "source": "Barron's",
+    "language": "en",
+    "published": "2026-10-05T19:04:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-05",
+    "title_es": "Microsoft se acerca a los 4 billones de dólares a medida que los temores sobre la seguridad de la IA se convierten en un argumento de venta",
+    "summary_es": "Microsoft se acerca a los 4 billones de dólares a medida que los temores sobre la seguridad de la IA se convierten en un argumento de venta Barron's"
+  },
+  {
+    "id": "6f9c33b23b59",
+    "title": "Google, Meta, OpenAI, Anthropic among tech companies to testify in AI safety hearing",
+    "summary": "Google, Meta, OpenAI, Anthropic among tech companies to testify in AI safety hearing Fox News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4WmViX041LTZuT3lGVFRHeFFoVkM2a0VOa2NYYjItUXcxVVY0WUFhLUxzVVpaeUY0UXFZa1NUSFUycU5xN2ZPa05uaHNRelVsUk5Lakl3?oc=5",
+    "source": "Fox News",
+    "language": "en",
+    "published": "2026-10-05T17:49:30+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "opensource",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-05",
+    "title_es": "Google, Meta, OpenAI y Anthropic entre las empresas de tecnología testificarán en una audiencia sobre seguridad de la IA",
+    "summary_es": "Google, Meta, OpenAI y Anthropic entre las empresas de tecnología testificarán en una audiencia sobre seguridad de la IA Fox News"
+  },
+  {
+    "id": "b4da00e59f92",
+    "title": "IntellectAI tackles the AI governance gap in workers’ comp",
+    "summary": "IntellectAI tackles the AI governance gap in workers’ comp FinTech Global",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHhlc2NCMi1EUHF2OTh4eXVUYkdKRFctZ1ZFUmpHQ29PdnZkei10MFlwSUFOdmh5UHNLSFVmVkxaZWt0MjlmWW5aZGdaZGdobEpOM3NURFY4akxhOWxEUndrblFLSU1aUVZGWkxvQzFsMGdIdjhrajF3MjYzaDVReGh1ajF1blpOeFcyUFdPXzQ0cm9jSGpB?oc=5",
+    "source": "FinTech Global",
+    "language": "en",
+    "published": "2026-10-05T16:48:19+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-05",
+    "title_es": "IntellectAI aborda la brecha de gobernanza de la IA en la compensación laboral",
+    "summary_es": "IntellectAI aborda la brecha de gobernanza de la IA en la compensación laboral FinTech Global"
+  },
+  {
+    "id": "c6ed4fda6402",
+    "title": "OpenAI introduces text watermarking to meet EU AI Act requirements",
+    "summary": "OpenAI introduces text watermarking to meet EU AI Act requirements MLex",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVhmLVI0QXFtT01mbjNNOF9EUmNwNnVSNkJNMnh1MkVPTG0xSDBDZWZrMmpfOXJtWTlSNzdnd1c1SUNqbl9QSHUzb3NTZmN3U1hLN0pPcXNzV3pTRUV0T2Q1akxBODB1MkVWSkczQVRCZEhfUUwtdWd0c2VPYW9NTkpKVXFTR2ZXd0RDb09PUWIzZ19DNHptZ2lXYjlFX3l3QzM1RXpFNl93MnBmSG1qRDRZUUFvSzh4cWsyc054M3E4WkNZRVlMcnF1cnZ6Z9IBWkFVX3lxTFBhUDFZOXJ0MWNOakYtTTUzaTlwMjBUXzQycEVDNzN3d3ZpbjQ5ZVpaT0FGUFJhODlwT2FVdHZuZXBiZDlnMWFBOXJxNEZJc190dE9yWFg0UG1rUQ?oc=5",
+    "source": "MLex",
+    "language": "en",
+    "published": "2026-10-05T16:43:49+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-05",
+    "title_es": "OpenAI introduce marcas de agua de texto para cumplir con los requisitos de la Ley de IA de la UE",
+    "summary_es": "OpenAI introduce marcas de agua de texto para cumplir con los requisitos de la Ley de IA de la UE MLex"
+  },
+  {
+    "id": "1c9517f78dbf",
+    "title": "Is AI Hiding Its Full Power? With Geoffrey Hinton Happy Mothers Day Wishes For All Moms (rxOBCExKkx)",
+    "summary": "Is AI Hiding Its Full Power? With Geoffrey Hinton Happy Mothers Day Wishes For All Moms (rxOBCExKkx) Unisba Media",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVC03ak9qZWw5ZnotNUZhNnA3eDVNX1J6a0k3QjVHZm04QUhNTTIzWFFLYXU5RHJIeTZfWDlZd3lBXzcwdE83aVlxeVMxT3phYjloNU94bjgwSmllLWZHbGdXOExCM0FKbFBNdDdvRVoyYmJaT29TS3ZJTG1BVGNwdHZIcw?oc=5",
+    "source": "Unisba Media",
+    "language": "en",
+    "published": "2026-10-05T14:17:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-05",
+    "title_es": "¿La IA oculta todo su poder? Con Geoffrey Hinton Deseos de feliz día de la madre para todas las mamás (rxOBCExKkx)",
+    "summary_es": "¿La IA oculta todo su poder? Con Geoffrey Hinton Deseos de feliz día de la madre para todas las mamás (rxOBCExKkx) Unisba Media"
+  },
+  {
     "id": "10741d4de645",
     "title": "Collibra Buys Trail ML, Adding Agent-Powered AI Governance Automation",
     "summary": "Collibra Buys Trail ML, Adding Agent-Powered AI Governance Automation Unite.AI",
@@ -185,6 +427,26 @@
     "summary_es": "Manulife anuncia la asociación de presentación de The Hinton Lectures™ sobre seguridad de la IA TradingView"
   },
   {
+    "id": "2e1b22b9c4a6",
+    "title": "Manulife Announces Presenting Partnership of The Hinton Lectures™ on AI Safety",
+    "summary": "Manulife Announces Presenting Partnership of The Hinton Lectures™ on AI Safety PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOWZaYTVSMUdZQW1kZF9LX041SW1JWEJPbHlaeVQ4WjdBT05lUmtrM0o2QUV1OC1fQlRkNUJfd3FhU1cyN2MtXzRxR1lpLUF1a3J5Ri1sbzlIeWpGVnl5aG9scmpqOUNOY3NvNlhYNk11ZmI0QXZCZl9UTTJWNkFZZVcwb2k0ci1FckFLYlFibmJYa2RSR0RSQmVpcTd1Q1loeXRLNGg4WUE4YVdESGxVRmgyOVY0UzZFUzhrM0ZvVF9kQ3RmRGZCR1E5Z3FPUQ?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-10-05T12:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-05",
+    "title_es": "Manulife anuncia la asociación de presentación de The Hinton Lectures™ sobre seguridad de la IA",
+    "summary_es": "Manulife anuncia la asociación de presentación de The Hinton Lectures™ sobre seguridad de la IA PR Newswire"
+  },
+  {
     "id": "f101a84c63b0",
     "title": "AI godfather Geoffrey Hinton leads 22 scholars in warning: Intelligence explosion could compress a year of progress into five weeks",
     "summary": "AI godfather Geoffrey Hinton leads 22 scholars in warning: Intelligence explosion could compress a year of progress into five weeks finance.biggo.com",
@@ -298,6 +560,26 @@
     "date_added": "2026-10-05",
     "title_es": "El problema del dinero de seguridad de la IA en China",
     "summary_es": "El problema del dinero de seguridad de la IA en China ChinaTalk"
+  },
+  {
+    "id": "88e3a089b785",
+    "title": "Resumen semanal: La adquisición de World Labs por $8.2 mil millones y el salto récord de los ingresos del segundo trimestre",
+    "summary": "Resumen semanal: La adquisición de World Labs por $8.2 mil millones y el salto récord de los ingresos del segundo trimestre TradingView",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVW8wa0U1aWZ5T2VpR3VSdlk2YlpLeGJXTkU0c19LV19WUFBnRnpCS0w2LUFDTXE3czdKVjdxS0VIZ2t6R2NSYW5wLUVOeWlXVDNQOVJGSHRKQzlRZVFVbDVKUWxlVzVRdmNHTA?oc=5",
+    "source": "TradingView",
+    "language": "es",
+    "published": "2026-10-05T11:00:00+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-05",
+    "title_es": "Resumen semanal: La adquisición de World Labs por $8.2 mil millones y el salto récord de los ingresos del segundo trimestre",
+    "summary_es": "Resumen semanal: La adquisición de World Labs por $8.2 mil millones y el salto récord de los ingresos del segundo trimestre TradingView"
   },
   {
     "id": "44c29e060ac7",
