@@ -1,5 +1,358 @@
 [
   {
+    "id": "d13381a0d8f9",
+    "title": "As OpenAI Faces Breach Probes, David Morris Calls AI Alignment a ‘Wild Misconception’",
+    "summary": "As OpenAI Faces Breach Probes, David Morris Calls AI Alignment a ‘Wild Misconception’ Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkpFcDhrSXFnSGR1WXI1cENQWmF2YXZreW1fWXk3SFZNdDZ4ZDF6V0wzR291RnczdFpSb09JejZGS2xacDlmOS1SUmxPZGtrblNUOHhLNEVEX0lzMno4V1NYRVE3TTFFTXVsaU9IbHF3VENMem1KRnNlUy1sSzFqSXBHcFhVY1B6YzFZNGZtZw?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-10-06T21:28:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Mientras OpenAI se enfrenta a investigaciones de infracciones, David Morris califica la alineación de la IA como un \"concepto erróneo descabellado\"",
+    "summary_es": "Mientras OpenAI se enfrenta a investigaciones sobre infracciones, David Morris califica la alineación de la IA como un \"concepto erróneo descabellado\" Yahoo"
+  },
+  {
+    "id": "8899721106ce",
+    "title": "‘Evaluators’ are supposed to keep AI from killing us all. No pressure",
+    "summary": "‘Evaluators’ are supposed to keep AI from killing us all. No pressure The Business Journal",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ea1NndWo2SVU3U0xPWTZueS1IOGU4M2kycXpTVnZ6dmg5TTdpX3RmMzZtVVNMOTdiZWd5QVhfQmszNG5EaUxHLUJrQW5sUWJjNFNtU0Z4T0FVWFlwSWZtVl82YnlDSjJIMXRUZnRFZmZHRWZKc1BGUExXNlVTNWs?oc=5",
+    "source": "The Business Journal",
+    "language": "en",
+    "published": "2026-10-06T20:57:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Se supone que los “evaluadores” deben evitar que la IA nos mate a todos. Sin presión",
+    "summary_es": "Se supone que los “evaluadores” deben evitar que la IA nos mate a todos. Sin presiones El Diario de Negocios"
+  },
+  {
+    "id": "2b4efc4a8e4e",
+    "title": "Collibra Acquisition Pushes AI Governance Toward Continuous Control",
+    "summary": "Collibra Acquisition Pushes AI Governance Toward Continuous Control CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEhlMndBdDBrUnlCQV9ZMm80UmNuWmJpNllzNm54Qk92Rm9NWExpUmN6V2tEYl9pTHRyRXlfcU85T2dZY1pQQTdEaUZEYTMwSWxseXYwd3N1ZmdiRG9aR3RJUVJiZ0VzbVNmMUNmTVI2QWRWMkE0blBqWkhMcmRoczdqMXVlclVQc1d3LVZialVVWm1kRzNNcGZ2Ql95YUZYbmhv?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-10-06T20:45:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "La adquisición de Collibra impulsa la gobernanza de la IA hacia un control continuo",
+    "summary_es": "La adquisición de Collibra impulsa la gobernanza de la IA hacia un control continuo Revista CDO"
+  },
+  {
+    "id": "2b0a3a467bbc",
+    "title": "Lawmakers Weigh Frontier AI Safety Next Steps From Joint Accord",
+    "summary": "Lawmakers Weigh Frontier AI Safety Next Steps From Joint Accord GovCIO Media & Research",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenZMUEh6VEdTX3FkZzFtbXBkaEJaYTJIWjc3MjFTV19sWUJUREFlS3dQMjVLc0ZYRTJGeC1kUExtWm53NG9JTU9oZno5RXVkMVJScmp6Mkl0b2ctM09EaGVCb0ZHLXhpWktvRW5kZTlFSlFfT3hxTjZxWndNVkNOXzluOUxnejZPQUFySVZZdU1oUQ?oc=5",
+    "source": "GovCIO Media & Research",
+    "language": "en",
+    "published": "2026-10-06T18:40:40+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Los legisladores sopesan los próximos pasos en materia de seguridad de la IA de Frontier a partir de un acuerdo conjunto",
+    "summary_es": "Los legisladores sopesan los próximos pasos en materia de seguridad de la IA en la frontera a partir del acuerdo conjunto GovCIO Media & Research"
+  },
+  {
+    "id": "05b73125fadb",
+    "title": "BCI extending stewardship architecture deeper into private markets, AI governance",
+    "summary": "BCI extending stewardship architecture deeper into private markets, AI governance Markets Group",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEJQQXhBQW03LVNGNXg5TkRmMU5XVDhQZUgzbW9GbzRzNTdGMThVUDVsMVhBb1FKejhNcV9yTnVhdnYwOFBBUEdhWWY0Y01EeEdFbnFvekI0eXpGcDlSQjBWdjVtSmdhYll0ZWVWU3YtN1I0Tmo0UUdEZUNiODBRQjlQSFJOOXFjaVAtS2Rwd2dZaWFYdEdaY2NiN3FXSU5DQUVieW9OTl9OV3dBNVQ2VnF4VFk?oc=5",
+    "source": "Markets Group",
+    "language": "en",
+    "published": "2026-10-06T18:01:59+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "BCI amplía la arquitectura de gestión más profundamente a los mercados privados y la gobernanza de la IA",
+    "summary_es": "BCI amplía la arquitectura de gestión más profundamente a los mercados privados y gobernanza de IA Markets Group"
+  },
+  {
+    "id": "34b432f241c4",
+    "title": "Suleyman launches The Humanist Review; Acemoglu says AI will replace only ~5% of human work in 10 years",
+    "summary": "Suleyman launches The Humanist Review; Acemoglu says AI will replace only ~5% of human work in 10 years Dealroom",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUNfVFN3OVhUMTRNY1huSFZ6WWV5NXlFNXdXYjlmcUJRQURpaXVRSW9KR1NUandIazVFMDdUV1c0RW55TDd3ZGhQWW4xZS05TFJDVzhfVVBreFNKOVFsaFhWWmZ2N1l1Y05lUGRLOEI4ZUhWXzE3RUJxOWtnRmlBUnNjbDNidm5uaHNqbGdfUDhuQlRnNkxoaDlrSUxIQmstdmRRXzZZWC1NS3ItMUo5S25zOU1hZm9la1NGZVdWT21udFowOWxkakFIWkZkRjA?oc=5",
+    "source": "Dealroom",
+    "language": "en",
+    "published": "2026-10-06T17:23:43+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Daron Acemoglu",
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "Suleyman lanza The Humanist Review; Acemoglu dice que la IA reemplazará sólo ~5% del trabajo humano en 10 años",
+    "summary_es": "Suleyman lanza The Humanist Review; Acemoglu dice que la IA reemplazará sólo ~5% del trabajo humano en 10 años Dealroom"
+  },
+  {
+    "id": "be18dfb3da8c",
+    "title": "Microsoft Stocks Jump 1.9% as AI Safety Earns $665 Target",
+    "summary": "Microsoft Stocks Jump 1.9% as AI Safety Earns $665 Target Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX3dEdWtoWkxiQk53Y2laeW1Yb25HbExSZ3NxT1MyWW1IX3RCeDNGZUtWZkl0MGFDcHEwb29Md2dtV1FtQ2F4d1pQdXo1UmRha255M2V6MWlFZmc1NmgwaXBNQk9PODhjMkJwNy00VUNmRHVDVVBQYU5nOWt0Vjl6anpFMGZVSjF6RDdLV1pHNDgxc0g3?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-06T16:53:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Las acciones de Microsoft saltan un 1,9% mientras la seguridad de la IA gana un objetivo de 665 dólares",
+    "summary_es": "Las acciones de Microsoft suben un 1,9% mientras AI Safety gana 665 dólares Target Yahoo Finanzas"
+  },
+  {
+    "id": "882ddab24d0a",
+    "title": "They told the world AI was dangerous. Now Trump’s allies are coming for them.",
+    "summary": "They told the world AI was dangerous. Now Trump’s allies are coming for them. The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHJoZDRlT3loX2JwU1hjblNTNGI3U0o4d0ZST0djdXZZbmpBTVRZSXNYc1JyeFQyWjZWSWZjZWVrTVdLd1BxX080VEJuckNRSnFzZlhSb3BTdGwtRm9aTkNMU0FEeGxneGdFWlBnVTZsbWd0OE5COXo0QXBsX3VDMTdzamEwME9YbC13dXRSazFQQmtTTW1FdGhhb1d1MWpRcGMyVEl5WDYtT2VaUlJsdUIybTcwa0JWYzRBT3BWbWg?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-10-06T16:25:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Le dijeron al mundo que la IA era peligrosa. Ahora los aliados de Trump vienen por ellos.",
+    "summary_es": "Le dijeron al mundo que la IA era peligrosa. Ahora los aliados de Trump vienen por ellos. El Correo de Washington"
+  },
+  {
+    "id": "dc64e87c589f",
+    "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+    "summary": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025 Amazon Web Services (AWS)",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHRoNUhjNm5aOGZjYVNKbXAtNnVJZjVaMm8tLUEzV3R2dU85VFdIdC1BY1pmQnloRU5GQkVNRmx6WXhMZV9ySWZCWlUxR0RITEprUTJpQVpIbjJleWhNcWZyOXBpMUszTWxGeVVYZVJFSVlpdVRqa0pTMDFwaEdiTjVmeVJrVG5vZ1hRcnBOLW9lMDZHY1NIMnRGcFBxODJPbC1hRHBuY0VlU295Nm5IOWhLalFhYUJoaFlXbDRqaWU3NlVFRXhQZjFoUjM?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "language": "en",
+    "published": "2026-10-06T15:53:28+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "Gobernanza responsable de la IA: cómo AWS posiciona a los clientes para alinearse con ISO/IEC 42005:2025",
+    "summary_es": "Gobernanza responsable de la IA: cómo AWS posiciona a los clientes para alinearse con ISO/IEC 42005:2025 Amazon Web Services (AWS)"
+  },
+  {
+    "id": "5eb527ff8b83",
+    "title": "Digital Laws and Governance Around the World: UAE, Qatar and Saudi Arabia",
+    "summary": "Digital Laws and Governance Around the World: UAE, Qatar and Saudi Arabia IAPP",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0s5ZFVOcmo3aVZHUjY4WHBCY29qSmxrUU82V2dNemRZN3J5Ulc5NFpMdUZsbHZhWXlJdmpkclliaGxNR2NVaDZyX3dZbkM4WVd2ZjJkTkdNOS0wYkd2cW1WQXo1cldGR2tsekVITEdpQWxVTVoxX1BUQmE3TnA4dzJuSXFjNG1adElZUmF5RHloQlB0bjg2MW1jTXFtV3RkWUZUZVFqb0E3dw?oc=5",
+    "source": "IAPP",
+    "language": "en",
+    "published": "2026-10-06T15:28:20+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "Leyes digitales y gobernanza en todo el mundo: Emiratos Árabes Unidos, Qatar y Arabia Saudita",
+    "summary_es": "Leyes digitales y gobernanza en todo el mundo: Emiratos Árabes Unidos, Qatar y Arabia Saudita IAPP"
+  },
+  {
+    "id": "1c2fa2e81994",
+    "title": "Managing AI governance across global operations",
+    "summary": "Managing AI governance across global operations Financier Worldwide",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd284V25OU0hTLWdLSFFnTFhfZnBpRzRWZHdGSDVYWVRLU3BBdUZiZXFid1l5YWY1cklSWkdzNHhnX2thUVdVaXdJbElyQ2ctTTdlaS03S09VY3BkM2VGdlMwUE9FOTV5TkpGWEpBek9IS2FWOUNjZ2sxNHRWT0VwZDFGNWR3VmxDLVE?oc=5",
+    "source": "Financier Worldwide",
+    "language": "en",
+    "published": "2026-10-06T15:15:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "Gestión de la gobernanza de la IA en operaciones globales",
+    "summary_es": "Gestión de la gobernanza de la IA en operaciones globales Financier Worldwide"
+  },
+  {
+    "id": "dc65c9a48875",
+    "title": "Acemoglu warns AI could triple unemployment",
+    "summary": "Acemoglu warns AI could triple unemployment MoneyWise.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVZqMXJxbVZYem5FVUVYRUNhUnpldWhmSE8tQ0ZGZ0dWd0Y3cnpaRnJIWlF6czg1cUd1OEF1R3hJazEwMzdsMUgwNGVrWjEtai1uakt1ekhfN3A5UXRQX0JwdXVjZWREdVdYaHQwVXoxeWY3N2VkdlNiSWF2S3MtTVJfNXFSbUZhREtV?oc=5",
+    "source": "MoneyWise.com",
+    "language": "en",
+    "published": "2026-10-06T15:05:09+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "Acemoglu advierte que la IA podría triplicar el desempleo",
+    "summary_es": "Acemoglu advierte que la IA podría triplicar el desempleo MoneyWise.com"
+  },
+  {
+    "id": "22365bdb85f6",
+    "title": "Apocaloptimism: How the White House should navigate AI safety",
+    "summary": "Apocaloptimism: How the White House should navigate AI safety Finextra Research",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXlHbG5DRDBMZnprN0hSWmw1eDc1TEE3ZEdpd0REaGJsOUpfZU1jOUlILVN0ZjkyeE9ialFUc2EybmtyQ28tTTA2b1Q0M21pVzRnc0p4MmxOSDI0VER0Xzd1NDE5RENPbUxMbXlaQVcxeUgwTkhQYk9ORVpIQUhvQVZ6cDFTQUlRZ1RIekx0LUw2UGNhSHdFU3VLMUU5VkVQY2kzQUlHQQ?oc=5",
+    "source": "Finextra Research",
+    "language": "en",
+    "published": "2026-10-06T15:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Apocaloptimismo: cómo la Casa Blanca debería gestionar la seguridad de la IA",
+    "summary_es": "Apocaloptimismo: cómo la Casa Blanca debería gestionar la seguridad de la IA Finextra Research"
+  },
+  {
+    "id": "e866ec34d54d",
+    "title": "AI safety in schools: UNSW study exposes chatbot guardrail flaws",
+    "summary": "AI safety in schools: UNSW study exposes chatbot guardrail flaws The Educator",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1hBSjZkd1oxdWtCOUZPbHJGTEJlRHd5T2RmaUxUeklWU25lSHo3RldGN1dRSERob0wyODliVmNieU84UmJaWks1OTdyZWJnS3FOM2dfSkU5MUh0bmtBNFRjV01mSG9zUEdCQ0xlMkREQ1ZTeFFBck4tcGdaRkZwQ1g0QVJIOV83djUxQUZmXzBNOGZjcDM3V2Q0TEVvdTBoSmZXRFplVnM4MllrbzY0SGM1Zw?oc=5",
+    "source": "The Educator",
+    "language": "en",
+    "published": "2026-10-06T15:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Seguridad de la IA en las escuelas: un estudio de la UNSW expone las fallas de la barandilla del chatbot",
+    "summary_es": "Seguridad de la IA en las escuelas: un estudio de la UNSW expone las fallas de la barandilla del chatbot The Educator"
+  },
+  {
+    "id": "e617019d700e",
+    "title": "What makes a good AI safety test? Experts explain why even the best techniques may not be powerful enough",
+    "summary": "What makes a good AI safety test? Experts explain why even the best techniques may not be powerful enough Scientific American",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR1ZkeDlqOFA4a3M0S1A4QURVbHhOYXNaZGpFQ09OdHVmc1QtWGowRXBQQjZQLV9LVnRVLWdlOVFHSUtKaU1laHJfYzZyLWV4NzBBcmg0T082cDZrbndQejBEMEhZdEk0V3owUVU0UkxDeTBlX3pHbTdLS1hQS3dkTlJ1bjJGMU51ZWExelVlc2F6X2R5T1JEUDk5N25lcXhmbUNQUWpXeHhnVG9nSjVGTHFLNGM1TmxsTE9VNGJLR1NqQXlFX0d4STdxbURzTkFFZjIySWp5Q3FVN1VwTkVWazhB?oc=5",
+    "source": "Scientific American",
+    "language": "en",
+    "published": "2026-10-06T14:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "¿Qué hace que una prueba de seguridad de IA sea buena? Los expertos explican por qué incluso las mejores técnicas pueden no ser lo suficientemente potentes",
+    "summary_es": "¿Qué hace que una prueba de seguridad de IA sea buena? Los expertos explican por qué incluso las mejores técnicas pueden no ser lo suficientemente potentes Scientific American"
+  },
+  {
+    "id": "181c526599a4",
+    "title": "Proper AI governance requires everyday action, say experts",
+    "summary": "Proper AI governance requires everyday action, say experts Pinsent Masons",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlBLVmhmTWJoalNIMlZkNE92MzF0SnRjUHVpU3lITHdGaG0tbUlvTk5FVFZOZ0U4Ykt6ejAyVXZIYTZGelVKRmU0RU9kbFFLOTcySkpDNERoUHZWNEJoOGVmTlJsd0cxelY3bVRLSUlqa1NsRUtrUXd6OXJXVnBiRFRrTkUtVU5IdGp1QVBEOVUxeXpVenI2MWk3QkFaNzI0Smc?oc=5",
+    "source": "Pinsent Masons",
+    "language": "en",
+    "published": "2026-10-06T13:41:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "La gobernanza adecuada de la IA requiere acción diaria, dicen los expertos",
+    "summary_es": "La gobernanza adecuada de la IA requiere acciones diarias, dicen los expertos Pinsent Masons"
+  },
+  {
+    "id": "cdee3a5b3bb7",
+    "title": "Nobel Prize winning MIT economist says AI could triple unemployment in 10 years",
+    "summary": "Nobel Prize winning MIT economist says AI could triple unemployment in 10 years India Today",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWHM1LXA2R3FVb2QwMTAtanZPNXJIYnZJdnN1dm9fZHJIMGhFY0ZYRlpHM0VfZXItVlRXZXRYWDd5MDJxYWZwNEh3M2hUR0VybU9WYmZpZ2VjU2JlUHliX2RNbW5NbHdEQ1JtdFFyaUhVd0J0SVlWdzAtaXJGamxiVUFTWFZZNFlZNTJ0OTZjUWRjZDNOcHRYQ0RFVkJlR0NTSjhsLXFta2MyZktGOHNiMmlmc0pKTF85Z3cxaEVhQ0toTWk1amVfWjdGUUpYNWV6S0Jiay1aUnZ2VEN20gHcAUFVX3lxTE5YczUtcDZHcVVvZDAxMC1qdk81ckhidkl2c3V2b19kckgwaEVjRlhGWkczRV9lci1WVFdldFhYN3kwMnFhZnA0SHczaFRHRXJtT1ZiZmlnZWNTYmVQeWJfZE1tbk1sd0RDUm10UXJpSFV3QnRJWVZ3MC1pckZqbGJVQVNYVlk0WVk1MnQ5NmNRZGNkM05wdFhDREVWQmVHQ1NKOGwtcW1rYzJmS0Y4c2IyaWZzSkpMXzlndzFoRWFDS2hNaTVqZV9aN0ZRSlg1ZXpLQmJrLVpSdnZUQ3Y?oc=5",
+    "source": "India Today",
+    "language": "en",
+    "published": "2026-10-06T13:15:19+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "El economista del MIT ganador del Premio Nobel dice que la IA podría triplicar el desempleo en 10 años",
+    "summary_es": "El economista del MIT ganador del Premio Nobel dice que la IA podría triplicar el desempleo en 10 años India Today"
+  },
+  {
+    "id": "a6eed6f34fce",
+    "title": "‘I think Donald Trump doesn't really understand AI’: Geoffrey Hinton",
+    "summary": "‘I think Donald Trump doesn't really understand AI’: Geoffrey Hinton Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmVyeUUtT1pfazZYQUxsT3BuOG1TRlVvdXFtXy0wR0hMbk9rbTBZLUoyekZNaXpRb2VsdFE1VzNFcW15OE1Ia3NQck1VWXlGMDZvR2xINk9wM2RSRU1CWHozNXRhY3AyUG1oU3U1dlRLZHZuNEc2U3FLdm0wMmt3S1QwNmF2T3ozbGw4eUMyRy1zbmg2cWtYSDZyRUdhWWRGdmdhS2E4OC1nb3lMSWd6bno1bU9pcHJVVU0wTtIBwgFBVV95cUxPZHpHWU92TC03MzJNYk9fT3pJRDh1dDY0c1BxdW1yaTZmb0x4dzVsTGdSUW1tTWpsZGdfQjV1MzZBQ2dMZUFJOHNCR0hYWGNaa0JCVjVzX053TkU0RVdzdE1McmZtbzh4dW1BRVBNQmRtZGtaaDJjODVKQnpYaWljSWxVVmd1RFBrS3RZcFJGSDRqSjhqTlBVTV84V1FsT1FKUmNPV09KOFRBYlpoYkJ3SlByYnFOOWNYTHctdExTd1hZZw?oc=5",
+    "source": "Moneycontrol.com",
+    "language": "en",
+    "published": "2026-10-06T13:10:54+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "\"Creo que Donald Trump realmente no entiende la IA\": Geoffrey Hinton",
+    "summary_es": "\"Creo que Donald Trump realmente no entiende la IA\": Geoffrey Hinton Moneycontrol.com"
+  },
+  {
+    "id": "bb1098f2e156",
+    "title": "ZoomInfo Expands ISO Assurance Program with ISO/IEC 42001 Certification, Validating its Rigorous AI Governance",
+    "summary": "ZoomInfo Expands ISO Assurance Program with ISO/IEC 42001 Certification, Validating its Rigorous AI Governance Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNldNQWVxMTk4ZWoxdlBiQmVNNWRFMWFEd0lBaWZFTXZIQ0xzcE1yb0FNU25HYlQ4OWZlaWxzN2w2VUxqQmUwcmtxQURJT01GTDZJQm8waTFQYjlBNGp0bllTOUszU0tDcnpXbVhBaDJkSFQ3MDdXRkJobzJwTnB4T3ZEM09hOGZqRUY2VkluNnpfVnF5SkVlWEVGenRlMjVrTkdnTzFEYXh5aTRMZExIN0xlTTFabnhabUpzbHg4Z19rb2I5MThxbWpVak9NNmg2RUpSM3ZZU2F1Q1ZuR1ZacXVBaEVHWFgzNUhodlBCUGVjQ1lIT2JZWQ?oc=5",
+    "source": "Business Wire",
+    "language": "en",
+    "published": "2026-10-06T12:36:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "ZoomInfo amplía el programa de garantía ISO con la certificación ISO/IEC 42001, validando su rigurosa gobernanza de la IA",
+    "summary_es": "ZoomInfo amplía su programa de garantía ISO con la certificación ISO/IEC 42001, validando su rigurosa gobernanza de la IA Business Wire"
+  },
+  {
     "id": "77bc5a005770",
     "title": "OpenAI launches text watermarking under the EU AI Act",
     "summary": "OpenAI launches text watermarking under the EU AI Act dig.watch",
@@ -16,6 +369,26 @@
     "date_added": "2026-10-06",
     "title_es": "OpenAI lanza marcas de agua de texto en virtud de la Ley de IA de la UE",
     "summary_es": "OpenAI lanza marcas de agua de texto en virtud de la Ley de IA de la UE dig.watch"
+  },
+  {
+    "id": "2f8643448e0d",
+    "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+    "summary": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology The Decoder",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFJKcHd6Z0tJcG9kbXdQNVZTa2g2LWFDeEJnYXZmWmtWeWcwbGlNT3JuTGlvVTl0VnB4VHUxWnZweU1NMWlIeTIzRUlic0lUN0ZzNlBFZlpsN2pjNTRiYmVuOG9zZHREbEZ0ajEtOGdwVTBZdF9tTm1NTWd5VG1NVnpXOEU1U0ItaVhYbDBXS0xYSnBsMWlnMGthTGxfaldxWk1lbDlwTzgwQS01blVRMkJiRGxTR1dJRWVNcnJjMlQ?oc=5",
+    "source": "The Decoder",
+    "language": "en",
+    "published": "2026-10-06T11:48:25+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "Los investigadores amplían la IA JEPA de LeCun hasta convertirla en un modelo mundial universal que abarca desde la física hasta la biología",
+    "summary_es": "Los investigadores amplían la IA JEPA de LeCun en un modelo mundial universal que funciona desde la física hasta la biología The Decoder"
   },
   {
     "id": "4cb59c2ea96a",
@@ -56,6 +429,26 @@
     "date_added": "2026-10-06",
     "title_es": "El jefe de IA de Microsoft, Mustafa Suleyman, sobre Claude y la conciencia: \"Creo que esto es muy peligroso\"",
     "summary_es": "Mustafa Suleyman, jefe de IA de Microsoft, sobre Claude y la conciencia: “Creo que esto es muy peligroso” Revista Martin Cid"
+  },
+  {
+    "id": "b17ed6bb08b2",
+    "title": "AMD Space Chips Target $5.78B Market by 2034 [2026]",
+    "summary": "AMD Space Chips Target $5.78B Market by 2034 [2026] https://tech-insider.org/",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNFR6ZVdjUzR4MVo2amRXaVNOeHRhNXFTRHI1RXlHbUZDZ083MUJxV1dyM1c5Q0MxaWpSdnZZNnBXeFJPTlAtT3UzZnhQQWo5S0tVdkxvb0lMaTJUSWQ3cDlWVVpJYzVBeEMwMFVR?oc=5",
+    "source": "https://tech-insider.org/",
+    "language": "en",
+    "published": "2026-10-06T11:20:18+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "Los chips espaciales de AMD apuntan a un mercado de 5.78 mil millones de dólares para 2034 [2026]",
+    "summary_es": "Los chips espaciales de AMD apuntan a un mercado de 5.780 millones de dólares para 2034 [2026] https://tech-insider.org/"
   },
   {
     "id": "8697170ee688",
@@ -296,6 +689,27 @@
     "date_added": "2026-10-06",
     "title_es": "Los legisladores de la ciudad de Nueva York pretenden liderar la nación en el establecimiento de reglas de seguridad para la IA",
     "summary_es": "Los legisladores de la ciudad de Nueva York apuntan a liderar la nación en el establecimiento de reglas de seguridad para la IA pymnts.com"
+  },
+  {
+    "id": "c2f540da771b",
+    "title": "Nobel Prize Winner Geoffrey Hinton Delivers Remarks on the Impact of AI",
+    "summary": "Nobel Prize Winner Geoffrey Hinton Delivers Remarks on the Impact of AI C-SPAN",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUJlV2daRHZMVC1lM3ZMYWVwRU5pdWpBUGdGRV8teTl2aU5kRExUbzNKaDNPcW8yclBIWldibmNOOFBwLTIyam5hQ0JGVTZMd1VpTlJMbWx6bUFGdmx1TGtlb01Wei1pS09IVzUzaUNINGlNcG01S3RRU19Ub3FSaVU2cUItTUtlN3lrekkzSWNTN0RzQWNTUXBqbUtIVjhhckw4dFNFZXk0eV9Ya3R6ZTRqUkhfa3JsZXBBNXBvSFljaXlUVEZUeGxR?oc=5",
+    "source": "C-SPAN",
+    "language": "en",
+    "published": "2026-10-05T23:02:52+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "El premio Nobel Geoffrey Hinton ofrece comentarios sobre el impacto de la IA",
+    "summary_es": "El premio Nobel Geoffrey Hinton ofrece comentarios sobre el impacto de la IA C-SPAN"
   },
   {
     "id": "1eecc0563c05",
