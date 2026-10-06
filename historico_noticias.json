@@ -1,5 +1,133 @@
 [
   {
+    "id": "613e6e5ce8b3",
+    "title": "Anthropic will let Australia stress test dangerous new models",
+    "summary": "Anthropic will let Australia stress test dangerous new models Forbes Australia",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUlhpa1hQdUp6SDhSekFydzk3QVZYSThtZWFMc1dudndtb2VjYlJybUZYeU1iZjl1d0JfMHJZTTF3RHh5T1lNMzNjcEdtb1daMEhCaWxxWl9UbTVMYTFkRnVYQTlLWVdERmFfamxBSmRyWEcxTm0xR041ZENIb2IwM1hreUVQYVhQZTQzUkdZRkd2My1IS1JKeXZMbldfRklRdXhtNQ?oc=5",
+    "source": "Forbes Australia",
+    "language": "en",
+    "published": "2026-10-06T03:27:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "Anthropic permitirá que Australia pruebe nuevos modelos peligrosos",
+    "summary_es": "Anthropic permitirá que Australia pruebe nuevos modelos peligrosos Forbes Australia"
+  },
+  {
+    "id": "8518306bc8f1",
+    "title": "AI safety groups aren’t buying OpenAI’s spending retreat",
+    "summary": "AI safety groups aren’t buying OpenAI’s spending retreat Politico",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEw4dk1PQzRLNjF3OXZnemJtbFRZc0pad1VqaURfVEJYeDEwOXVhaEtpcHY0RzZVM2YwRGtoUGxDTmJpNTNKbUxIRVk5TmNYNEVtc1BZSE1mTnRwZTAzLWpmYlZpdHhNTncxcmsyQU1LdzBvTWRoTzM4a3NrNUZ6S3cxOHRrS2JWazBERnN2NEdRVDd1ME9vTDln?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-10-06T00:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Los grupos de seguridad de IA no se creen la retirada de gastos de OpenAI",
+    "summary_es": "Los grupos de seguridad de IA no se creen la retirada de gastos de OpenAI Politico"
+  },
+  {
+    "id": "ccca4bff9ff0",
+    "title": "AI Safety Kids",
+    "summary": "AI Safety Kids columbiamissourian.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEhobXZVUGpGNkY2QkQ2b3V2WG9HeDJOdURONWxCZnRaNGNnTnhXU1FzTlpxbVN6dFlvazdSRk92UGNtaWZUOXBIaXNBM2trbEdzbkVfeV9wVFo4VGFhRVdMYVFWVU5EZVByTEltMUpSeDlfaVowODFZZXQtcWVsY1BlWGtfZ3ZObGh3c29JS1B4aFBvWkZndzVkU3VFaWZYMGF2cG1vWFBOeEIxY2ZWMVZ6dS1VQQ?oc=5",
+    "source": "columbiamissourian.com",
+    "language": "en",
+    "published": "2026-10-06T00:18:34+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Seguridad de la IA para niños",
+    "summary_es": "AI Safety Kids columbiamissourian.com"
+  },
+  {
+    "id": "8c5d66340112",
+    "title": "NYC Lawmakers Aim to Lead Nation in Establishing AI Safety Rules",
+    "summary": "NYC Lawmakers Aim to Lead Nation in Establishing AI Safety Rules pymnts.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRiM3JaYi1NQjVDUlN4azQwY0poX0w4Qk5PNUN6Zl9nYW5iUjZyLTMyZWR3NXp3Mk05R1pYNzlpdWZfNzVjSzNBaC02RXdZU2dDVTdISW5aNmpBdkFBQzctSTEwelBHZ09rakdOclBnQ19WRFZFMFg5Mmk3MFlCZ1dyeEd6OWhTNTdXYTg1eEFGeXVPWXh1a2dsaldWdmVCWENkVWhUR0RTRTZXbFpVaU05N2JzY3FON2J0a2tuTQ?oc=5",
+    "source": "pymnts.com",
+    "language": "en",
+    "published": "2026-10-06T00:05:51+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Los legisladores de la ciudad de Nueva York pretenden liderar la nación en el establecimiento de reglas de seguridad para la IA",
+    "summary_es": "Los legisladores de la ciudad de Nueva York apuntan a liderar la nación en el establecimiento de reglas de seguridad para la IA pymnts.com"
+  },
+  {
+    "id": "1eecc0563c05",
+    "title": "Anthropic expected to IPO despite market concerns, AI safety concerns",
+    "summary": "Anthropic expected to IPO despite market concerns, AI safety concerns wandtv.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTR1NEZ1OEdDTWo4OFF0c0xxVGVUMzNIUGtMYzJyQ3FwRjZKZkhBOE5mUzRtV3MwdGpBb256Uzk4cFdmVl84dmltLURYaU1IWVZmYVd1SmVZN2Zwd1piZm5GOUp4MjNOQjJJcEZOdnFHcnRZSzZVQUU3NzdacDBuQ0NuanVEaTdXbUZkRlpTVG5rY0NkWnBtWXdxTWxDakl1QzFVN1BZTnJaZw?oc=5",
+    "source": "wandtv.com",
+    "language": "en",
+    "published": "2026-10-05T22:22:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-06",
+    "title_es": "Se espera que Anthropic salga a bolsa a pesar de las preocupaciones del mercado y de la seguridad de la IA",
+    "summary_es": "Se espera que Anthropic salga a bolsa a pesar de las preocupaciones del mercado y de la seguridad de la IA wandtv.com"
+  },
+  {
+    "id": "c9746c092af2",
+    "title": "Collibra Acquires trail ML to Automate AI Governance From Policy to Production",
+    "summary": "Collibra Acquires trail ML to Automate AI Governance From Policy to Production citybiz",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSE1sMi1ScnU2TEpUTUc0Y2RvN3dlcTU2NFVQSmM5N0JDQ2k0S1ZRTEJOT2RxSk1qU3NTaTFmR1dFeVNvWkVkRTRCMVNCZ2hDSDYyUXpsMEw4dHcydV9zZW1ZWmU4Z0xxY1doU3M2Q1hyRExFMTFHSzJ1eUJQSWFDMXdrc1RaSlp0bk5iRmVFcXN2elg5T2daZmlPd1phc2JyWE44UF9ZZlVpZE1JVGQ4TnE0NUR0d2FQ?oc=5",
+    "source": "citybiz",
+    "language": "en",
+    "published": "2026-10-05T22:01:49+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-06",
+    "title_es": "Collibra adquiere Trail ML para automatizar la gobernanza de la IA desde la política hasta la producción",
+    "summary_es": "Collibra adquiere trail ML para automatizar la gobernanza de la IA desde la política hasta la producción"
+  },
+  {
+    "id": "4a379d7d8928",
+    "title": "LeCun Labels AI Risk 'Worst Marketing Campaign'",
+    "summary": "LeCun Labels AI Risk 'Worst Marketing Campaign' 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGh2akxCT3p1by1DX3VjeHRURXpScFYtZHFkSkRDNTBqbl92ZEswNjIxSUV0NzZwaDhpb0w1VnVRckw0ZDkwbEtlMTBzejVxWTgyM2dVb3BscWp3OWxaT1hOSi1PVG4zb1VBNTBvT0VBVDJVelFUSmdKM1hXRkN1ZWpiVXJtMk5G?oc=5",
+    "source": "조선일보",
+    "language": "en",
+    "published": "2026-10-05T20:29:35+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-06",
+    "title_es": "LeCun califica el riesgo de IA como \"la peor campaña de marketing\"",
+    "summary_es": "LeCun etiqueta el riesgo de IA como la \"peor campaña de marketing\" Chosun Ilbo"
+  },
+  {
     "id": "18b2df02660c",
     "title": "Building AI Governance, Monitoring Shadow AI in Tennessee",
     "summary": "Building AI Governance, Monitoring Shadow AI in Tennessee GovTech",
