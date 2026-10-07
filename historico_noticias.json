@@ -1,5 +1,316 @@
 [
   {
+    "id": "12ba0aae5b23",
+    "title": "Sen. Maria Cantwell looks to federal testing role in AI safety framework",
+    "summary": "Sen. Maria Cantwell looks to federal testing role in AI safety framework Roll Call",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkVXNzBYNGFSZXJRbkVjR01ZV3hCR2FrWkR5Y2lZMk52R1VxVXFhOVBZcHVWaWt4WnRoUEFSbkdnZFB2N1haUEw4MlBXUzRHU0FLcjBZV1BvVGkyQ0FReXNadXNhWTZ4WEp4eVJSQkFVbWV6dEZkYkNkemhVbFFPLVRJU2h5REMzVnhNb3piMGRjUWpJUDMxRTdaMEMwV2RpRjhwVDVrVQ?oc=5",
+    "source": "Roll Call",
+    "language": "en",
+    "published": "2026-10-07T21:24:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "La senadora Maria Cantwell analiza el papel de las pruebas federales en el marco de seguridad de la IA",
+    "summary_es": "La senadora Maria Cantwell analiza el papel de las pruebas federales en el marco de seguridad de la IA"
+  },
+  {
+    "id": "734bc953b888",
+    "title": "Video: Opinion | Wealth Is Clouding the A.I. Safety Debate",
+    "summary": "Video: Opinion | Wealth Is Clouding the A.I. Safety Debate The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNy1DT1JHaFRuYV9VTEZqYlB4eXhlVWhMWUgtTWU1WjVXVWNzSUgxYWYxZ2NVT01BNUlEMGZaQjlvQTZsY2RfNnRBTjdYVUJES3AtaE56Q2dOV2tsdXZ1Um5POG1DVENMT3FlQThhWU9MSkFqQ3N4TEZ5Rmw3RGt4b2NhYnhsTGhMVTBPQVdwTnR2MUVhYTJaekpfUDB1Ymc?oc=5",
+    "source": "The New York Times",
+    "language": "en",
+    "published": "2026-10-07T20:50:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "Vídeo: Opinión | La riqueza está nublando la inteligencia artificial Debate sobre seguridad",
+    "summary_es": "Vídeo: Opinión | La riqueza está nublando la inteligencia artificial Debate sobre seguridad The New York Times"
+  },
+  {
+    "id": "7a9c39f20e2a",
+    "title": "Midwest Wheel builds toward AI agents that fix problems",
+    "summary": "Midwest Wheel builds toward AI agents that fix problems SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUNjR3F4WWFLM21VZHpHdWZpTnNqWWNfdmdfY3U0OGRudWJXNTdFVGpwenlMUEtpcTdvV2FldEU2WWNvaXJFX0F0WklCVXFmSXVyaGlXVktSVk1tMWZIdkRKQXhxdWpGb1ZmQllTblJPZ0ZrYVNuTHJxNkNBeUxNT2hyU2d0VTA5bHh2Q3JObjdsV25ueVVJU0pB?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-10-07T19:46:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "Midwest Wheel avanza hacia agentes de inteligencia artificial que solucionan problemas",
+    "summary_es": "Midwest Wheel desarrolla agentes de inteligencia artificial que solucionan problemas SiliconANGLE"
+  },
+  {
+    "id": "56216db31ffd",
+    "title": "WSU Professor Emeritus talks about AI safety",
+    "summary": "WSU Professor Emeritus talks about AI safety krem.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0lDR3ZQbWFzZy1MUzk3TU0wUnpoaEtqak4tNGk2Q0xnSVNkZElkYm5BX1NQRmJTLThZWVBPYWVSeEhMcDNQUTloRlpvbG4yeEJ2SDdPcEdpVXZmWFN3a3A2WEJDUlhxc3Bka2RiU3QxTjlxdHg2aVFSOThCNTgtcmp2WjkxbVd0cXdtMGFBSVNRM3JkenlBM2tWTHpYVFBnVE92T0xGZjc0Y2lGZndUTGpSampSV2Zk?oc=5",
+    "source": "krem.com",
+    "language": "en",
+    "published": "2026-10-07T19:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "Profesor emérito de WSU habla sobre la seguridad de la IA",
+    "summary_es": "Profesor emérito de WSU habla sobre la seguridad de la IA krem.com"
+  },
+  {
+    "id": "c80cb8ac5bfe",
+    "title": "Elizabeth Warren, Richard Blumenthal press White House over AI safety rules",
+    "summary": "Elizabeth Warren, Richard Blumenthal press White House over AI safety rules Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53YWhUd3VwS3hzUnViUGlQenNFZE1iMXhVVGhMWEF6Uzhwek95TDJWaWpNRm5IMGVpZUk5cVJiRlMxd0UwLWFOaFo3MlhOQ1dMb1JaQmpsMnFDNDA?oc=5",
+    "source": "Fox Business",
+    "language": "en",
+    "published": "2026-10-07T17:31:38+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "Elizabeth Warren y Richard Blumenthal presionan a la Casa Blanca sobre las reglas de seguridad de la IA",
+    "summary_es": "Elizabeth Warren y Richard Blumenthal presionan a la Casa Blanca sobre las reglas de seguridad de la IA Fox Business"
+  },
+  {
+    "id": "153bb095a186",
+    "title": "Applying the minimization principle to AI governance",
+    "summary": "Applying the minimization principle to AI governance IAPP",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFRMdUs4NEdUQ1oyTXAwRWgyTTBhUVoyQjUzeWxEeEFYeUZBWFdUXzl3UkhuS1RmaGlJWVlvSmd0aDlOQUxfblBkT1dYVkRmNjlwYklONTY3bF9xMTNYTngtRU8xQUEwbUhUZ2Y5WURQemlmMFBPY1lJeVc1RTA0bVZn?oc=5",
+    "source": "IAPP",
+    "language": "en",
+    "published": "2026-10-07T17:06:31+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "Aplicar el principio de minimización a la gobernanza de la IA",
+    "summary_es": "Aplicar el principio de minimización a la gobernanza de la IA IAPP"
+  },
+  {
+    "id": "cec16db421ce",
+    "title": "Keep Teens Off ChatGPT, Says Youth AI Safety Institute",
+    "summary": "Keep Teens Off ChatGPT, Says Youth AI Safety Institute KQED",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFlwWWdNRTF6Z1lHbHE2bXA3RUFaQnhEeTlmRFZFanJPdUFoQm02WDA5YlN6eDdIQlZ5ZU12Nk9SUFBjQmo0akR6RjF5UjdTNGNiQTZRZTZtMm1XMXowa1lkbU5EZW1yV2MyN2J3cGloeGlhd3JtVnJERE5QQjJaQzJvSm4zSkZSSTRPX1VhLUtjZw?oc=5",
+    "source": "KQED",
+    "language": "en",
+    "published": "2026-10-07T16:30:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "Mantenga a los adolescentes alejados de ChatGPT, dice el Youth AI Safety Institute",
+    "summary_es": "Mantenga a los adolescentes alejados de ChatGPT, dice el Instituto de Seguridad de IA para Jóvenes KQED"
+  },
+  {
+    "id": "07cced0530d3",
+    "title": "AI safety group outlines demands for legislation, warns lawmakers",
+    "summary": "AI safety group outlines demands for legislation, warns lawmakers Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm5GMnZfeHNaOEswM2NtLVhycnpUVjZJRFdjTElCWmdvVVBYaV9sQlkxUEVVdlJLTWhhMEtXTGxCcm9Tb05qV0VyX2hlNkYzWnZHeTlhY0dHTHRzN3lmcUo0WENtLWVmUm1nS0ZzY1lSb01rUlVndjJ0cXJ1NkhuRTdETFNSV0lvalhxaVBZUUI5Z1pBeFRB?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-10-07T15:09:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "El grupo de seguridad de IA describe las demandas de legislación, advierte a los legisladores",
+    "summary_es": "El grupo de seguridad de IA describe las demandas de legislación, advierte a los legisladores Yahoo"
+  },
+  {
+    "id": "08bdb1448a6a",
+    "title": "Nobel laureate Daron Acemoglu prediction on AI: Here is what he says",
+    "summary": "Nobel laureate Daron Acemoglu prediction on AI: Here is what he says ET Enterprise AI",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNXzFhZTFLVUEyMzhDMHVDTjVpT1RoVjc5X2txMDhNLWFkNEd3Skdtak5EVmxmemNmWDVRQnpQRXppWmNma0VGZlZ5SllrR2t1eDl0dGRYS3JuRmd6NUFzN1VpRFlEa21TdWl4WDRDYXNqSnQtR3NmSnZDTGpIR1pVZi0tOV9CQmgtTGZfTjgwMXpMaGcxOGpFSjM5U0ZOTnlNd3cwQ1NmTnRTcGNlcGN6WlJvWjJKdEFYX3RoMzFkUTVwSHBCWjljSjFLM2U2b2luaWM1UmV3bFE3YWFtZ0HSAd4BQVVfeXFMTV8xYWUxS1VBMjM4QzB1Q041aU9UaFY3OV9rcTA4TS1hZDRHd0pHbWpORFZsZnpjZlg1UUJ6UEV6aVpjZmtFRmZWeUpZa0drdXg5dHRkWEtybkZnejVBczdVaURZRGttU3VpeFg0Q2Fzakp0LUdzZkp2Q0xqSEdaVWYtLTlfQkJoLUxmX044MDF6TGhnMThqRUozOVNGTk55TXd3MENTZk50U3BjZXBjelpSb1oySnRBWF90aDMxZFE1cEhwQlo5Y0oxSzNlNm9pbmljNVJld2xRN2FhbWdB?oc=5",
+    "source": "ET Enterprise AI",
+    "language": "en",
+    "published": "2026-10-07T14:29:57+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-07",
+    "title_es": "Predicción del premio Nobel Daron Acemoglu sobre la IA: esto es lo que dice",
+    "summary_es": "Predicción del premio Nobel Daron Acemoglu sobre la IA: esto es lo que dice ET Enterprise AI"
+  },
+  {
+    "id": "f27881b5cb19",
+    "title": "Constant Vigilance is the Watchword for Healthcare AI Governance",
+    "summary": "Constant Vigilance is the Watchword for Healthcare AI Governance MedCity News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUZNaFpRb1p4YWI3dDdYamlwZHFHLXM4ZVROT0pmdV96ejlhLWVWSVZleUFDRVFCaTdqVDk2WGdseDBKUGhHLWVkNFVqQU56eWh5YXY2cUtYQnlsalVHUWVYbGtjeFFPbWRTaWxjUWVnQWpFUG5ueEI4N212U3BkWnNxeXhmMGxMRHVtSmdra3NNOUVRVTNYYUEta1Rxdw?oc=5",
+    "source": "MedCity News",
+    "language": "en",
+    "published": "2026-10-07T14:20:20+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "La vigilancia constante es el lema para la gobernanza de la IA en el sector sanitario",
+    "summary_es": "La vigilancia constante es el lema para la gobernanza de la IA en el sector sanitario MedCity News"
+  },
+  {
+    "id": "526607ccb0f3",
+    "title": "Citizens’ Assemblies in AI Governance: An Interview With Audrey Tang",
+    "summary": "Citizens’ Assemblies in AI Governance: An Interview With Audrey Tang Lawfare",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWNFUm8yR3BXTDV0UFdoa205Q214R2tLRndnTUdrckZkMFkxZ1BUUTNEbXhwdDlCMnMxMEpSemMwdnUxTDJvQTNaVlhLUi1XUi1hTGxDNUcxOV96dURuMWRKa2V5ek9hZHJ1QU02MHpMOEF0UHN5ZVVDaFVUeTlyOERBcFFmeWFOLXRiY2FDS3ZMd3pIcWxPeEUtRmZ2T2JWZ3RmVE5LTC0?oc=5",
+    "source": "Lawfare",
+    "language": "en",
+    "published": "2026-10-07T14:10:07+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "Asambleas de ciudadanos en la gobernanza de la IA: una entrevista con Audrey Tang",
+    "summary_es": "Asambleas de ciudadanos en la gobernanza de la IA: una entrevista con Audrey Tang Lawfare"
+  },
+  {
+    "id": "1e8fb8ce5c1c",
+    "title": "AI Governance Cannot Be Solved by Blocking Models, Says Kimchi Core Contributor",
+    "summary": "AI Governance Cannot Be Solved by Blocking Models, Says Kimchi Core Contributor Analytics India Magazine",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTJfUXA2WVFha1drdXF6emFaR1dwWXpXOFFpeUhhTjA2VUFoMkNzaU9MRGlGM3FRTHhFem01alA0b21NQm9ydzBTaFFZSWNlcnMxaEpSeUlZbkY0aHlRWklPckFyX1JpVFdjRWg1Ymd5S3pncElIMWlGeFEyVnNaNGcxejU5RlkyY2p4ZFZoRFdCbmI4aWZFX0g3bWRiR2N2R2U4Ukc0TmRLUXgyb0wtdDFhdkN2Rzg?oc=5",
+    "source": "Analytics India Magazine",
+    "language": "en",
+    "published": "2026-10-07T14:07:16+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "La gobernanza de la IA no se puede resolver bloqueando modelos, dice el colaborador principal de Kimchi",
+    "summary_es": "La gobernanza de la IA no se puede resolver bloqueando modelos, dice el colaborador principal de Kimchi Analytics India Magazine"
+  },
+  {
+    "id": "564f7b7d32ab",
+    "title": "La seguridad de la IA enfrenta a OpenAI con nuevas críticas",
+    "summary": "La seguridad de la IA enfrenta a OpenAI con nuevas críticas GNDiario",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZlpqX2NNSHl4c0RiZGVzUTNCUGRKYzJCTjhyVlNjMUxuU2p4bzhhVms0R3BNU3l5eU9Obm9hZThpQ2V4bGpwSVdNR3dpX3U0QWJoN1RSSV93Tjc3Nmx3akFFWGxHZ29YMkh1eXN5Qi0zWnlWTmhTVA?oc=5",
+    "source": "GNDiario",
+    "language": "es",
+    "published": "2026-10-07T14:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "La seguridad de la IA enfrenta a OpenAI con nuevas críticas",
+    "summary_es": "La seguridad de la IA enfrenta a OpenAI con nuevas críticas GNDiario"
+  },
+  {
+    "id": "46d6bbc9699b",
+    "title": "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
+    "summary": "A reckoning on social media addiction came late for many kids. Will AI safety be different? Sentinel Colorado",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdzdlWkRXNU1pRUVKcFRYZDJOSVJUTHVuYlZjX1BVZy00SzlXeWF0c2NxSFp0ZklqYm1QQUwxdlVJaE1Za3lKcGJwckFPbW1oWkNPUVRFU0s0UDFhMlZuVXhYT1NuNUhRSG5DeGMxeEJIeXdFQjFGWUZacWJ4MG5lNjJUQl85VDU1U0ltUF9jdWlpQ25LTDIyREl4OGdVRHp0MkFIVHZhU2NCYTltaVZpRms3OHhvZUhFckJCNjVFMXNCdU1SNHVtVUh6dVNjZw?oc=5",
+    "source": "Sentinel Colorado",
+    "language": "en",
+    "published": "2026-10-07T13:52:32+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "La reflexión sobre la adicción a las redes sociales llegó tarde para muchos niños. ¿Será diferente la seguridad de la IA?",
+    "summary_es": "La reflexión sobre la adicción a las redes sociales llegó tarde para muchos niños. ¿Será diferente la seguridad de la IA? centinela colorado"
+  },
+  {
+    "id": "1d1dafd0c673",
+    "title": "New Fracture Index Reveals a 65-Point Gap in Enterprise AI Governance",
+    "summary": "New Fracture Index Reveals a 65-Point Gap in Enterprise AI Governance EIN Presswire",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNk5HVG9PdW9mZi11YXdRcmJBUl9oMU8xOHVkQTVEdlNjU2E4TVlsNVRMWVpVQTdEcXIxOFo3UEFEeExxaWVmZmlDQ3lUQ24wUmt4SXlCeGpwR05GN2FIOUc2cnplV3Fpb0Z6aWpuTXh6cFRmb2pzZURVemhEZDJKOXVMdDVYNmh2V2otMHp3WlkxLTNyZkJyUElmUEtXS2FCZEJfZVFraE1qTFZfNi1jZmNEcWE2UkU?oc=5",
+    "source": "EIN Presswire",
+    "language": "en",
+    "published": "2026-10-07T13:15:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-07",
+    "title_es": "Un nuevo índice de fractura revela una brecha de 65 puntos en la gobernanza de la IA empresarial",
+    "summary_es": "Un nuevo índice de fractura revela una brecha de 65 puntos en la gobernanza de la IA empresarial EIN Presswire"
+  },
+  {
+    "id": "9ba8f843fc8d",
+    "title": "Cantwell unveils AI safety framework as Congress stalls ahead of election",
+    "summary": "Cantwell unveils AI safety framework as Congress stalls ahead of election The Seattle Times",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0cwY2l4bnVZZUlUS0poMkRaSDlVNy1nTkR3c0pQRVFZbUxVSXlOckxWNG1NUjlveFdwSHRXUmlCeGhFd2lxLWNnU2NyQ1NHTU5KaWhFZUVVRG1PUDBCUE5SaklaYVRkQjJRQmFoMTR3ekdBSHFXQzZDYVRzTE1fODhXbzlWbEpkVmRUR3kwQ1lzVTB0M3Z0TDhKNXhkeGtIRC1ZclhtODloWXZ1eGlRQW9iVmp0NzktZUhlcTBjbXFCLWc?oc=5",
+    "source": "The Seattle Times",
+    "language": "en",
+    "published": "2026-10-07T13:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "Cantwell presenta el marco de seguridad de la IA mientras el Congreso se estanca antes de las elecciones",
+    "summary_es": "Cantwell presenta marco de seguridad de la IA mientras el Congreso se estanca antes de las elecciones The Seattle Times"
+  },
+  {
+    "id": "655ebc45ba1e",
+    "title": "“Sabotage, Lying, and Manipulation”: What One AI-Safety Company Found in the Dark Mind of a Rogue Chatbot",
+    "summary": "“Sabotage, Lying, and Manipulation”: What One AI-Safety Company Found in the Dark Mind of a Rogue Chatbot Vanity Fair",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FMVVicGNlbURXNEpXVTdDV3NqYXFNN2dBWnJjcFdyUmJaRno4a01BNWVlWF9NekhiLXZfZlJJMjBxSjRIcGZxbTB5elo3Qzc2OUlKQ1hJdXBjMm0zN3lfUmZsMGdXSVdLeU5ZTGlNUjNnclZHc0E?oc=5",
+    "source": "Vanity Fair",
+    "language": "en",
+    "published": "2026-10-07T12:57:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "sociedad",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-07",
+    "title_es": "“Sabotaje, mentira y manipulación”: lo que una empresa de seguridad de inteligencia artificial encontró en la mente oscura de un chatbot deshonesto",
+    "summary_es": "“Sabotaje, mentira y manipulación”: lo que una empresa de seguridad de inteligencia artificial encontró en la mente oscura de un chatbot deshonesto Vanity Fair"
+  },
+  {
     "id": "8e59b4ca38ce",
     "title": "Inside AI safety’s hottest club",
     "summary": "Inside AI safety’s hottest club Politico",
