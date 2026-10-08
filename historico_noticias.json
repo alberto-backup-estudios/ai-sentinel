@@ -1,5 +1,317 @@
 [
   {
+    "id": "36c6ea4c37c5",
+    "title": "Center for AI Safety Launches Three Creator Initiatives to Mobilize Public Voices on AI Safety",
+    "summary": "Center for AI Safety Launches Three Creator Initiatives to Mobilize Public Voices on AI Safety Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2d3WWFQdGVZRk1iXzVUMWNGZW1ZZ0tra0ljWE9VcEFfdDMySjd3U3VURjBtenRpOWRXUHF4ZzNqQ0lBWUpoVmNhcnU5T3RMZ2lodEhVNnVBY0JyMVpsZWh4ZkktX1ZjQktrVmRFNXJXNE9RMHBScVgyTk1QYnFNdmNCYXhwc284RTFHOFBvN3JEdXVaajY1NW50ejJTSlVpYkZQX1FkUHJHb0xzZUpheTQyVTU3aklVdTdyRkRHVkpGcE9uUTU5OFEyLTN4QUFMNTNpazNYM2lucWlsQkVwc3JzX0tqZw?oc=5",
+    "source": "Business Wire",
+    "language": "en",
+    "published": "2026-10-08T21:36:53+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "El Centro para la seguridad de la IA lanza tres iniciativas de creadores para movilizar las voces públicas sobre la seguridad de la IA",
+    "summary_es": "El Centro para la Seguridad de la IA lanza tres iniciativas de creadores para movilizar las voces públicas sobre la seguridad de la IA Business Wire"
+  },
+  {
+    "id": "ae4272feaaf3",
+    "title": "Healthcare AI Governance Has a Visibility Problem",
+    "summary": "Healthcare AI Governance Has a Visibility Problem BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSllid0dfRkxPR1MxcEk2WDEtYnRDRmJOTzlKN0pGSTItamxYVnd1UkcxeC1ONnAwUWhMeVA3OWlFMGNlWU92MXhFeFBMRXBQUFhJTGwwZV9KVllmd0wybnpEUmFkZ2JoSFN4a3o0SHI3eDlqOVVuLW8xeTJRSTFybkFPVGEyQTNCczAzSm9XT0lkUQ?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-10-08T21:09:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "La gobernanza de la IA en el sector sanitario tiene un problema de visibilidad",
+    "summary_es": "La gobernanza de la IA en el sector sanitario tiene un problema de visibilidad BankInfoSecurity"
+  },
+  {
+    "id": "53f797b91bc6",
+    "title": "Investigadores despedidos de OpenAI negaron haber filtrado información y advirtieron por la seguridad de la IA",
+    "summary": "Investigadores despedidos de OpenAI negaron haber filtrado información y advirtieron por la seguridad de la IA La Voz del Interior",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcEhqcWloalZBVEdOQXc2OUdPdlpiLU4zeFRyZnV4NlhnbmNDaHNmY1FzbmR5UG9tYUwzU1NWRXpma21aWm9xRG1waUxRNDlrd3BYUTB4ckJSb2pnXy1RM3N4YjFxUkw1aElJeGRKVTVUMW9fVG5odGg4eHpxOEx3NWVNbDRmNW1xcXF6ZFhHaTh6WnhnODVQbFJQZGVUTWN4R0Uzck1PT0hnT1B2a0VJOE94bXphVk9wNlctMGd5TWdFeEdDUzRvb0lod1VWck9HUElDS1VmSQ?oc=5",
+    "source": "La Voz del Interior",
+    "language": "es",
+    "published": "2026-10-08T21:03:20+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Investigadores despedidos de OpenAI negaron haber filtrado información y advirtieron por la seguridad de la IA",
+    "summary_es": "Investigadores despedidos de OpenAI negaron haber filtrado información y advirtieron por la seguridad de la IA La Voz del Interior"
+  },
+  {
+    "id": "5ead7dec3374",
+    "title": "The CIO’s Guide to AI Safety Beyond Frontier Model Trust",
+    "summary": "The CIO’s Guide to AI Safety Beyond Frontier Model Trust The National CIO Review",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQk5Cb0VrSDFZVWpOMkVFM0lyNndla01KWDJVR0xTeVBwT3MtYUVtRy1YUUlXcGN0UHBjNkVXdnJ3RXl3NkpBdHdRY3NaV2lhQVlYN3hqbFk1YjZPLXREUGI4SDFLdFFPVW5BNmdDby0yYXRaU0t3Yl9HTUllWkxsYzBRaGxjdmk5U004R3psYkZudUdHdkdRZENmV0Z1RUpZM05yMDJNWVZSd3BHZDc3YjVVX1VxcGFoaWFvb1F4WFhKczA?oc=5",
+    "source": "The National CIO Review",
+    "language": "en",
+    "published": "2026-10-08T18:34:34+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "La guía del CIO sobre la seguridad de la IA más allá de la confianza en el modelo fronterizo",
+    "summary_es": "La guía del CIO para la seguridad de la IA más allá de las fronteras Modelo Trust The National CIO Review"
+  },
+  {
+    "id": "867619665ca0",
+    "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+    "summary": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime SemiAnalysis",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96c0FtTjdWaFUzSXl0NTRlTmZ5VnF5OGdVZ1VQUlRpVHp1R1hqdjBRS1dOWG1HUjFfWlpNX3k2NzNLdWh2ZnVTQXJsTXI5Tmttc0RzWVprQURvMGtiNW9lcjlPU2Y3blZGajRhcFRoeHA2dnlnM2JjSmQ2OHY?oc=5",
+    "source": "SemiAnalysis",
+    "language": "en",
+    "published": "2026-10-08T17:46:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Beijing no seguirá la frontera: el régimen de seguridad de la IA de China que prioriza la velocidad",
+    "summary_es": "Beijing no seguirá la frontera: semianálisis del régimen de seguridad de la IA que prioriza la velocidad de China"
+  },
+  {
+    "id": "d8e897a4c2d7",
+    "title": "AI Safety ≠ AI Security: EnforceAuth Announces Evidence IQ",
+    "summary": "AI Safety ≠ AI Security: EnforceAuth Announces Evidence IQ EIN Presswire",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVE4yTzA3eERXSklkbS1wUGQ2MVFJMU02cmlXM3J4RFBmcXFzeVJQMGl1c1ZfTGNJUHZPc2I1ek9jTTJRZGZqYXRuZXJ0MG03ZWZaM1Q2MWNhcmFuVzlTSDFjaEg4aHdpMGtlbGkwVHA1UnloS0t4N2xraGVxV1daU3RlUDFLLU44MVc2UjRhNUlaYmZ4SzNOSDVRWFpSNkUzSnp3NQ?oc=5",
+    "source": "EIN Presswire",
+    "language": "en",
+    "published": "2026-10-08T17:44:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Seguridad de la IA ≠ Seguridad de la IA: EnforceAuth anuncia Evidence IQ",
+    "summary_es": "Seguridad de la IA ≠ Seguridad de la IA: EnforceAuth anuncia Evidence IQ EIN Presswire"
+  },
+  {
+    "id": "298cb1dd2c0d",
+    "title": "Edge Maps and Depth Images Can Unlock What AI Safety Filters Erased",
+    "summary": "Edge Maps and Depth Images Can Unlock What AI Safety Filters Erased Bioengineer.org",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV2E4cXk2a05SVmVOU3JfMzFManFPZUptb2pYTzY0aVFQeVcwMTNJUldsTUwtckNQRFhuTTBuQUNDV0ItenRqZjNaMXQxRDVYVkZIYTVGT0dDVUZ2ak1pMW5DNnFidkZvT3ZDQ1RHSDN2QldsbC1DUUwwUE1wY1lPWFVqZU40Tk5IRzBnbVJGbUFRZnR1eFpn?oc=5",
+    "source": "Bioengineer.org",
+    "language": "en",
+    "published": "2026-10-08T17:35:40+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Los mapas de bordes y las imágenes de profundidad pueden desbloquear lo que borraron los filtros de seguridad de IA",
+    "summary_es": "Los mapas de bordes y las imágenes de profundidad pueden desbloquear lo que los filtros de seguridad de IA borraron Bioengineer.org"
+  },
+  {
+    "id": "369e5aef3ae0",
+    "title": "FTC advancing on its AI safety probe",
+    "summary": "FTC advancing on its AI safety probe Semafor",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlR4c3R1Z0drLTB4MllCeUlCQTNXV1hNQkNUT3hudm42TTloR1NlcUJKQUlybGUzOFFrMElVRFNmV0xvOUlCYU5QQ1JnY3FsbVhpWXdrcGgtblUwdmUzbmVUdjgwdXJnUmpVVFR5ckQzZkt3ZFg2TFZUV2o1MlhhMVplb0k0QQ?oc=5",
+    "source": "Semafor",
+    "language": "en",
+    "published": "2026-10-08T17:21:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "La FTC avanza en su investigación sobre la seguridad de la IA",
+    "summary_es": "La FTC avanza en su investigación sobre la seguridad de la IA Semafor"
+  },
+  {
+    "id": "9ae37b7ac8bc",
+    "title": "Singapore’s AI governance rules: what brokers and insurers must know before 2027",
+    "summary": "Singapore’s AI governance rules: what brokers and insurers must know before 2027 Insurance Business",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOXzE5RDlSNjVIOHlIc2FIVzJscnhsVUZlWlM3ekh3UGRiVE9jOVFzYWJXbkFSRUQ2QUY3bU1fZ1k5eEYyMHlNbG1aUXpDM3MzdkVWSnZHYlNwMllMWTdDVHdzUjlQYkROSW9sbmpDTVRCUVlKNUcwMEpDSEtTWmZKUDVtRTN5Y1ZGUkowUzV3VWtIZklFaGxHODBlOEFqakxPelh3a1JzaU5VUlp2aEpTOUExWUhvTXBvZEs4QlNlbGFuN0w4MU0wSnlaZ2NITlFWdGdER2RpbTg2VUFIbXdxRlZB?oc=5",
+    "source": "Insurance Business",
+    "language": "en",
+    "published": "2026-10-08T17:18:45+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Las reglas de gobernanza de la IA de Singapur: lo que los corredores y aseguradoras deben saber antes de 2027",
+    "summary_es": "Las reglas de gobernanza de la IA de Singapur: lo que los corredores y aseguradoras deben saber antes de 2027"
+  },
+  {
+    "id": "4d172b94bdfd",
+    "title": "Push for Mandatory AI Safety Rules Gains Momentum in Washington",
+    "summary": "Push for Mandatory AI Safety Rules Gains Momentum in Washington PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdl95cllzUjdBcTJGREpHUjRCekN4alVQbG4wX2EwNVczLXRBSlpRSUZaZ0tLM1hsQVZIRVMxVHpZVm5pTGp4QlE4Vkk2OUp6M0V1c09FS0tTeElSMXBfQ1lpN0kzYnhLRmhJN3BLa1VSSzdDeTJ3X0MtTzBGdy02YnZFVGNJMU9ndDV3cTdYYTVPdFBKM09qSkZrX1cyaW1nVFBOSzMtVkhhQVZwMzRmWG0tOVc?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-10-08T16:04:53+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "La presión por normas de seguridad obligatorias para la IA gana impulso en Washington",
+    "summary_es": "La presión por normas de seguridad obligatorias para la IA gana impulso en Washington PYMNTS.com"
+  },
+  {
+    "id": "88cb8c8a2f72",
+    "title": "What the C-suite needs to know about AI governance",
+    "summary": "What the C-suite needs to know about AI governance Cybersecurity Dive",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55ZDZBSTl6LTZIZ0Y4cS1Zbmhpd0Vkcm5GM3BiMU5JbWJjN3ptcXM0c3VqQnpadkNBcWRVOWp2U092STNCY1dRWlJheE5OXzNFN3ZOVHM4Y0lreDg3YTJBX09yeVc5V3NFZmR3TEN6ekdKczRBUlJZ?oc=5",
+    "source": "Cybersecurity Dive",
+    "language": "en",
+    "published": "2026-10-08T15:26:48+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Lo que la alta dirección necesita saber sobre la gobernanza de la IA",
+    "summary_es": "Lo que la alta dirección necesita saber sobre la gobernanza de la IA Inmersión en ciberseguridad"
+  },
+  {
+    "id": "dbe9e5b68af6",
+    "title": "'Godfather of AI' Geoffrey Hinton on Regrets Over Inventing AI: Calls for FDA-Like Rules Before Releasing Models, Says Public Pressure Like Climate Change Could Drive Action",
+    "summary": "'Godfather of AI' Geoffrey Hinton on Regrets Over Inventing AI: Calls for FDA-Like Rules Before Releasing Models, Says Public Pressure Like Climate Change Could Drive Action Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFdjWHVzcllxbXRoSkh5blBHLWQtZVEteU5GNkZia0pIV0thR1dTRS1FUWUzRVNuM1p4WmZ6OGdoODBzaURXVERvMTQxMXg1N3BDUDAydnhMRk5XT3U0MXZGU0tveUh6cnBWa200VFZDSUVmUlVKOEV6MHZqdTY3NndXWnF1a0NEenc?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-08T15:00:11+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "El 'padrino de la IA' Geoffrey Hinton se arrepiente de haber inventado la IA: pide reglas similares a las de la FDA antes de lanzar modelos, dice que la presión pública como la del cambio climático podría impulsar la acción",
+    "summary_es": "El 'padrino de la IA' Geoffrey Hinton se arrepiente de haber inventado la IA: pide reglas similares a las de la FDA antes de lanzar modelos, dice que la presión pública como la del cambio climático podría impulsar la acción Yahoo Finanzas"
+  },
+  {
+    "id": "163f96172298",
+    "title": "Forrester: Missing AI Governance Could Cost a CEO Their Job in 2027",
+    "summary": "Forrester: Missing AI Governance Could Cost a CEO Their Job in 2027 Cybersecurity Insiders",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTGlIWXdHUXZONWE1LTRpbUNHWmZOZFNGZHo2aW53YTdxcjV4Y1JGSmJPY2c2NjRQRFUyVGRudXBmODF1Qk5kX25GWnVFa3R6cGxsZXU1ZUV5UUhKbUFfMm5pY2ttdEhqMHFZd2Z6aG9yeVB3QzVMXw?oc=5",
+    "source": "Cybersecurity Insiders",
+    "language": "en",
+    "published": "2026-10-08T14:32:51+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Forrester: La falta de gobernanza de la IA podría costarle el puesto a un director ejecutivo en 2027",
+    "summary_es": "Forrester: La falta de gobernanza de la IA podría costarle el trabajo a un director ejecutivo en 2027 Cybersecurity Insiders"
+  },
+  {
+    "id": "0146665be0fc",
+    "title": "Deloitte India and Avolution announce strategic alliance to advance enterprise architecture and AI governance",
+    "summary": "Deloitte India and Avolution announce strategic alliance to advance enterprise architecture and AI governance AiThority",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa21kbk9OTlJicTBzY0RjdmQwOWhrWnRYSUhFMWNybFVFZnVSOEcteFp6VWt5U25RbkdzVFQ0MmFURDE1T3hSREI4dGx2dF8weE9RT180LUh2LWliUkRVVm9qeG04WHE0WjBnLVBjMENMa1ZUVEFwY1pCNC1VdU1Wb1ZWdjVDbGxpRmFqRVRlSVFYQ3pBaXNQODFtLVlCOWoxVklnYno1QjY5QjF0dk9xSndsOWJyWUo4NUg1MV9RaDBBMXJ0NF9XeHcxS3hkYkswYTVjMlJMdUVfVUlUUzd0VFFMOA?oc=5",
+    "source": "AiThority",
+    "language": "en",
+    "published": "2026-10-08T14:20:15+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Deloitte India y Avolution anuncian una alianza estratégica para avanzar en la arquitectura empresarial y la gobernanza de la IA",
+    "summary_es": "Deloitte India y Avolution anuncian una alianza estratégica para avanzar en la arquitectura empresarial y la gobernanza de la IA AiThority"
+  },
+  {
+    "id": "7dc417805b72",
+    "title": "Yoshua Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "summary": "Yoshua Bengio: ‘If you prioritize safety, leave frontier AI companies’ Transformer | Substack",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDNZT1haamNQTV9QdU9NYVVqMWJZVGVNU21UbTFUTHgxTGxJRnFEVS1rbGxHM2VpSEtDcVN3VHRwbzVybHBQYnNKYmpPd0UyYTAzekpPMGl6SWE3RmhoUF8wMjM3bl96U3AzUTdXZGRhSElvelB3MEdtcnZyb21BZnNKWmlxVTc2c19MamxfTGFZTEppLURtUVQycmN2eUtW?oc=5",
+    "source": "Transformer | Substack",
+    "language": "en",
+    "published": "2026-10-08T14:00:43+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "Yoshua Bengio: “Si priorizas la seguridad, deja las empresas de IA de vanguardia”",
+    "summary_es": "Yoshua Bengio: ‘Si priorizas la seguridad, deja las empresas de inteligencia artificial de vanguardia’ Transformer | Subpila"
+  },
+  {
+    "id": "6b9e650635ee",
+    "title": "New Clearwater Report Finds 91% of Healthcare Organizations Cannot Verify AI Governance For Their Organization",
+    "summary": "New Clearwater Report Finds 91% of Healthcare Organizations Cannot Verify AI Governance For Their Organization PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ1EtOVBsT3FCcXpXTUxuWHdWNDQ0TGFCNkpIZ0d3Mm8yMTMwTEl1OW5DSWNTZXEzVnhURUpLaVdnLVZmNjJKcGtpMVVjNjRLZFJTYzFOTTdVRk5pcmxHbHlpd2J2WWQ2YUdQa0hHVDB0cHJZU1BRQjhoT0hnd3hYSFpTS1A5dmVMUkt1TjIzVE95OFZ4TGttR0NnZ1BGUWFfTzYxeEcwYzlPUzVVOS1wOHRPMEdTSnhCYmIzcnVnbXVDMzhaWGliRkJ4YkwzSUZtV2ltRmZTcWRkS1c5REp5OUVZM2Q3Zkt6cnJ3cHQzQ0N2TkhZQnVRXw?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-10-08T13:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Un nuevo informe de Clearwater revela que el 91 % de las organizaciones sanitarias no pueden verificar la gobernanza de la IA en su organización",
+    "summary_es": "Un nuevo informe de Clearwater revela que el 91 % de las organizaciones sanitarias no pueden verificar la gobernanza de la IA en su organización PR Newswire"
+  },
+  {
+    "id": "29623ffe9687",
+    "title": "AI Governance at a Crossroads: Regulation, Innovation, and the Race for AI Leadership",
+    "summary": "AI Governance at a Crossroads: Regulation, Innovation, and the Race for AI Leadership Cloud Wars",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjR4MlRpZGNhM2R5N245R3hIUVZyckJ1Y0V0R3NLS0FoSTVkU3hWR3hHa0Vnc19CZy1SVm13VV9lbDBCV0NFVVMza0Y5Y2hGSHNPOV9tM3hTZFNfM0dJZHVnTFNPNDBSSHdSclRmN1BYMG96ci1GckNTdlBHQjk2U2VBbXdyNGtTd2NRMF9xNm43LWQzSnVKZXRlck5hU2tacHE3YkFJQnROZzBkWFFmMXYwX1NIQWlNcW5QTGNGREJJemxx?oc=5",
+    "source": "Cloud Wars",
+    "language": "en",
+    "published": "2026-10-08T12:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "La gobernanza de la IA en una encrucijada: regulación, innovación y la carrera por el liderazgo en IA",
+    "summary_es": "La gobernanza de la IA en una encrucijada: regulación, innovación y la carrera por el liderazgo en IA Cloud Wars"
+  },
+  {
     "id": "c959d335d821",
     "title": "SAP Seeks To Differentiate Itself With AI Governance",
     "summary": "SAP Seeks To Differentiate Itself With AI Governance Forbes",
@@ -16,6 +328,27 @@
     "date_added": "2026-10-08",
     "title_es": "SAP busca diferenciarse con la gobernanza de la IA",
     "summary_es": "SAP busca diferenciarse con la gobernanza de IA Forbes"
+  },
+  {
+    "id": "b8f435877467",
+    "title": "Geoffrey Hinton Calls For FDA-Style Safety Approval Before AI Systems Are Released",
+    "summary": "Geoffrey Hinton Calls For FDA-Style Safety Approval Before AI Systems Are Released Tekedia",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenluQnF6YTBZaW12ZmlOMnI5ekhCZnotdE5VVmJaXzljMTJzOGYxU0sxTXFlQXk5YjA5R1hNV1luMWhndjN6aW1pM0lnaURlX1dQd0dQYVNYX0MtbXdfTk9HRGtMM0ItZTJTOGRERnE0UXFsb2c2TVp6WWFVRUNFMXFmazJrTWJxMWhSVnF3dXp2Sk5BRGN6SDZmMFh0bXRmdURMU1dUX0YxNmc?oc=5",
+    "source": "Tekedia",
+    "language": "en",
+    "published": "2026-10-08T11:05:13+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "Geoffrey Hinton pide una aprobación de seguridad al estilo de la FDA antes de lanzar los sistemas de inteligencia artificial",
+    "summary_es": "Geoffrey Hinton pide una aprobación de seguridad al estilo de la FDA antes de que se lancen los sistemas de inteligencia artificial Tekedia"
   },
   {
     "id": "75b9d00897c5",
@@ -243,6 +576,27 @@
     "summary_es": "El grupo de seguridad de la IA describe las demandas de legislación, advierte a los legisladores The Hill"
   },
   {
+    "id": "94695cfd95ba",
+    "title": "The dangerous myth behind AI agent hacks",
+    "summary": "The dangerous myth behind AI agent hacks Yoshua bengio.org",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10M2dWWjJkdXNfRUlqZXNkbFRVRHJHZDVfamRLQmtNcVR4ZXBuNVFZdGl1aEJKNnhGTm1fNjEyelpCdi1PTXZNajJhNkEza2FnMzNXbFVPM0hJMUw1bUZWNGxDb0k1NWhvdTdrTTYzNEZ5S3UxWUtVWA?oc=5",
+    "source": "Yoshua bengio.org",
+    "language": "en",
+    "published": "2026-10-05T13:54:08+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "El peligroso mito detrás de los hackeos de agentes de IA",
+    "summary_es": "El peligroso mito detrás de los hackeos de agentes de IA Yoshua bengio.org"
+  },
+  {
     "id": "ab9d232fb803",
     "title": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido”",
     "summary": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido” La Vanguardia",
@@ -261,6 +615,25 @@
     "date_added": "2026-10-08",
     "title_es": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido”",
     "summary_es": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido” La Vanguardia"
+  },
+  {
+    "id": "632d5cc0b8d9",
+    "title": "Government leaders call for treaty negotiations on autonomous weapons to begin in November",
+    "summary": "At a New York forum cosponsored by six governments, OHCHR, the ICRC, The Elders and FLI, ministers and UN officials called on states to begin negotiating a legally binding instrument on autonomous weapons at the CCW Review Conference in November.",
+    "link": "https://futureoflife.org/ai-policy/government-leaders-call-for-treaty-negotiations-on-autonomous-weapons-to-begin-in-november/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-09-28T13:34:15+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-10-08",
+    "title_es": "Los líderes gubernamentales piden que las negociaciones de un tratado sobre armas autónomas comiencen en noviembre",
+    "summary_es": "En un foro de Nueva York copatrocinado por seis gobiernos, ACNUDH, el CICR, The Elders y FLI, ministros y funcionarios de la ONU pidieron a los estados que comenzaran a negociar un instrumento jurídicamente vinculante sobre armas autónomas en la Conferencia de Revisión de la CCW en noviembre."
   },
   {
     "id": "12ba0aae5b23",
