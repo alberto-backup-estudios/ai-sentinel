@@ -1,5 +1,119 @@
 [
   {
+    "id": "06a5427bc2bf",
+    "title": "Fired OpenAI researchers raise AI safety concerns, call for independent audits",
+    "summary": "Fired OpenAI researchers raise AI safety concerns, call for independent audits Firstpost",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGxWeDM2M3AyRHZOWW91Q2xDanY3X3dzMFNkQmxOSnRYamFWbnBSdVhJWTZ5ZjFLOVNpWWhpOHlRUDU1RFNEMVdvSDdXSnU1M1NEak1kSGxxcGNNdkJnTnhpaUFYbHZtb2JCcF9KNkVuMXlsbl9CV3l6MDJtVkxFQmVWZW11TzAxNUpEWEEyMG93OGk1cmxTM0t5QzBHUGtJT1hMbGhMMFE5Q2xsaGRUbzU1VnM2RWlvLUxHWGlXaw?oc=5",
+    "source": "Firstpost",
+    "language": "en",
+    "published": "2026-10-08T03:46:15+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Investigadores despedidos de OpenAI plantean preocupaciones sobre la seguridad de la IA y piden auditorías independientes",
+    "summary_es": "Investigadores despedidos de OpenAI plantean preocupaciones sobre la seguridad de la IA y piden auditorías independientes Firstpost"
+  },
+  {
+    "id": "7feddb918203",
+    "title": "California’s AI Governance Vote Is a Market Signal — Not Just a Policy Move",
+    "summary": "California’s AI Governance Vote Is a Market Signal — Not Just a Policy Move Forkast News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDloZEhUaXJ3aU1jd0w3UXU4VUlwcEZZZUljMV9wVEoyZU5wVldiNm4xdXBmSG1hQzM5b2hLSVhjV2U1b3l0cDdTUmQzdGl0SEdkb0VhUFUwZlFoN254dmd0SzA0ckRpWnBlRVRsRi1HODVjMHo5cV9hY21VQ1Q5MFlLR000WHVJcnh2MkdNR0t2Zmw1bzlKNHZn?oc=5",
+    "source": "Forkast News",
+    "language": "en",
+    "published": "2026-10-08T00:48:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "La votación sobre la gobernanza de la IA en California es una señal del mercado, no solo una medida política",
+    "summary_es": "La votación sobre la gobernanza de la IA en California es una señal del mercado, no sólo una medida política Forkast News"
+  },
+  {
+    "id": "a046ace8d7e5",
+    "title": "Rencore Launches New Multi-AI Governance Functionality",
+    "summary": "Rencore Launches New Multi-AI Governance Functionality PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUV6ckt4N2Y0TXJsbm1HeVBnUnFiejN6UGZYc1JkRURXQjJnT3lyU3FJUE4tVEg5VVhXbHpOcF94cXRKRlFMeG5xVlVYS091ZjdaQVMwWU91bjBlcV91LVFBeTcyZnFic016Y3lEeENucmFnMVBSOUp4aTRTR1NndjdvTDZJRklHOTJvRDdXM21WV2JxNnAxUGtRV0xuLUVvVmQ5d1Rfak1tVGRLcDE4?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-10-07T23:29:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Rencore lanza una nueva funcionalidad de gobernanza de IA múltiple",
+    "summary_es": "Rencore lanza nueva funcionalidad de gobernanza de IA múltiple PR Newswire"
+  },
+  {
+    "id": "6fb88aedb9f2",
+    "title": "Geoffrey Hinton propone revisar la IA antes de lanzarla",
+    "summary": "Geoffrey Hinton propone revisar la IA antes de lanzarla NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaTRlbjhISUtnTE5TazZDQVphNDhET3dsWUVpMW1rMi1DWEJkb0g1bkpsZ3Z2YnBvM3pZLTNpa3NlNFJaUzFONXJzckhrTmdwNGVDU2FHeHlpYlhwcmkyUE04NTZDel9wY0ZVRlFTOXdmX2xHODBIQzZUdEo3QUdiV3FXcks5XzBSSl9IQTFSVkhOYlhzWXZ6RElDamVudzBDRldVTXdnVGNkWHhPd01JcWhrZE93WHZpTzh0M1RBa0U0M0tMeW5WMkRQdktJUDJkRVlYWUM3T01rSXoxbTV1VEU5Zw?oc=5",
+    "source": "NeoTeo",
+    "language": "es",
+    "published": "2026-10-07T23:02:57+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "Geoffrey Hinton propone revisar la IA antes de lanzarla",
+    "summary_es": "Geoffrey Hinton propone revisar la IA antes de lanzarla NeoTeo"
+  },
+  {
+    "id": "27606f82ad7c",
+    "title": "Ex-ByteDance Intern’s $200 Million AI Lab Takes On Fei-Fei Li",
+    "summary": "Ex-ByteDance Intern’s $200 Million AI Lab Takes On Fei-Fei Li Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmxNSDJKd291YV9NdF92WklnaEZlcExmeVQzdWtlczVIcGRZXzRkZU9XUDdDZkNpb0JnUkYtNGxHdmtWbDdoODRmeTRuVF9YT1Y1MFRZNzhnSUlhbjVtbFU2dzhXcW5aemNHb0ladkhvY3ZMRlRnTi0wMmhsVEZlZFRRS1VKS2MzMmo1ODVmM2pMMk5PQXlZNHRtTUg5dDlfS3FzUUFudi1weTdLM21aZQ?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-10-07T23:00:00+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "El laboratorio de inteligencia artificial de 200 millones de dólares del ex pasante de ByteDance se enfrenta a Fei-Fei Li",
+    "summary_es": "El laboratorio de inteligencia artificial de 200 millones de dólares del ex pasante de ByteDance se enfrenta a Fei-Fei Li Bloomberg.com"
+  },
+  {
+    "id": "b79224f1fea2",
+    "title": "AI safety group outlines demands for legislation, warns lawmakers",
+    "summary": "AI safety group outlines demands for legislation, warns lawmakers The Hill",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjZJNm1NX3cwVk9mTmM2OHdfZ0JJU0tmazdWNDBGQWFlYlZ4NG5mM2IzbHUySGJiMG5oQlhyaTBYcThsbHM0X1lzVlJwejMxS3c1ZmRsVFozZHJBMktwYzlaek1GN3cyNFc4dEpfYy1oOEVnbVRpYXhNZ2FQd01Iejh0b3hwY3Y3akk3Z05UZ0ZZczR6eGIzS0lrZ07SAaIBQVVfeXFMUE9oT3AzazRiQWpGbXBJT1RNekxGSFZCZUhiYkNMaGtxTFF1ZjhaWHl1dE0tVG14Q3V1b3lzd3JlUDZrQVBvSjdUS1BEcVlHcVVWOEcxdGc2U2w3LWZfa3gzby1HMHV3dXhYNm5Pbzl6NzY4VWFLWEwxYTNfNDdKX1llMThNblRxOHZlVG1vZGtkQUdIYkJVTzhmSVhPY3QydWdn?oc=5",
+    "source": "The Hill",
+    "language": "en",
+    "published": "2026-10-07T15:09:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "El grupo de seguridad de IA describe las demandas de legislación, advierte a los legisladores",
+    "summary_es": "El grupo de seguridad de la IA describe las demandas de legislación, advierte a los legisladores The Hill"
+  },
+  {
     "id": "12ba0aae5b23",
     "title": "Sen. Maria Cantwell looks to federal testing role in AI safety framework",
     "summary": "Sen. Maria Cantwell looks to federal testing role in AI safety framework Roll Call",
