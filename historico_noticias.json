@@ -1,5 +1,116 @@
 [
   {
+    "id": "c959d335d821",
+    "title": "SAP Seeks To Differentiate Itself With AI Governance",
+    "summary": "SAP Seeks To Differentiate Itself With AI Governance Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVjOFdlV2wzbmVhdE42eXlqb3gtbDVXaDVSWExaQXFTV1FLTS1PR29tTjlud0ZHci1aYUtSYm1ZUDJsTFRiOVpmRzhWcUNJaEg2dDI2bVExZksxTjhmeU5pS2NsTVNNUkdUb3dUa01qcHF3cFZoVHVISjFkS1RQc0xSejdwUnJ4dGw5SG5mZGpmemJxV3NQdDVSZjNsWndzeEtYek5rclQ?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-10-08T11:23:53+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "SAP busca diferenciarse con la gobernanza de la IA",
+    "summary_es": "SAP busca diferenciarse con la gobernanza de IA Forbes"
+  },
+  {
+    "id": "75b9d00897c5",
+    "title": "La mayoría de votantes pide regulación IA mientras Trump negocia el pacto de seguridad con los CEOs",
+    "summary": "La mayoría de votantes pide regulación IA mientras Trump negocia el pacto de seguridad con los CEOs MONCLOA.COM",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWJuN1pmSm1ETG93V0R6NmV2QWxyNU5uck9nVy1kaDVLUC1ZYzJDYmhPT0pXeXhCdE5SWWNaamtsZFNaUmdCU2FFSFVZcDI3UXY4bkNzTlVvMnE2WFRwZmpRNWJWelJjSUQtS01nNmxMc1I3WXpOTTdpc0JXa1NYb1pJZVFqQQ?oc=5",
+    "source": "MONCLOA.COM",
+    "language": "es",
+    "published": "2026-10-08T07:56:43+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "La mayoría de votantes pide regulación IA mientras Trump negocia el pacto de seguridad con los CEOs",
+    "summary_es": "La mayoría de votantes pide regulación IA mientras Trump negocia el pacto de seguridad con los CEOs MONCLOA.COM"
+  },
+  {
+    "id": "76980a704112",
+    "title": "Diary Of A CEO Interview: w/ AI Safety Expert Jeffrey Ladish (Transcript)",
+    "summary": "Diary Of A CEO Interview: w/ AI Safety Expert Jeffrey Ladish (Transcript) The Singju Post",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFc4bVhBSEl0OTUycWhOMW1rb2NHTjVDYU53QmJDaHV0ZWx0RjNYaWlSTnZ0Z0pESmtCUVZRMm9YRjJnM05ZdzhTY3lxd1hmb05sTzdRZ3lmLThSclcyZi0xWjBuY1EzaGxBNWhrdjVtYnFoR3c3SENqWmRnd29WQnh3OFhHT2ZGZzlmM1lMYU1LTFZtUDAtaA?oc=5",
+    "source": "The Singju Post",
+    "language": "en",
+    "published": "2026-10-08T07:54:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Diario de una entrevista con el director ejecutivo: con el experto en seguridad de IA Jeffrey Ladish (Transcripción)",
+    "summary_es": "Diario de una entrevista con el director ejecutivo: con el experto en seguridad de IA Jeffrey Ladish (Transcripción) The Singju Post"
+  },
+  {
+    "id": "4524affce4f0",
+    "title": "Senator Proposes Federal Framework for Frontier AI Governance",
+    "summary": "Senator Proposes Federal Framework for Frontier AI Governance CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcC1sU1U0WXhNYm1rNUJ5VWVXZFQ5WS02MzdXNERwWDdTTTFwVnNLd2ZUckxMSHhYRC1zcDNmMDQ3aTZsMjJka0VsNGItcGlyUzR0S0wtcGpJZUVjangyaVBBWGNTN25YblMxQlloT1Y0VXlTSHRfWkVaT1pZblBkeXpWTGFYLXdkemhJdnNVVFpxYmx1cUcxYjhQUGJwTk1CME5RVU1TZw?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-10-08T06:20:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Senador propone marco federal para la gobernanza de la IA en la frontera",
+    "summary_es": "Senador propone marco federal para la gobernanza de la IA en la frontera Revista CDO"
+  },
+  {
+    "id": "96e4f4076e9c",
+    "title": "AI Replacing Workers Will Take 10 Years And Job Loss Will Be 5%: Nobel Laureate Daron Acemoglu",
+    "summary": "AI Replacing Workers Will Take 10 Years And Job Loss Will Be 5%: Nobel Laureate Daron Acemoglu CXOToday.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmlYQ1k4WWJKcWJYbXhlRW9yTEt0VHlFT09aQnprTUZOT2NxSWxGU0s3MHZDTWcyV1lHdHpNMWYxYjR3bDUyVWlMWkoweXYwMXROV2tlRk40THh6bEZVTjdPZXN5T3p2RTlza05SRl9CZ2pvYkhVdm9zNHBYdVRyT1hWbndmSTVjZURrOXdLTEt3S0gxZEc2eUp4dUdkRzJmMV8zZnh2aktKN0dUN2dPSW1lTF9Kb05K?oc=5",
+    "source": "CXOToday.com",
+    "language": "en",
+    "published": "2026-10-08T04:52:19+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "La IA reemplazará a los trabajadores tardará 10 años y la pérdida de empleo será del 5%: Premio Nobel Daron Acemoglu",
+    "summary_es": "La IA reemplazará a los trabajadores tardará 10 años y la pérdida de empleo será del 5%: Premio Nobel Daron Acemoglu CXOToday.com"
+  },
+  {
+    "id": "4ef22a9b4362",
+    "title": "Japanese, U.S. Biz Leaders Call for AI Governance Cooperation",
+    "summary": "Japanese, U.S. Biz Leaders Call for AI Governance Cooperation nippon.com",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PblpPNHRvLXI1OTJvckhadUZtM2ZMbnhPTkxvc3FYMzlNZW1tRnE2cW4yR1VZOWNMck9RWEdmZGRVTHVGNXFRZEZ6RGQ1ZWR4YkNJbUN4Q0RhMzRY?oc=5",
+    "source": "nippon.com",
+    "language": "en",
+    "published": "2026-10-08T04:30:13+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-08",
+    "title_es": "Líderes empresariales japoneses y estadounidenses piden cooperación en la gobernanza de la IA",
+    "summary_es": "Líderes empresariales japoneses y estadounidenses piden cooperación para la gobernanza de la IA nippon.com"
+  },
+  {
     "id": "06a5427bc2bf",
     "title": "Fired OpenAI researchers raise AI safety concerns, call for independent audits",
     "summary": "Fired OpenAI researchers raise AI safety concerns, call for independent audits Firstpost",
@@ -95,6 +206,24 @@
     "summary_es": "El laboratorio de inteligencia artificial de 200 millones de dólares del ex pasante de ByteDance se enfrenta a Fei-Fei Li Bloomberg.com"
   },
   {
+    "id": "15043ab9a531",
+    "title": "Cantwell unveils AI safety framework as Congress stalls ahead of election",
+    "summary": "Cantwell unveils AI safety framework as Congress stalls ahead of election The Spokesman-Review",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenlJLUoxSGRPMEkxVmdxR212dGZmOU5WTDFpdllTUlFIVDZkNTJKQ0I5ekJmTXVVODNKT2tqWnB3dGExYnhMd0k5dlFQeTdUN2xteHl3UzZKY054cjFBc2pKMWpjSXJudTNvLXRRdTVjY0hQU0lBdy1LWjlENkQ4Q0NwZTA5WVJqZ0NLbXpjZUR4LTQzb2tqQUJBMWRYQQ?oc=5",
+    "source": "The Spokesman-Review",
+    "language": "en",
+    "published": "2026-10-07T17:35:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-08",
+    "title_es": "Cantwell presenta el marco de seguridad de la IA mientras el Congreso se estanca antes de las elecciones",
+    "summary_es": "Cantwell presenta el marco de seguridad de la IA mientras el Congreso se estanca antes de las elecciones The Spokesman-Review"
+  },
+  {
     "id": "b79224f1fea2",
     "title": "AI safety group outlines demands for legislation, warns lawmakers",
     "summary": "AI safety group outlines demands for legislation, warns lawmakers The Hill",
@@ -112,6 +241,26 @@
     "date_added": "2026-10-08",
     "title_es": "El grupo de seguridad de IA describe las demandas de legislación, advierte a los legisladores",
     "summary_es": "El grupo de seguridad de la IA describe las demandas de legislación, advierte a los legisladores The Hill"
+  },
+  {
+    "id": "ab9d232fb803",
+    "title": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido”",
+    "summary": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido” La Vanguardia",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQamwwQ0ROUnBERnIwSldudUtpQ1QtUFhsRU1SVGk5a3FYdGNsR1RqTkxSWHp0VHFpZUg1QkpPVkQxc3VnRExiVk9CZDdFTnVCb0ZQZDc2bHVPbXNUWVJzU3N0eTR6VEhPOUZEbjRaQ0RyM1hrWExQbF81YWl5ZWZ0RlB3SzNGM1RMd3JCZFliX0V6NW5XSy1TOTZWM3NFeDZfSHFwSEJIX3FhUnM1MlFNRFU3MUJqc0FqSEFuaUVwR2hXUDBQcl9Wd0VrZUZuSFA0UWxuNWRqQ2UyVm16T1NzVjF2NkVxSnFCbWp0S3VoRHFXQV9jeUdRUWJzallZUdIBgwJBVV95cUxQTGhoTUxGaFEtb2JrY3ZDYlJteTdUNTNtb0xJUk82LVJGOS1VZnBqRFo3UGVKYXY5WTE0RGt3MFAzN1FwTU1sZzBXNEh6RzV2UzVrNTdFZHh2a0p3TnBnSzJGQ1ZhWURibldacjkydTRDNHh0aTFjZTExcXRMcURaSUpHbGxHNmNNU3RVSEJyWWJJSDdjMDJ6VFpFRTV3bnZFWll1aFV0MzNGelRoZ0tEN1ByUG1fSnBKNTZIMzd3MmIybFBEckdNbFBtcDhMTjczOUlqdUZ3R19oTEJPUFctZS1CenlBZmNnNERBNUZRYVlIUUFiWUlHaEw0YkZUMVBOSmlB?oc=5",
+    "source": "La Vanguardia",
+    "language": "es",
+    "published": "2026-09-30T17:30:00+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-08",
+    "title_es": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido”",
+    "summary_es": "Yuval Noah Harari, historiador: “La IA sabe cosas de nosotros que hemos olvidado o que quizá ni siquiera sabía nuestra madre o nuestro marido” La Vanguardia"
   },
   {
     "id": "12ba0aae5b23",
