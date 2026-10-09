@@ -1,5 +1,95 @@
 [
   {
+    "id": "5756e35c5d6f",
+    "title": "Fired OpenAI researchers warn of ‘suspicious’ dismissals after AI safety warnings",
+    "summary": "Fired OpenAI researchers warn of ‘suspicious’ dismissals after AI safety warnings The News International",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjI2OF9fbDJLY2ZxVksxWHExa1VEMDdtQV9GcHVGYWRjZU1mR2U0aHJmdGswMnhueUY4YVRPS1h3VHE0eV9BV2ZDa1d6blZwU1ZjdDhGa2xXN1J6Yms0d2k3c3NVLXdvdm5qTEFFS2NSVTFib3I5U2hFUUtyQWJTZFVPWXR4VFFGYnlBeFB2TTZiVEc3SDlSdVBaWWl3bVJyU2FmTk0zLWN2cHd1ZjJXS2JfZTZDLWhPTm5kSzVn0gG6AUFVX3lxTFB3dkN5bnN4WmRYOF96a0xzaU4zYWE1eE5BS2duQTNWWUV4ZmtjQUFzbDZPTk81SFptVE1KbVUxTFJ5d0h2SWo1REx1aVJDUHpJSDd5WGt4U1QxaHVLMFEtZnc5aTR2bFZya29uUm5jQ3BfeFVHbkpsR0FSZTNLNHo0SEtlaFBXR1hiZFBBeGxYSXhkUjhJcUVYOXZfZ3otem5BbjYtVXBMQmlKWnVDZ3oxbnlwZjhSQUk0Zw?oc=5",
+    "source": "The News International",
+    "language": "en",
+    "published": "2026-10-09T04:33:03+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-09",
+    "title_es": "Investigadores despedidos de OpenAI advierten sobre despidos \"sospechosos\" después de las advertencias de seguridad de la IA",
+    "summary_es": "Investigadores despedidos de OpenAI advierten sobre despidos \"sospechosos\" después de las advertencias de seguridad de la IA The News International"
+  },
+  {
+    "id": "b19266fd9f41",
+    "title": "Rogue agents, kill switches and AI Governance: NCS on cybersecurity's next frontier",
+    "summary": "Rogue agents, kill switches and AI Governance: NCS on cybersecurity's next frontier CRN Asia",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQUcxejVkUWl0Z2p5Tk52OWUyNmtxR3ZnSFh4d0xidDdSMFVHVjJnVWVnYUQ3OHhGUGk1aEtaanVCcVh3bG9nTVJwLUdXeVhzRVVISnFINlhWTzk2NFlIV0pJWHl6VkhzcDdtTg?oc=5",
+    "source": "CRN Asia",
+    "language": "en",
+    "published": "2026-10-09T00:29:34+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-09",
+    "title_es": "Agentes deshonestos, interruptores de apagado y gobernanza de la IA: NCS en la próxima frontera de la ciberseguridad",
+    "summary_es": "Agentes deshonestos, interruptores de apagado y gobernanza de IA: NCS en la próxima frontera de la ciberseguridad CRN Asia"
+  },
+  {
+    "id": "660ff8c6cc07",
+    "title": "AI safety framework floated by Democratic duo",
+    "summary": "AI safety framework floated by Democratic duo Politico",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVRlWFhpTHRBcUVxcDMwVE9sNUhCdGNvSjd5eFdYOWZCNjJIS0NCdUtWM2VYbksxdmtEQl9tVDluVEJzcGVvNkpVeExUdHdaX2FFdlhwSXNJbC1zMHlZQ2NNWnc4M0RQb1FHZGs1b2N6TjBnaWc5MWpaX3lCdFZTeGw1QUNWQmRGcHZBdWVuRWtjdDFjQ3l3ejhIQQ?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-10-08T22:55:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-09",
+    "title_es": "Marco de seguridad de IA propuesto por dúo demócrata",
+    "summary_es": "Marco de seguridad de la IA propuesto por el dúo demócrata Politico"
+  },
+  {
+    "id": "79484f6b0b56",
+    "title": "AI overload: Governance gaps that can swallow CIOs",
+    "summary": "AI overload: Governance gaps that can swallow CIOs InformationWeek",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUhUNW1Qa1ZaUEdJN2NmMG56RkZBNXhsQUxsa01iWjVjSTAyUmVmSmhYaWxlenV0cUhYcnZyX2FCNVZWSF9pM3M2d29rZEkxcVZRa0lGNWFDNHBHSjZNVVktQ3dPb1ZrQUFQNUlFRnQ1aXU2MUZhQTRLLVNxQllMN0F5TFh3eTAxWjE4cF9VclI5cTdKSzBWSmhHNU5FSGpKVFM4?oc=5",
+    "source": "InformationWeek",
+    "language": "en",
+    "published": "2026-10-08T18:43:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-09",
+    "title_es": "Sobrecarga de IA: brechas de gobernanza que pueden tragarse a los CIO",
+    "summary_es": "Sobrecarga de IA: brechas de gobernanza que pueden tragarse a los CIO InformationWeek"
+  },
+  {
+    "id": "bd22ec022095",
+    "title": "AI Safety ≠ AI Security: EnforceAuth Announces Evidence IQ",
+    "summary": "AI Safety ≠ AI Security: EnforceAuth Announces Evidence IQ EIN News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2JuazgybFhldFFnemZNd19mUkVHdzRvSXEwVm9UUGR0d1k2b3J1MFQ4V1lWMUZYRXpONHR5cGd5NDBUVEU1cGs3T0w2NDFmOGlRUWdSY3k4bU9oX1ZaUmpianpFRUw3OFNJOGJrMnI1R0FsWkxNYktNTWRYZjUwNDJmenZPZ3h5dVIxb3k1UlExM1F4OTVIYWV6dnN3UQ?oc=5",
+    "source": "EIN News",
+    "language": "en",
+    "published": "2026-10-08T17:44:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-09",
+    "title_es": "Seguridad de la IA ≠ Seguridad de la IA: EnforceAuth anuncia Evidence IQ",
+    "summary_es": "Seguridad de la IA ≠ Seguridad de la IA: EnforceAuth anuncia Evidence IQ EIN News"
+  },
+  {
     "id": "36c6ea4c37c5",
     "title": "Center for AI Safety Launches Three Creator Initiatives to Mobilize Public Voices on AI Safety",
     "summary": "Center for AI Safety Launches Three Creator Initiatives to Mobilize Public Voices on AI Safety Business Wire",
