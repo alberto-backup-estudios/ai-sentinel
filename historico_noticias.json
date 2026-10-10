@@ -1,5 +1,77 @@
 [
   {
+    "id": "a66299505251",
+    "title": "AI governance needs cooperation",
+    "summary": "AI governance needs cooperation China Daily",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fMW1SdHZUczBSQzdPbi1kdzJEbFYxQnkzeU4xb09JcmtIa3JpdmhndUdubTJtZFZmS2FLNHFINWFhQlRlUE9ZSTlIbXktd0puT3VaMmFJUVZqbFUwRFFGU2JkQ3E1bENQN05DbzlKV2V1VDJWZ3BvSEdFcVctdw?oc=5",
+    "source": "China Daily",
+    "language": "en",
+    "published": "2026-10-10T02:15:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-10",
+    "title_es": "La gobernanza de la IA necesita cooperación",
+    "summary_es": "La gobernanza de la IA necesita cooperación China Daily"
+  },
+  {
+    "id": "1beb1d150117",
+    "title": "Senator Murray pushes for AI safety guardrails amid growing risks",
+    "summary": "Senator Murray pushes for AI safety guardrails amid growing risks AppleValleyNewsNow.com",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc205V3dPY2VOVGlZaXowYkRCNHVNUndzYTVmMVhBVmJTcXZSYWNMTlEyNHp2X3RobXlYSWlvckZ0aERMS0MwRVM4UWJQWS1OYm9GN29iY3owdnVoOE9YTTEwQkFBdVVBWHlFZXM5c1pkOXlDWVgzMGUwNlpRdVYtZGktSmtNX0xFRFdsY2F3YTV1ckJBM1FzSGZTTHlDcW1uRmU4bHd4ai1tRlVxeHJxOEl2ZURJZWtVZ2JCaTVReUsxRjFmSlZEYlVZSDJlLU9XbzVmTzAxSHhqRjB4VF9XMEt1ZGZIVHp6ZUlR?oc=5",
+    "source": "AppleValleyNewsNow.com",
+    "language": "en",
+    "published": "2026-10-09T22:36:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-10",
+    "title_es": "El senador Murray impulsa la creación de barandillas de seguridad para la IA en medio de riesgos crecientes",
+    "summary_es": "El senador Murray impulsa barreras de seguridad para la IA en medio de riesgos crecientes AppleValleyNewsNow.com"
+  },
+  {
+    "id": "5626ca623b2d",
+    "title": "OpenAI Denies Firing Researchers Over AI Safety Warnings",
+    "summary": "OpenAI Denies Firing Researchers Over AI Safety Warnings NDTV",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBsenVKZV9rWXUtU2tteTdLWkNjYUo1ZU1yVmlBR2dIeG52TS1Cc3dFODBsYmhuS1c5djU0eFpfU29JX1NlMHR0TGRoclBuTlNUU2pGa3I1REhqNC1ON1lTaVBTR2NuNjNRSmZublBJalN0TVJTR1FRTlZ3U3pESVlseFZiS1lZbDJrUzZacDI1b254dk5oN2N5WHBpQdIBpgFBVV95cUxPWEZROElpd0NleEFCQnpNZGdteUJwVzNvRjVUQklTa21vdFltYmJvbDB3Z0R6eUxXY1VISFpweWVUTDRwQi1SN182ejNUUUtScFpkN2swTzgyRnRTQjZpM3YwNTVzNWRFZlRDMmVrRHRFMjRhbUppRVZfV1I2NXVSdXJBa1F1YW93NWFiVGIwRDNMNGtnbmRTRF94X3NLU0QyV3dIS1ZB?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-10-09T20:33:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-10",
+    "title_es": "OpenAI niega haber despedido a investigadores por advertencias de seguridad de IA",
+    "summary_es": "OpenAI niega haber despedido a investigadores por advertencias de seguridad de la IA NDTV"
+  },
+  {
+    "id": "05e16b5d7341",
+    "title": "OpenAI defended firing three safety researchers, calling it a 'breach of trust'",
+    "summary": "OpenAI defended firing three safety researchers, calling it a 'breach of trust' Quartz",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Mjk5dk9mVldnenFXUkZNQ0hhcVJ0ckZ0UUdwR2JhRGRGRElJWDQ0LVBlek1OTmQxYWN6R19jU1BvdWQ0UkhoMV9hckZ2V29KcTh5Qm90QzhhbS0zZ2hVRmtHZ0QyX2ZjUTBkNXQzMXlfaXNVaUdhaA?oc=5",
+    "source": "Quartz",
+    "language": "en",
+    "published": "2026-10-09T11:11:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-10",
+    "title_es": "OpenAI defendió el despido de tres investigadores de seguridad, calificándolo de \"abuso de confianza\"",
+    "summary_es": "OpenAI defendió el despido de tres investigadores de seguridad, calificándolo de \"abuso de confianza\" Quartz"
+  },
+  {
     "id": "14673d697735",
     "title": "A Four-Step AI Governance Starter for Companies That Aren’t AI Labs, in the Age of the Super Intelligence Rebrand",
     "summary": "A Four-Step AI Governance Starter for Companies That Aren’t AI Labs, in the Age of the Super Intelligence Rebrand AICERTs",
