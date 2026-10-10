@@ -1,5 +1,102 @@
 [
   {
+    "id": "43d927fa5e84",
+    "title": "UK Government considers targeted AI safety legislation to address loss of control over autonomous agents",
+    "summary": "UK Government considers targeted AI safety legislation to address loss of control over autonomous agents Digital Watch Observatory",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hQ3paaWszbHMzSTlxX0NIcU93MWRJdGtVTW5MbjdtVUsteVBzNkJ2WDlNc3E0VFNSa085Y283a3hxMVJmc20zemp1UDRBTU9pRjBBX3lNbnR0Q0ZqQi1kNW9XWUNDNWc1OThJMVVn?oc=5",
+    "source": "Digital Watch Observatory",
+    "language": "en",
+    "published": "2026-10-10T16:48:58+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-10",
+    "title_es": "El gobierno del Reino Unido considera una legislación específica sobre seguridad de la IA para abordar la pérdida de control sobre los agentes autónomos",
+    "summary_es": "El gobierno del Reino Unido considera una legislación específica sobre seguridad de la IA para abordar la pérdida de control sobre los agentes autónomos Digital Watch Observatory"
+  },
+  {
+    "id": "16bf8431f972",
+    "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+    "summary": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face U.S. News & World Report",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGhXMnlhSjF1ZWJsOVVTb0hwNktCUFIwRkYzQTdRV0wwalB5UGtiQmVqeWJJczgyWnFNMlFBczR5ZW1PTmJTNE1SSVB0WFpzQmg2bUlTY0RWYmFaQlZxY29UYlJNWFZmZGs1UVhXd0diNGNlYjNYVmotRVlvcVdHNUE2bnVTTDh2M0l5R3lFdnhmTk9HblcxWTlfSm1jNHJIc1lYcXlQSFpsaVdmaVhVTVhCSzRIOVNYdW1jbVd3SUxjSHNFWlNFRA?oc=5",
+    "source": "U.S. News & World Report",
+    "language": "en",
+    "published": "2026-10-10T16:41:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-10",
+    "title_es": "Una cronología de los avances en la seguridad de la IA desde el ataque a Hugging Face",
+    "summary_es": "Una cronología de los avances en la seguridad de la IA desde el ataque a los abrazos U.S. News & World Report"
+  },
+  {
+    "id": "6e51610f7ad9",
+    "title": "Harari: el imperialismo de la IA y 3 caminos para Europa",
+    "summary": "Harari: el imperialismo de la IA y 3 caminos para Europa El Ecosistema Startup",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm1reHluS1N5dU5iVlNINGRrU3MxSjdlc3JSZGJFN3doY194YmtFd0pmbDJjY19MU2MzcXZ6ODk2djNGSkUwSDRSZVFBSlBaSEJ1VXVNUWloREZJUklNY1RLdFdCMldzcjRVTWZvcjc0M1BIdzg5Y2J2VDVqQ3k0ZGVWeFF6RzgwRHItVnJWWQ?oc=5",
+    "source": "El Ecosistema Startup",
+    "language": "es",
+    "published": "2026-10-10T15:39:28+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "Harari: el imperialismo de la IA y 3 caminos para Europa",
+    "summary_es": "Harari: el imperialismo de la IA y 3 caminos para Europa El Ecosistema Startup"
+  },
+  {
+    "id": "45694976d084",
+    "title": "Ex-ByteDance Intern Raises 200 Million RMB Financing, Challenging Renowned AI Scholar Li Feifei",
+    "summary": "Ex-ByteDance Intern Raises 200 Million RMB Financing, Challenging Renowned AI Scholar Li Feifei eu.36kr.com",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkOGRZMTQ0SldaQ2c1VlZyYm5VOGtWNjRBZ2dzalBXR2w1NjlsUGdFMVd3Yk43N0wxOHp2SGtKamlHREhLbWhubFg3RTk4TUVXZkxN?oc=5",
+    "source": "eu.36kr.com",
+    "language": "en",
+    "published": "2026-10-10T15:30:57+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "Ex pasante de ByteDance recauda financiación de 200 millones de RMB, desafiando al renombrado académico de IA Li Feifei",
+    "summary_es": "Ex pasante de ByteDance recauda 200 millones de RMB de financiación y desafía al renombrado académico de IA Li Feifei eu.36kr.com"
+  },
+  {
+    "id": "b7d335fc9031",
+    "title": "Yuval Noah Harari: Inteligencia artificial, ¿quién va a tener el poder y quién va a depender de él?",
+    "summary": "Yuval Noah Harari: Inteligencia artificial, ¿quién va a tener el poder y quién va a depender de él? Infobae",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWFNTldaUndSRFBRejlfUGFCMVp3cjNUd0poVFpEZ3lHRjRPZFFRQlhKNzJjek9xRFl6RXJaaldDcTdEN2pNT1dHZ2dMV1VwazRlYUtWUGE3TmI1ZWFwb2VXWnFVb21mcWhzcVNTOU5Edl9fVF92NHlmbmpUZzVqUXBmWW1rSXlvS3J0djItSHAtcm5JaE5WdmlKcWNqLUdnOW1lSEJEV0dxNmN5bENvUnpDSGNCcUhTVjBVNU11WW1IMnVnMGFMXzR3X0hzNGN3dU0zTm5n0gHwAUFVX3lxTE5fTkRhQVFuOWxnTGlXZ1F0UUt2cW9HZDlNQUVHTzVYV1NJLTB6Y2kwaThSbWhacHl3TmlHX3dBbHJLVW9SQUNmQXBFcHJ4eV9uMVJ2d0M1bl9fWDlOZG5neGh2cl9KNTY4ZEdUUGtSeUsxeDlqaWtKZ2JZNk1JUHQ3LWY3N2d6d1V4WnZtRDNPcFV3WVZNQ2gxU2lPT1RwTU5tMGdTdU5MdnllOVZZRUZqVTAzWHZ4VFRrZk1PdktNTGpRWTBfNFlzZUx0UkR3LVZ2ZGg1LWJQRXkycEJGdDJJaE5WQXY0eXRZR2FMd2JJTg?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-10-10T13:16:00+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "Yuval Noah Harari: Inteligencia artificial, ¿quién va a tener el poder y quién va a depender de él?",
+    "summary_es": "Yuval Noah Harari: Inteligencia artificial, ¿quién va a tener el poder y quién va a depender de él? Infobae"
+  },
+  {
     "id": "e41384bdf501",
     "title": "Mustafa Suleyman, jefe de Microsoft AI, critica al creador de Claude: confundir inteligencia con conciencia es un error catastrófico",
     "summary": "Mustafa Suleyman, jefe de Microsoft AI, critica al creador de Claude: confundir inteligencia con conciencia es un error catastrófico Business Insider España",
@@ -112,6 +209,26 @@
     "summary_es": "OpenAI niega haber despedido a investigadores por advertencias de seguridad de la IA NDTV"
   },
   {
+    "id": "f9f8c97bffcb",
+    "title": "Anthropic bars \"abusive or cruel\" behavior toward its Claude AI model",
+    "summary": "Anthropic bars \"abusive or cruel\" behavior toward its Claude AI model CBS News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Cc0xQa0oxTGNmSmZaYk9kZktQYkZmMzlJdzRkZWV4RFFOOVBxY2szQmhqazROLWhmeGFvYTFxanRlLURweGlKVjBIRnZMT21DSVJyeG9ObHN2S2J3TTBVWll3dXlmNjFiaWpNbnhuU2tVckV0SmtV?oc=5",
+    "source": "CBS News",
+    "language": "en",
+    "published": "2026-10-09T14:59:48+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "Anthropic prohíbe el comportamiento \"abusivo o cruel\" hacia su modelo Claude AI",
+    "summary_es": "Anthropic prohíbe el comportamiento \"abusivo o cruel\" hacia su modelo Claude AI CBS News"
+  },
+  {
     "id": "45f859b2997e",
     "title": "Anthropic bans users from being 'cruel' to its AI systems",
     "summary": "Anthropic bans users from being 'cruel' to its AI systems BBC",
@@ -148,6 +265,26 @@
     "date_added": "2026-10-10",
     "title_es": "OpenAI defendió el despido de tres investigadores de seguridad, calificándolo de \"abuso de confianza\"",
     "summary_es": "OpenAI defendió el despido de tres investigadores de seguridad, calificándolo de \"abuso de confianza\" Quartz"
+  },
+  {
+    "id": "4270697168b8",
+    "title": "AI may replace only 5 percent of human work in 10 years, says Nobel winner",
+    "summary": "AI may replace only 5 percent of human work in 10 years, says Nobel winner Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFVIcl9PeTZEeXdaUW5IM1pZMTdsb2hRWHBQVnRTMEwxNGQzeGZwNmRPUnBJLThOU0FJQUZ2Nl84R0RwRmhVWU1tRXZodW9CeXc0Z3Z6U2sySlZQYmNPVFBHUVVtc191cWgtdFkyR1dlYVdqeU5CTUszNWhtUWFITmFqUzNNbVAzaExwc2dRUmFBRUNNUWJNQndGZU90VW9FSzFsR043U0JaWEFraGxNQVVpT3ZHRWR4VFNpNDNnNDJsOC1wc0gyRGVR0gHPAUFVX3lxTFBXa0xlczI3VkxqNTkzc0VZUUQ5OG55dF9YdUVjSG5fZUsweVY2bC10aURRbWRaT2FxdXk2R0d5XzYzRm5VczdrNjBrTFE2d2dTQTRYMUJ3UFQzNlZrS0JNZENRLXFXSm9hUENQbGtEeXdXS2F5aWRzMzN0WlFidUgxcENoZk5HUW51X3J5c0hzWFRJMEp0SVl1YWhPNGhQQ3ZQS3Q4SUZoa2dxR0NGWV9mVk9yNm9HU3prSjN6aWZlVExEQTFKZnRHcHRJbkdnUQ?oc=5",
+    "source": "Moneycontrol.com",
+    "language": "en",
+    "published": "2026-10-09T08:05:34+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "La IA puede sustituir sólo el 5 por ciento del trabajo humano en 10 años, dice el premio Nobel",
+    "summary_es": "La IA puede sustituir sólo el 5 por ciento del trabajo humano en 10 años, dice el premio Nobel Moneycontrol.com"
   },
   {
     "id": "c221825591e7",
