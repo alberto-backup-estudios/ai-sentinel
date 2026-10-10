@@ -1,5 +1,43 @@
 [
   {
+    "id": "6c8089aaa692",
+    "title": "Yann LeCun, the AI pioneer betting a billion dollars that chatbots are a dead end",
+    "summary": "Yann LeCun, the AI pioneer betting a billion dollars that chatbots are a dead end Martin Cid Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LYVlITUJNYkI3X3pjeUJPWHdSc2hndkhBc29LMGhobk0zVExBajFqQ0xRdWZmYVl5eWtTSEl3dlZrcnUtdHdpY2NGczVrZ0tLOHFXM0hTYw?oc=5",
+    "source": "Martin Cid Magazine",
+    "language": "en",
+    "published": "2026-10-10T19:23:12+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "Yann LeCun, el pionero de la IA que apuesta mil millones de dólares a que los chatbots son un callejón sin salida",
+    "summary_es": "Yann LeCun, el pionero de la IA que apuesta mil millones de dólares a que los chatbots son un callejón sin salida Revista Martin Cid"
+  },
+  {
+    "id": "3efe8721ccd4",
+    "title": "A timeline of developments in AI safety since the attack on Hugging Face - ABC News",
+    "summary": "A timeline of developments in AI safety since the attack on Hugging Face ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa2ZtZjBGNWdEaEFHNjFJVFk4TzJpQXhvNVk3a0NLNGd5R0dEZGc2dWUzUzZRZlc0cEJQMThKWG5GTmpnVGRrZkJEQzB0RUN1a0NzUUlKNWM1emVhVUJYTENCbmVWSnNQaUsyWWh1c18zZTJUWV9PWXJTbFkwN2RjMlZWMktpSE81OWdtcmxxZXdOTzhiMnhWNzJVVHQ3TjRSNTRub9IBqgFBVV95cUxOS09xaGVqVnc5SjdxbXBLdGhOZXc2N2ZtbkNLYUdqNzBoLXNlN2tIVHFxOGxzLS1jTEltbDlNYzF5Rzd0RURrU1hneW1sM2R1U3Vkelo4Q01PMUhGWXZORGhsajllV2RQYmxJTUpSVTZJMnlSUUtUWGMzbUhneGhLR3dKNER0SmdBYWplaXd6U09UVXNkanMzWHYyNTlQd3FVT3RCOWJjQUJLdw?oc=5",
+    "source": "Breaking News, Latest News and Videos",
+    "language": "en",
+    "published": "2026-10-10T18:55:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-10",
+    "title_es": "Una cronología de la evolución de la seguridad de la IA desde el ataque a Hugging Face - ABC News",
+    "summary_es": "Una cronología de la evolución de la seguridad de la IA desde el ataque a Hugging Face ABC News - Breaking News, Latest News and Videos"
+  },
+  {
     "id": "43d927fa5e84",
     "title": "UK Government considers targeted AI safety legislation to address loss of control over autonomous agents",
     "summary": "UK Government considers targeted AI safety legislation to address loss of control over autonomous agents Digital Watch Observatory",
