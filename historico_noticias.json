@@ -1,5 +1,63 @@
 [
   {
+    "id": "e41384bdf501",
+    "title": "Mustafa Suleyman, jefe de Microsoft AI, critica al creador de Claude: confundir inteligencia con conciencia es un error catastrófico",
+    "summary": "Mustafa Suleyman, jefe de Microsoft AI, critica al creador de Claude: confundir inteligencia con conciencia es un error catastrófico Business Insider España",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMXZWckJadXUtRW1XRHNtSnZZSE9hNnZEeGItWDdBa0h3d3BGZlktMngzZERxT2JkRjR6RzZld0o3RE4zSmVSdlVPeVhWSm1oZTJ6bjNUNmgtUkU5bndSbjdOSXRTQlZjR1dYZmkzbk5zak9hVjZUMXJZWGMzNE9MdDZPc1UwMFg2Q2xNM21ONmpPcHFfMm1JaTNvNlc4ZHkwS1RwSE9Da0taYW05LS12ZXBKajVqV2pOcm93OHJuZ1JsWVJHb0JCWmpOY0lYQjlveXFyS3NhS2tPMnI1dTB4Wk1Za3Faamc3M2pBVVNJdEtrMFZFSlAwZmpOdjZUMWk3WWo2azdjZFjSAY4CQVVfeXFMTXR4ZXh2TC0ySTFLWXRzd2pfTkJwTDhBRU1QQU9UTWtLNG5KLV9MRHkxYzhXeFpjT0RFWnlKZERieEllVGtHYU9FdkEyQktaRDl3OHJEbEp4R0c0dERRQjdHM21tMnhwSGJnUnRWTzZRRzBpWXlHSkZZVUpBYlZtdGhTaXd5SDFfeElVc2pKRi1BLUE0RkQ3dkxuLXRVYVJMQllEcl9pYjhUV191bk5TOW1KZzRONlRGSG1qYlhYZWFrSHBoUjNlSUZ4UDRScFk4Y1hTZ0tVV29xejBVdVUxTTBrMU9jbzZmMEJwUG5ZN3hRYnZUT0dVUk1QRkw0X2FWVEZBRlFCWktESW15Yll3?oc=5",
+    "source": "Business Insider España",
+    "language": "es",
+    "published": "2026-10-10T08:22:00+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "Mustafa Suleyman, jefe de Microsoft AI, critica al creador de Claude: confundir inteligencia con conciencia es un error catastrófico",
+    "summary_es": "Mustafa Suleyman, jefe de Microsoft AI, critica al creador de Claude: confundir inteligencia con conciencia es un error catastrófico Business Insider España"
+  },
+  {
+    "id": "f3d7365eacfe",
+    "title": "China’s new development plan includes AI safety goals – Xinhua",
+    "summary": "China’s new development plan includes AI safety goals – Xinhua Hong Kong Free Press HKFP",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHJ0a3ZKbUZxTFVqTU5mZnNXak9RdnBzTVd6Wi1LZC1fRWdEVGVQS1NFWUZSY0M1UmJjVDcxVjlpeW9MWGh4X09xY0VrNjFtMGd4OFd6NzdsallSN0Vhamxqb3p1YVJMcHJYOWZ6ak5QRzk4Y09iRFdpN2tVLWI4LUFnNkdJcUpJQ05zRTA4RFcxekVOWHlhalZn?oc=5",
+    "source": "Hong Kong Free Press HKFP",
+    "language": "en",
+    "published": "2026-10-10T05:19:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-10",
+    "title_es": "El nuevo plan de desarrollo de China incluye objetivos de seguridad de la IA – Xinhua",
+    "summary_es": "El nuevo plan de desarrollo de China incluye objetivos de seguridad de la IA – Xinhua Hong Kong Free Press HKFP"
+  },
+  {
+    "id": "088bcb8d16e9",
+    "title": "AI Is Going the Wrong Way. A Nobel Economist Explains Why.",
+    "summary": "AI Is Going the Wrong Way. A Nobel Economist Explains Why. Vocal",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkJickdSbl9PSVhHTFQ2cVVTQmJVeFFvNV9rTUZVckhCZXB4TE1JN3hBYXcySFV3S3ZaUGdRbHFEYWZvZERHVDRybDJweklIcURUcXRzbTdsZmR5b1A3bVdwNFQzMkxNclRIb3VVQk13aUJuVkI5WDJCUFgxMHVNd1JBMlZpdw?oc=5",
+    "source": "Vocal",
+    "language": "en",
+    "published": "2026-10-10T04:34:37+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "La IA va por el camino equivocado. Un economista Nobel explica por qué.",
+    "summary_es": "La IA va por el camino equivocado. Un economista Nobel explica por qué. Vocal"
+  },
+  {
     "id": "a66299505251",
     "title": "AI governance needs cooperation",
     "summary": "AI governance needs cooperation China Daily",
@@ -54,6 +112,26 @@
     "summary_es": "OpenAI niega haber despedido a investigadores por advertencias de seguridad de la IA NDTV"
   },
   {
+    "id": "45f859b2997e",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "summary": "Anthropic bans users from being 'cruel' to its AI systems BBC",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5",
+    "source": "BBC",
+    "language": "en",
+    "published": "2026-10-09T12:34:27+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-10",
+    "title_es": "Anthropic prohíbe a los usuarios ser \"crueles\" con sus sistemas de inteligencia artificial",
+    "summary_es": "Anthropic prohíbe a los usuarios ser \"crueles\" con sus sistemas de inteligencia artificial BBC"
+  },
+  {
     "id": "05e16b5d7341",
     "title": "OpenAI defended firing three safety researchers, calling it a 'breach of trust'",
     "summary": "OpenAI defended firing three safety researchers, calling it a 'breach of trust' Quartz",
@@ -70,6 +148,26 @@
     "date_added": "2026-10-10",
     "title_es": "OpenAI defendió el despido de tres investigadores de seguridad, calificándolo de \"abuso de confianza\"",
     "summary_es": "OpenAI defendió el despido de tres investigadores de seguridad, calificándolo de \"abuso de confianza\" Quartz"
+  },
+  {
+    "id": "c221825591e7",
+    "title": "Ex-ByteDance intern’s $200m AI lab takes on Fei-Fei Li",
+    "summary": "Ex-ByteDance intern’s $200m AI lab takes on Fei-Fei Li Moneyweb",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1RaT2U2MnRZbk5fd3pnZnQxMTdsUVJpSlc4Qk1YRmFfcUh3bnpFRmxodFhxaEsxY0R5cFlWbnFpRDY2akE0ejZXZlg5cEtXRjZxeWlnOVhHVUhtZ3RQT1lNTFpveDdmSVVWVW4zMnhCMlFhYWduS1RBUTExd2QyQlZuMWxfUmNpN3VveWhRLWp6S3ZHb2pJeHVlWQ?oc=5",
+    "source": "Moneyweb",
+    "language": "en",
+    "published": "2026-10-08T07:00:07+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-10",
+    "title_es": "El laboratorio de inteligencia artificial de 200 millones de dólares del ex pasante de ByteDance se enfrenta a Fei-Fei Li",
+    "summary_es": "El laboratorio de inteligencia artificial de 200 millones de dólares del ex pasante de ByteDance se enfrenta a Fei-Fei Li Moneyweb"
   },
   {
     "id": "14673d697735",
