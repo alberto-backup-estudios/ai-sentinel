@@ -1,5 +1,23 @@
 [
   {
+    "id": "c247d5888ba5",
+    "title": "MegazoneCloud Partners with Portal26 to Strengthen Generative AI Governance and Security in Korea",
+    "summary": "MegazoneCloud Partners with Portal26 to Strengthen Generative AI Governance and Security in Korea Cybersecurity Insiders",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHpTSEhWNnlILUliR0RPc09Sek5LV3daYzQzOVlSblVmSWxsdkFRUVdtUUFxeHNvS1VDeWNwdkVteWtETUsxR0RndEVmN2U3VnBfR2RCdDVCRFJ0eVRLU2RmQ1loV2lQb0xuVTZ5c2RoMi1SXy1JVXo0cUxfaDhkUVc5Tmd6VmVoSDlIczVQbDlmdmx6S2ZGc19kMnZ6aEtUYWJzMWRpZmhhMEg0MjN1R0JhNWRjWkRieGlsbzVLbXV0WmM4Qk85c3VkaDhtQ1BrdDZR?oc=5",
+    "source": "Cybersecurity Insiders",
+    "language": "en",
+    "published": "2026-10-11T09:45:12+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-11",
+    "title_es": "MegazoneCloud se asocia con Portal26 para fortalecer la gobernanza y la seguridad de la IA generativa en Corea",
+    "summary_es": "MegazoneCloud se asocia con Portal26 para fortalecer la gobernanza y la seguridad de la IA generativa en Corea Cybersecurity Insiders"
+  },
+  {
     "id": "f8ba9dbeccd0",
     "title": "Anthropic Tightens Claude AI Safety After Investigating Unexpected Actions on Government Websites",
     "summary": "Anthropic Tightens Claude AI Safety After Investigating Unexpected Actions on Government Websites Kingy AI",
@@ -34,6 +52,24 @@
     "date_added": "2026-10-11",
     "title_es": "La reflexión sobre la adicción a las redes sociales llegó tarde para muchos niños. ¿Será diferente la seguridad de la IA?",
     "summary_es": "La reflexión sobre la adicción a las redes sociales llegó tarde para muchos niños. ¿Será diferente la seguridad de la IA? Santa Fe Nuevo México"
+  },
+  {
+    "id": "be077a006a20",
+    "title": "Microsoft Copilot reveals AI governance lapses",
+    "summary": "Microsoft Copilot reveals AI governance lapses Channel Dive",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWlhTOGswOGVUNFp0cjdGSjBlNU1uUVdYT3ZNcHAzNmMtOFJ2czFQSW9kTEs4ekRaakg4Q2dvYUtFNFoyR0MyU1JzZVBYQUZZcGoxdUY4Rmo3aDRCdWNNd2NuNGR0VWM5bVpGTkI4ZEJ4TV9XbVh0RENicHB3XzJLamw4THNlUkxoTG50M1d6Y1A?oc=5",
+    "source": "Channel Dive",
+    "language": "en",
+    "published": "2026-10-09T18:19:48+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-11",
+    "title_es": "Microsoft Copilot revela fallos en la gestión de la IA",
+    "summary_es": "Microsoft Copilot revela fallos en la gobernanza de la IA Channel Dive"
   },
   {
     "id": "6c8089aaa692",
