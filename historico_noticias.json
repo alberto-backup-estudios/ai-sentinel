@@ -1,5 +1,132 @@
 [
   {
+    "id": "688b40d15762",
+    "title": "UK ministers explore compulsory AI safety reporting",
+    "summary": "UK ministers explore compulsory AI safety reporting Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQei05VnBhWmlfcWxGMlNjbU1hWHlKcTFRSmZuNHl5TU55ZFZXSFF6NXkwQmtvMDJjUHhEdXFJM3Z6bXVHcUdhek94NGkzclkwMUVsVzA0Rjl5U0tyNlJpSm04MTRqQTRZWG5Wb0ZJWmJCbHdKLXNfTzJWMlhRd2F6TkxHMTM?oc=5",
+    "source": "Financial Times",
+    "language": "en",
+    "published": "2026-10-12T04:00:17+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Los ministros del Reino Unido exploran la presentación de informes obligatorios sobre la seguridad de la IA",
+    "summary_es": "Los ministros del Reino Unido exploran la obligación de informar sobre la seguridad de la IA Financial Times"
+  },
+  {
+    "id": "f26341c7bd3e",
+    "title": "China rolls out AI safety governance policies as autonomous agent risks mount globally",
+    "summary": "China rolls out AI safety governance policies as autonomous agent risks mount globally 巴士的報",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1lHTUROU2tFUmR4YlNsYU9IWmRONHE0ZnpwQTBQNWstakw3R05nYm1ZTlB4VUo0NWVzdFFieGVZMUlkRll1WTR1cFdSWDBvWnhpM2E5MGdxTlQyX1dKVGgwMFVuUndkUWs4cWhHX0w0QUFGcFcwYXVEWXFqeVpCMmhpeXF3SFZrWTRsbVJaQ2RkUmNGRFZ4RnVPU0R6OWh3b1ZqSVlCc005T1g1UUFwZER6dUJqdUpiem1zTnM3dW1wRE9GUDdWS1BmdDFCNzhRQzRoeQ?oc=5",
+    "source": "巴士的報",
+    "language": "en",
+    "published": "2026-10-12T01:17:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "China implementa políticas de gobernanza de seguridad de IA a medida que aumentan los riesgos de agentes autónomos a nivel mundial",
+    "summary_es": "China implementa políticas de gobernanza de seguridad de IA a medida que aumentan los riesgos de agentes autónomos a nivel mundial Informe de Bus"
+  },
+  {
+    "id": "b2d5d49742a3",
+    "title": "Mount Sinai Finds AI Safety Prompt Cuts Harm 39% [2026]",
+    "summary": "Mount Sinai Finds AI Safety Prompt Cuts Harm 39% [2026] shattered.io",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkX2c5WHVlTnpVUVVQekw3clM4dlRGTUxVdUc1dnhVc1BDLWc0OEZHdTNLUFloWXU0azR2RHN1XzRFSU5QYUs0RGl4bkZKMHMzbUZYeHdaUExRa1ZWdHRRZDd1anFqNkJqQ0tDYy1sMkNUWnpJaUVOTk44MkI?oc=5",
+    "source": "shattered.io",
+    "language": "en",
+    "published": "2026-10-12T00:51:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Mount Sinai descubre que la indicación de seguridad de la IA reduce el daño en un 39 % [2026]",
+    "summary_es": "Mount Sinai descubre que la indicación de seguridad de la IA reduce el daño en un 39 % [2026] shattered.io"
+  },
+  {
+    "id": "41155b9958d3",
+    "title": "Minimum required pacing: finish aligning it before you train the next one",
+    "summary": "Let's say we coordinate to pace the frontier, but we don't coordinate on an outright pause. What should the standard of pacing be? My proposal for a minimum requirement: a lab cannot train the next generation of models (in terms of capabilities) until they have adequately [1] resolved all significant alignment issues in the present generation of...",
+    "link": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-11T21:55:26+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Ritmo mínimo requerido: termina de alinearlo antes de entrenar el siguiente",
+    "summary_es": "Digamos que nos coordinamos para recorrer la frontera, pero no nos coordinamos para una pausa absoluta. ¿Cuál debería ser el estándar de estimulación? Mi propuesta para un requisito mínimo: un laboratorio no puede entrenar la próxima generación de modelos (en términos de capacidades) hasta que hayan resuelto adecuadamente [1] todos los problemas de alineación importantes en la generación actual de..."
+  },
+  {
+    "id": "159c4ae2a6a1",
+    "title": "Japan institute's system assesses generative AI safety | NHK WORLD-JAPAN News",
+    "summary": "Japan institute's system assesses generative AI safety | NHK WORLD-JAPAN News NHKニュース",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VdUQ0Yk11N1JBbmVrU044VjJmbVVRRDB6SzBKcWJqY1BwaHlweTV3d2dZRXRHSXZLaEt5YXB1TS02Ujc5V19wT2ozR2FPZWlCLXRqU1BoaHZBT3U2VGl1UUZ4MA?oc=5",
+    "source": "NHKニュース",
+    "language": "en",
+    "published": "2026-10-11T19:26:24+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "El sistema del instituto japonés evalúa la seguridad de la IA generativa | NHK WORLD-JAPAN Noticias",
+    "summary_es": "El sistema del instituto japonés evalúa la seguridad de la IA generativa | NHK WORLD-JAPAN Noticias NHK Noticias"
+  },
+  {
+    "id": "95b993b475a5",
+    "title": "Anthropic AI safety test uncovers website exploits, unpaid database access and fake police tip",
+    "summary": "Anthropic AI safety test uncovers website exploits, unpaid database access and fake police tip WION",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0FqUWdNMURLbXFCWi01dTRIeWJnZEQtXzFjdnZkQk5tNlZUWWt6MklPcDlIQ1pxa3ZJVUpYbGZBQ1dKSFQyVmMwMkV3SDhXN0ZOS1dKRnA2alI2QldnbGZRemRnUUxnRmNFRXFJNU5yUnZnck5XOFdFSE1MXzh4aTlSeXJvOThsekRFRm01aXg1dFpfX0VJTUVYVmNlZTdLRXpVaEZsUUZhS3lETkZNUlBqa0RFQmZrQ1Q5QzJxbDJfLXdkQ0c0MC13MFZLTjN4V19JS045Q0o4d9IB3wFBVV95cUxQNGZfZXV4TjlrZWVXOEJPS24tenFITFFsSV9nT2VYQXd2aDZqbVNsNlNfU3NqZUFSMWw1b0FXVHlUZXBWRFRqYUVJRlZ6eXhGU0ZKOUVPc3R1VS1weUR4eEs5UFphR1BGb2ZxMjZzYUlrYVg5N1pkS2NQeUJyRGRUMHpjNzNBR2pFamQtVllfM1k3bFc0VjV3T09EZzJ5TjBXZ1dLak1ocHpxaTNrUndtSTVoTXJmamRMa3liYzVNY0FkY1RFekd3RG13YjA5ZmxwYjZ6MTFFVkgyX1laclNN?oc=5",
+    "source": "WION",
+    "language": "en",
+    "published": "2026-10-11T17:31:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "La prueba de seguridad de Anthropic AI descubre vulnerabilidades en sitios web, acceso gratuito a bases de datos y denuncias policiales falsas",
+    "summary_es": "La prueba de seguridad de Anthropic AI descubre vulnerabilidades en sitios web, acceso gratuito a bases de datos y denuncias policiales falsas WION"
+  },
+  {
+    "id": "3a66e4cfe7f1",
+    "title": "What the C-suite needs to know about AI governance",
+    "summary": "What the C-suite needs to know about AI governance ESG Dive",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hMW1wQ1J4aUNEa25SVW8ySVEwMEhRRW5xTGs5Tk5EM0pfX3ZZMElPTzZPZVdpNm9ZUGc0WjFPRS1vQlp5cV9SQVFlRG0wU1ZCU2NCcUpSeEJqQ0VuLW5HQllkT0FITk9BOHc?oc=5",
+    "source": "ESG Dive",
+    "language": "en",
+    "published": "2026-10-09T15:37:57+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Lo que la alta dirección necesita saber sobre la gobernanza de la IA",
+    "summary_es": "Lo que la alta dirección necesita saber sobre la gobernanza de la IA ESG Dive"
+  },
+  {
     "id": "2b7794015b36",
     "title": "‘Let's get to work’: Microsoft AI CEO Mustafa Suleyman after Satya Nadella backs ‘emergency brake’ for AI",
     "summary": "‘Let's get to work’: Microsoft AI CEO Mustafa Suleyman after Satya Nadella backs ‘emergency brake’ for AI The Times of India",
