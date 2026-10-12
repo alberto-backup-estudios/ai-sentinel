@@ -1,5 +1,335 @@
 [
   {
+    "id": "8424645df987",
+    "title": "Claude Submitted a Fake Homicide Tip to Police, Raising New AI Safety Concerns",
+    "summary": "Claude Submitted a Fake Homicide Tip to Police, Raising New AI Safety Concerns Yahoo Tech",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHROZ3NBT1BfYzJVWDUxV2RFRVdjOTFoY0I2NTZGS052WkRxNEtHSDNvZVpydGpxbnNRN3ZzQmEtTXpmSmdXYU5pUGVYeHVLYURZWktQckNMVDBRZUpvUnhKQzVBMnRsU1pVaml2S1BwdGFjc09lQnpndmdUWU9aMFFIRkI1dWpZdjFIZ05Fa3RZblNJZVE?oc=5",
+    "source": "Yahoo Tech",
+    "language": "en",
+    "published": "2026-10-12T14:10:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Claude envió un aviso de homicidio falso a la policía, lo que generó nuevas preocupaciones sobre la seguridad de la IA",
+    "summary_es": "Claude envió un aviso de homicidio falso a la policía, lo que generó nuevas preocupaciones sobre la seguridad de la IA Yahoo Tech"
+  },
+  {
+    "id": "7a1895fb6808",
+    "title": "Arena Secures $200M Series B at $3.1B Valuation and Adds AI Alignment Leaderboard",
+    "summary": "Arena Secures $200M Series B at $3.1B Valuation and Adds AI Alignment Leaderboard AI Insider",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLW1zaThhODBHYmtGMFZwQ2N5RDlheWxPZkJXQk9Rb2xEZDA1WFRTa2hWcGR4a3JpejVhN2dzbUZpc1JJRjEwLXVjeDJOdGUzeGc4dE9oRDZuajgwTW1xVTF0Q1UydGNIYUpUYk1PaEJNSzdUZ1pWN1RldWI5c1MyUG10dEMyQktHQXNSSlVwNnAxRjNMOGxwektnQTdLVWU4TjRfck14STd5NFlIRWw3WmpNRmpla29N?oc=5",
+    "source": "AI Insider",
+    "language": "en",
+    "published": "2026-10-12T13:35:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Arena obtiene la Serie B de 200 millones de dólares con una valoración de 3.100 millones de dólares y añade una tabla de clasificación de alineación de IA",
+    "summary_es": "Arena obtiene la Serie B de 200 millones de dólares con una valoración de 3.100 millones de dólares y añade la clasificación de alineación de IA AI Insider"
+  },
+  {
+    "id": "7b923c8a69be",
+    "title": "Intel CEO Lip-Bu Tan may have just agreed with Nvidia CEO Jensen Huang and Meta's former chief AI scienti",
+    "summary": "Intel CEO Lip-Bu Tan may have just agreed with Nvidia CEO Jensen Huang and Meta's former chief AI scienti The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPRFo3OWRmVDRVcjdMU0hkam4waHB3U3NfMnRLUjRUNGNtYm5VeXZpcVk3VjR1T04xdGhfWlVBRGFrZWRWSUdhSGFiWEZWVlB0aEhPTXJEejV4bHdOODFCRmpadHRfZHlvb3JqcVFoMTVQcm5ZOGlmQXRBLTc5UmhnYTRlM19LOUJvZ2tjb3NuRTd6Ul9CRFJZWXNSdHZELUNhRWFGSnZPQ0ducWhrMVYwM3B3NjctaW96bm5nN3FxYVUxdEk0SHJqb3VxRURYbkRBWDF2Q3N1QjgzZFJ6XzhzTEN6dVo5ZkdMLVhfRU1jS2JXUWNrTzhCdU9tTkp4b0d4V1lpamFLd3BIRllfRGMxeEgwSWdZWnhsOC04bTFCVUxLUmF5b3lyU0RobmFqSDJLZGY1X2pyMW1TZ2UtWE84bWx5aklaNXVX0gHOAkFVX3lxTE5CXzlsWm5hUTZadFJGR3NnRmJKSDU5YVN0ejZ0aWFpb0NBeHZhWkFwOTRsVkM5LXBVQ1NqU0FyLUk1OUZXOEF4dldFdUlEV0RGUEVvdnJPVHVGTWVsQ1RuTDMzRnJSOTFaaDN2ZmthRkREWS04MnA0Yko1NGo0NnNvM3B3UGdTekgxS3VJYVJ3LTBnTTJCWWdSa0h5WnBiWl8zTkd1dDlxZ0hpMHpXVTFxWjh5Y1VRaW9HamtTU3ZRMG5XSEd6UC1adG83QmdnZmp2RXBKbmctTTRMdEdMTnB3S1E4cDY5RmpiV01nd21EanhnS2dBWS0zTnVoTzlZaFAwNUg2MmRZcDJ1dGJOakMtci1QYjBvODZ4V01KMi1jNzdmSGh2NWpQX04xOWQ4ZTk4b1dRaENTelJweTF4NGo1cjBBSEs5TTlKNUluY0E?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-10-12T13:29:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-12",
+    "title_es": "Es posible que el director ejecutivo de Intel, Lip-Bu Tan, haya llegado a un acuerdo con el director ejecutivo de Nvidia, Jensen Huang, y con el exjefe científico de IA de Meta.",
+    "summary_es": "Es posible que el director ejecutivo de Intel, Lip-Bu Tan, haya llegado a un acuerdo con el director ejecutivo de Nvidia, Jensen Huang, y el ex jefe científico de IA de Meta The Times of India"
+  },
+  {
+    "id": "d7cfe099a142",
+    "title": "Agentic AI Governance: When Approved Software Turns Agentic",
+    "summary": "Agentic AI Governance: When Approved Software Turns Agentic Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV1MtQ3dEaXRMOXh6anFYVzlaWjRpZHlZdy12SHVwUkY3bXpXNVpCU1ZyV2NFTTRFOUtfYUp4Z0htaWwtZHhERXp1V2xWWi1iM2ZZVWlrSTJlWEZESVV5ZGtHSHpydk1ydUozWTRydlc3QTNxd29sR1ZYcDBuUmZrbnBlQ05RS3FkMDhkVVpuNGkzRXBCWEpLdXRGQXUwSzBvaE90MkZrN1Nud0RpX3lSV3hhcDlhamY3dHZr?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-10-12T13:21:55+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Gobernanza de IA agente: cuando el software aprobado se vuelve agente",
+    "summary_es": "Gobernanza de IA agente: cuando el software aprobado se vuelve agente Forbes"
+  },
+  {
+    "id": "e74670bfaf1e",
+    "title": "AI Governance Is Being Decided Now, and the Public Isn’t in the Room",
+    "summary": "AI Governance Is Being Decided Now, and the Public Isn’t in the Room Tech Policy Press",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlBuUVVyMk1fV1pGRFNrazQ5NVRmZHZ0UkE2REQ2VTNPb3YzRUpnMlJyTUpiRF9kd3ZhVUZ6dTBhYlVubmhFYlVFQnVzQ1dvVFV0MHpyWmVMcU9PUnNkaWM0bWgtZUM4c1Bmd3J1bVdLaWc3dGF3VVpSODJ5MVFXMWpoVUNaeUtLaEZnZFRVZ0JuSzBRaVdtTDJoWWc?oc=5",
+    "source": "Tech Policy Press",
+    "language": "en",
+    "published": "2026-10-12T13:03:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "La gobernanza de la IA se está decidiendo ahora y el público no está presente",
+    "summary_es": "La gobernanza de la IA se está decidiendo ahora y el público no está en la sala Tech Policy Press"
+  },
+  {
+    "id": "e19817c6ee58",
+    "title": "Rethinking AI Governance: Growth vs. Regulation in Europe",
+    "summary": "Rethinking AI Governance: Growth vs. Regulation in Europe European Business Magazine",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwelY4VDJ6NUdVaEMyS0d5a3c2NDg0YlBrbGstSFBsMllnR21rTThWX2VBdlAxcW9ralhpT25LbVNyaVRyYkc5TVNvN0tuZFVUQ2NETEZVelYyS1FQbnY3bXpMSTBzNWhVNEpqeW11ZTZSYkg5LUM4?oc=5",
+    "source": "European Business Magazine",
+    "language": "en",
+    "published": "2026-10-12T12:54:40+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Repensar la gobernanza de la IA: crecimiento frente a regulación en Europa",
+    "summary_es": "Repensar la gobernanza de la IA: crecimiento frente a regulación en Europa Revista de negocios europea"
+  },
+  {
+    "id": "a071c8115f88",
+    "title": "One essential ingredient for AI safety? Democracy | Matthew Botvinick",
+    "summary": "One essential ingredient for AI safety? Democracy | Matthew Botvinick The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13R2pVYVdoZGVzWTV5OFo0MlB0R1pPV1lRVTVUT2liT0thbUpBVF9CNV9Qc09OeFFwc21HNXpoZmxUNURTc3JjaW96VHV1UFFkbFVGTVlvWUtyOXR3YW1oenI3eUFxT093R3U3Y1FNcEtUV0p6ZTdEeW5jaW9odw?oc=5",
+    "source": "The Guardian",
+    "language": "en",
+    "published": "2026-10-12T12:43:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "sociedad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "¿Un ingrediente esencial para la seguridad de la IA? Democracia | Mateo Botvinick",
+    "summary_es": "¿Un ingrediente esencial para la seguridad de la IA? Democracia | Mateo Botvinick El guardián"
+  },
+  {
+    "id": "d8a394ed34c0",
+    "title": "One Policy, Thousands of Agents: Why Enterprise AI Governance Breaks at Scale",
+    "summary": "One Policy, Thousands of Agents: Why Enterprise AI Governance Breaks at Scale Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ub1pBcmJ2cnhSdDhRZlEySi1RZ1N3ZUpJTFpGUVFRWVJXMlFPakJvdmJ5MllpTnRDeHd1UDJPTDBGZHMtdXR2d3VyYV94MGV5em1CVlBLTEZiNDVrTXBXbDA0YWVaa1A2MlZEV0czTEI?oc=5",
+    "source": "Unite.AI",
+    "language": "en",
+    "published": "2026-10-12T12:28:07+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Una política, miles de agentes: por qué la gobernanza de la IA empresarial fracasa a gran escala",
+    "summary_es": "Una política, miles de agentes: por qué la gobernanza de la IA empresarial fracasa a gran escala Unite.AI"
+  },
+  {
+    "id": "fe73e786cff4",
+    "title": "UK best placed to lead on global AI safety rules, Microsoft president says",
+    "summary": "UK best placed to lead on global AI safety rules, Microsoft president says Nation.Cymru",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmY3U2EzWHpjTDRtWTM4eGh4SmVBRzA3by10OW9hS3RxNUZ4amNINGJjNUVuckdCMUZkdjhqY0xEQjh6c1FvdUtJU09zQ2RmSkU0RUdQQ0VoVWtHQmRtamJlWW1EcHNndldGWVNVOTZDLVZNQTMxQnZkVWdocHRzNUVrUjAzelhfOUFycTVnOVF1Ql9KWHRnejFOUjNsUEhxcGc?oc=5",
+    "source": "Nation.Cymru",
+    "language": "en",
+    "published": "2026-10-12T11:48:53+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "El Reino Unido está en la mejor posición para liderar las normas globales de seguridad de la IA, dice el presidente de Microsoft",
+    "summary_es": "El Reino Unido está en la mejor posición para liderar las normas globales de seguridad de la IA, dice el presidente de Microsoft Nation.Cymru"
+  },
+  {
+    "id": "d8eb88c2348e",
+    "title": "Microsoft president Brad Smith calls for global AI safety rules",
+    "summary": "Microsoft president Brad Smith calls for global AI safety rules Quartz",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqM3RUemhqNE1meTVrWEZlQ0dBbmRpQkZXZUl5ajFaQmIzSkZHVG1xbEp4dFEtOE9KTzBQa2dSNnhTbnJYbllzNmxjUUpwX2Z0WGhtU3ZoZVdROGxtc3VrU2l4UkpQLTNtN1RvSUdkRXBwdw?oc=5",
+    "source": "Quartz",
+    "language": "en",
+    "published": "2026-10-12T11:42:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "El presidente de Microsoft, Brad Smith, pide normas globales de seguridad para la IA",
+    "summary_es": "El presidente de Microsoft, Brad Smith, pide normas globales de seguridad para la IA Quartz"
+  },
+  {
+    "id": "675acd42ee8b",
+    "title": "EU AI Act Readiness: A Practitioner's Guide for Corporate Leaders",
+    "summary": "EU AI Act Readiness: A Practitioner's Guide for Corporate Leaders The National Law Review",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGVBN0c3QXJ1d3pmWVduQzJUNkVwWm1KM2FjVHRPZ214TnZCRnZKT3hJSy1fbi0zNGlqRG1Ya3NCTlY1ci1IcVhTVVE1bnIwMlYtV25TZUY4OVdvdVg2bkNqc0lMX21qMi1MQTdFbEZQVWZ1aTllQV9uU3RpWjdsNVJTM1BPZExkNGUzb21MQlJKYkJh0gGaAUFVX3lxTE5NaVV6eFplUElFdTJXSVVlWTczbXlIYnRqbzFpcEF6dkpPSEQ1SjFxN2MtY3NtZVZ3TTljOGdTZEFXZEpMZmlBbnE0YUhiVXRYZ0phU0MwRERJVU50TEUxNU5KLXZ0c25PY2N6RXVqYWIzdGI0eThSRmlHLUlGWjNBVndhSkdrNkZJOVgzMTE0eUM3WlRFSWVuNFE?oc=5",
+    "source": "The National Law Review",
+    "language": "en",
+    "published": "2026-10-12T11:21:05+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Preparación para la Ley de IA de la UE: una guía práctica para líderes corporativos",
+    "summary_es": "Preparación para la ley de IA de la UE: una guía práctica para líderes corporativos The National Law Review"
+  },
+  {
+    "id": "a6300dafc8d9",
+    "title": "Palantir CTO Blasts Silicon Valley’s ‘Doomsday Cult’ Over AI Safety — Says Pentagon Has 'Already Replaced",
+    "summary": "Palantir CTO Blasts Silicon Valley’s ‘Doomsday Cult’ Over AI Safety — Says Pentagon Has 'Already Replaced Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU2U4T1VEX0dFUkxWenFDa0h6Rzd5Q2dOMEo1cjZWZHJ0QVdPVGF5S2k0Qm5HWW91TjZYMEVUQk5HRXhwWHBDemE0cW1lVkw0NmNtblZjQ29uaUNzcTQtSmozc1phbnV3NUg2MzdlbXQ0YzdEcmJKelZhTjlqNzZjbzlmZkhocW4yS1pPUzY4bDNtU1laZ1hiRVZyczNUeVFGZFdTRjdhV3o5SEEwS0ZQNHZNTkUzNkFCeFk4T2ZnQ2xOY2JsNXhIU2pPLUlWakRmZGJWUHdaZTZSYnNfLVNhVmZOeFdMcmJZOWg0N0JEajZjSXNCZU5oaFB3?oc=5",
+    "source": "Benzinga",
+    "language": "en",
+    "published": "2026-10-12T11:18:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "El CTO de Palantir critica el \"culto del fin del mundo\" de Silicon Valley por la seguridad de la IA y dice que el Pentágono \"ya ha sido reemplazado\"",
+    "summary_es": "El CTO de Palantir critica el \"culto del fin del mundo\" de Silicon Valley por la seguridad de la IA: dice que el Pentágono \"ya reemplazó a Benzinga\""
+  },
+  {
+    "id": "9d5a6de82fb2",
+    "title": "Monday Morning Moan - time to face up to the fact that the AI safety debate has 'jumped the shark'!",
+    "summary": "Monday Morning Moan - time to face up to the fact that the AI safety debate has 'jumped the shark'! Diginomica",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlhxeTd5Rk4tYnpyT3hObngxWkkzbGdTQVp6RXNlU2dZMVZyMk1TU2hVQTdkRGFmVEVnT3BsalRSZDBWSG52QlRlMU56LXU2QnFtbHE1X3JJNndPNTVDM3pZN2hNa2g0cjlGUDduNFlqYnRhRDIzSWZJdWwxalZTTXBiOS1PTldpVmI0V1ZrVll4Tzk0V0E?oc=5",
+    "source": "Diginomica",
+    "language": "en",
+    "published": "2026-10-12T10:35:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Monday Morning Moan: ¡es hora de afrontar el hecho de que el debate sobre la seguridad de la IA se ha \"saltado del tiburón\"!",
+    "summary_es": "Monday Morning Moan: ¡es hora de afrontar el hecho de que el debate sobre la seguridad de la IA se ha \"saltado del tiburón\"! Diginomica"
+  },
+  {
+    "id": "4cd79c9ed6e1",
+    "title": "Yann LeCun Criticizes AI Slowdown Theory, Pushes Open-Source Models",
+    "summary": "Yann LeCun Criticizes AI Slowdown Theory, Pushes Open-Source Models 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejlIajBxODkzMi1xSy02SVZNeDdiYnJqRjEtRzZyX1dneFdJbWNpQmhuQXdtRllVNHhfZUR0aHRFSm9WMWN3QWV2dG5mOVI3bExzZDRwSGtLQ3c3cEVfaEhSelNLRWJzVWhRTm9lejRtc2VRMVNpNFhydUJpVEEyek1IbjhsNl9P?oc=5",
+    "source": "조선일보",
+    "language": "en",
+    "published": "2026-10-12T10:18:37+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-12",
+    "title_es": "Yann LeCun critica la teoría de la desaceleración de la IA e impulsa modelos de código abierto",
+    "summary_es": "Yann LeCun critica la teoría de la desaceleración de la IA e impulsa los modelos de código abierto Chosun Ilbo"
+  },
+  {
+    "id": "82edc0e51911",
+    "title": "Exclusive | AI safety ‘doomers’ pouring cash into Minnesota’s Senate race for Sanders-backed lefty Peggy Flanagan",
+    "summary": "Exclusive | AI safety ‘doomers’ pouring cash into Minnesota’s Senate race for Sanders-backed lefty Peggy Flanagan New York Post",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZmFoTnFaNVZBdE9lYXkzZEdzT1p0NmVuRG1xR0UxbzRIMUdOZ1BjRklsTktSTWVXdk5fZE1yUThDdjd2NWtCbFg1b0ZBd2hPaERPZ19tWVJFMkZ3YzJXXzR0M0J0UUc5NUhiM29RYUpES2hPWWtKWUdXc20wbzVfSHZfbVdlMDBHeEs1OFNzX0w4bUw0RU54aEg3SENSZzJ6V1ktWXVjb0xlbmNxSjlPbUZEWlQ0Y1B2bTdoSFh1b0tvb1ZKbldudWRmLW8?oc=5",
+    "source": "New York Post",
+    "language": "en",
+    "published": "2026-10-12T10:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-12",
+    "title_es": "Exclusivo | Los 'doomers' de la seguridad de la IA invierten dinero en la carrera por el Senado de Minnesota para la zurda Peggy Flanagan, respaldada por Sanders",
+    "summary_es": "Exclusivo | Los \"condenados\" a la seguridad de la IA invierten dinero en la carrera por el Senado de Minnesota para elegir a la izquierdista Peggy Flanagan, respaldada por Sanders, New York Post"
+  },
+  {
+    "id": "a06b69cd180e",
+    "title": "Your AI governance model is already obsolete",
+    "summary": "Your AI governance model is already obsolete CIO",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmV4dXlqUnRhRXEzd0oyQkpsVTlsMXZacFB1N24wWER2dzVyclk0UDJHaldhclJPU2pteGhtUWhhNUVNQ3VVUGZoaHVpTWxOYVNJQTlmdmRFaVhpYnZUVlFlZ0JvYl92c3VmdklxVnAxUkhvYi1kZUg5a25PcWJ0Q2Y3Z21SVTBUVFBQT2x3?oc=5",
+    "source": "CIO",
+    "language": "en",
+    "published": "2026-10-12T09:05:38+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Su modelo de gobernanza de la IA ya está obsoleto",
+    "summary_es": "Su modelo de gobierno de IA ya está obsoleto CIO"
+  },
+  {
+    "id": "886e2458cdcb",
+    "title": "Ardian-backed HR Path acquires AI governance and compliance startup SnapAI",
+    "summary": "Ardian-backed HR Path acquires AI governance and compliance startup SnapAI PE Hub",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnVPRDNRYmtVUFJuSnBiMkhYZVdYSVd3SEg4bUJWOFprVnhCRl9FQndKUktJeEItMy1kRy1uOHg1eVRGYkhOVUJLd21YSkR0Wlhod0E5ZEVQUTYwZ3hERGJDS3o2b0hvR2ZuQkgtdEJ3LUl4MEQ0Vk42TVo3ZWtmOV90YUs0QjNLN011N1VwYVlMZ1FTcG9YVkV1UDBKUQ?oc=5",
+    "source": "PE Hub",
+    "language": "en",
+    "published": "2026-10-12T08:57:09+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "HR Path, respaldada por Ardian, adquiere SnapAI, la startup de cumplimiento y gobernanza de IA",
+    "summary_es": "HR Path, respaldada por Ardian, adquiere SnapAI PE Hub, startup de cumplimiento y gobernanza de IA"
+  },
+  {
+    "id": "f15cbd1f61c8",
+    "title": "Microsoft urge a reevaluar la seguridad y gobernanza de la IA para evitar riesgos futuros",
+    "summary": "Microsoft urge a reevaluar la seguridad y gobernanza de la IA para evitar riesgos futuros Imagen Radio",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWEzWHA3YjhEdGc4WmQ1M3hxTlc4aXpvNjRod2xQY0dmc3g0UWJET0V5UW95Uzg0N0tZVktZZE9Qa3NMQmlyOFBOT2czRTZJc1gzMjBORnl0NW9OT3ZpdmUzVjRwTW1SNElmTThwbUs1WHI3V243X1VEVkRYaEU2QkZGLXI1eTU2X0IwWlhfaUM4cGtzdmJaU2x4eGVOMFJoQllwZnVtSGQ1OVdqTHBBbWpFLUoyYm_SAbwBQVVfeXFMT3VhMU0zbzJoNHhFeG5PbHZmcFlYMFg3WkNrUURMb2pVdzFDWkRBR3BKcjlfRU9GNktseWxySDg2bWVlOTFPN1FyclJHTkE1YWFKeE4yd2pYWm1GTWF6QmhnckI2VEYwdUpkM21xWmp3YjhLSzJVYW1XUFh2UmF2ZXZpWTQ1SWZDTVNvejd2MnZ5RVVBcmZUZkNkSlZUejRrZE1aakZtb0MxWGlUU0hlLTZXOXhVcGFIcWRTNmE?oc=5",
+    "source": "Imagen Radio",
+    "language": "es",
+    "published": "2026-10-12T06:00:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-12",
+    "title_es": "Microsoft urge a reevaluar la seguridad y gobernanza de la IA para evitar riesgos futuros",
+    "summary_es": "Microsoft urge a reevaluar la seguridad y gobernanza de la IA para evitar riesgos futuros Imagen Radio"
+  },
+  {
     "id": "688b40d15762",
     "title": "UK ministers explore compulsory AI safety reporting",
     "summary": "UK ministers explore compulsory AI safety reporting Financial Times",
