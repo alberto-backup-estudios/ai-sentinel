@@ -1,5 +1,302 @@
 [
   {
+    "id": "1a482bfcd936",
+    "title": "Proposed Bill Would Create White House Office to Coordinate Federal AI Governance",
+    "summary": "Proposed Bill Would Create White House Office to Coordinate Federal AI Governance CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNazRKczk5TTRyS1JVZlEwQ0ExX09oR3lTT2xLaDdWREtKS2d6NnFKdFN5ZmVTS3ZNX0RZSjBlSmxkZ2p2bjhPMnk3aXduOWZYTEtWSnVraFNNbTNmcVJkM2hQMHJjYjBNNkE4aFlKcy16WTNKa2FOdVBWeURaRXJ5NWpTVHMtMENRRWVadXdwN1gxTURnVnhRSFhtMHdNV0Jwd0ZkS05wdTgwWnZMLV90X1dXbVpBMDliREg4VW9WQk9ReGpOVmF3NFktc3FTUQ?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-10-13T13:35:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "El proyecto de ley crearía una oficina en la Casa Blanca para coordinar la gobernanza federal de la IA",
+    "summary_es": "El proyecto de ley crearía una oficina en la Casa Blanca para coordinar la gobernanza federal de la IA Revista CDO"
+  },
+  {
+    "id": "9482f46a434c",
+    "title": "Morocco’s HACA Chief Calls for AI Governance to Protect Media Pluralism",
+    "summary": "Morocco’s HACA Chief Calls for AI Governance to Protect Media Pluralism Morocco World News",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblJ6RmItakFpS00xVnd5YXlnOTVJQU0tWjJvYm5PZTVPYnBNTndsakRXN1R0NTFxSlVWT2lGOURKWXFndlVmUEJIOU1mcnZMX2R2OC00dHJSYVJXeEJRX3dEc0o2V3N3UWdnMDJSc1hCMmNJbUc4SGpWTklIa3BsTEVaZUpRVXNZaHFRamZxT1FnMV9KM3FldE9abm5NeFozSjdNbXV0NnQtTzVPb2IyR082aW9RVHBXb0ww?oc=5",
+    "source": "Morocco World News",
+    "language": "en",
+    "published": "2026-10-13T13:25:09+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "El jefe de la HACA de Marruecos pide una gobernanza de la IA para proteger el pluralismo de los medios",
+    "summary_es": "El jefe de la HACA de Marruecos pide una gobernanza de la IA para proteger el pluralismo de los medios Marruecos Noticias Mundiales"
+  },
+  {
+    "id": "56fde88a53cc",
+    "title": "The Politics of Global AI Governance",
+    "summary": "The Politics of Global AI Governance Global Security Review",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54TVZXb0tTQ2oxZTBjYlU5Q3lkTGFLUUNBVVpnNF9XNk9VNDd3THdzUGpBQlRTR2xZZVEzVkttcXludkVxNnFZVlVURG9BRUxGdUZ2bGdyV21kX29CQ0ZIQzlOZzd0YUFad1dEalFWWGY3QUs4a1pDc0Rn?oc=5",
+    "source": "Global Security Review",
+    "language": "en",
+    "published": "2026-10-13T12:14:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "La política de la gobernanza global de la IA",
+    "summary_es": "La política de la gobernanza global de la IA Revisión de seguridad global"
+  },
+  {
+    "id": "a87e9cd208b0",
+    "title": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for global AI oversight body",
+    "summary": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for global AI oversight body The News International",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVV9TbkFOZHRnVDBPVVA2ME05VWNUNHlqQzFZcmU4YUR1UW5GbVJuNU9GOGJpU2lqWEh3Rmp5QWJIZnotQmh5RzhJVm5IYk1HNEpNNkI5WTduaEp6R3YzdHZHMjEzR01sNFFTZjBhbXRrS3pCR1pyb3cwOFdhazhaOUtfTWp5NGdic2VtdXdjTEd4MjZfNW1oWXI1UVk5R0ppajNiQVotcUxJanR6U3l0TkVmNUFYYmQzNmpOM19iNU9wRmJzdXZN?oc=5",
+    "source": "The News International",
+    "language": "en",
+    "published": "2026-10-13T11:41:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "Geoffrey Hinton y Yoshua Bengio se unen a 400 científicos que piden un organismo de supervisión global de la IA",
+    "summary_es": "Geoffrey Hinton y Yoshua Bengio se unen a 400 científicos que piden un organismo de supervisión global de la IA The News International"
+  },
+  {
+    "id": "4158220b0741",
+    "title": "350 scientists call for international AI safety body — ABC News Australia",
+    "summary": "350 scientists call for international AI safety body — ABC News Australia UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWtMQU9CVWk1eEd1T0ZBdzNkU1ZlOGlrU2wyZVBxUDdMamgzSDd3VnBEdmJzUk10cU9Qa2RNQTV3cmpTbVpuYXNPSVZuaGNMa0JZZ3R5M1N2TFdteDZIVXBiRmh6bms0RVNHS19rZEdueTZ3elM2bnRHMWp3dm9wVFlvN2dNYVlTbmxRVkRoSmFFUFRPYUxlRjN5VUNycVVrN056eXN4bWF0NU9wcEVwY1dodW10ODEy?oc=5",
+    "source": "UA.NEWS",
+    "language": "en",
+    "published": "2026-10-13T11:38:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "350 científicos piden un organismo internacional de seguridad de la IA – ABC News Australia",
+    "summary_es": "350 científicos piden un organismo internacional de seguridad de la IA – ABC News Australia UA.NEWS"
+  },
+  {
+    "id": "d30197161ff9",
+    "title": "AI godfather Geoffrey Hinton: Trump is ‘corrupt, senile felon’ who knows nothing about AI",
+    "summary": "AI godfather Geoffrey Hinton: Trump is ‘corrupt, senile felon’ who knows nothing about AI The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWJFMG9YRXR3ZzI0dy16OURHM2VLaGRlQ29fcnZCeFlneDdaS3Q1dEJKMXBCcl9ycndsRjFFSDlzb2ZRcFlkVzdkVVpMdkhIbGxEVkVXZjVuZFBWN2dZUzJCZTczV0pOR0lwVUVqOERHRmZJa0JHUmxZN1d4TURodFJsMA?oc=5",
+    "source": "The Guardian",
+    "language": "en",
+    "published": "2026-10-13T11:31:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "El padrino de la IA, Geoffrey Hinton: Trump es un “delincuente corrupto y senil” que no sabe nada sobre la IA",
+    "summary_es": "Geoffrey Hinton, padrino de AI: Trump es un “criminal corrupto y senil” que no sabe nada sobre AI The Guardian"
+  },
+  {
+    "id": "4e61b205494f",
+    "title": "3 Cybersecurity Stocks Retail Investors Are Watching As AI Safety Risks Rise",
+    "summary": "3 Cybersecurity Stocks Retail Investors Are Watching As AI Safety Risks Rise Simply Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEJYYjJEc2NpTFB4bkdKM1dFeEpSTlJ6emdaSVVlWU5PWnBLM0NhMGNmSktnSlNvUGQzak50eG5HYWVwajNLZ1VwcFhLU3NXbG1hNlhGSy1BZzVxZDh1a0xoLWNIanRvandldXRfNDBWN2EwMGtOWmxma1JNTEE0QndNaHF6R2YxLUhnczA0NVhzUk5mRXlNWXJ4VEdiRmthN2M5VXYtUlpUWjRFSVF1ZDE4WmdaUFdvdGpROGVjYmhuVEtuRFVtLUVBd0xJd9IB0wFBVV95cUxOMXpuVGVDNHB6MVRtWmtYNWR2TGFlbjFTNng2WUkzNFpubTQyMWZZZG5zWU11STUya0tmVnJqVmRONVFjT3g1NS12TW5EY0VJNUlPTjZCLW5JWnctTmdvbWprWDU2bXZBd1pvNGNYRUhqSm16YWJ3ZFlxUm50YkM0TWhYNzBDU0ZYaE5DV0Y0TDRMRGtfb2dYV2pIV0lOd2dYbmM5eDlXYTRjLVpYNEx3V1QxaTd2N2J2OXFySFRvMFZTTEdvRnRucngxUFdYRXVyd0Fz?oc=5",
+    "source": "Simply Wall Street",
+    "language": "en",
+    "published": "2026-10-13T11:26:06+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "3 acciones de ciberseguridad que los inversores minoristas están observando a medida que aumentan los riesgos de seguridad de la IA",
+    "summary_es": "Tres acciones de ciberseguridad que los inversores minoristas están observando a medida que aumentan los riesgos de seguridad de la IA Simply Wall Street"
+  },
+  {
+    "id": "b6db119eae27",
+    "title": "SpaceX to Testify Before NYC Council on AI Safety After Subpoena",
+    "summary": "SpaceX to Testify Before NYC Council on AI Safety After Subpoena marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0ctcnhpdlcybktFRFhULXp6M2YxSjQyNHVTdy1MaW9zbUpkU1FFcGFVZ0JYMGVsNHE3TmtKdVI1Y1psMmRTdk5EYkZ3OWItaVB3NWJOcXUwU09oTXQ4UTItak96Rnp0S0JNdk9qLTVTY1dGSGJueWsySE9oRFVUS0ZUZ2wyeG1JVFd6d0hyTnFWNGNYQmlCREZoNFJtRGo2bFl6TDhmMmxLZHRHVldmLWdmcXVpTE56?oc=5",
+    "source": "marketscreener.com",
+    "language": "en",
+    "published": "2026-10-13T11:08:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "SpaceX testificará ante el Consejo de la Ciudad de Nueva York sobre la seguridad de la IA después de una citación",
+    "summary_es": "SpaceX testificará ante el Consejo de la Ciudad de Nueva York sobre seguridad de la IA después de una citación marketscreener.com"
+  },
+  {
+    "id": "afd801e25366",
+    "title": "AI Rebooted CEO Michelle Strasburger Launches AI is the Orchestra Be the Conductor, a Playbook for Leading AI Governance",
+    "summary": "AI Rebooted CEO Michelle Strasburger Launches AI is the Orchestra Be the Conductor, a Playbook for Leading AI Governance EIN News",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbUZBODBLNUZobE1ESndJSEk3Y3pKS1RyWnFnUXZ1bl80YUZqa3NueDJQU1l2eTQ5QlE4TlpRT1ZCWG5MUkg1d1BMOHR0cDVNd1hGOEdzTHQwSTJhNTJEX19vV0tvZmdPUVFkVXRDWHhuSWRlUmNCMXFpbEd3RE1DMm9oY0tZMHZRSWhoOENBOFZfUjFWeGE4S3dnYTRRQWVxWVppU09fSk1nMnN6REZZRGNTZDFRUFl0eWZfOEZJRE8xeU1xcE94YlU2bUkyTFFDVmpzYkRENlFuUjB3MVc2TlM1Ym5VMUw0QURSdEswR0c1bkE?oc=5",
+    "source": "EIN News",
+    "language": "en",
+    "published": "2026-10-13T11:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "La directora ejecutiva de AI Rebooted, Michelle Strasburger, lanza AI is the Orchestra Be the Conductor, un manual para liderar la gobernanza de la IA",
+    "summary_es": "La directora ejecutiva de AI Rebooted, Michelle Strasburger, lanza AI is the Orchestra Be the Conductor, un manual para liderar la gobernanza de la IA EIN News"
+  },
+  {
+    "id": "8165c70a29d0",
+    "title": "SpaceX to testify before NYC Council on AI safety risks after receiving subpoena: report",
+    "summary": "SpaceX to testify before NYC Council on AI safety risks after receiving subpoena: report TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVjdRalVTdjZWN2VlbWIxR2lGYXhla3dyaFJkMlM1cDM1NjE1cDRxaFRmcWNYVEVCaE1EMnV4azhrUklNODVqMF8xX2hBZlpyTk9QN3Y2bHprdV9ibm5SVWZ2ck5ycjNYUV9PcUhpSUNTeWZ6dHlpN1NTQ1BzaFRqRkhfTnN0aUZaWWR6S3dLeXljalY2TWR0V1NIVmNPcmNiM3pOZ2VaUExNckdZdGtDTFdmdDh6SXRrUzFWRE42U1ZuTllXZWE3TmV1TVBwcS1qeWlBc3RURVZnZlJ1NzRFUEZPelM?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-10-13T10:56:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "SpaceX testificará ante el Consejo de la Ciudad de Nueva York sobre los riesgos de seguridad de la IA después de recibir una citación: informe",
+    "summary_es": "SpaceX testificará ante el Consejo de la Ciudad de Nueva York sobre los riesgos de seguridad de la IA después de recibir una citación: informe TradingView"
+  },
+  {
+    "id": "804afa1b3adf",
+    "title": "Market Chatter: SpaceX to Testify Before NYC Council on AI Safety After Subpoena",
+    "summary": "Market Chatter: SpaceX to Testify Before NYC Council on AI Safety After Subpoena Yahoo! Finance Canada",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXRjQTRhc1RNWVlyNUZNZFQyNkZXNUs4LUFNV1Z2ZEI1LUFOSG9zelNKYi1kbHVkbFk2czdvZlhFcXZWc2xJMC1NOUgzdGo1aU9tb1M4UUhZWm8zeTBTb1JiX2lpb0tuTmxITUN1aVNOX0Z4UnBZZUhrQldZYV9RWUFtaG9FV1R0N0E?oc=5",
+    "source": "Yahoo! Finance Canada",
+    "language": "en",
+    "published": "2026-10-13T10:52:43+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "Charla en el mercado: SpaceX testificará ante el Consejo de la Ciudad de Nueva York sobre la seguridad de la IA después de una citación",
+    "summary_es": "Charla del mercado: SpaceX testificará ante el Consejo de la Ciudad de Nueva York sobre la seguridad de la IA después de la citación Yahoo! Finanzas Canadá"
+  },
+  {
+    "id": "d06e8c212670",
+    "title": "Scientists call for international body to oversee advanced AI",
+    "summary": "Scientists call for international body to oversee advanced AI Awani International",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVHVwTUVmQ3FVWGxkbWNoLWZiRmNBMDVxaWdLcXQzZ25GSm85a0laWGpHdGRNeXdRb3IycV9NY1dZckNJZm5nMW9feXVmdFNGQUdLU3A4RlBzVE85ZlJKWGJzcXc0d0xwdm43MUNpdmRnZ0EyWU1iV2drbkRFWWp0OTR2b0ZUQUVxZE9ZN1Rmd0hhbFVMQlNOaFlkUWQyckhZbzI0akFXNE1rTEU?oc=5",
+    "source": "Awani International",
+    "language": "en",
+    "published": "2026-10-13T10:17:31+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "Los científicos piden que un organismo internacional supervise la IA avanzada",
+    "summary_es": "Los científicos piden que un organismo internacional supervise la IA avanzada Awani International"
+  },
+  {
+    "id": "e391df98dae1",
+    "title": "Stronger AI safety and cybersecurity safeguards needed, scientists say",
+    "summary": "Stronger AI safety and cybersecurity safeguards needed, scientists say MLex",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFo3OUcwc3Y3WngxT3o4eEQ0VUdLZmJXd1RPekliTFlnNGItSUpFNjJ4Nl92T0NHNkFTanY4bkVSMm9TUWhzOU8wY1dtdkFHX3lPVERDV3FIOXp3QU40YkdZb1dEYldHVlRBWWwxZ0piUWxMZXR2d1pGR0w4UTNKN2FnbW1fbVN0SldMVTlobFZPcTBZVHdjSWdVX1Rzb2Y0dGxfX3BZMHFoRmZZVFhITEdn0gFaQVVfeXFMT29tcHF1M3pmbG1VNWRQUmgtVlJ2T0ZVdzgyXzc5NjdHRVdDbWJWel9DMzFnS0RlMDQ2VnZDd2otR3ppblV4X0VYSENaY0NteU42eENjLVR6TUx3?oc=5",
+    "source": "MLex",
+    "language": "en",
+    "published": "2026-10-13T10:00:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "Se necesitan salvaguardias más sólidas de seguridad y ciberseguridad de la IA, dicen los científicos",
+    "summary_es": "Se necesitan mayores salvaguardias de seguridad y ciberseguridad para la IA, afirman los científicos MLex"
+  },
+  {
+    "id": "3798b78456aa",
+    "title": "AI safety",
+    "summary": "AI safety The House of Commons Library",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15V2dTdFZ3QWJmNDR1SVJCTmE3NWZ6ZDBRSnFzaDlCNmE2NUdDa3VwRUZ1RlpuajRkdkplR1lNS19ZaU1mRW5zcmItc3NNa3FUM0JFNnlIX1VMYjRXeWtmd1NGZTlZT0l4bW5zNk5kNGJ5anJ5?oc=5",
+    "source": "The House of Commons Library",
+    "language": "en",
+    "published": "2026-10-13T09:58:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "seguridad de la IA",
+    "summary_es": "Seguridad de la IA Biblioteca de la Cámara de los Comunes"
+  },
+  {
+    "id": "a81561003744",
+    "title": "EU AI Act Deadlines After the Digital Omnibus: What Applies From December 2026 to August 2028",
+    "summary": "EU AI Act Deadlines After the Digital Omnibus: What Applies From December 2026 to August 2028 Technology Org",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2phQVhKVTlkcy11aG9FazJYUDhJVFZndzhYeWxKYVdIOUd3bXZ5OGcyc1Y0b2NvdThMQTduTm5IMndUS2drYU5QWEo5QUlLV1FGZnZNbXMwcElfc3V4cU1fSHlmY1FjRUpxQ0Utd1N4U0VQb0gwRmRPR0RnVi1lVGdmMVhkR1MwMzNqM0RpdUFzQXJFOWtFNlZjQUNKYVh6X3l2V0xLUERQM09mNHo2ZWtSRXJXcGJyMEM4RzZaSW14ODFyT1d4ZTQ3UQ?oc=5",
+    "source": "Technology Org",
+    "language": "en",
+    "published": "2026-10-13T08:21:30+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "Plazos de la Ley de IA de la UE después del Ómnibus Digital: qué se aplica desde diciembre de 2026 hasta agosto de 2028",
+    "summary_es": "Plazos de la Ley de IA de la UE después del Ómnibus Digital: qué se aplica desde diciembre de 2026 hasta agosto de 2028 Technology Org"
+  },
+  {
+    "id": "ec4e68e51ee9",
+    "title": "SMBs lack AI governance: report",
+    "summary": "SMBs lack AI governance: report Channel Dive",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTjA4M2dqTEJpWDdiXzdxcU9EYngyMldtRmhBZDFzQTM5aER5X2cyZldBQkNNdlF0QWlBcWt1dEZ1b09kQjdyRURWano5VlNyaVVMLWk0cENLU0h4MzBWSW8zNHJDbnlqUG9rV25sQ0NhdEh3R1k2ZFZCWQ?oc=5",
+    "source": "Channel Dive",
+    "language": "en",
+    "published": "2026-10-12T22:13:40+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "Las pymes carecen de gobernanza en IA: informe",
+    "summary_es": "Las PYMES carecen de gobernanza de IA: informe Channel Dive"
+  },
+  {
     "id": "abac81f80cba",
     "title": "How Could AI Governance Influence Altus Group’s (TSX:AIF) Share Price?",
     "summary": "How Could AI Governance Influence Altus Group’s (TSX:AIF) Share Price? Kalkine Media",
@@ -147,6 +444,26 @@
     "date_added": "2026-10-13",
     "title_es": "Yann LeCun califica el debate sobre la desaceleración de la IA como \"teatral\"",
     "summary_es": "Yann LeCun descarta el debate sobre la desaceleración de la IA como \"teatral\" Chosun Ilbo"
+  },
+  {
+    "id": "a8a3245a2686",
+    "title": "Yann LeCun Calls AI Development Slowdown Debate 'Theatrical Mimicry'",
+    "summary": "Yann LeCun Calls AI Development Slowdown Debate 'Theatrical Mimicry' 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzRWcGgxVldtTHlZV1NMeVFGT1F5Y2dzVWFlMTJoMlVDbnhjTGxKQ0JPckNySEZzRUo0S2FFTF9wSml5dHlsd2RHMmNCcTRxYUpXbDRiNkFnanV2NWhKVW8wa2o3Vm80eFJpWlV2Y1FvUEhPeGZZY3FlSU9TOFdFVFZ5bm9yZWFV?oc=5",
+    "source": "조선일보",
+    "language": "en",
+    "published": "2026-10-12T18:18:35+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "Yann LeCun califica el debate sobre la desaceleración del desarrollo de la IA como \"mimetismo teatral\"",
+    "summary_es": "Yann LeCun califica el debate sobre la desaceleración del desarrollo de la IA como “mimetismo teatral” Chosun Ilbo"
   },
   {
     "id": "57be32a62ee1",
@@ -335,6 +652,26 @@
     "date_added": "2026-10-13",
     "title_es": "Stuart Russell explica por qué el futuro de la IA está en nuestras manos",
     "summary_es": "Stuart Russell explica por qué el futuro de la IA está en nuestras manos El Foro Económico Mundial"
+  },
+  {
+    "id": "251a29435105",
+    "title": "AI Experts Call for Pause in the Development of AI Systems",
+    "summary": "AI Experts Call for Pause in the Development of AI Systems The World Economic Forum",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVU5VEs3czFja1BpR1c1UlVwSkVVR1A4NVpab0F1QTZUNDF6VnYtTnFneGp4cG45ZjN4T1RHa29JZmZkbDhGbUlSSmFvTXJqby1RV3B6Z2k2Wk9lMnpOaHpMU09uZDVuVk43X19LVWNnNi0tUnlNd1pwT1ZTcUFWRXhkblNtT3JWX1pUN3NaMGplTEExRFk2UjRhbDA0YnZXR0pCZS1R?oc=5",
+    "source": "The World Economic Forum",
+    "language": "en",
+    "published": "2026-10-09T04:00:00+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "Expertos en IA piden una pausa en el desarrollo de sistemas de IA",
+    "summary_es": "Expertos en IA piden una pausa en el desarrollo de sistemas de IA El Foro Económico Mundial"
   },
   {
     "id": "8424645df987",
