@@ -1,5 +1,357 @@
 [
   {
+    "id": "da248363ec4a",
+    "title": "David Crowley proposes AI safety policies for youth, seniors",
+    "summary": "David Crowley proposes AI safety policies for youth, seniors WPR",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JRTlHeEFtZWcyclZ5SWJrTUdrQ19ITm5jSk9PLS1WSnllSTVZVldlSXE1NHdkMDBuZGRSNUdYbUtwWDM5WlhveTBTMVF3aUlrZ2doWm1BaDdDSHdHTFhSSEZROTdNRGd5Qjh0UzI2dFhTZ093ZTdYaGhfMA?oc=5",
+    "source": "WPR",
+    "language": "en",
+    "published": "2026-10-13T22:07:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "David Crowley propone políticas de seguridad de IA para jóvenes y personas mayores",
+    "summary_es": "David Crowley propone políticas de seguridad de IA para jóvenes y personas mayores WPR"
+  },
+  {
+    "id": "c4cfef644581",
+    "title": "Nvidia pide a empresas de IA asumir la responsabilidad por la seguridad de esta tecnología; solicita mayor regulación",
+    "summary": "Nvidia pide a empresas de IA asumir la responsabilidad por la seguridad de esta tecnología; solicita mayor regulación El Universal",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSHdVMlVyMUpwVi1pVlZfOF9rdEZfak1Nc3cwaVFkVVQ4VlJoWUIzRTVFQ2xEa1hGbHV0TXlWZ21nMkNhMWsxUGhhR2V5RzhDTkdkSDZRVGg5cjl0YzFLNFRLTjNCTUJvdjZ6NXhHR3ZaVFVWRzlVOXFBcmdnRkEwc3g3Yzk2a0daU25nY2lqdlFfaXUxeUtDZVBLYTI0dUE0Mm9UWjJFUUtobERiQmhGQjhSaDB0SDNVMEh6RVNDc0psNlZ2X0tza2V6RzBiODd0RnVaYXgxM192Z3dCcGMyTlczRnpibXdKYms4bQ?oc=5",
+    "source": "El Universal",
+    "language": "es",
+    "published": "2026-10-13T21:24:37+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "Nvidia pide a empresas de IA asumir la responsabilidad por la seguridad de esta tecnología; solicita mayor regulación",
+    "summary_es": "Nvidia pide a empresas de IA asumir la responsabilidad por la seguridad de esta tecnología; solicita mayor regulación El Universal"
+  },
+  {
+    "id": "740fa7d82600",
+    "title": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator, and Standards Body as Nations Split on AI Rules",
+    "summary": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator, and Standards Body as Nations Split on AI Rules CISO Mag",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa0pydzJpT3daeEo0Q3BtdGZ6ejZGMXprT0ExdVFoelJRTXhPbllFZUVGcDVDYmV3a2NjdjhmZWZuZmFtcTJHeEp6QXI5TWpNYzJ6dW9OM01mMlhpdnZpemNLVHVtUG5sOVd1elJoUUJicWZtOWNvMXdDRWg1Ml91S1NObzhfRmJ2elJXZXpTX2djWmh2X0NwdmU1Ull3U01FVnZpUzVSeG53aFdTSW5mZERxMWhCUVJpTHFpLTd6NFBRb1JNTHlRMEd0SFpUOUtCZk03WjFEUnFqYkpQVkZuTjlpQlNkb1czSmFzN3FXVlFteXFLZk16NDJOYVRzRTZu0gGAAkFVX3lxTE5rSnJ3MmlPd1p4SjRDcG10Znp6NkYxemtPQTF1UWh6UlFNeE9uWUVlRUZwNUNiZXdrY2N2OGZlZm5mYW1xMkd4SnpBcjlNak1jMnp1b04zTWYyWGl2dml6Y0tUdW1Qbmw5V3V6UmhRQmJxZm05Y28xd0NFaDUyX3VLU05vOF9GYnZ6UldlelNfZ2NaaHZfQ3B2ZTVSWXdTTUVWdmlTNVJ4bndoV1NJbmZkRHExaEJRUmlMcWktN3o0UFFvUk1MeVEwR3RIWlQ5S0JmTTdaMURScWpiSlBWRm5OOWlCU2RvVzNKYXM3cVdWUW15cUtmTXo0Mk5hVHNFNm4?oc=5",
+    "source": "CISO Mag",
+    "language": "en",
+    "published": "2026-10-13T21:01:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "El Consejo de la CE lanza ADG 2.0 y ofrece sus cruces peatonales de gobernanza de IA de forma gratuita a todos los gobiernos, reguladores y organismos de normalización mientras las naciones se dividen en torno a las normas de IA",
+    "summary_es": "EC-Council lanza ADG 2.0 y ofrece sus cruces peatonales de gobernanza de IA de forma gratuita a todos los gobiernos, reguladores y organismos de normalización mientras las naciones se dividen en torno a las normas de IA CISO Mag"
+  },
+  {
+    "id": "8fc84fad95c4",
+    "title": "79% of company execs say employees work around their AI governance policies",
+    "summary": "79% of company execs say employees work around their AI governance policies West Hawaii Today",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVVfcGJSQ3VfVzd4b1ZseGdHODZ1Wmwtb3lDcnQ0bTB1WURBSVBvcm10ZThmTDdNeGhBNlRjYkFLa0N4LWhRR2l2QXdzMXZMOU10clF2QmJiZ0ZIN3B5LXgwMUVjby0wM3Z4T3JxVUVjTlNoY0QxU2F3ajE2TlNLVDFwZkxVWHFiZGttMklLZ3NrRjBpQ1hIV0VXNEpiWmhGeDVjNGQwNzAwUTNEYWpHdk1hRVZCWjNJ?oc=5",
+    "source": "West Hawaii Today",
+    "language": "en",
+    "published": "2026-10-13T21:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "El 79% de los ejecutivos de la empresa dice que los empleados trabajan en torno a sus políticas de gobernanza de la IA.",
+    "summary_es": "El 79% de los ejecutivos de la empresa dice que los empleados trabajan en torno a sus políticas de gobernanza de IA West Hawaii Today"
+  },
+  {
+    "id": "dcbda6781704",
+    "title": "Microsoft CEO backs artificial intelligence 'kill switch'",
+    "summary": "Microsoft CEO backs artificial intelligence 'kill switch' FOX 13 Seattle",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3Q2FVSUhpQWJEZ1dUV3dLZ2hYZWljcklYVWxmWTlDVzRSRDJBVFczMzZKTUdWQURKT1ZLc3BmZWF3d0hBaEdGZXVlSzNRWllYeEprYVFhTDVQcTRyQVVpMWNPV3FrQdIBa0FVX3lxTE5vZC0wNVdpYlV6NlNuNXkxaW9SOFNwNV9Hbl9nelBHOWcybFVjcE5xOUp1WWNHMjZmV1NYNFpJejZsSUU5THVDTWRnbUZld1lEQmlSdnprLVZwWVdYUEZkQnJCTDBXOFVEYW13?oc=5",
+    "source": "FOX 13 Seattle",
+    "language": "en",
+    "published": "2026-10-13T20:22:04+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "El CEO de Microsoft respalda el 'interruptor de apagado' de la inteligencia artificial",
+    "summary_es": "El CEO de Microsoft respalda el 'interruptor de apagado' de inteligencia artificial FOX 13 Seattle"
+  },
+  {
+    "id": "e88958954aec",
+    "title": "SpaceX to testify on AI safety after NYC Counci...",
+    "summary": "SpaceX to testify on AI safety after NYC Counci... Pluang",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVgzY1BLV1VacTFZeEhXRS1SVm13NzJLelpZQlFYWDhyM3ZLUEVySm5pVXVpelBMTXA5TFA5V2pwaUgwU1F1SWhQX1hZU3doSGd0VV9mc1phZUhpNG9yNmdhNnJRTFdra2pVM3RjeHZORVhwUjZEWkJub1VMeFJjc0ZvOEdQMlVlVG9qbVdDOXYyQzdnd0E?oc=5",
+    "source": "Pluang",
+    "language": "en",
+    "published": "2026-10-13T19:46:03+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "SpaceX testificará sobre la seguridad de la IA después del consejo de la ciudad de Nueva York...",
+    "summary_es": "SpaceX testificará sobre la seguridad de la IA después del consejo de la ciudad de Nueva York... Pluang"
+  },
+  {
+    "id": "5037880dc99d",
+    "title": "Elon Musk's SpaceX set to testify at NYC Council hearing on AI safety after getting subpoena",
+    "summary": "Elon Musk's SpaceX set to testify at NYC Council hearing on AI safety after getting subpoena New York Post",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlpEMVBiZ0dDQVEwVVBtUFpTZEVxMGVObFdLalliTklCOHdLeE5WXzhVU3JrS1N4bDdVbmtxWUVXeU1nSHI0TGptTS13MjI1V2h6Q01TQVJZQm5XR1FKdElPc0pqclllRmZxWVN0UkwzRmZLcmdDVGdmY3VjbDQzRzFJbHpuRkt5WlFLREl0RmtfaV9FakpldjdXX0w0aFpscmk3ckRfQ2lnZmxDLUR6SFpqSkp1N0NleVllaE9GLTJjUDNuejJ1X1R5OA?oc=5",
+    "source": "New York Post",
+    "language": "en",
+    "published": "2026-10-13T19:27:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "SpaceX de Elon Musk testificará en una audiencia del Consejo de la Ciudad de Nueva York sobre la seguridad de la IA después de recibir una citación",
+    "summary_es": "SpaceX de Elon Musk testificará en una audiencia del Consejo de la Ciudad de Nueva York sobre la seguridad de la IA después de recibir una citación New York Post"
+  },
+  {
+    "id": "62915f7cac0b",
+    "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+    "summary": "Michael Dell says AI needs safeguards and controls, and government has a role to play CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JRmp3eFQ2VnNVLVVSMVRqVGlGWE5hbVdhdmZueDI4RDNaTWVvdW5faGZUd2tPMjZKMVhCXzZsYlZZWFdJOG5jZkRyOW5JV1h5YzhvZ1UybkJMU0lwcFAtVEFHb1RGQ2N3dmpiTVFJNXpDTlRrTlg1VlVNdmJWLUnSAYQBQVVfeXFMTzR1MGI2TGJRenhDSGEzWXBZQ3p1aGZYLUV1aFViSUFOMXAwUkJUYnVMWmlKb0huWm81QkpmSl81MmFTQi1FQ2ViUGI2S0hfZDl3OFlBcGg4M1gwVG44TjBTT2U2ZU9ReDRhR1FCWTJGWVN2VnFPYzFoU3ZYeFNmU1lFTjZO?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-10-13T19:08:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "Michael Dell dice que la IA necesita salvaguardias y controles, y el gobierno tiene un papel que desempeñar",
+    "summary_es": "Michael Dell dice que la IA necesita salvaguardias y controles, y el gobierno tiene un papel que desempeñar CNBC"
+  },
+  {
+    "id": "b95b0d083d6f",
+    "title": "What Is Workday (WDAY) Really Gaining From Its Latest AI Governance Deal?",
+    "summary": "What Is Workday (WDAY) Really Gaining From Its Latest AI Governance Deal? Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTV4VUVzTmZQVy1aZTFtTWdyNkFKSUhGNjZtblh6R3dlMXlnNHdOZ1I5STJTUEZoOUhPZkpXbWo2amY0OU1FN3g3YlVnZDVQeC1aMGkwczRkdklXc2gzTXQ2UTNwRFAwQTVISjRpRG9EV2NqX21QTjVtSDgwaUpKaWZxYUNHVkUySllTd2xfZVFBNEZod0p1aVlaNEY1MUE?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-13T18:16:43+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "¿Qué está ganando realmente Workday (WDAY) con su último acuerdo de gobernanza de la IA?",
+    "summary_es": "¿Qué está ganando realmente Workday (WDAY) con su último acuerdo de gobernanza de la IA? Yahoo Finanzas"
+  },
+  {
+    "id": "3367f21675a3",
+    "title": "Los padrinos de la IA y 400 científicos más reiteran la falta de control y seguridad de la IA en una nueva carta abierta",
+    "summary": "Los padrinos de la IA y 400 científicos más reiteran la falta de control y seguridad de la IA en una nueva carta abierta WIRED",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1R0UFRpU085RlMyS015bVFOcDJIam43Z3I2WkVhSF8zUGJaSlRNejNNNjNLdnJRU0l2RnJFRzh3blpXTzMwYjNJWWlod1NaN3c0T0plLU1UYlEtOGFGbEJqSUtzX0dfZ1dPdFhfaXlBQ1BXSGhsS2Z2cDBxMHpjbU16UW4yM19EN1lWYjJFTklTSURqdVYtTUN6aXJGUnJKTWQ5dDBRNjFBN1ozRGwtOFZRTjFqS2tqUF9zbS1STHAzN0JOMFV6SVJQSDJHWlFYM0ZxWFhsQmIxQ201WE5MdS1iaTV6QQ?oc=5",
+    "source": "WIRED",
+    "language": "es",
+    "published": "2026-10-13T18:14:45+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "Los padrinos de la IA y 400 científicos más reiteran la falta de control y seguridad de la IA en una nueva carta abierta",
+    "summary_es": "Los padrinos de la IA y 400 científicos más reiteran la falta de control y seguridad de la IA en una nueva carta abierta WIRED"
+  },
+  {
+    "id": "3caf49c45d8f",
+    "title": "\"Act With Urgency\": Microsoft Chief Calls For Effective AI Safety Standards",
+    "summary": "\"Act With Urgency\": Microsoft Chief Calls For Effective AI Safety Standards NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRiczhRaVBTNzlIZmx6X0ZYb3NYU2tDdUdvTDIyS3VkR1ByZ2k4Ymd0YU85ZWhSUDE0NWZheWc3UVdjX0ljbEVYR1FtcXNCUFNEU21oRlZWVGxiaHp4LVRnYm1ta3Bmd2R6emZrdXMwSzNqQVhQSUpxN3RZVjcwLU02dlJwNG8zaktQd2hrZTdSOGpCNVZFTF9pOEhGN0hNRjhObUlDNnN5U3FucE9UWWo2RdIBuwFBVV95cUxOOVZrNktiWkduTE54eUZfYXdEMHhKSzF1bFQ5RmdNdkhVeTV3V3BrUGY3NVdmUUdmSml1M3VTb3hHWmZBempXMFNla1NSeUo3UHBvQTRjWDViV3ZVRkJuSncwNC1ma21Ka0wyWXplRTlsa1FsNzNlSDJpNjNYaTNBYU1PczYyT2pfSkwtOEdYZ0RTZV9rMkJEZUtfWWsxYXBDSzdmUHZhUVlUcUNDdHhkcDdVSHUwV3l5dHY0?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-10-13T17:58:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "\"Actuar con urgencia\": el jefe de Microsoft pide normas de seguridad eficaces para la IA",
+    "summary_es": "\"Actuar con urgencia\": el jefe de Microsoft pide estándares de seguridad eficaces para la IA NDTV"
+  },
+  {
+    "id": "20ac9ce40786",
+    "title": "SpaceX Agrees to Testify in NYC Council's AI Safety Inquiry This Week",
+    "summary": "SpaceX Agrees to Testify in NYC Council's AI Safety Inquiry This Week Briefs Finance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUV3YTgtQjRBTnMxbXBDRXZOT2JvZzNpazRFSHNHcVZZd0NxVHdfZGRuVW9PZ2o3TVp0QTd4akVReFNDcllvbWlTcFJiMTVHeXZ3TFNQcVlVSW4yeTVMMzQ3SFN5MHdmVnJFU1pvMzQ4WEwyOTZNcW5Pc0tHTUl0eVBUem1ib0FPYjBZRzFlZFY?oc=5",
+    "source": "Briefs Finance",
+    "language": "en",
+    "published": "2026-10-13T17:40:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-13",
+    "title_es": "SpaceX acepta testificar en la investigación de seguridad de IA del Consejo de la Ciudad de Nueva York esta semana",
+    "summary_es": "SpaceX acepta testificar esta semana en la investigación de seguridad de IA del Consejo de la Ciudad de Nueva York Briefs Finance"
+  },
+  {
+    "id": "8a4d42108339",
+    "title": "Javier Martínez Gilabert: «La gobernanza de la IA es indispensable para que cualquier estrategia sea efectiva»",
+    "summary": "Javier Martínez Gilabert: «La gobernanza de la IA es indispensable para que cualquier estrategia sea efectiva» La Verdad",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVpWZmFvekgzX3gzeDFpQ2NlX0YwZk0zcnphdFNwS0Y2QmZFUy1FVHJNLW5ZeUQxMGFlQlhvNDVnWUc1UUlOSl82WjlJbHVfeHhsVmNHaUdOaG92RzdyRmQ4WC1HXzFYUDNPSUJPZnVabDliZmVGMXpwSWJXUlhQcVVQQkZhTmptMVQ1eGtSU0tnRHVlM2FSM3ZYbGRCT1pTQmZjRlg0TnRlNm41YXdrM1kxMzRwekY4UndZSkZLX21GZEMxa3fSAcsBQVVfeXFMTkZKaDduUnpOblVVNldnbXRpa2RVRzNPWjh1eVM0dWljbGUzYjdKOEJvcFFvTG56aDlfSFc1TGp2VlhTLWViUUZKdW56bG5Ocnd3VGRtWWVld21MRzA4RUpfZmlheGtvbWwyMnNIRldHeGNHUWJjV3RRUjFQanZvUVhpcGxFVEtTbkoyYXR6a0ZYOE4yM0NvMUl6c1E2bVJzYm9VNmktU3QtSWp2YV9PNWRpdC1aNng5VUFrWnZEUEwzeTJOX0E3S2xxcXM?oc=5",
+    "source": "La Verdad",
+    "language": "es",
+    "published": "2026-10-13T17:21:01+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "Javier Martínez Gilabert: «La gobernanza de la IA es indispensable para que cualquier estrategia sea efectiva»",
+    "summary_es": "Javier Martínez Gilabert: «La gobernanza de la IA es indispensable para que cualquier estrategia sea efectiva» La Verdad"
+  },
+  {
+    "id": "804e30a58cb3",
+    "title": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for international AI regulator",
+    "summary": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for international AI regulator BetaKit",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNEFXRzhUdnNjSWQya2xZLURfRE9NdHFOOV9mbnMzaF9laXRSa0M1WWhNT0hNcDA0QzBoTWJ4aGV1cGFUSEthbzBuckVZcVg5RGJ1TzQtSEJ1U3d2Um9tWGlBMDIwSEwxVGZQeHBoSWd2M3Z2Z0VRM180cjRrbFROX0RHT3NhZ1FCV3ZuU0M1VGV6VmQ0U0JHTENvSUFKd0dxSzJDSGFRdWdlN1MyMVE?oc=5",
+    "source": "BetaKit",
+    "language": "en",
+    "published": "2026-10-13T17:13:10+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "Geoffrey Hinton y Yoshua Bengio se unen a 400 científicos que piden un regulador internacional de la IA",
+    "summary_es": "Geoffrey Hinton y Yoshua Bengio se unen a 400 científicos que piden el regulador internacional de IA BetaKit"
+  },
+  {
+    "id": "fa25c8a80d1f",
+    "title": "Godfather of AI Yann LeCun opposes Dario Amodei’s call of slowing down AI development, says ‘Anthropic is",
+    "summary": "Godfather of AI Yann LeCun opposes Dario Amodei’s call of slowing down AI development, says ‘Anthropic is The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaTRPZ3hsSXd1MXpnTW84aUxIUGhtUW1JeUJFNWlfeGtHcThXeTdfM1FidGVvWEZSd3RqMEhBaDBQVzZCeU94b19zUGpoRUpVYlNlNlNSZU9iOVlRODZFUm5yWTFDVVhucFo1Ti1yZGRWalJWd2cyTV9VOWhQWjJ4SXFqSjZHdkEySUY2YWxka05jQVhHWks0bFBLLUFQVXYxN1lpc203MVhHbkFlc2VYUHp2TGFyOFJ2LW14bUlTSkhIRm9IZmlEeElWWDlQY05XUHJjMU12WjIwRl9MSllxTmpYNlV0YVFUemo3YlR4bVZsWU93OUZhMGxfc1c0Mk9yUTZ5QWhIZzRGU0wzMkhiYWdjWnFERXk0YmFPRkc5cUpPNndjZlJYeGxoaTE3dDFHTVhxTGZwLXFpU25pMnkxU2lYRkVod9IBywJBVV95cUxQMGxJdTZKMnJGemdkbWpiQVhPOVFDdDlpdU1aa2t0MnlXMndhcUtMT1VTc2dNSGZNNF9jMXdUR2IxMGZuMlB6c3RIa1VxaWIzdFNvMTZNWmZ1X0M2ZDF1NEtxSUl6UmVLZE5YNTB0eUE0V3U1bjljNy11Y3FfWWNDUGw4aGtDTDRiSVNTa3psYXZCQjE1NkRMcjJnV0I2SHdxUE45Z0FnVGdTeWlGN1ZjbFlldDRCVHdicjZWRnNjekMtT3hZSDdKVXVmVDc5TUEwRnpuX0xObE1CSHQxNnV1MEN4LVZtbjl4RVZmN2p3Zzd6ZWNZUUkybHNyc2VfNkpCb3BrWHFWVVBnU1cwUVlRQ2pxZVczNDI1NmVEeEVkNjNjQ1NFYlowVTExb04wRTJZOHUxOHR6dzhNMFU3THA4dk9XZzhxaHlXMUcw?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-10-13T17:11:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "El padrino de la IA, Yann LeCun, se opone al llamado de Dario Amodei de frenar el desarrollo de la IA y dice: \"Lo antrópico es",
+    "summary_es": "El padrino de la IA, Yann LeCun, se opone al llamado de Dario Amodei de frenar el desarrollo de la IA y dice: \"Antrópico es The Times of India"
+  },
+  {
+    "id": "a382cac9ce79",
+    "title": "AI governance needs more than a policy document",
+    "summary": "AI governance needs more than a policy document Sophos",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3g0YTF4MlVTb0pvS0ZSc1pQWXg4ekhuMWlxUVhXRWMwWEItSkR1TjdBMWxJcVBpSHpSVElGemc0UnlTc2o2ZW5IMlZiMUZjalFmUGk2VXlOZG5qRUljc1RoZ0VYRi1NTUctVXZmdUh4MWRJZEdxaHRvemtsX1NkRUwwVkFmeU5G?oc=5",
+    "source": "Sophos",
+    "language": "en",
+    "published": "2026-10-13T17:09:35+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "La gobernanza de la IA necesita más que un documento de políticas",
+    "summary_es": "La gobernanza de la IA necesita más que un documento de políticas Sophos"
+  },
+  {
+    "id": "a77b12143404",
+    "title": "AI governance challenges emerge as enterprises deploy autonomous agents",
+    "summary": "AI governance challenges emerge as enterprises deploy autonomous agents SC Media",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcENxallUUjNNMkx4TjJMd0ctMmxGSUY3bnNBRVZzS0ZuRXYtUi1qZURiMWJEeUVLLUl3d1ZuNUxKLW8xZTdzQXV0NUpLbXpVRzJJQ2NLNmM0NzdVVW9IMFJLVkFiQUhzS3haeUctNFYyNGV6OWZtTkpKbE0weXFJX1NsTjdJZFlJVFdUdHNLMDk4VTU3aU5Sb0lseTV2QWlnV19R?oc=5",
+    "source": "SC Media",
+    "language": "en",
+    "published": "2026-10-13T17:01:08+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "Los desafíos de la gobernanza de la IA surgen a medida que las empresas implementan agentes autónomos",
+    "summary_es": "Los desafíos de la gobernanza de la IA surgen a medida que las empresas implementan agentes autónomos SC Media"
+  },
+  {
+    "id": "97fea3bcf37e",
+    "title": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence Is Coming, And We Should Be Worried Nio Stock (htvGNJL54o)",
+    "summary": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence Is Coming, And We Should Be Worried Nio Stock (htvGNJL54o) Unisba Media",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdk9MRjBxVFZCd2VfYklYN3FWY0YyeHNyUnJ2LVpaanlOeE40RFA4RUFqbnNFc3FoUGxrN2pJWlhwT012SzZiNm9KM2JKTzVTVnIxbnRqRE9nQUlKaVlDRWVEZC1VQQ?oc=5",
+    "source": "Unisba Media",
+    "language": "en",
+    "published": "2026-10-13T16:29:39+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-13",
+    "title_es": "Geoffrey Hinton, pionero de la IA: la IA es consciente, la superinteligencia está llegando y deberíamos preocuparnos de Nio Stock (htvGNJL54o)",
+    "summary_es": "Pionero de la IA Geoffrey Hinton: La IA es consciente, la superinteligencia está llegando y deberíamos preocuparnos Nio Stock (htvGNJL54o) Unisba Media"
+  },
+  {
+    "id": "042028f37565",
+    "title": "Diez principios para fortalecer la gobernanza de la IA en las empresas - Instituto Nacional de Contadores Públicos",
+    "summary": "Diez principios para fortalecer la gobernanza de la IA en las empresas Instituto Nacional de Contadores Públicos",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRjY1azNlcXJkalhkNWhwYnhxQ3doTmc0V2VoTlo0ZG1DVWNxTWY4LU9JZVZlcWxNc2huMVA5c00ySzR2UTBiN3lvOVF4UHhzTGptY0hjdTYtQVhHemtpRlZRVDZManFKOF9vdGlIU3dJOFRUODdmTm5sN21Db2lyQUUxQmNQaFJuYnBlbEtZRWxYU1VzYy04M3p6OUhqZXNfTVAycU56cUItdE15bG9EZDRZSEpnT1hjYnVRM045MHFWRE1GSkdtVTA0V1ZyQmhudUk4c2NfSjFZZHZPLUdMT0FLSzdkWTZobTVhUG1PWURiZkJPNkE?oc=5",
+    "source": "Gobernanza y Regulación IA (Español)",
+    "language": "es",
+    "published": "2026-10-13T14:55:47+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-13",
+    "title_es": "Diez principios para fortalecer la gobernanza de la IA en las empresas - Instituto Nacional de Contadores Públicos",
+    "summary_es": "Diez principios para fortalecer la gobernanza de la IA en las empresas Instituto Nacional de Contadores Públicos"
+  },
+  {
     "id": "1a482bfcd936",
     "title": "Proposed Bill Would Create White House Office to Coordinate Federal AI Governance",
     "summary": "Proposed Bill Would Create White House Office to Coordinate Federal AI Governance CDO Magazine",
