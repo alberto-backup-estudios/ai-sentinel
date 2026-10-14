@@ -1,5 +1,208 @@
 [
   {
+    "id": "621fb43105ae",
+    "title": "The AI Governance Gap CX Leaders Cannot Afford to Inherit",
+    "summary": "The AI Governance Gap CX Leaders Cannot Afford to Inherit CMSWire",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPei1zTGt1ek9nbmhBTW9veVhIdTFjQ3M3VFk4RVBKczRRaWFsSDJ0aDhEankzNjF0UjlqUXI3VWVhbmpSZURQSDlrcHVBQzc3eVRpeUZpRXRYNGJSVjh0LVpWQ2RIcjVGMk9neTFJaVBaWi1zbDJfaVZ3M1hPeGpTRTU4OEJNdDVNaGdWSnZpVWJIUThzN05XN3JjcG1SUzljWGtNLXZ5d1ppMmV3dlNVdjR6VWhOUFZB?oc=5",
+    "source": "CMSWire",
+    "language": "en",
+    "published": "2026-10-14T20:49:13+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-14",
+    "title_es": "La brecha en la gobernanza de la IA que los líderes de CX no pueden permitirse el lujo de heredar",
+    "summary_es": "La brecha en la gobernanza de la IA que los líderes de CX no pueden permitirse heredar CMSWire"
+  },
+  {
+    "id": "451ca40bd52f",
+    "title": "AI safety advocates, doomers, pro-innovation groups pour hundreds of millions into congressional midterms",
+    "summary": "AI safety advocates, doomers, pro-innovation groups pour hundreds of millions into congressional midterms New York Post",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObG9KelQ4VDZNQ2l4d29ROFhWd1RSVmNrQXBFa2otVG5ESExYTWgwMDFsazFhbnpONU5JeUZqUWZEQVp6SFZHVkFiajR2eDEzVmx4Wmtjb0lLLTNHVndTdDlGUVRNell6S0x4V0JpMHB3WHZqV1Q3bG45Q0FGUHlmUVNMT1Y3MzJpVWRkVnQ3eEo2OXdTRENQOWR4MmdaUy1SZ3pUTkthM1ZxMzlmXzl5VUp3NzkyYUZhTjdHNzhIZ1lJR29SQVg2Z25HX3FOY0UyQ3BCckZoWVU0Wm8?oc=5",
+    "source": "New York Post",
+    "language": "en",
+    "published": "2026-10-14T20:40:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "Los defensores de la seguridad de la IA, los fatalistas y los grupos pro-innovación invierten cientos de millones en las elecciones intermedias del Congreso",
+    "summary_es": "Los defensores de la seguridad de la IA, los fatalistas y los grupos pro-innovación invierten cientos de millones en las elecciones intermedias del Congreso New York Post"
+  },
+  {
+    "id": "b72a93599cd8",
+    "title": "Steering AI Beyond Automation",
+    "summary": "A Research Agenda and Plan for Action",
+    "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-10-14T19:56:44+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-10-14",
+    "title_es": "Dirigiendo la IA más allá de la automatización",
+    "summary_es": "Una agenda de investigación y un plan de acción"
+  },
+  {
+    "id": "a69c5063b460",
+    "title": "Nvidia's Jensen Huang responds to Pope Leo's AI safety criticism—'We all care about the same thing'",
+    "summary": "Nvidia's Jensen Huang responds to Pope Leo's AI safety criticism—'We all care about the same thing' Fortune",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcE1vZ2xQLVlBMVh6RkFoMjF0bWMxZW9qMzNWYkdRU3gxUjhIRXMwcVVPRTBVM2Jpc0xWNVNLNVJQVnVHbHUybkV1akFVUWdtMEQ5SDFtaXRZVXZ6V19wbjZ3ejZ0RGxqVngzY0dOa09DaTJaVmdERFc5Nks0amNFZWUxU1pBM0tZdGx4dk1kMGE1YTVfTFJiSUVGSk1IaDN4c2N0RDNMeHByYi1iSzZEdlNERlBHYUJ1ZVAtRktPcjk0ZXAzaVE?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-10-14T19:21:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "Jensen Huang de Nvidia responde a las críticas del Papa Leo sobre la seguridad de la IA: \"A todos nos preocupamos por lo mismo\"",
+    "summary_es": "Jensen Huang de Nvidia responde a las críticas del Papa Leo sobre la seguridad de la IA: \"A todos nos preocupamos por lo mismo\" Fortune"
+  },
+  {
+    "id": "72bb904aab36",
+    "title": "Relying On Chain-Of-Thought For Boosting AI Safety Gets Sideswiped By This Split-Brain Discovery",
+    "summary": "Relying On Chain-Of-Thought For Boosting AI Safety Gets Sideswiped By This Split-Brain Discovery Forbes",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTFEd3hpUUpOWE14aDZUS2s3dUhqT3lUMF8xNEctS0VxMkRKZjBzVFJrQ0tKcUtZODRwcHRuXzFMeDFuV21PaFBiRWxPZTF1M0VnVDlNQVZWbnNmeGhmQjNHRS14SzVnREFVSk5zQjJ5bVo2SnhTYWdrNTU0Vkl5LXRuNHdmdzR3aW1XLUJKNmhLNV9rVThJOXZISGdwSnRPTVU3c3NSUFFHUFFpOEtsVE83ajBwT3NPNy03TGZEV1RFalJwUzVnRVNyU1lkdUxmc0EteHJGQ2dOdEtFVlhWRm9R?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-10-14T18:18:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "La confianza en la cadena de pensamiento para aumentar la seguridad de la IA se ve desviada por este descubrimiento del cerebro dividido",
+    "summary_es": "La confianza en la cadena de pensamiento para impulsar la seguridad de la IA se ve desviada por este descubrimiento de cerebro dividido Forbes"
+  },
+  {
+    "id": "e4e9bccd9bd8",
+    "title": "‘I don't want to freak people out’",
+    "summary": "‘I don't want to freak people out’ Politico",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXo3M0s0LUQ1SjZLaDNFQm9hN3dGcjNab0pHUXphU09fV1lSSDNjQklMdi1QRXBOcmxjTnB5bV9wdHIyOGtKdl9TZzJhdVZQNFpiS1RlN1p0bHRIc3FLUXNUYWZWZlBqMnU2Nnh4Rko2UHN1TDRqRkdKZjVNWkNrZGNON1RZUGMxdDB5am5QUVZWdExJMXRoc2JVUlJySkJrQ0M0MTBCdXNhdw?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-10-14T18:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-14",
+    "title_es": "\"No quiero asustar a la gente\"",
+    "summary_es": "\"No quiero asustar a la gente\" Politico"
+  },
+  {
+    "id": "9554f80d787a",
+    "title": "AI is an 'alien being' and humanity is running out of time to adapt, says British-Canadian Nobel laureate",
+    "summary": "AI is an 'alien being' and humanity is running out of time to adapt, says British-Canadian Nobel laureate National Post",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTB1azFPTm9yT3Rhd3daSG1qMDg0aHZxcHU3YWJiUXdwTXF0d1pIdEFRYk1NX0RXSi1DUDlYaU9yUG1hZmhLZGxsNUlJeWFVRGhaX1pVdzNUaUwtZTBEa2FZZUsyOXZsWUN5b3V2eWEzcERjZG9GSmtKZ1hKYm01a0tKbVRfQjRxZDB2TGRNcjlISXFjLUJKWW40WGx2b2EycFJLenBMc3dSa2FvSjBYQmpqd2QwaWZKaGg4WjUtaElnTlQyNlk1VDRNV0w?oc=5",
+    "source": "National Post",
+    "language": "en",
+    "published": "2026-10-14T17:34:17+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "La IA es un \"ser extraño\" y a la humanidad se le está acabando el tiempo para adaptarse, dice el premio Nobel británico-canadiense",
+    "summary_es": "La IA es un \"ser alienígena\" y a la humanidad se le está acabando el tiempo para adaptarse, dice el premio Nobel británico-canadiense National Post"
+  },
+  {
+    "id": "7c20ba13b3fb",
+    "title": "Dublin AI Summit: 1,500 Leaders Back EU Declaration [2026]",
+    "summary": "Dublin AI Summit: 1,500 Leaders Back EU Declaration [2026] tech-insider.org",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91S3hUcTR4em9UY1B1c294dnFJYldLOW5Bbjd6QTRURjJLQ3d0WmRCaDVjVVNMMmhJUW5BRjZUSDY3Wm9remNLNk1JczBqUW1xR01WRTlxdzItMC1wWGl3eVJXRVNyQ3RvMzc1eHh0NTBNWG5S?oc=5",
+    "source": "tech-insider.org",
+    "language": "en",
+    "published": "2026-10-14T17:14:12+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-14",
+    "title_es": "Cumbre de IA de Dublín: 1.500 líderes respaldan la Declaración de la UE [2026]",
+    "summary_es": "Cumbre de IA de Dublín: 1.500 líderes respaldan la Declaración de la UE [2026] tech-insider.org"
+  },
+  {
+    "id": "15ec5450158e",
+    "title": "PERSPECTIVE: ‘Godfather of AI’ Geoffrey Hinton Warns Superintelligence Could Arrive Within 10 Years and Humanity May Not Be Ready",
+    "summary": "PERSPECTIVE: ‘Godfather of AI’ Geoffrey Hinton Warns Superintelligence Could Arrive Within 10 Years and Humanity May Not Be Ready EnergyNow",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdFBTM1FMak1fQTRkUmNGYVVaWHV2Uk1jY291SkJzYklHZDNDWnJqZ3FEMkotTEs2MXlHb1FZM3FZYmJka3N6SXBpTE5WT1RNVkNHam1wcEFzODJUbDB2N3Vuam1Nd1pCWEpHU3lhampJRXczbGZIckJVNkRKRW1LV2h6dlFmUUpPUG5HTDNjRGlNNThidUpTaTFfVDlHWGNjOG03NzZBSlhLanh6TGdaZU1pdGozbjNPVGhFeW1EM0s4R1NVcVlEWmZhNVBwYXlYWHpIb2NCSXNrRTVZMUNkTXRYUzY2SlNKbmQ0bQ?oc=5",
+    "source": "EnergyNow",
+    "language": "en",
+    "published": "2026-10-14T17:09:45+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-14",
+    "title_es": "PERSPECTIVA: El 'padrino de la IA' Geoffrey Hinton advierte que la superinteligencia podría llegar dentro de 10 años y que la humanidad podría no estar preparada",
+    "summary_es": "PERSPECTIVA: El 'padrino de la IA' Geoffrey Hinton advierte que la superinteligencia podría llegar dentro de 10 años y que la humanidad podría no estar preparada EnergyNow"
+  },
+  {
+    "id": "c46f5a8c04cb",
+    "title": "Kamala Harris afirma que \"se está cerrando la ventana\" de la seguridad de la IA e insta a la cooperación con China",
+    "summary": "Kamala Harris afirma que \"se está cerrando la ventana\" de la seguridad de la IA e insta a la cooperación con China Forbes México",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3NYZEFnZ2JZNW5ZNi1fbDVHZzZobW9xZTdDckZmTzNNeS1KWUVYZ2tZeDUwd2htYTNheWRzSTBsUHR2SkRzU2c3YW9mVjZUTWtVODZaS0NrUndqMFUwWHI4T1BiY3dPMm5kWE9KNzh0OW9wSWRYSGlRNXoteW1fV20zbVVBZGhTNW5qd2NqSGNPTWo5MHN0ZUVyZHl4REwyV1lTYUE5VHhLZ25hRk1tcjJOdUJwQUNsajd0RnJZNnJfcWJ1TFdIM1dtdW5qQktu?oc=5",
+    "source": "Forbes México",
+    "language": "es",
+    "published": "2026-10-14T16:38:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "Kamala Harris afirma que \"se está cerrando la ventana\" de la seguridad de la IA e insta a la cooperación con China",
+    "summary_es": "Kamala Harris afirma que \"se está cerrando la ventana\" de la seguridad de la IA e insta a la cooperación con China Forbes México"
+  },
+  {
+    "id": "3997aea321e8",
+    "title": "NVIDIA Commits $250 Million To Advance UK Agentic AI Safety And Security Research",
+    "summary": "NVIDIA Commits $250 Million To Advance UK Agentic AI Safety And Security Research Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORk5QUHVaR1RUZ1FYenlzQnpzQ1l4YXVsQzNPMkdja3dQTTJtbXhSVGhQcFFUd3hBTHdXdFJ3UmhvR0lYZzVGdC12NWNkZVFJWEQ5RUVZWUY2SDVwWWRRVUxxV1hPZU1KN29MN0dJSldOV2R4Q2oya19oVXR4VGhvbFdvUzVqTkxFdFhVSndZYVItOG1BZ2JNZDFqemQxb25vQ3c?oc=5",
+    "source": "Pulse 2.0",
+    "language": "en",
+    "published": "2026-10-14T16:31:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "NVIDIA compromete 250 millones de dólares para avanzar en la investigación de seguridad y protección de la IA agente en el Reino Unido",
+    "summary_es": "NVIDIA compromete 250 millones de dólares para avanzar en la investigación Pulse 2.0 sobre seguridad y protección de la IA agente en el Reino Unido"
+  },
+  {
     "id": "29e37436f0c6",
     "title": "UN and Singapore discuss international cooperation on AI governance",
     "summary": "UN and Singapore discuss international cooperation on AI governance Tech Review Africa",
@@ -54,6 +257,43 @@
     "summary_es": "Contratación antrópica: desarrollo de políticas, gobernanza técnica de la IA: salario de entre 265 000 y 295 000 dólares al año Oportunidades del Sur Global"
   },
   {
+    "id": "942429a8a82e",
+    "title": "Microsoft Unveils run-assert-eval to Enhance AI Governance and Safety",
+    "summary": "Microsoft Unveils run-assert-eval to Enhance AI Governance and Safety Small Business Trends",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzalhDR19VbjVRZE1IRTdhQV8zUGtGSVBOcXhtLUhCcWI3UUFaTlA2bGsyQTB1VHlRSmM3Y08xbGxUR0NoOWw3MmF2TFNXMUlpZzVoRERNSjlZdkE2QWF2MDVhbkFwRWtmTUFjT1B3MXhqdUJ1dmo2cVRfVXV4YmhGam5Xd2EwOTdEUHBhX1d5YmlLZzh5Y3ppOEtfZw?oc=5",
+    "source": "Small Business Trends",
+    "language": "en",
+    "published": "2026-10-14T16:11:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-14",
+    "title_es": "Microsoft presenta run-assert-eval para mejorar la gobernanza y la seguridad de la IA",
+    "summary_es": "Microsoft presenta run-assert-eval para mejorar la gobernanza y la seguridad de la IA Tendencias para las pequeñas empresas"
+  },
+  {
+    "id": "1ad0917d2089",
+    "title": "Nvidia promete 250 millones de dólares en cómputo para la seguridad de la IA en Reino Unido",
+    "summary": "Nvidia promete 250 millones de dólares en cómputo para la seguridad de la IA en Reino Unido https://fomoera.com/",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YaUp4V3owWlJEdVNKVXd2eDROSGpibDlvejdLRDJENnZ5TUNPUERTSXR0NkRWUWd5b1cxUl9hUFZPV3NhdE03QnYwUThWOWw3N0pCVE95ZTA1WktwMFBjVG1lLWNObmQycjVSNQ?oc=5",
+    "source": "https://fomoera.com/",
+    "language": "es",
+    "published": "2026-10-14T16:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-14",
+    "title_es": "Nvidia promete 250 millones de dólares en cómputo para la seguridad de la IA en Reino Unido",
+    "summary_es": "Nvidia promete 250 millones de dólares en cómputo para la seguridad de la IA en Reino Unido https://fomoera.com/"
+  },
+  {
     "id": "eefbc0b44015",
     "title": "Workday Strengthens AI Governance with C1.ai Acquisition and Anthropic Partnership -",
     "summary": "Workday Strengthens AI Governance with C1.ai Acquisition and Anthropic Partnership - Enterprise Times",
@@ -70,6 +310,24 @@
     "date_added": "2026-10-14",
     "title_es": "Workday fortalece la gobernanza de la IA con la adquisición de C1.ai y una asociación antrópica -",
     "summary_es": "Workday fortalece la gobernanza de la IA con la adquisición de C1.ai y una asociación antrópica - Enterprise Times"
+  },
+  {
+    "id": "8567334a84d8",
+    "title": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance",
+    "summary": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzJHX0J6aGNZaTh4N3VaNXpWcFZJMnRUeVJmME5FZ2RsSjhibHpHRDVYRmJjaW9VdWJlMUNYdWdlaVJBbFhXeHpzSXVGd2VfOWlVUHlPc3djRnc2aThUNmlNVzNLYVJRdEZZRG9ScmVWaFlhU3cwY0Y0azFSNEQtUVJDQWdZSVhjQzNPQjhkemRqYzdRajZMMUFzU1ZPX3FjUUNyckZIN0E2RUQ1OUwyYS1IYjdkTldhcEFMR1M3dV9GcnlnbzFOQ19TT0tGSHBYQ0UtX0pwVlVIRGRTQ2pCOGVn?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-10-14T15:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-14",
+    "title_es": "Optro lanza agentes capacitados en dominios para auditoría, cumplimiento, riesgo de terceros y gobernanza de IA",
+    "summary_es": "Optro lanza agentes capacitados en dominios para auditoría, cumplimiento, riesgo de terceros y gobernanza de IA PR Newswire"
   },
   {
     "id": "fc94599f59d4",
@@ -688,6 +946,26 @@
     "date_added": "2026-10-14",
     "title_es": "El tren de la IA: por qué las empresas deben mirar más allá de las exageraciones del LLM",
     "summary_es": "El tren de la IA: por qué las empresas deben mirar más allá de las exageraciones del LLM Forbes India"
+  },
+  {
+    "id": "2b17bf974357",
+    "title": "AI Has Already Secretly Taken Over — Yuval Noah Harari’s Shocking Interview",
+    "summary": "AI Has Already Secretly Taken Over — Yuval Noah Harari’s Shocking Interview YouTube",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwOTNyYkdkMnNoaUlnNnliUW9BbXk4ajRpamd2dld6M1FEYUNfd1cycDkyU2E5SlkyTGVkMUVOTUZxaDk5TXc5aTAzbVNuQ0dCR0J0RFYxcjRKcDhT?oc=5",
+    "source": "YouTube",
+    "language": "en",
+    "published": "2026-10-12T09:04:17+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-14",
+    "title_es": "La IA ya ha tomado el control en secreto: la impactante entrevista de Yuval Noah Harari",
+    "summary_es": "La IA ya ha tomado el control en secreto: la impactante entrevista de Yuval Noah Harari YouTube"
   },
   {
     "id": "da248363ec4a",
