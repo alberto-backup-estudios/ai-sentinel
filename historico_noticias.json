@@ -1,5 +1,277 @@
 [
   {
+    "id": "a729a7626a60",
+    "title": "8 states sue OpenAI over AI safety concerns",
+    "summary": "8 states sue OpenAI over AI safety concerns WQAD",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjBjbUFPcFNITVA3c0Z1TDh4VTR3UHZyOEVkckNZMGo1Z1BWNFJxS0hfNUdmSTc5bWs3RVptaWhiazdZeF8weTBxRFZFRzJrX013SWxxdjhyOGx2Yk5EQTBRNHhtZWotTnNBRFN0R0tQdFlWSzB3RlFNM201Z2t6eWNUaUNNRFExZ2xHRXNUSEFva250THRZb05fU3ZlY3U3Z0Zwekszc2hVaWRHcmpIUHRGX082ZXc?oc=5",
+    "source": "WQAD",
+    "language": "en",
+    "published": "2026-10-15T16:12:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Ocho estados demandan a OpenAI por preocupaciones de seguridad de la IA",
+    "summary_es": "Ocho estados demandan a OpenAI por preocupaciones sobre la seguridad de la IA WQAD"
+  },
+  {
+    "id": "fd3cc3c3b3ec",
+    "title": "ServiceNow Announces New AI Passport Solution And Significant Advances In AI Governance",
+    "summary": "ServiceNow Announces New AI Passport Solution And Significant Advances In AI Governance marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdU9NdGpnMEJjejVMREdfaFY3Vjh3cEExSlpFTWhzWjFucVlyU0J6QUMtUDRWcm1QU1ZjTjE0M1lmZmF3c19NM056VUI1Mkx2bEJsTGI4S1FuTjBYUUFnSlkxTENSMGZHa0gzY3NrYlFFOGhBR3RtTndqT24zRE9QX0ZQM0NlakxiZXZzRk9mQ3pyMzRqbDBxR0ZHYVFhd3NlenQ4aWZYR2NPTEJ4VlFROFY1eEVuOGxWSkl0WS1hUnR6M0hYcE5kWXhwb0w1Smp2dFNTemwtYw?oc=5",
+    "source": "marketscreener.com",
+    "language": "en",
+    "published": "2026-10-15T15:39:16+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "ServiceNow anuncia una nueva solución de pasaportes de IA y avances significativos en la gobernanza de la IA",
+    "summary_es": "ServiceNow anuncia una nueva solución de pasaportes de IA y avances significativos en la gobernanza de la IA marketscreener.com"
+  },
+  {
+    "id": "824eca79580c",
+    "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
+    "summary": "The idea of “artificial superintelligence [1] ” (ASI) has recently crossed from the realm of science fiction (in the mainstream perception) to the realm of near-term technological goals openly pursued by most leading commercial organizations in the field of AI. Unfortunately, ASI poses a grave existential risk to the human species. This was argu...",
+    "link": "https://www.alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-15T15:33:50+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Prefacio a la teoría del agente computacional y la secuencia de alineación ASI",
+    "summary_es": "La idea de “superinteligencia artificial [1]” (ASI) ha pasado recientemente del ámbito de la ciencia ficción (en la percepción generalizada) al ámbito de los objetivos tecnológicos a corto plazo que persiguen abiertamente la mayoría de las organizaciones comerciales líderes en el campo de la IA. Lamentablemente, la ASI plantea un grave riesgo existencial para la especie humana. Este fue un argumento..."
+  },
+  {
+    "id": "45cd805dd88d",
+    "title": "Nvidia y OpenAI chocan por la seguridad de la IA: Jensen Huang contradice a Sam Altman",
+    "summary": "Nvidia y OpenAI chocan por la seguridad de la IA: Jensen Huang contradice a Sam Altman Benzinga España",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHZ1TDhzSzRkMFNLQVVSVWhISkRQRDB4WldNX3k0NDVJaUxZNlBvNG0tRkNGMW96Z1A1V1JlQ1kzQ1JrbzRhRk0zYUdDNF9Eb0M2WXFRUGZLaE9lSEwtZmV6NnZYV3liNEFkeDh2NEdycHBNd2JpNlRNZmhScnVZcHY0c1FULWtkNlpWU0RSYzFxWXMzUjRCT3dCckRGalc1QlpRdmF3?oc=5",
+    "source": "Benzinga España",
+    "language": "es",
+    "published": "2026-10-15T14:56:29+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Nvidia y OpenAI chocan por la seguridad de la IA: Jensen Huang contradice a Sam Altman",
+    "summary_es": "Nvidia y OpenAI chocan por la seguridad de la IA: Jensen Huang contradice a Sam Altman Benzinga España"
+  },
+  {
+    "id": "e40670cecac4",
+    "title": "NYC comptroller urges Anthropic to delay IPO over AI safety concerns - Reuters",
+    "summary": "NYC comptroller urges Anthropic to delay IPO over AI safety concerns - Reuters Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODJNQUxmQmxWUG5hNUUwa0R6ajdaUVJNZVZ1dFVBRV82SXhhN1ZkbkdmYUpWZzVuUDktbUFqNm1XQ003ZUl2SDZVZ0R5eDh1TEdYZkZUTnV3Y3RuMnV0U3NfRDdWS3N2V05IODNtU1ZsWWh3RS1ybFNwbEVpVEs5Y3ZTbHZacm1kcGRaTW1hZnNZeE9zbWF4UVF2cXBlRTVxcXJKVFJuZFFYYUV3MEgta3JoQ241azFWMi1EVktkS0ptRm16X1B6WDV3NEtrazg?oc=5",
+    "source": "Investing.com",
+    "language": "en",
+    "published": "2026-10-15T14:27:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El contralor de la ciudad de Nueva York insta a Anthropic a retrasar la salida a bolsa por preocupaciones sobre la seguridad de la IA - Reuters",
+    "summary_es": "El contralor de la ciudad de Nueva York insta a Anthropic a retrasar su salida a bolsa por preocupaciones sobre la seguridad de la IA - Reuters Investing.com"
+  },
+  {
+    "id": "6a966c214ebc",
+    "title": "FTC Subpoenas OpenAI and Anthropic Over AI Safety and Privacy",
+    "summary": "FTC Subpoenas OpenAI and Anthropic Over AI Safety and Privacy CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHFoNUJ2ZFZaUzdFNUQtblpjR1FxYmdqajFmY3VYOGl3V1dMdTlVMHV1MnZrTzJ4b1RCcW9kVldQVGlPY2hmOE9MZWdzaFFzTGtOMUxxcVo2OWlkRjJIa3ZKc3hMVkNrMXB5NnlPWl80SUYzTkNNeFJIb0VzME9QUFhvMzR4RFY5ZkRJcG05eUx0ZmI2MjktUUdmWFUtcEppZU9kTEpvWm81M3pWM3liazdxYw?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-10-15T14:27:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "La FTC cita a OpenAI y Anthropic por la seguridad y privacidad de la IA",
+    "summary_es": "La FTC cita a OpenAI y Anthropic Over AI Seguridad y privacidad Revista CDO"
+  },
+  {
+    "id": "1477ea70e516",
+    "title": "AI Governance: Why AI Self-Assessment Is Not Evidence",
+    "summary": "AI Governance: Why AI Self-Assessment Is Not Evidence CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlcydWplT0lmTWVVOFVPYnQ4Y0xlNkUzd0NsRFloYW45OWxZU3pXT2M0UEpYNTdjaHdLeXJhNFNDM0xLeElIODJqNjRLVXYta2l2T3hJTjJITjFwLWNPOWdJWU9jeUwwVHdqOWphbWV4V0FlNlI1T3dEUG45Z3hkM0V1MC1nNldUVFhPYjhweFZrSUlnaU85VEJONA?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-10-15T14:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Gobernanza de la IA: por qué la autoevaluación de la IA no es una prueba",
+    "summary_es": "Gobernanza de la IA: por qué la autoevaluación de la IA no es una prueba Revista CDO"
+  },
+  {
+    "id": "50968a227c94",
+    "title": "KPMG's CEO on why AI safety isn't another Y2K and why business leaders are thinking hard about talent right now",
+    "summary": "KPMG's CEO on why AI safety isn't another Y2K and why business leaders are thinking hard about talent right now Fortune",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjRkdlhDM0t0N2RjaWlxaFhZeWxsd1JkRnBteVA1REJ3ZFplcS1RT1RHeTRyaTNYN2pLcGxqSzFmdWtXN3hzSUNyX2p5ZWloX2NXQlRmcVA4VHR2c3gzTU1VNW5SUlVNTHNJNGVEMENHN3Zydm1Mdy10WGkteFRCTHBPNHByRGZwdElwWHdoLXo?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-10-15T14:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El director ejecutivo de KPMG explica por qué la seguridad de la IA no es otro año 2000 y por qué los líderes empresariales están pensando mucho en el talento en este momento",
+    "summary_es": "El CEO de KPMG explica por qué la seguridad de la IA no es otro año 2000 y por qué los líderes empresariales están pensando mucho en el talento en este momento Fortune"
+  },
+  {
+    "id": "7c9a1fb0ec49",
+    "title": "NYC comptroller Mark Levine urges Anthropic to pause its IPO",
+    "summary": "NYC comptroller Mark Levine urges Anthropic to pause its IPO Quartz",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ycVhXczdoQmNScm5tRzlpd25oaWhIaHBGd1Q1RFJCYjliMlVXQTl3RnNyLTRwSHdYMkZkSGpNNXRXLVUxYzBwamVXMW9PRmU3dUxDV2lzOG9FUFhyZ3psa3lINTQyR2ZpdG1DTUZfZGpKVGZveFE?oc=5",
+    "source": "Quartz",
+    "language": "en",
+    "published": "2026-10-15T13:50:43+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El contralor de la ciudad de Nueva York, Mark Levine, insta a Anthropic a suspender su oferta pública inicial (IPO)",
+    "summary_es": "El contralor de la ciudad de Nueva York, Mark Levine, insta a Anthropic a suspender su oferta pública inicial de Quartz"
+  },
+  {
+    "id": "f2e526f168d8",
+    "title": "NYC Comptroller Calls for Anthropic to Pause IPO for AI Safety",
+    "summary": "NYC Comptroller Calls for Anthropic to Pause IPO for AI Safety Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTROUTgteU9HcV85OFJlb2FuM1FtS1FaNHdsXzA1bmlLREYtZFZpR21GMy16dW1KVWkyOXI5eTFBZGxqX0VRVnFvQVFjS0N3Vy1iNHVjMGI1TlM2clBZYl8xZmcxVTFJRlBiN0dQWlBJbWx6T3pLb2g2eV9ySVRuMnRjaFFvTEdMd3NwTnFrX2JKbGJCcHI5UjJsLW5SV3h4TUJRSVdib0lmMVZvRXNWQmxiQQ?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-10-15T13:13:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El Contralor de la Ciudad de Nueva York pide a Anthropic que suspenda la OPI para la seguridad de la IA",
+    "summary_es": "El Contralor de la Ciudad de Nueva York pide a Anthropic que suspenda la OPI para la seguridad de la IA Bloomberg.com"
+  },
+  {
+    "id": "b008abde47d0",
+    "title": "Fleet Launches AI Governance to Give IT, Security Teams Control of AI Tools on Every Device",
+    "summary": "Fleet Launches AI Governance to Give IT, Security Teams Control of AI Tools on Every Device Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjdIQzRieldTYUtoTGt1QXl4bFRyUjB2QkpPN3YwUDg0V0RwY1gwTlJFazB5bVU2OU11VXFheVR4dFIxdGJQUXJ3cUI2T1R3MGtWbmFqUVFfMVNncjJnSXZSdk5wcGFEbm5qMUx6VVlidkRCeUY5dmJwNE92TTNpcUx1RzhIb05tR0Z1VFBmRGVSdHc2aG5QUjdacDZEX2NzTlNj?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-15T13:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Fleet lanza AI Governance para brindar a los equipos de seguridad y TI control de las herramientas de AI en cada dispositivo",
+    "summary_es": "Fleet lanza AI Governance para brindar a los equipos de seguridad y TI control de las herramientas de AI en cada dispositivo Yahoo Finanzas"
+  },
+  {
+    "id": "d690a6796613",
+    "title": "In brief: Omidyar Network, PRI partner on AI governance project",
+    "summary": "In brief: Omidyar Network, PRI partner on AI governance project New Private Markets",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1pQbF9mMVJmR0NNRDRfVmFPQkZ0akhzQjNVNmdKNVIwWE5GYUFqdDlwOGFPU2JCMFowbGxDSmhJMjhwWk9PMU9oQTBNdkRVUXBmaFpJLUp2dDEtUE52YTlKNDJVM3dQVThRS0U2NU13OUVtaGo4OUh5TEpISjdNTDZNMGd3ZjBQYlQtaFUzQkRsZWU0bkRUM2ZoM1c?oc=5",
+    "source": "New Private Markets",
+    "language": "en",
+    "published": "2026-10-15T12:54:05+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "En resumen: Omidyar Network, socio del PRI en proyecto de gobernanza de IA",
+    "summary_es": "En resumen: Omidyar Network y socio de PRI en el proyecto de gobernanza de IA New Private Markets"
+  },
+  {
+    "id": "ad005700775e",
+    "title": "AI, safety and regulation - Microsoft’s Brad Smith sticks his head above the parapet with views that should prompt another Trumpian meltdown",
+    "summary": "AI, safety and regulation - Microsoft’s Brad Smith sticks his head above the parapet with views that should prompt another Trumpian meltdown Diginomica",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmd0ZHBaVjFLZW5LNUdrOVRNVXpjYkNtY0p3RDRUS3Y0bVV4NXVvMzAxTU5TemRYcU5pdlBtS3Q3MzZtU0JVRkZtVFFDQzd1N0k4RENVUktyUVc2ams2WjdRMVlQYm9jTlBYZndoaV9BbHlfZlhaTVhNZl9YbmVrcGgwOVdFZ3V1YzVYS0hkWmNzWmtPaFZScUZaSUF1SXNLY2NIaFA0bTY4YU5JMmFISG51NWlyTDR1OWo4?oc=5",
+    "source": "Diginomica",
+    "language": "en",
+    "published": "2026-10-15T12:29:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "IA, seguridad y regulación: Brad Smith de Microsoft asoma la cabeza por encima del parapeto con opiniones que deberían provocar otra crisis trumpiana",
+    "summary_es": "Inteligencia artificial, seguridad y regulación: Brad Smith de Microsoft asoma la cabeza por encima del parapeto con opiniones que deberían provocar otra crisis trumpiana Diginomica"
+  },
+  {
+    "id": "4fd58dc8d69c",
+    "title": "UK SMEs struggle to keep pace with AI governance",
+    "summary": "UK SMEs struggle to keep pace with AI governance IBS Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakt2cENKenZlWUxWN1V6ZUs1RHZoTDJ4aEVBRHZOQ2Q2el9DVEhDWm1JU203YXpqWTlkRFlhVFh5YlVUb3RteXdHdTRHWnBFbm5WQURYZmhlUU50eUJfLXlYaWZ3V29sQkppT1d1aEpWZWUwZzQ3aDM0OXRPenk0WElRYS10cW1BbGlCOVhNU04?oc=5",
+    "source": "IBS Intelligence",
+    "language": "en",
+    "published": "2026-10-15T11:29:51+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Las pymes del Reino Unido luchan por seguir el ritmo de la gobernanza de la IA",
+    "summary_es": "Las pymes del Reino Unido luchan por seguir el ritmo de la gobernanza de la IA IBS Intelligence"
+  },
+  {
+    "id": "daa9ad6610ae",
+    "title": "La estrategia detrás de la gobernanza de la IA: cómo transformar la IA en una capacidad empresarial confiable y escalable",
+    "summary": "La estrategia detrás de la gobernanza de la IA: cómo transformar la IA en una capacidad empresarial confiable y escalable Forbes España",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHhGeW9feEhQUzBzQ1IwYWRyb3Y1QURPNENYVUhPRmpTS05BRU9NNXVmSTZ6eF9iZDRJeEc0WXVHS1FPVWZ5M2M3Q0FNcm9YVzFTc2c5Qlo5Y3VpNXFkOE9kU0xuaFkxTzRMWEFHUWI4X2NWSlkyX0V6dElFcFlSc0FjbnlmU0k0bXdJQXpNbmJIaFV1dkR2Xy14U1ZyS0NHWm5MR2hqenNSWXl2REU5bW92TUJBRnFnQVVzNUowZTBJWm5qZHlQNWpBUUtsRzgxZnliNS1Nb2dvTVRpLTlHZ2p3b3htcGRXcFdhdmRuOXlsdw?oc=5",
+    "source": "Forbes España",
+    "language": "es",
+    "published": "2026-10-15T11:05:49+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "La estrategia detrás de la gobernanza de la IA: cómo transformar la IA en una capacidad empresarial confiable y escalable",
+    "summary_es": "La estrategia detrás de la gobernanza de la IA: cómo transformar la IA en una capacidad empresarial confiable y escalable Forbes España"
+  },
+  {
     "id": "b21a5f5defac",
     "title": "Z.ai’s GLM-5.3 model raises researcher fears it can fake AI safety test",
     "summary": "Z.ai’s GLM-5.3 model raises researcher fears it can fake AI safety test South China Morning Post",
@@ -16,6 +288,24 @@
     "date_added": "2026-10-15",
     "title_es": "El modelo GLM-5.3 de Z.ai hace temer a los investigadores que pueda falsificar la prueba de seguridad de la IA",
     "summary_es": "El modelo GLM-5.3 de Z.ai hace temer a los investigadores que pueda falsificar la prueba de seguridad de la IA South China Morning Post"
+  },
+  {
+    "id": "fa8d06ea96d5",
+    "title": "WHO highlights responsible AI governance as a public health priority at RC73",
+    "summary": "WHO highlights responsible AI governance as a public health priority at RC73 World Health Organization (WHO)",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSm5DUkhVbkRFZmNEeVhEX3JiaEdrSEZwcnBuRlVncTh2TV9IbDdVZkVsc2lCS2NPMFl0Qnc4OURTNzQ0di04TnRMVW9aUXppek50S3BRM0ZtOW5CZzZKdzhPaU5QSGNiWFFwOUExX2pLcUYwN1gtT3J6V0U0cGxEUjA0dTV5SHg3OHF1dHVIX0Y3cE1iY0tNUFhBZGZiUVhxZHFJWWxVbWVIZjNJOFZ5dlR3QmdCdmhT?oc=5",
+    "source": "World Health Organization (WHO)",
+    "language": "en",
+    "published": "2026-10-15T09:33:56+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "La OMS destaca la gobernanza responsable de la IA como una prioridad de salud pública en el RC73",
+    "summary_es": "La OMS destaca la gobernanza responsable de la IA como una prioridad de salud pública en el RC73 Organización Mundial de la Salud (OMS)"
   },
   {
     "id": "d8e1b1aef137",
