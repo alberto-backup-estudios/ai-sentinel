@@ -1,5 +1,172 @@
 [
   {
+    "id": "b21a5f5defac",
+    "title": "Z.ai’s GLM-5.3 model raises researcher fears it can fake AI safety test",
+    "summary": "Z.ai’s GLM-5.3 model raises researcher fears it can fake AI safety test South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEdtNDRJT3FrZV9KVjBFazNPS3Y2MkQyQjhaTjdsc3dVQkZCOFBpb2szbWk1VHdKSkZrSjE2NEVNdUZwUG0zMElsWlNURDkzM3VDdW1PMjFlNXl6RWIwQ3B6U2xRS05GTDRZQjRoUllibGxPVFJ1WFBoekdxZmFZUWRwMlNlMEVZUjlYLXdvMW5fV0VEY3NYLW82UENPejVZY0tIeE5MRXQwSmY1Q2FqbXdhdmd5MTFPc2M3WXk2Z1dXRDg?oc=5",
+    "source": "South China Morning Post",
+    "language": "en",
+    "published": "2026-10-15T10:00:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El modelo GLM-5.3 de Z.ai hace temer a los investigadores que pueda falsificar la prueba de seguridad de la IA",
+    "summary_es": "El modelo GLM-5.3 de Z.ai hace temer a los investigadores que pueda falsificar la prueba de seguridad de la IA South China Morning Post"
+  },
+  {
+    "id": "d8e1b1aef137",
+    "title": "Geoffrey Hinton Counters Jensen Huang: 10%-20% Probability That AI Could Lead to Human Extinction",
+    "summary": "Geoffrey Hinton Counters Jensen Huang: 10%-20% Probability That AI Could Lead to Human Extinction 36 Kr",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EMkRWTk41WnkyM0FQZmJFeW02Q2I0R05kX2pmd05sM0JVN1VJSjgtblVOZFNnSS1lbS1BcE1ILWhHMzRSaG10MEc1SVY4V1N5U1g4?oc=5",
+    "source": "36 Kr",
+    "language": "en",
+    "published": "2026-10-15T09:32:20+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-15",
+    "title_es": "Geoffrey Hinton contrarresta a Jensen Huang: 10%-20% de probabilidad de que la IA pueda conducir a la extinción humana",
+    "summary_es": "Geoffrey Hinton contrarresta a Jensen Huang: 10%-20% de probabilidad de que la IA pueda conducir a la extinción humana 36 Kr"
+  },
+  {
+    "id": "f3de0bbf912d",
+    "title": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
+    "summary": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks Axios",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tRlI5bmdNMTVmelZ4U2tYb1pXWWxyYmlWYlV4clFqdUdZUUxucTVXeTdFSjlwc2QwY3VUSDRtSmU0X1Zhc2JoMTdUYmVadjByQ1ZwRmJqT1ZJMk5HTUlGajRtd2l6VVVFMXc?oc=5",
+    "source": "Axios",
+    "language": "en",
+    "published": "2026-10-15T09:06:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Scoop: \"OG\" Bill Gates regresa para librar la guerra contra los riesgos de la IA",
+    "summary_es": "Scoop: \"OG\" Bill Gates regresa para librar la guerra contra los riesgos de la IA Axios"
+  },
+  {
+    "id": "735f7f0d345d",
+    "title": "Estados Unidos y China están intensificando el diálogo sobre la gobernanza de la IA.",
+    "summary": "Estados Unidos y China están intensificando el diálogo sobre la gobernanza de la IA. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTJrLUl5b1c0T051WTgycU01RVB5UXZWMEtuR3pJcERJVllSZmlnVV9pOGNxd09UM2Y2OEVLMk1COXVkRDZMalhTNlNTWkF5b183MEhyUjFib29JR01iRVRnVkN2bnJZWVZHa0NtWnlGLU85bUp1TC1uYm1rd2pRaWVn?oc=5",
+    "source": "Vietnam.vn",
+    "language": "es",
+    "published": "2026-10-15T08:34:40+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Estados Unidos y China están intensificando el diálogo sobre la gobernanza de la IA.",
+    "summary_es": "Estados Unidos y China están intensificando el diálogo sobre la gobernanza de la IA. Vietnam.vn"
+  },
+  {
+    "id": "f9c558d48a33",
+    "title": "Why AI Governance in Critical Infrastructure Requires Continuous Monitoring, Not Static Compliance",
+    "summary": "Why AI Governance in Critical Infrastructure Requires Continuous Monitoring, Not Static Compliance Veloxx media",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeEU0a0QzQ0ZQaUI4UW1LNkRCX0dyejM0S1VOVXpFa0FHZzk3eWRISHBGR0J6a0s2cFBfOUxKWC1MSmxGVFJhSGtCbFU3UFdtTVg0dFhnLTJMdzFIbmNmUWxodExOdmx3SC1tSm9RLXZ3QTJEaHNJSGxmdURteG9LZDFDQ3FIYkFha3BtbUlxUjFaemxUUXp6R21xOHk1ZDNuMnNuZ0tWclZoaWd1U0hsdUhvcXVENlR4X0lrcFpWcw?oc=5",
+    "source": "Veloxx media",
+    "language": "en",
+    "published": "2026-10-15T08:12:07+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Por qué la gobernanza de la IA en infraestructuras críticas requiere un monitoreo continuo, no un cumplimiento estático",
+    "summary_es": "Por qué la gobernanza de la IA en infraestructuras críticas requiere un monitoreo continuo, no un cumplimiento estático Veloxx media"
+  },
+  {
+    "id": "c0a8bf4c3f9b",
+    "title": "Shadow AI and AI Governance: NordLayer's Vakaris Noreika",
+    "summary": "Shadow AI and AI Governance: NordLayer's Vakaris Noreika Cybernews",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mLVZFZG83YmQtc2E1VGdTSWlUcEVaZk02RGFwZ2lrRjA0QXdiX2hIT0t5SnN5SV9SOUNZUEV1a25nNzZoRmJZbThXLXoxRlZFTkY5aGdQTDZ4U0RvbHl1WHhva3htV2J6bUFza25XYjJxS2w3Sk53?oc=5",
+    "source": "Cybernews",
+    "language": "en",
+    "published": "2026-10-15T06:17:40+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "IA en la sombra y gobernanza de la IA: Vakaris Noreika de NordLayer",
+    "summary_es": "IA en la sombra y gobernanza de la IA: Vakaris Noreika de NordLayer Cybernews"
+  },
+  {
+    "id": "6874e8b39d26",
+    "title": "Watch NYU Professor Gary Marcus on AI Safety",
+    "summary": "Watch NYU Professor Gary Marcus on AI Safety Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajdjZHV3cEJDNmxON3RDU3RBMmlnN3cwOGU5X2hIVWUwOU9NUV9rRTZuVUFneVpUemdHTlpqb2theXVKMnJBY1VxYmRrVnJIdU4xTHJHR0xTckxEYkVralNqbTBNeGFWMEZBUTNiWlVVekM0aDl5X1ZjTFVlZXZKRHZRWjNmdVVhWnNvTUtqOHBlQ19feUp6YQ?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-10-15T04:29:49+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Vea al profesor Gary Marcus de la Universidad de Nueva York sobre la seguridad de la IA",
+    "summary_es": "Vea al profesor Gary Marcus de la Universidad de Nueva York sobre la seguridad de la IA Bloomberg.com"
+  },
+  {
+    "id": "bc3f43181069",
+    "title": "Hassabis propone estándares globales de seguridad de IA",
+    "summary": "Hassabis propone estándares globales de seguridad de IA NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2dsU1YtYWl2cncyQlBTWllPVHk0N3RZVEdEOUJuQkNJOTlZS2JGdW1FbHZzd0JGck9odTRMX29VT1BWb3RteTBmcUVMZnBvaXJSNmdNQjFzU0JUZUp1UGduTWY5RXUxTVpKbjlwdnB3Y3VwSzFfaGg1WmRWOUJ2NmxvUXBHYTN0UkpXR0ZPTVRPRU1YMHVzZWRSUExndjJ5VG12Vw?oc=5",
+    "source": "NeoTeo",
+    "language": "es",
+    "published": "2026-10-15T04:20:56+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Hassabis propone estándares globales de seguridad de IA",
+    "summary_es": "Hassabis propone estándares globales de seguridad de IA NeoTeo"
+  },
+  {
+    "id": "74fd9b293c8f",
+    "title": "Distorted intelligence at the AI frontier",
+    "summary": "Distorted intelligence at the AI frontier The Korea Times",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXVvd2hQZjRBUENFUk9TcFNwSUtyNEExU1lpaWhNQ2Nyd2ZjRUMtX1ZRS1N6d01MWlZiVWpKTW5NY3NVYW15WkZUQjUtZjFnQWdSMFhIclZqSFUtTy1RMUdsd01lRHQ1VU5nNHZZOHJ1WTU3Z3BjSVBSR2ljbnkzM0hVT0owMlRSMGE5UXJieTLSAZYBQVVfeXFMT1ZwSXJpa0Q4dDJoTTByUDdJTUFaOU1Ma0pROTdHVXhNa0tMc1IzTWIxVUhVZkxSR21zUC12TlFvSnVfN1FIUUstUl9xSDVKbnpDQ1ZqZmtXMW10MjBhdVFVQklicVlMekhTT19GRXhTR2dQWEthZjlJRXZJbk1sekF5MFNTUHFvMi1FTV9IUFdjLWdKNmhR?oc=5",
+    "source": "The Korea Times",
+    "language": "en",
+    "published": "2026-10-15T04:00:04+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-15",
+    "title_es": "Inteligencia distorsionada en la frontera de la IA",
+    "summary_es": "Inteligencia distorsionada en la frontera de la IA The Korea Times"
+  },
+  {
     "id": "9b6d2059647c",
     "title": "Japan's NICT, companies to develop AI safety-testing system",
     "summary": "Japan's NICT, companies to develop AI safety-testing system MLex",
@@ -72,6 +239,42 @@
     "summary_es": "HR Path compra SnapAI para ayudar a los clientes a cumplir las normas de la Ley de IA de la UE Outsource Accelerator"
   },
   {
+    "id": "e3cade34c26d",
+    "title": "Nvidia’s CEO talks about AI safety in London",
+    "summary": "Nvidia’s CEO talks about AI safety in London AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU9MR1hlM2RZQy1NM2pEYnF2dl9QU2g4MENMOW94eER0ZHVTWDRrbUNtVHN2VkpCYThfLVh6LVU0d0tNNkdvT1hSTVd6RVludkVhelFVN2dvakhQemNMT0xrRktqNUwxeTY2V3dvNmlWblFGVTg5Zk14a1lxcUNjQ2JKZkx2QUgtUC10MHVLaXJWVlU4d2xmLXl5bUEweWFmalVv?oc=5",
+    "source": "AP News",
+    "language": "en",
+    "published": "2026-10-15T00:29:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El CEO de Nvidia habla sobre la seguridad de la IA en Londres",
+    "summary_es": "El director ejecutivo de Nvidia habla sobre la seguridad de la IA en Londres AP News"
+  },
+  {
+    "id": "99ebfbfdc8f5",
+    "title": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules",
+    "summary": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules mykxlg.com",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTnRaMlhRTGRIN3RyZU5YSEhwSUtsU3dXOWY0Z1dLLW12QV9yUnlzTjBoVXFXbGd1c2I3WkwxTHlUQUM0cFZnSjJURkwzc1BnN3RzMUQ5TjgzWFlXU3UtdUJ4R196akJfRU11UHNhR0Zlb2g2VzNKUjZwLUQ1MWhQd045dkJDWkJyeVBTdXZiaVh2MzFYNERLakRzNFVEdS04Umw4QnFhRG9XdklOdlNXQnNFNFB1MU9COGxOUHpUYl85Z1BGQ2huSnItemJZd0VRWGY2djhsV29ReTVlSDFZZWFuMzF3NEZIdlRlRjdHYnM5T1lKZHRWMF96REVzVXJBUVVoaHlvWi1oUjNnNTNtVW9CYw?oc=5",
+    "source": "mykxlg.com",
+    "language": "en",
+    "published": "2026-10-15T00:03:54+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "El Consejo de la CE lanza ADG 2.0 y ofrece sus cruces peatonales de gobernanza de IA de forma gratuita a todos los gobiernos, reguladores y organismos de normalización mientras las naciones se dividen en torno a las normas de IA",
+    "summary_es": "El Consejo de la CE lanza ADG 2.0 y ofrece sus cruces peatonales de gobernanza de IA de forma gratuita a todos los gobiernos, reguladores y organismos de normalización mientras las naciones se dividen sobre las reglas de IA mykxlg.com"
+  },
+  {
     "id": "c3b1c4fcb592",
     "title": "NVIDIA commits $250m in compute to UK AI safety research | ETIH EdTech News",
     "summary": "NVIDIA commits $250m in compute to UK AI safety research | ETIH EdTech News EdTech Innovation Hub",
@@ -88,6 +291,24 @@
     "date_added": "2026-10-15",
     "title_es": "NVIDIA compromete 250 millones de dólares en informática para la investigación de seguridad de la IA en el Reino Unido | Noticias de tecnología educativa de ETIH",
     "summary_es": "NVIDIA compromete 250 millones de dólares en informática para la investigación de seguridad de la IA en el Reino Unido | ETIH EdTech Noticias Centro de innovación EdTech"
+  },
+  {
+    "id": "605b1cb6b281",
+    "title": "NVIDIA commits $250m in computing access to UK AI safety research",
+    "summary": "NVIDIA commits $250m in computing access to UK AI safety research EdTech Innovation Hub",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWZfbkNGOXdxMkl0Yk43ZEtyN09sOEladnpubVE1MUVpR0pPTGVLQ1hOOHJVQ1dISENVRXMycmNGajBLUFRaTHJHd3dVcXlobERSTE40dS1NdmRfaVRpV0ZRRjZYRnRKZVdUVTc1SzlGeUtCWlZWMHl6LUFTUThla2NwNGZBUVJaTEg5MGRwSTVZa3REaUxoVUI1UlN1MXotQ185ZFBUTkc?oc=5",
+    "source": "EdTech Innovation Hub",
+    "language": "en",
+    "published": "2026-10-15T00:00:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "NVIDIA compromete 250 millones de dólares en acceso informático a la investigación de seguridad de la IA en el Reino Unido",
+    "summary_es": "NVIDIA compromete 250 millones de dólares en acceso informático a la investigación de seguridad de la IA en el Reino Unido EdTech Innovation Hub"
   },
   {
     "id": "a89444a3efcb",
