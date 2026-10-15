@@ -1,5 +1,242 @@
 [
   {
+    "id": "9b6d2059647c",
+    "title": "Japan's NICT, companies to develop AI safety-testing system",
+    "summary": "Japan's NICT, companies to develop AI safety-testing system MLex",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjQ2TXJZVzF5YUdGNG10S1JYeGViS0JjOC1rUHFCTWN6cGJlTTZMN19nbmlCUFdMWGs2dGxFdHNsRms2RWE1U0lfMWUyQkJETGVyTGVobjQ2dVlWZEtYMUdsU19RZGhaLXJEcFBOejVndXhQbkhUWXpfdXVvLVhHenZuRmpRMkZEdVFxZUUzM0c2RE5QSE1Dc3ZZcWUtWEpHX0pLVFVhUHlxaEduNGRvWk5mYWRCSzFHR1JRQ25IbjR0VU3SAVpBVV95cUxOZ1FLT0hTcWV4VGYzWTZEOFJTNVZHY3ZtUjAyR01zUVp6ZktKcnhUSU42YUlkTDU5VDJiNmJZRDZiSlpORTFpZmo1Ti1ENG5xM2JfdTh0R3UwVFE?oc=5",
+    "source": "MLex",
+    "language": "en",
+    "published": "2026-10-15T01:57:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "NTIC y empresas japonesas desarrollarán un sistema de pruebas de seguridad de IA",
+    "summary_es": "NICT y empresas japonesas desarrollarán el sistema de pruebas de seguridad de IA MLex"
+  },
+  {
+    "id": "90ed07d666d4",
+    "title": "AI Governance Challenge: Point-in-Time Snapshots Go Stale",
+    "summary": "AI Governance Challenge: Point-in-Time Snapshots Go Stale BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmRXZi1Ud09aamxac2syQVd0V1c1cW9GZGdjb2hCZXVYZVZ3b3IzMzVpYnZ1X3JUQVBKckF5SXZuYnczbE1kMm1YWW9lYzdKMGtwT0JIcnZFZnktZnNkTW5ESWE2aWxXd0tVQkV2aThmOXROZWwxSHU1STduYTNwRURoeEtpbHc1WHBVRFRZVjZPSnZhdVhpS3Z3aHhLQQ?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-10-15T01:44:30+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Desafío de gobernanza de la IA: las instantáneas de un momento dado se vuelven obsoletas",
+    "summary_es": "Desafío de gobernanza de la IA: las instantáneas de un momento dado se vuelven obsoletas BankInfoSecurity"
+  },
+  {
+    "id": "5ad46f73154b",
+    "title": "AI Safety Is Not A Corporate Plot",
+    "summary": "AI Safety Is Not A Corporate Plot Astral Codex Ten",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ERzJKbVJ1TGdLa2x6cXdjcS0yQkQ1bFJudU5LalljS3lMRnVwRFJRQWxtNnNyald0bHpYT0VKQWxIVndGUDZ1akphemxWNlZ0UE1SMGhnSXR4TVE2bUJDRGVwSWV6T1Fla1BzMUpLQVpCbG5t?oc=5",
+    "source": "Astral Codex Ten",
+    "language": "en",
+    "published": "2026-10-15T01:15:38+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "La seguridad de la IA no es una trama corporativa",
+    "summary_es": "La seguridad de la IA no es una trama corporativa Códice Astral Diez"
+  },
+  {
+    "id": "c8ae59c2339f",
+    "title": "HR Path buys SnapAI to help clients meet EU AI Act rules",
+    "summary": "HR Path buys SnapAI to help clients meet EU AI Act rules Outsource Accelerator",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NVd4aHVqb3MxbkxfSWM3eHBQeWF6M3kxZmxIQm1vNzV2VXdZa0dyeVJvOEE0UmNkV0pENVQ1LUNkYkczTVBZVU1XRWlISjczRUEzaHVzTTdxYWVKaFE5a3ZsZ2FwdFdNYkRyU2dRZw?oc=5",
+    "source": "Outsource Accelerator",
+    "language": "en",
+    "published": "2026-10-15T01:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "HR Path compra SnapAI para ayudar a los clientes a cumplir las normas de la Ley de IA de la UE",
+    "summary_es": "HR Path compra SnapAI para ayudar a los clientes a cumplir las normas de la Ley de IA de la UE Outsource Accelerator"
+  },
+  {
+    "id": "c3b1c4fcb592",
+    "title": "NVIDIA commits $250m in compute to UK AI safety research | ETIH EdTech News",
+    "summary": "NVIDIA commits $250m in compute to UK AI safety research | ETIH EdTech News EdTech Innovation Hub",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWZfbkNGOXdxMkl0Yk43ZEtyN09sOEladnpubVE1MUVpR0pPTGVLQ1hOOHJVQ1dISENVRXMycmNGajBLUFRaTHJHd3dVcXlobERSTE40dS1NdmRfaVRpV0ZRRjZYRnRKZVdUVTc1SzlGeUtCWlZWMHl6LUFTUThla2NwNGZBUVJaTEg5MGRwSTVZa3REaUxoVUI1UlN1MXotQ185ZFBUTkc?oc=5",
+    "source": "EdTech Innovation Hub",
+    "language": "en",
+    "published": "2026-10-15T00:00:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "NVIDIA compromete 250 millones de dólares en informática para la investigación de seguridad de la IA en el Reino Unido | Noticias de tecnología educativa de ETIH",
+    "summary_es": "NVIDIA compromete 250 millones de dólares en informática para la investigación de seguridad de la IA en el Reino Unido | ETIH EdTech Noticias Centro de innovación EdTech"
+  },
+  {
+    "id": "a89444a3efcb",
+    "title": "The Blogs: Assessing Catastrophic AI Risk – is it possible?",
+    "summary": "The Blogs: Assessing Catastrophic AI Risk – is it possible? The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSW1wT0tzdUx3R0F1cE5maFlSX3RhajBrUUZ5ZVk2bVBuRWk5aU5CWFdnR200aFlhdU1mdXpTT1l6dTBGdXpkc1VFQVBkYnI3eU9Yam4tZVQ1OFBxaGQ5eGladjhFc2xodERQN2JZajh0dXVfb1Z1WnJXY004cXN2WjB5VHI?oc=5",
+    "source": "The Times of Israel",
+    "language": "en",
+    "published": "2026-10-14T23:40:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Los blogs: Evaluación del riesgo catastrófico de la IA: ¿es posible?",
+    "summary_es": "Los blogs: Evaluación del riesgo catastrófico de la IA: ¿es posible? Los tiempos de Israel"
+  },
+  {
+    "id": "46811e537ad7",
+    "title": "IBM study finds AI governance lagging behind incidents at EMEA firms",
+    "summary": "IBM study finds AI governance lagging behind incidents at EMEA firms StreetInsider",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGxXdkluWDVUdENPSlBpTkR4RXoxcmR1YXBJdld3d1RXMUxjZHBwaS1tSE5WbU1ESXRrSGM5WXc1MzFtaWdXa3dIRUp6dUp6NTBfQXlFRmszWThhb2ZsLWw1eTJRSlJJTlNsbmozOG9RVG45SGtLellteFlyeEgxZGZ1S2xVb3E0X21ETlF5NjlyaFF0MFNCbGx3b0xJOWFhZWE5QVNBMG82U0NyZEViTC1Jc3BIT2l3Snk4RW1vVFllLUlZ?oc=5",
+    "source": "StreetInsider",
+    "language": "en",
+    "published": "2026-10-14T23:28:36+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Un estudio de IBM encuentra que la gobernanza de la IA va por detrás de los incidentes en las empresas de EMEA",
+    "summary_es": "Un estudio de IBM encuentra que la gobernanza de la IA va por detrás de los incidentes en las empresas de EMEA"
+  },
+  {
+    "id": "936728364fb9",
+    "title": "Eight in Ten UK Businesses Struggle to Keep Pace with AI Governance, IBM Study Finds",
+    "summary": "Eight in Ten UK Businesses Struggle to Keep Pace with AI Governance, IBM Study Finds TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYllSV3VHTVpCVHNWS3ZoT1FEUThyZEVFdnBqbWRTTjcybkZ1Zlh0SnBGb3J3YkU1b3RUZlVldE5tY1N2RVUzZEFpQkFZOGU2MnZPYzc1aEtuSUFPYk1vX0swZFI0RDNTM240dGFtU2ttSklJQTVIQWVLcVV2aW1lX0ZtaWk3QmpiRTA5MlI2Wl9kN2p5d3dIUl9LM21RZUFvQmtNTVQwQU1OUXIxUUVUdEliTHdtb2RrMDBqQzlQTUZ5ZW9yUGtURXZROGtDdUlQMVZ1N2ZGSjVuYzNl?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-10-14T23:01:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Ocho de cada diez empresas del Reino Unido luchan por mantener el ritmo de la gobernanza de la IA, según un estudio de IBM",
+    "summary_es": "Ocho de cada diez empresas del Reino Unido luchan por mantener el ritmo de la gobernanza de la IA, según un estudio de IBM TradingView"
+  },
+  {
+    "id": "41b2706d7881",
+    "title": "Seguridad de la IA: 400 científicos piden cortar internet",
+    "summary": "Seguridad de la IA: 400 científicos piden cortar internet Criptotendencias",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQ2ZiTFFYaG1BeU1iYVdXaThWdXJZbUNra3FEYi1sZERpN2tsWU5xWklobEx6eGEzejgtU01veVNTaFJ3NE5fT0pzMl9KWVlfLUVWYmp2R2RKNENpX3pMa3pvLVNvTDVONF9hVHJxVndwRFVncm9fd3NpR00?oc=5",
+    "source": "Criptotendencias",
+    "language": "es",
+    "published": "2026-10-14T22:01:40+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Seguridad de la IA: 400 científicos piden cortar internet",
+    "summary_es": "Seguridad de la IA: 400 científicos piden cortar internet Criptotendencias"
+  },
+  {
+    "id": "4966a65ef1e0",
+    "title": "Sens Cantwell, Rounds Urge White House to Build Strong, Coordinated Approach to AI Safety & Cyber Defense - Benton Institute for Broadband & Society",
+    "summary": "Sens Cantwell, Rounds Urge White House to Build Strong, Coordinated Approach to AI Safety & Cyber Defense Benton Institute for Broadband & Society",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXdRb2t5dklEY2tNbUx6VmY5QkY2QjR0ck5UTEJTZ2U4aHQ0RVVac2pYWEpFczB2b241dWs0d1VGNm1Ed2J2SElRcGJFTTBOanowc0NrWmJoZ3BtbHQ3dGpGTDZTVEJSLW1nOU9wdjBNaG1jd0E4U1NkTGtDVFF4aC1yblBWSHE1ZHJfY3B6R256OENNYTJGQW52WFN6eGdpYV9IVno2ZWNsQnBXVlhzY1czbEtkUFBITThPMw?oc=5",
+    "source": "AI Safety & Alignment (Global)",
+    "language": "en",
+    "published": "2026-10-14T21:52:59+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "sociedad",
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Sens Cantwell y Rounds instan a la Casa Blanca a desarrollar un enfoque sólido y coordinado para la seguridad de la IA y la ciberdefensa - Benton Institute for Broadband & Society",
+    "summary_es": "Sens Cantwell y Rounds instan a la Casa Blanca a desarrollar un enfoque sólido y coordinado para la seguridad de la IA y la ciberdefensa Benton Institute for Broadband & Society"
+  },
+  {
+    "id": "ce8db2f43dcb",
+    "title": "Nvidia’s Jensen Huang responds to Pope Leo’s AI safety criticism: ‘We all care about the same thing’",
+    "summary": "Nvidia’s Jensen Huang responds to Pope Leo’s AI safety criticism: ‘We all care about the same thing’ Fortune",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcE1vZ2xQLVlBMVh6RkFoMjF0bWMxZW9qMzNWYkdRU3gxUjhIRXMwcVVPRTBVM2Jpc0xWNVNLNVJQVnVHbHUybkV1akFVUWdtMEQ5SDFtaXRZVXZ6V19wbjZ3ejZ0RGxqVngzY0dOa09DaTJaVmdERFc5Nks0amNFZWUxU1pBM0tZdGx4dk1kMGE1YTVfTFJiSUVGSk1IaDN4c2N0RDNMeHByYi1iSzZEdlNERlBHYUJ1ZVAtRktPcjk0ZXAzaVE?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-10-14T19:21:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Jensen Huang de Nvidia responde a las críticas del Papa Leo sobre la seguridad de la IA: \"A todos nos preocupamos por lo mismo\"",
+    "summary_es": "Jensen Huang de Nvidia responde a las críticas del Papa Leo sobre la seguridad de la IA: \"A todos nos preocupamos por lo mismo\" Fortune"
+  },
+  {
+    "id": "8044d54a4175",
+    "title": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance",
+    "summary": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance CPA Practice Advisor",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaktkalAtVXFnajdYSm50RWlPUTlqX3cwVGdqM1JkLUdSR1YwVkFFU3RqejdmbkJqS21FOEpQaTFVZjlpbDQ5bndUbUYwRERVZ3NmNTlBZm05T0xZZnZsVW4xMzBSSlNaMjRQX3VJTGxNb0wzRXpQaGtaYTlsVWVWTm9qcllwZFk3VkthZ0R2aHphRndzemxPQkdiMnBjVWQwR3FlRW55cUdXTzQxVG9sVHBKQk9HbjJqVk9mR2kzY0hqeWFSOGNhOS1sYlUxZC1PQzdFeVgtNXUzM1lnWUhr?oc=5",
+    "source": "CPA Practice Advisor",
+    "language": "en",
+    "published": "2026-10-14T17:03:26+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Optro lanza agentes capacitados en dominios para auditoría, cumplimiento, riesgo de terceros y gobernanza de IA",
+    "summary_es": "Optro lanza agentes capacitados en dominios para auditoría, cumplimiento, riesgo de terceros y gobernanza de IA CPA Practice Advisor"
+  },
+  {
+    "id": "3750070add92",
+    "title": "AMD Is Paying $8.2 Billion to Bring In the ‘Godmother of AI.’ Here’s Why It Makes Sense",
+    "summary": "AMD Is Paying $8.2 Billion to Bring In the ‘Godmother of AI.’ Here’s Why It Makes Sense Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmlaVk1iOVN1MlM2ekZGY2dBVnJEMXBRV2l5NEFrbEVrVWVXSjVyR21mcjZldWJLNTZZYnRaTmtKb25lNmlVYk01MWltbWtNUDFrczh2cXBtYV9nV2FVVTlYWU1WZW0xdUlheFNHZGFGRUVSSWg4RTRpdHFPck9pd1l3TXhWOWh2enh2M1dNUQ?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-14T13:49:44+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-15",
+    "title_es": "AMD está pagando 8.200 millones de dólares para incorporar a la 'madrina de la IA'. He aquí por qué tiene sentido",
+    "summary_es": "AMD está pagando 8.200 millones de dólares para incorporar a la \"madrina de la IA\". He aquí por qué tiene sentido Yahoo Finanzas"
+  },
+  {
     "id": "621fb43105ae",
     "title": "The AI Governance Gap CX Leaders Cannot Afford to Inherit",
     "summary": "The AI Governance Gap CX Leaders Cannot Afford to Inherit CMSWire",
