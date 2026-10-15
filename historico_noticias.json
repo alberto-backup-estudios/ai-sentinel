@@ -1,5 +1,224 @@
 [
   {
+    "id": "0e740b6c98ef",
+    "title": "Stanford AI Safety Summit Highlights Risks Of AI Agents And New Safeguards",
+    "summary": "Stanford AI Safety Summit Highlights Risks Of AI Agents And New Safeguards Forbes",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVlWUC1uWl9oREZreVgxLVZ6eXpab2NtdVFIS2NWckpZcEVUc3EybDk2cmlveTFhejE5c001R1FCSXo5UzJycG5BdDRLalhiZ0ZieE15ODRXLXB3WEtqdllwSTFMVWVRNzdScnIyN2lyTDVFb0ZsM1VTTmZQX1ZaS3BjY2JreHdQQUlnQ1NMNDV0QWxjNTdzWFJFVWl4aEo0WC1lUl9uM29fUGl6VFE?oc=5",
+    "source": "Forbes",
+    "language": "en",
+    "published": "2026-10-15T20:05:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "La Cumbre de Seguridad de la IA de Stanford destaca los riesgos de los agentes de IA y las nuevas salvaguardias",
+    "summary_es": "La Cumbre de Seguridad de la IA de Stanford destaca los riesgos de los agentes de IA y las nuevas salvaguardias Forbes"
+  },
+  {
+    "id": "eb59314bc2c3",
+    "title": "Mass AI job displacement could be detrimental to democracy, says MIT Professor Daron Acemoglu",
+    "summary": "Mass AI job displacement could be detrimental to democracy, says MIT Professor Daron Acemoglu CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmlieTVIa3BxRUdpOWI1TnA2NDY4bDVPdTJnT2NhZkJaSFNNVTVlNlZXUktQZm5Kak9xd3hVLVpZRDk1ekpBVUI1ZVJYWmFuLVVWeFZaM0xrSFBlQzNESFU0cERqRVdnM3QzVjRSWWZORE9XdjhyMHYwWkN6emFydUZwUlE1MVBka0xOVzIxLVkzc1FiLXdpRjkxR0Fsc2RBRC1lVzl6NjFmSlhJYjM5Z3dBMkZjQmdFRkc1RVFkbVhPOGdrQlY4eFBBWXYzQTlN?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-10-15T19:43:54+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-15",
+    "title_es": "El desplazamiento masivo de empleos por IA podría ser perjudicial para la democracia, dice el profesor del MIT Daron Acemoglu",
+    "summary_es": "El desplazamiento masivo de empleos por IA podría ser perjudicial para la democracia, dice el profesor del MIT Daron Acemoglu CNBC"
+  },
+  {
+    "id": "6513184d133e",
+    "title": "Anthropic concede a un evaluador externo de METR acceso de nivel de empleado en su apuesta por la seguridad de la IA",
+    "summary": "Anthropic concede a un evaluador externo de METR acceso de nivel de empleado en su apuesta por la seguridad de la IA TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sVldmYVBncGRPM2NNbnNSN1RlYVQ4YTVuTmU2UlF0WEtXTWdKcVRDLWNxM1ItWHczdm5femtBSzBETklUYUdkZm5ydDdGUzhGLWF5TXJDMEhKczBmWnVtbE4wSEhyYkxNMnl5VGpBbTdpcXQ3MGY0?oc=5",
+    "source": "TradingView",
+    "language": "es",
+    "published": "2026-10-15T19:31:10+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Anthropic concede a un evaluador externo de METR acceso de nivel de empleado en su apuesta por la seguridad de la IA",
+    "summary_es": "Anthropic concede a un evaluador externo de METR acceso de nivel de empleado en su apuesta por la seguridad de la IA TradingView"
+  },
+  {
+    "id": "1b980039351f",
+    "title": "NYC Comptroller Urges Anthropic to Delay IPO and Focus on AI Safety",
+    "summary": "NYC Comptroller Urges Anthropic to Delay IPO and Focus on AI Safety PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMVRhSjN2OHdZWHJMSWlYcnBoQ0c3QkRSdjVPbWJUWlV3RVpQNm5rVzlOWHg2WmNCOGRNemdNRWlFRUtqekxtYVEtZGFjZFVqZENnMWZmbUdGWDRpX29nTUh0ZGNWTG9ld3NXdjF2N3oydi1IUW5QT0NhN1lWVUlZM19zdDNJQW0zY2YtQTRPaENBLW1XVkt6YWFfWVNxLTJ0SXpfNHZrVWFvRExKeW5fZTE3NFpSNnB4TVZPTlF2RHFpYWs?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-10-15T19:30:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "El Contralor de la Ciudad de Nueva York insta a Anthropic a retrasar la salida a bolsa y centrarse en la seguridad de la IA",
+    "summary_es": "El Contralor de la Ciudad de Nueva York insta a Anthropic a retrasar la salida a bolsa y centrarse en la seguridad de la IA PYMNTS.com"
+  },
+  {
+    "id": "feac39115a49",
+    "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push",
+    "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push The Lufkin Daily News",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV0NQNFN1UXFBLUdTZ0ttUFVhby1fZVNfNGtGRXlLYW1maC16WmNRV1kwM3NyMlJnRFhnY1NJcGtKRnpaM2pNUi1mRHpNR1RfZnh3SzRGWmJhY3BkNjBDbnNheWdKTG0zYUxZbXpSLWdwWEpNNW0tcXEtdEwwSHZ3RVhqMUVaR2RmanZNTnY1cUpRY1AyRFk1MU80dHpTWTlBeFdWNER1c1dFcjN3eWh2OU1NRlQ0aXRhSlE2NXdCY0F3WVRZMzFuTjZaRjlhV09feWZnY0V5OXg1Y0g5MlJ5ZnlmTkFhNEhlWWR6MV9HTmJTWFJkNmhVa05OUVFydzRKMHJHVDBPeVBkcFE?oc=5",
+    "source": "The Lufkin Daily News",
+    "language": "en",
+    "published": "2026-10-15T19:30:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Anthropic otorga acceso a nivel de empleado METR al evaluador externo en el impulso de seguridad de la IA",
+    "summary_es": "Anthropic otorga acceso a nivel de empleado al evaluador externo METR en el impulso de seguridad de la IA The Lufkin Daily News"
+  },
+  {
+    "id": "a218226c6759",
+    "title": "Bill Gates plans bigger AI safety push, leaning on CEOs, sources say",
+    "summary": "Bill Gates plans bigger AI safety push, leaning on CEOs, sources say Washington Times",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEl6WDdyLWthMVhreXZnbFNaY1htaUR1WUNfX2staGVxVFhhQVA3SFZwQkRockpwMTBUb0tvRU1KREZVay1TS1I3OFR3YUR3aElTREZ4elcySzluNVlNcFZBOFFpN0FHdnJuNHRZVmVjUUY1Y2oxZkM2eGMtQk40RVVhQW1xaFFrQkxjMkJOc0ktdnR1RjdmUjFvS1p0ckhXTjNiRGdjdjEteWJrcjlDbHV3RQ?oc=5",
+    "source": "Washington Times",
+    "language": "en",
+    "published": "2026-10-15T18:44:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Bill Gates planea un mayor impulso a la seguridad de la IA, apoyándose en los directores ejecutivos, dicen las fuentes",
+    "summary_es": "Bill Gates planea un mayor impulso a la seguridad de la IA, apoyándose en los directores ejecutivos, dicen fuentes Washington Times"
+  },
+  {
+    "id": "c784ae6b2456",
+    "title": "Outside GC Adds Seven Partners in Q3, Deepening AI Governance, Privacy, and Global Operations",
+    "summary": "Outside GC Adds Seven Partners in Q3, Deepening AI Governance, Privacy, and Global Operations PRWeb",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0lEM0JiR0tzUlB2a2xhSEpMdkRBUllxR1dndUg3ZWVSZ3pMRERYaUJOekRlT0dIRU5qQmNRVUE5MXNFUkJkT0MwUkR5NnQweFNwUkVPQ05GcDhDc1A4VDhWUkpCSnJBVEljUm5yeU1pUFRjZVpIbVlIaFp3MjFVcG1INXJmZ0l5NVYtTlhmTXoyWlcwNER2Zm1tbE5tTVA2enI2Z1phRnFsck9JYjFzVmdfMDg0LUp5aWt0TnNSTmxFSmM2UkYwZmd2WmJ3dXg2YXc?oc=5",
+    "source": "PRWeb",
+    "language": "en",
+    "published": "2026-10-15T18:20:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Outside GC agrega siete socios en el tercer trimestre, profundizando la gobernanza, la privacidad y las operaciones globales de la IA",
+    "summary_es": "Outside GC agrega siete socios en el tercer trimestre, profundizando la gobernanza, la privacidad y las operaciones globales de la IA PRWeb"
+  },
+  {
+    "id": "2829c8a77d09",
+    "title": "FTC Demands Answers From OpenAI and Anthropic About AI Safety",
+    "summary": "FTC Demands Answers From OpenAI and Anthropic About AI Safety TechRepublic",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGxtUEZRZFRaNDNPSkd0cWU4OWU5MEdFMEZyVEZSbHh0NDZpS3l2azZQUFExTmYyYkNMVmlyOTJCaGFxSVpQQmh6dG5FTWtJX3JkdWJOc1hYRk9YV1dqeDFIeVMyOVNUODhjdXVWaVRfRXBrc1FEZGpQWHh5alFuVVExSXhkaDF1UHMw?oc=5",
+    "source": "TechRepublic",
+    "language": "en",
+    "published": "2026-10-15T17:28:14+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "La FTC exige respuestas de OpenAI y Anthropic sobre la seguridad de la IA",
+    "summary_es": "La FTC exige respuestas de OpenAI y Anthropic sobre la seguridad de la IA TechRepublic"
+  },
+  {
+    "id": "e11090ea71d4",
+    "title": "FTC Subpoenas OpenAI and Anthropic Over AI Safety Concerns",
+    "summary": "FTC Subpoenas OpenAI and Anthropic Over AI Safety Concerns Gizmodo",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWNXalRVZ3lfNDBVY3dRaGRQVUVPWDNXTk1RLVNMVzJOMWZqdHNyaDJnSkphdlVsNnlaR2JlWmVSNHlkTXJXUDJEbUdaSVlJNndtMmtJZUQxejhETVZ3SGJRWWZtVzFOTnBvcmdkSktteG9xWDc3UDZKQTRGbGdBdmY0Y0YzNkRaVmxxa3NuVkRZZ2c?oc=5",
+    "source": "Gizmodo",
+    "language": "en",
+    "published": "2026-10-15T17:25:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "La FTC cita a OpenAI y Anthropic por preocupaciones de seguridad de la IA",
+    "summary_es": "La FTC cita a OpenAI y Anthropic por preocupaciones de seguridad de la IA"
+  },
+  {
+    "id": "af1e0d2ed2c4",
+    "title": "ITC Vegas 2026: The Next Phase of A.I. Governance",
+    "summary": "ITC Vegas 2026: The Next Phase of A.I. Governance Risk & Insurance",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVNWZFQyYzdfRVd6c2JTS3J3MHZvS2V6YnltWDE5MU1pRHpIWkZudmZRa3ItZVpuYjk2cDhDZlE4cnpwZ283al8zNExNbzI2eUZXYWpWUTZqcW9HNFhSV0VWVEllZGZsejJWUWhpSVJwb1ZsNjZlTHlROEdMMmlOR1dWNA?oc=5",
+    "source": "Risk & Insurance",
+    "language": "en",
+    "published": "2026-10-15T17:01:15+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "ITC Vegas 2026: La próxima fase de A.I. Gobernancia",
+    "summary_es": "ITC Vegas 2026: La próxima fase de A.I. Riesgos de gobernanza y seguros"
+  },
+  {
+    "id": "80cca70d75ab",
+    "title": "Sens. Cantwell, Rounds call for coordinated national approach to AI safety, cyber defense",
+    "summary": "Sens. Cantwell, Rounds call for coordinated national approach to AI safety, cyber defense Homeland Preparedness News",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYzRjNGVoeWdna3Z3NFA5aTF2cEE1czFycHNyakM5bm1ZblhGcm9jd3l1a2xFdzRIdnpZMnZHb181a1VYbE52ZjVoc3NVOHdfT2VmeWpBcmNsbXhLbV92X3UzRUd3S2EtaWR5SFBWTW9sbEZEaTc0X1Z2RUVyclMtd0hmY2NUQmJnUWpSQ1dXa3NyWjlNSW03VWw2bTE1bXZsTjVsejFCWXNaMkFwRDZKSUxCcVNJRWpXSjNJcmhPWWRLemwyRE1tVm5B?oc=5",
+    "source": "Homeland Preparedness News",
+    "language": "en",
+    "published": "2026-10-15T16:58:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Los senadores Cantwell y Rounds piden un enfoque nacional coordinado para la seguridad de la IA y la ciberdefensa",
+    "summary_es": "Los senadores Cantwell y Rounds piden un enfoque nacional coordinado para la seguridad de la IA y la ciberdefensa Homeland Preparedness News"
+  },
+  {
+    "id": "60fb27aa7579",
+    "title": "Anthropic Opens Singapore Office, Signs Government Agreement on AI Safety and Adoption",
+    "summary": "Anthropic Opens Singapore Office, Signs Government Agreement on AI Safety and Adoption citybiz",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXNTLUozNnZ2ZUhsbTFEX0FmdS1Zc1NjVlZkYy1NUmdiaUVkZWg3eU9GM2JTcFJTT25Tbm1CVFNWRXBCM2xFRVNWN1pmS1o5bjA2MVQ2ZjZaRExZekFvbDFIbGNYRjlhaEk1YVN2Q2gxRFdzRWFEZ3EybHFiYk5QTFFuRVNTRk5zaEZXeEtqTU9aaUxRNjZhV2RWNzQtbkwxTWNrZHJRY2hqOGtCWW1EYklRbjhZZm50WnFGNGtDN0d4UQ?oc=5",
+    "source": "citybiz",
+    "language": "en",
+    "published": "2026-10-15T16:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-15",
+    "title_es": "Anthropic abre una oficina en Singapur y firma un acuerdo gubernamental sobre la seguridad y la adopción de la IA",
+    "summary_es": "Anthropic abre una oficina en Singapur y firma un acuerdo gubernamental sobre la seguridad y adopción de la IA citybiz"
+  },
+  {
     "id": "a729a7626a60",
     "title": "8 states sue OpenAI over AI safety concerns",
     "summary": "8 states sue OpenAI over AI safety concerns WQAD",
@@ -234,6 +453,25 @@
     "date_added": "2026-10-15",
     "title_es": "IA, seguridad y regulación: Brad Smith de Microsoft asoma la cabeza por encima del parapeto con opiniones que deberían provocar otra crisis trumpiana",
     "summary_es": "Inteligencia artificial, seguridad y regulación: Brad Smith de Microsoft asoma la cabeza por encima del parapeto con opiniones que deberían provocar otra crisis trumpiana Diginomica"
+  },
+  {
+    "id": "984cfc7943c4",
+    "title": "AI safety and regulation - Microsoft’s Brad Smith sticks his head above the parapet with views that should prompt another Trumpian meltdown",
+    "summary": "AI safety and regulation - Microsoft’s Brad Smith sticks his head above the parapet with views that should prompt another Trumpian meltdown Diginomica",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmd0ZHBaVjFLZW5LNUdrOVRNVXpjYkNtY0p3RDRUS3Y0bVV4NXVvMzAxTU5TemRYcU5pdlBtS3Q3MzZtU0JVRkZtVFFDQzd1N0k4RENVUktyUVc2ams2WjdRMVlQYm9jTlBYZndoaV9BbHlfZlhaTVhNZl9YbmVrcGgwOVdFZ3V1YzVYS0hkWmNzWmtPaFZScUZaSUF1SXNLY2NIaFA0bTY4YU5JMmFISG51NWlyTDR1OWo4?oc=5",
+    "source": "Diginomica",
+    "language": "en",
+    "published": "2026-10-15T12:29:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-15",
+    "title_es": "Seguridad y regulación de la IA: Brad Smith de Microsoft asoma la cabeza por encima del parapeto con opiniones que deberían provocar otra crisis trumpiana",
+    "summary_es": "Seguridad y regulación de la IA: Brad Smith de Microsoft asoma la cabeza por encima del parapeto con opiniones que deberían provocar otra crisis trumpiana Diginomica"
   },
   {
     "id": "4fd58dc8d69c",
@@ -545,6 +783,26 @@
     "date_added": "2026-10-15",
     "title_es": "El CEO de Nvidia habla sobre la seguridad de la IA en Londres",
     "summary_es": "El director ejecutivo de Nvidia habla sobre la seguridad de la IA en Londres AP News"
+  },
+  {
+    "id": "86c3500d8c49",
+    "title": "Yuval Noah Harari On The Dangers Of An AI Future | The Economist Missile (UrbH02vjEZ)",
+    "summary": "Yuval Noah Harari On The Dangers Of An AI Future | The Economist Missile (UrbH02vjEZ) Unisba Media",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXdZQTh0ZW5tYW5wZGJGMEZLV0R4Y01kRC1wb203cFVTdURacE1HSWVtT0hpWUJtYTJwSWVMT1ZKd1pTZm41VzNoR1JHMld0bk5xbkpZZlFzUk9rdktCY0JCMGZjUFR6eDhjMDdJbElZa3dEei01UWxNOWlrSmE1TDNGYw?oc=5",
+    "source": "Unisba Media",
+    "language": "en",
+    "published": "2026-10-15T00:23:11+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-15",
+    "title_es": "Yuval Noah Harari sobre los peligros de un futuro de IA | El misil economista (UrbH02vjEZ)",
+    "summary_es": "Yuval Noah Harari sobre los peligros de un futuro de IA | El misil economista (UrbH02vjEZ) Unisba Media"
   },
   {
     "id": "99ebfbfdc8f5",
