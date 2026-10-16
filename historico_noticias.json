@@ -1,5 +1,193 @@
 [
   {
+    "id": "90b75e254538",
+    "title": "‘We’re creating alien beings’: Geoffrey Hinton answers Jensen Huang",
+    "summary": "‘We’re creating alien beings’: Geoffrey Hinton answers Jensen Huang The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTRNTG91V05hVEdwYWNpaWFCdFlTdTVGaXNGN3JKd25yb3U0enpWYVg2MFJIejRRTUl1ZE1sT2dFckN3NHpOYTJQWTBUX3NfUE1HNW9lOTZVNlBEYTYtZkJRMUxNd3pZUDZIRGI1cWVpajI0ekFPY01jc1pMdUw3UDczOHEwNHFDRlVCZzJHYWVqUQ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-10-16T15:36:33+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-16",
+    "title_es": "“Estamos creando seres extraterrestres”: Geoffrey Hinton responde a Jensen Huang",
+    "summary_es": "‘Estamos creando seres extraterrestres’: Geoffrey Hinton responde a Jensen Huang The Next Web"
+  },
+  {
+    "id": "d6d0e24e5fa0",
+    "title": "Geoffrey Hinton, premio Nobel, sobre el futuro laboral con la IA: \"Ser un trabajador competente no será suficiente\"",
+    "summary": "Geoffrey Hinton, premio Nobel, sobre el futuro laboral con la IA: \"Ser un trabajador competente no será suficiente\" El Confidencial",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPam84UUl5ZE1ITlJRT1pKWVJJQjFMWUZpejY0azN3dGlBT3VtT0pGRGNsVjg1YXdQeWd2ZUhKa21aakJrWmdrRDRGajB6ZE0wSEVMenlQUGh0U1laNUxDcmRTTzB4b3F0TjV0MVNjS016bmNMakJZWlN5OXJ1RE85WExhajRMVE1kcUxHTUtZeUpqWkNXa09HLWVYNk5JNVF5RkFleFpBX25Rb3l0UGpETVBhTDdsQjBIZFU3RF9LYUEtbWs?oc=5",
+    "source": "El Confidencial",
+    "language": "es",
+    "published": "2026-10-16T15:22:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-16",
+    "title_es": "Geoffrey Hinton, premio Nobel, sobre el futuro laboral con la IA: \"Ser un trabajador competente no será suficiente\"",
+    "summary_es": "Geoffrey Hinton, premio Nobel, sobre el futuro laboral con la IA: \"Ser un trabajador competente no será suficiente\" El Confidencial"
+  },
+  {
+    "id": "50efb5db7ab1",
+    "title": "Focus investment on AI governance",
+    "summary": "Focus investment on AI governance MobiHealthNews",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44dlpRbExrdUt3WnFqWnlGdGQxdmYwdDlJQVNseUYzWXBtTmNtOEQzVWhuOHhvZXYwWFdMZTdobUpWbW1yMllrR3JOLU1JblVDU21iTmRDcjFmOXlFMi04ZURISFFaQ2hZSjRvdDQ3Mkt3ZlVuM0E1SVBNMWc?oc=5",
+    "source": "MobiHealthNews",
+    "language": "en",
+    "published": "2026-10-16T14:18:10+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-16",
+    "title_es": "Centrar la inversión en la gobernanza de la IA",
+    "summary_es": "Centrar la inversión en la gobernanza de la IA MobiHealthNews"
+  },
+  {
+    "id": "d695a2d058bb",
+    "title": "AI safety worries multiply but everyone’s still racing full speed ahead",
+    "summary": "AI safety worries multiply but everyone’s still racing full speed ahead SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlN4M2JPRzdlVEVPcDlhLTZqRFZoSUQ3Qk1HVGpmOVNITVhwN25UeTBBQTJWWEdQWVZJZ0thZjIyOVZWMXV5Mm9LTmlOS3N2M0NXVFN3bUpsRkprRV9FTFpCc3A5M0tGRG1LTHQ1YVlxSVlNV0JsMURMVHVIZ3hObkl3NnZJVy1paUVhb1FqSE5Ka0VkX0hrQ3NpYjFqbmNYNkZOS21Rc21EOVk?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-10-16T14:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "Las preocupaciones sobre la seguridad de la IA se multiplican, pero todo el mundo sigue avanzando a toda velocidad",
+    "summary_es": "Las preocupaciones sobre la seguridad de la IA se multiplican, pero todo el mundo sigue avanzando a toda velocidad SiliconANGLE"
+  },
+  {
+    "id": "12575a14c6e9",
+    "title": "Email marketing’s history can guide AI governance",
+    "summary": "Email marketing’s history can guide AI governance MarTech",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlLXgtQzJOSV9WS0NIbks4WklvMGMtcktVb0dBVWczQS1MMExvWml4R1RzcndrdVpKbnpuLVg1Vm5FSHUyQkp1MG9vY0JsZFZha0hGTGdCalJQNllPd1EtcWNITXNJSUFmYlVSMnlTa2xRSGtVRndsSw?oc=5",
+    "source": "MarTech",
+    "language": "en",
+    "published": "2026-10-16T13:02:01+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-16",
+    "title_es": "La historia del marketing por correo electrónico puede guiar la gobernanza de la IA",
+    "summary_es": "La historia del marketing por correo electrónico puede guiar la gobernanza de la IA MarTech"
+  },
+  {
+    "id": "24afec2d6008",
+    "title": "Microsoft’s AI Chief Says It Built a Better Model Than OpenAI’s With a Quarter of the Computing Power - 24/7 Wall St.",
+    "summary": "Microsoft’s AI Chief Says It Built a Better Model Than OpenAI’s With a Quarter of the Computing Power 24/7 Wall St.",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUd6cXJnOFJMam9SUExSNzRpQktfcEtlcVlrRk8xdzVVU01KUFc3UHY4bkJVcW9WZW5NY1V1SkotX0kwSnZSZ1RfWnhDaFZST2NVUml1LU5Ia3dWNVlmRkdGamNCNTJzM1lJTnVsZUFoSlRmVG9acUhSeDJwZ1dxa0NJTU5zVlRvM0JrNnczRVdobTFrV3NMNXMxRUN0U1hYZE9iZTV5LVNfdmhmRWNZLTQwalhua1FNRlU1OGYzcWZNeWtfSjRwNTBJUXNpb1Ewc01HOVFreEVPc2lpT094VWV3Ul9UV2tBQ013SkJwZ21PUDBPbXZVNGdRdURBeEpYd1lmVkxLbFZvZw?oc=5",
+    "source": "Mustafa Suleyman (English)",
+    "language": "en",
+    "published": "2026-10-16T12:57:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-16",
+    "title_es": "El jefe de IA de Microsoft dice que construyó un modelo mejor que el de OpenAI con una cuarta parte de la potencia informática - 24/7 Wall St.",
+    "summary_es": "El jefe de IA de Microsoft dice que construyó un modelo mejor que el de OpenAI con una cuarta parte de la potencia informática 24 horas al día, 7 días a la semana en Wall St."
+  },
+  {
+    "id": "6842f9fa9fb0",
+    "title": "Ineco comparte su experiencia en gobernanza de la IA en las Administraciones Públicas",
+    "summary": "Ineco comparte su experiencia en gobernanza de la IA en las Administraciones Públicas Ineco",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcE1fd2ZXZU5xaWIwRjJpMUhqN0V4QkQyOGROdFJpYmwtWTZuSzhqVU5ZbEpobFd2THd5QS03dGp5SHNwUmlneUpVNDN0VXowQmNuNFBveThLcVdNcGtwMHdxSUNEZTJnTHRVbXpCcWYzZVJGeFpwSDhvRkktVVNRWTF1bU51bWJWWlZwUUUtVFBIZm5OMUI1SXRJNGpmVWRhTWIwZVZPQXdGaGZ1QTFBYjdSLW56bGVib3p4ZHotZzJycV8z?oc=5",
+    "source": "Ineco",
+    "language": "es",
+    "published": "2026-10-16T11:45:44+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-16",
+    "title_es": "Ineco comparte su experiencia en gobernanza de la IA en las Administraciones Públicas",
+    "summary_es": "Ineco comparte su experiencia en gobernanza de la IA en las Administraciones Públicas Ineco"
+  },
+  {
+    "id": "e5b9cc81c181",
+    "title": "SpaceX to testify before NYC Council in AI safety investigation",
+    "summary": "SpaceX to testify before NYC Council in AI safety investigation Quartz",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUMGdCbDJQajlNdXpYa1p4b19KQWJtSXZJcGdkaVNKcFdXM09BNDM4eS1iX2RlNm5MUEJUdkZ0aS04dFhVUXVkODFEZzgwd3VRdG1VcVNsMzUydk05UWgwX1p0NVRJald4Q3NSSDFsSDVUajhZOGc?oc=5",
+    "source": "Quartz",
+    "language": "en",
+    "published": "2026-10-16T11:30:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "SpaceX testificará ante el Consejo de la Ciudad de Nueva York en una investigación de seguridad de la IA",
+    "summary_es": "SpaceX testificará ante el Consejo de la Ciudad de Nueva York en la investigación de seguridad de la IA Quartz"
+  },
+  {
+    "id": "a69a30ccaa47",
+    "title": "Bill Gates prepares a major personal push on AI safety",
+    "summary": "Bill Gates prepares a major personal push on AI safety Billionaires.Africa",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUsxMlhLUUxLVmJuQjdhZVJHU3Y1TElsWGZ4cHdIRktsN3lyRVExTHJqVzU2Nl9HUVBDdDh4TGlTNHctLVhFZUNYWXRoX3VXLThRMFhIYlR5dTRkWGlnT2xtTWhESk9nOXM1Ykp0a29vQlV6Vlk5ODBIV0g0RE81MUp6bGlzSDhkc0RmQVFjWnBWbzRkZExza2pEN3JRMnM?oc=5",
+    "source": "Billionaires.Africa",
+    "language": "en",
+    "published": "2026-10-16T10:48:51+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "Bill Gates prepara un importante impulso personal para la seguridad de la IA",
+    "summary_es": "Bill Gates prepara un importante impulso personal para la seguridad de la IA Billionaires.Africa"
+  },
+  {
+    "id": "3026e7404eda",
+    "title": "Elon Musk's SpaceX to testify at NYC Council meeting on AI safety",
+    "summary": "Elon Musk's SpaceX to testify at NYC Council meeting on AI safety CBS News",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNWJHTmY0Z2VudGVwZWxiektfRnFUZWlBZ0gwUG80VGY1STBoSDRvWThtbmZxZWtoOWl3alNpeUdLU1BLaGFnUkRBejV4Sk9PaTdUQVMzbFBqN0luWWUwMjV6dDd6XzM2M3g0ZUlfeUM2TVk3VEdHY0pzay1PbWdDVTd6VQ?oc=5",
+    "source": "CBS News",
+    "language": "en",
+    "published": "2026-10-16T10:45:26+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "SpaceX de Elon Musk testificará en la reunión del Consejo de Nueva York sobre seguridad de la IA",
+    "summary_es": "SpaceX de Elon Musk testificará en la reunión del Consejo de Nueva York sobre la seguridad de la IA CBS News"
+  },
+  {
     "id": "b6cc63493dfb",
     "title": "American billionaire Bill Gates plans big AI safety push",
     "summary": "American billionaire Bill Gates plans big AI safety push Billionaires.Africa",
@@ -36,6 +224,24 @@
     "summary_es": "Carta: Trump se vuelve rebelde en materia de seguridad de la inteligencia artificial, poniendo en peligro a EE. UU. Honolulu Star-Advertiser"
   },
   {
+    "id": "d9f51f0d1ff5",
+    "title": "Cybersecurity News: Candiru spyware infects Al Jazeera, Senators AI request, Microsoft crashes phishers",
+    "summary": "Cybersecurity News: Candiru spyware infects Al Jazeera, Senators AI request, Microsoft crashes phishers CISO Series",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DVUliMmNlejQ4ZlNKck1vR25xRldNeEV1S2xTNkRxZlVwWlpFNDJNRjRLeXp0Szduc1hGTlFkN0JtMWhEQ00wRm5ocUNzVHpDTjEtVnFlNy1VOG01dndPbl8zX0dDY1BDMGc?oc=5",
+    "source": "CISO Series",
+    "language": "en",
+    "published": "2026-10-16T10:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "Noticias de ciberseguridad: el software espía Candiru infecta a Al Jazeera, la solicitud de inteligencia artificial de los senadores, Microsoft bloquea a los phishers",
+    "summary_es": "Noticias de ciberseguridad: el software espía Candiru infecta a Al Jazeera, la solicitud de IA de los senadores, Microsoft bloquea la serie CISO de phishers"
+  },
+  {
     "id": "b55fc69addc9",
     "title": "Conservative AI safety group proposes export controls, visa restrictions",
     "summary": "Conservative AI safety group proposes export controls, visa restrictions Yahoo",
@@ -52,6 +258,24 @@
     "date_added": "2026-10-16",
     "title_es": "El grupo conservador de seguridad de la IA propone controles de exportación y restricciones de visas",
     "summary_es": "Grupo conservador de seguridad de IA propone controles de exportación y restricciones de visa Yahoo"
+  },
+  {
+    "id": "800c051a894e",
+    "title": "Exclusive / Conservative AI safety group proposes export controls, visa restrictions",
+    "summary": "Exclusive / Conservative AI safety group proposes export controls, visa restrictions Semafor",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVRXa3RmcEFXMjc5cUVncEhUQVF3Rm9xODF3d2tMeE90c1J5VkJ6bDY3d1VsWEpqQ3U5bzdWZnJzalFLc0dTaFZCeFdxMGhYX3NqdElWWWRnUEQ0QkZFejFSMGI1R1FQaVhybjdkLVFfalc3SEdySDg3VUdMVXNFeV9BWWN2YVVpR2FrVnY4SURpLTY3cjg0YkJpQUtVWFhPek1FUEFObWNEdElzaTROQTllQTM?oc=5",
+    "source": "Semafor",
+    "language": "en",
+    "published": "2026-10-16T08:56:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "Grupo de seguridad de IA exclusivo/conservador propone controles de exportación y restricciones de visa",
+    "summary_es": "Grupo exclusivo/conservador de seguridad de IA propone controles de exportación y restricciones de visa Semafor"
   },
   {
     "id": "4024f0e42c70",
@@ -71,6 +295,25 @@
     "date_added": "2026-10-16",
     "title_es": "El gerente de políticas de SpaceX testificará como parte de la investigación de seguridad de IA del Consejo de la Ciudad de Nueva York",
     "summary_es": "El gerente de políticas de SpaceX testificará como parte de la investigación de seguridad de IA del Consejo de la Ciudad de Nueva York CNBC"
+  },
+  {
+    "id": "72a6bc371e25",
+    "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+    "summary": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVUydUw1OHZyeFA5VXNWNFoxY1AxcFQ0RTRjR3VUb2NPN0xnQWdENmN5bjBnLUZhd29WMTB1U1E2aFdka1JOZzd6d1lZWjFxTWZTTk15WkxhNjlJbGFRWEpJU0ZUZUF4ZmdXSTFGeU9tTnpPZnhNLUFOUVF3VlBOTjhTMXBjUFpRZGN5TmwtN05yajBpRlI2R21jaS13LXNnSDN2WXpfcUVnZjTSAbABQVVfeXFMTmZtRmpLRTFHSDBXbUVJMUNkQ1RBZGNsRUVBNVpoRVJ4cGg2eE9Pb0ppVTFBaVNuRXVUaExGOEEtV0VrRW9tVF93NUNPejQ1QzZndWVUazR6clh2RS1IWDRuc3VYOGZmWF9ZZGVCQWZsd3NSR25uT3lvdTEzY2RzSTBoWV9BSkhleElkX0hpWjlwYVNSUlJOOUp6d0xiT0E0NnRFZGxxaWhHbURvWHJ4NEw?oc=5",
+    "source": "CNBC",
+    "language": "en",
+    "published": "2026-10-16T08:00:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-16",
+    "title_es": "Líder de políticas de inteligencia artificial de SpaceX interrogado por el Consejo de la Ciudad de Nueva York sobre seguridad de Grok e imágenes sexualizadas",
+    "summary_es": "Líder de políticas de inteligencia artificial de SpaceX interrogado por el Consejo de la Ciudad de Nueva York sobre seguridad de Grok e imágenes sexualizadas CNBC"
   },
   {
     "id": "6fabf947a072",
@@ -146,6 +389,24 @@
     "date_added": "2026-10-16",
     "title_es": "Existe una brecha en la gobernanza de la IA en el sector sanitario antes y después de que los datos entren en los sistemas de IA",
     "summary_es": "Existe una brecha en la gobernanza de la IA en el sector sanitario antes y después de que los datos entren en los sistemas de IA - DOTmed"
+  },
+  {
+    "id": "0eb9376c1c02",
+    "title": "A Simpler and Better Debate Protocol for Scalable Oversight",
+    "summary": "Linkpost to arXiv: https://arxiv.org/abs/2610.02557 Summary: One promising approach to scalable oversight is AI debate , which seeks to leverage a debate between two powerful AIs to break complex questions down into simpler claims that can be easily judged directly. Theoretical work on debate aims to design protocols (i.e., rules of the debate g...",
+    "link": "https://www.alignmentforum.org/posts/Rct9zd4Nd7H8Xzxz8/a-simpler-and-better-debate-protocol-for-scalable-oversight",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-16T02:48:27+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-16",
+    "title_es": "Un protocolo de debate mejor y más simple para una supervisión escalable",
+    "summary_es": "Publicación de enlace a arXiv: https://arxiv.org/abs/2610.02557 Resumen: Un enfoque prometedor para la supervisión escalable es el debate sobre IA, que busca aprovechar un debate entre dos IA poderosas para dividir preguntas complejas en afirmaciones más simples que puedan juzgarse fácilmente y directamente. El trabajo teórico sobre el debate tiene como objetivo diseñar protocolos (es decir, reglas del debate g..."
   },
   {
     "id": "ef6805082b3c",
