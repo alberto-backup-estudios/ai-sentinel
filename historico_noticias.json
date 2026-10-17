@@ -18,6 +18,26 @@
     "summary_es": "El director ejecutivo de Nvidia, Jensen Huang, dice que Estados Unidos debe trabajar con China en la seguridad de la IA; dice “Estados Unidos debería…” The Times of India"
   },
   {
+    "id": "aa4fb6ae486f",
+    "title": "Transcript: Democracy in the Age of AI – 30th Forum 2000 Conference",
+    "summary": "Transcript: Democracy in the Age of AI – 30th Forum 2000 Conference The Singju Post",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhULXRYUmc5UjBXV0NMU2hvdVIzbmNEWnhlM2ppZXlfejUxLTd3OE9JZHpUUmV4RkItSW5jQjZqakdabUxvZ2JKZl82ZHhhMDlXUUdTNmFmY20tM3pfQXpsOTJKdm9SaTI4eGc2Si0xM3ZUU2RyakhoR1p1TzRTSXVHZkpIMFlHdFpXR1dBWmF4dw?oc=5",
+    "source": "The Singju Post",
+    "language": "en",
+    "published": "2026-10-17T08:44:54+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-17",
+    "title_es": "Transcripción: Democracia en la era de la IA - 30ª Conferencia del Foro 2000",
+    "summary_es": "Transcripción: Democracia en la era de la IA – 30ª Conferencia del Foro 2000 The Singju Post"
+  },
+  {
     "id": "94eb97e42c90",
     "title": "Anthropic proposes federal AI safety law to US Congress",
     "summary": "Anthropic proposes federal AI safety law to US Congress Yeni Şafak English",
@@ -89,6 +109,27 @@
     "date_added": "2026-10-17",
     "title_es": "Anthropic presenta a los legisladores un proyecto de ley de seguridad de la IA de mil millones de dólares [2026]",
     "summary_es": "Anthropic presenta a los legisladores un proyecto de ley de seguridad de la IA de mil millones de dólares [2026] https://tech-insider.org/"
+  },
+  {
+    "id": "e33fbc5f829b",
+    "title": "Geoffrey Hinton AI warning and access safeguards",
+    "summary": "Geoffrey Hinton AI warning and access safeguards NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGNtbEFETmpkSkZUSHF0STdwVTB3TkszeS1jXzFUcnlOeXR6eEVmTi1KNkZ5SHVHLTdxVmJzbUZ6TmRUeGloclhDRlYtRzBmWWo0M1YyeS1NNFdHbnY2MTFiUFlsSlVYYzJFamlTNXBoc1FCc1RyUzNZajRnRGhzYnNUUmcwOXhwSWlHaDlnTmFOcjh5RU03OHU5OVNBZTk3RFFORg?oc=5",
+    "source": "NeoTeo",
+    "language": "en",
+    "published": "2026-10-17T04:12:23+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-17",
+    "title_es": "Advertencias de acceso y protección de acceso de Geoffrey Hinton AI",
+    "summary_es": "Geoffrey Hinton Advertencia de IA y salvaguardias de acceso NeoTeo"
   },
   {
     "id": "ec9b4af15508",
@@ -220,6 +261,27 @@
     "date_added": "2026-10-17",
     "title_es": "Anthropic presenta discretamente su propio proyecto de ley sobre seguridad de la IA a los legisladores, según informa Politico",
     "summary_es": "Anthropic presenta discretamente su propio proyecto de ley sobre seguridad de la IA a los legisladores, según informa Politico TradingView"
+  },
+  {
+    "id": "1115f032e5ce",
+    "title": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence Is Coming, And We Should Be Worried Nio Stock (htvGNJL54o)",
+    "summary": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence Is Coming, And We Should Be Worried Nio Stock (htvGNJL54o) Unisba Media",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKMllnOTBabGw0QTlLY3FpOG1Sc2pUQ0VzOFBNcDhuektJTlhGdjdvbUNnbkRzaUNkVUhjNHVvLWVCM3dJMGVNaHlfOWJ6c3h3VG90WmVsS2hxV2FIRlBmREFVcjRJRWs1Yk1v?oc=5",
+    "source": "Unisba Media",
+    "language": "en",
+    "published": "2026-10-16T22:54:24+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-17",
+    "title_es": "Geoffrey Hinton, pionero de la IA: la IA es consciente, la superinteligencia está llegando y deberíamos preocuparnos de Nio Stock (htvGNJL54o)",
+    "summary_es": "Pionero de la IA Geoffrey Hinton: La IA es consciente, la superinteligencia está llegando y deberíamos preocuparnos Nio Stock (htvGNJL54o) Unisba Media"
   },
   {
     "id": "a90e3e6f25d2",
