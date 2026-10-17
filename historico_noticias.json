@@ -1,5 +1,115 @@
 [
   {
+    "id": "fe8b5f36a558",
+    "title": "Nvidia CEO Jensen Huang says America must work with China on AI safety; says ‘The US should …’",
+    "summary": "Nvidia CEO Jensen Huang says America must work with China on AI safety; says ‘The US should …’ The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRTBEalNuWUtNUE5qRUVJWkt0THlxMFBMQ1dHdExMRnp3UXd3aTFxWGpGaUpxTkk0OHYyS3JlSzVrQ0owTFZ1MER2UmR0QUlCUVN1ZGViTVhfZ1NkYWlZSW1yYjk3cUI2US14MElnSHBTUTBsLXQ2SXNqVFJRZXJUZFdEYS1EVTRfeHd3QUFkaXRLQ1h1VjF0bFdkTzZ3YTZDeWJFenFMYmhNOGxqazRtVlBaTnhXMkYtRXZ2ZEZPYlM2VlExNUVzRWRXa0ZRSXpYSjFVY3dZemg1Y0RLMWtrVWFXZ2llOXRDMC1obFlNajFtazR3VGQxeUlLMEhEYi02V0VN0gGIAkFVX3lxTE5mYnA4NVp1WTVONGNFSDE3Yk41amtZUTZCc1lNXzlwaDVvNzEzZGJlSWNYbjBEMjExS1V4U2NiRUdRc3NMc1JsQ09wanpMRk0ySnEyeHFucnhUSkFqSGxVNTFIQmVXQVU2YjRvc0FwT1ZlbGRnbWd5Vmc5bXIxSHNGenNxajVVczBTUmNYZm1BSXNTNDgwUzlyUkNzQzhUVE1ZSnY3UGY3NUZ1VWpwaDNQX05iWktwQmtNSWpURlB4aTBOaDVLNWRtck1GMGYxN3czTE5wOXRxQ3JUZ1Q0NFkzQzRTR2NaTjJKd0JEUlJGaC14WnBQME1MSXRCYUtHV0FLcEtrcXUtOA?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-10-17T08:49:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-17",
+    "title_es": "El director ejecutivo de Nvidia, Jensen Huang, dice que Estados Unidos debe trabajar con China en la seguridad de la IA; dice 'Estados Unidos debería...'",
+    "summary_es": "El director ejecutivo de Nvidia, Jensen Huang, dice que Estados Unidos debe trabajar con China en la seguridad de la IA; dice “Estados Unidos debería…” The Times of India"
+  },
+  {
+    "id": "94eb97e42c90",
+    "title": "Anthropic proposes federal AI safety law to US Congress",
+    "summary": "Anthropic proposes federal AI safety law to US Congress Yeni Şafak English",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZNSldQeDg2UVpGS1pIdDdnWVllTVJkQTBjVUcxckI2R2ZUeEdkS09IalRzZDdFUVRRYUZpQmRhYlR6MXN2WElhT0NkdUVQVjFEcFhHdlV0Z0ZkTVBHdm53M202TDlVMmgzSEJzTF9tSmE1WTdUOGJTajVuWW9ZZFFXdzlCWjlfTmRaLVBZZklDUEFmNW1OaW53?oc=5",
+    "source": "Yeni Şafak English",
+    "language": "en",
+    "published": "2026-10-17T08:30:42+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-17",
+    "title_es": "Anthropic propone una ley federal de seguridad de IA al Congreso de EE. UU.",
+    "summary_es": "Anthropic propone al Congreso de EE. UU. una ley federal de seguridad de la IA Yeni Şafak"
+  },
+  {
+    "id": "e124d3813dc0",
+    "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+    "summary": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky CBC",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IS3E1TUdJMjZlRm11UFdUWWFRTnY0MGJ5TXJZTDFIa09zVFlEd0lBalZXR2c3ems3dWt5UHFfd2hIU0Y3dnM3aFFPUDNaMk1qMFFfM3l3WU1zQnN6Um0tZVVkMzFTTXlOUUZlcVdVbHQ?oc=5",
+    "source": "CBC",
+    "language": "en",
+    "published": "2026-10-17T08:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-17",
+    "title_es": "¿Se puede regular la IA? Por qué los expertos dicen que la intervención del gobierno es necesaria, pero podría ser complicada",
+    "summary_es": "¿Se puede regular la IA? Por qué los expertos dicen que la intervención del gobierno es necesaria, pero podría ser complicada CBC"
+  },
+  {
+    "id": "8abbe39ea212",
+    "title": "Una IA de Anthropic confunde a la policía al proporcionar una pista falsa sobre un asesinato sin resolver",
+    "summary": "Una IA de Anthropic confunde a la policía al proporcionar una pista falsa sobre un asesinato sin resolver Levante-EMV",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjJBdVVybUJna180RGxDdlBsVmlIbFdyWUdGMXdWWHlpWTJVSFp5ekpNUG9pWGlFUEVaV05ReHFUQ0xYOHFxWVlFYllrWjdDam1ocmRqbldFdTJscFZhTDlKZTZzdnI1VWdJbVdJM0t4OC1sakVMa1RZeUVLeUpNS3dhbXB4b1lTcFBVMlQ4TENMSy1uQUI3YWJMNmdRczBtX2g3NFhQUXB5THptbEHSAbMBQVVfeXFMUG41VnREYlNZWWFveUh0RHcyTlNMSEwzYmhQOFAxUDVBWTJoVzlEclBiNGtHNjh5aWRRR1JVRG1RdmRicDhYX0VGNTBJWUt6T013UWVzSmUxWmlJQ0pHT3Jza2t3bXotdkNyeHNqTHphSDhvUkJmOHBOYVlMTjBlSzlXQnN4bS1VU1lzWmpCdVZDVUpmSXdlM0N1a1NibFhvbHpHX1JWcVJxaGVVY2RmRXNiYlk?oc=5",
+    "source": "Levante-EMV",
+    "language": "es",
+    "published": "2026-10-17T06:59:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-17",
+    "title_es": "Una IA de Anthropic confunde a la policía al proporcionar una pista falsa sobre un asesinato sin resolver",
+    "summary_es": "Una IA de Anthropic confunde a la policía al proporcionar una pista falsa sobre un asesinato sin resolver Levante-EMV"
+  },
+  {
+    "id": "735cb5cc628c",
+    "title": "Anthropic Pitches a $1B AI Safety Bill to Lawmakers [2026]",
+    "summary": "Anthropic Pitches a $1B AI Safety Bill to Lawmakers [2026] https://tech-insider.org/",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03QldDcThFcXI1NnZSWGZZU2UzdWxGak40MWZESTB6Ni12VUFKcVd0UDVJSFBZYnViSGlBaTk2UklwUnVmOFB3SlNYN1ZPUE5YeWJCbl8tdXgyWHdsYTBHZGVxQVVMNWJUZEE1RWJOcDY0dXc?oc=5",
+    "source": "https://tech-insider.org/",
+    "language": "en",
+    "published": "2026-10-17T04:58:49+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-17",
+    "title_es": "Anthropic presenta a los legisladores un proyecto de ley de seguridad de la IA de mil millones de dólares [2026]",
+    "summary_es": "Anthropic presenta a los legisladores un proyecto de ley de seguridad de la IA de mil millones de dólares [2026] https://tech-insider.org/"
+  },
+  {
+    "id": "ec9b4af15508",
+    "title": "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models",
+    "summary": "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models Law Commentary",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUpETGxDdXo5QzRMMEdKUko5cWxsQzJSeDhRUUVZYV94Q2RKc1FjV2JaT1hmTUxBanF2WGN5bGFObkdXVTExVV80WFVpY2NfenEzOWFOUnFGbDRkbHBPcjRvcmJkbk5TYVRTV1U5NXNZajRlYVE5TTRKak1zYXNQNjlIUzNmVEw3?oc=5",
+    "source": "Law Commentary",
+    "language": "en",
+    "published": "2026-10-17T02:44:47+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-17",
+    "title_es": "Anthropic impulsa silenciosamente un proyecto de ley de seguridad de la IA que limitaría el poder del gobierno para bloquear modelos peligrosos",
+    "summary_es": "Anthropic impulsa silenciosamente un proyecto de ley de seguridad de la IA que limitaría el poder del gobierno para bloquear modelos peligrosos Comentario de la ley"
+  },
+  {
     "id": "63c8ebaa729f",
     "title": "Geoffrey Hinton: su estimación del riesgo de IA",
     "summary": "Geoffrey Hinton: su estimación del riesgo de IA NeoTeo",
@@ -166,6 +276,45 @@
     "summary_es": "Anthropic brinda a los evaluadores de seguridad de IA acceso interno BankInfoSecurity"
   },
   {
+    "id": "1430e02f6080",
+    "title": "American Medical Association rolls out governance framework for agentic AI solutions",
+    "summary": "American Medical Association rolls out governance framework for agentic AI solutions Fierce Healthcare",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHpsNFBWMDdsUVpza0hwN3BMeUZnSEhhdkNIWWNNS01KUWg2ZFZpLU5KSktYUFo2alVPQTJRQlV6eEZqdWo4cU50R2hXc19hb29pU1c3ZzJSVkl4dTY0Nk5yc3ZtUDRRV09NN1lsUmRmSmJrZTRxTXoyTU1fZGF3bEZ0MFlNQUVCTWQ3Wm9SUWpoNjdjSTRMTnBVQkkydTI5T2lJUG9BTHlSNzRnOGloTncyWXowOC1CcFJ0cDFTY0NCdw?oc=5",
+    "source": "Fierce Healthcare",
+    "language": "en",
+    "published": "2026-10-16T18:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-17",
+    "title_es": "La Asociación Médica Estadounidense lanza un marco de gobernanza para soluciones de IA agentes",
+    "summary_es": "La Asociación Médica Estadounidense lanza un marco de gobernanza para soluciones de IA agentes Fierce Healthcare"
+  },
+  {
+    "id": "5c71b8b9b68f",
+    "title": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence Is Coming, And We Should Be Worried Nio Stock (htvGNJL54o)",
+    "summary": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence Is Coming, And We Should Be Worried Nio Stock (htvGNJL54o) Unisba Media",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXMyTVVsM3ZGNnQ5N1RGck1RcnJfZ1ZVSWJVd1BzYnBzZll2N2xod19vN1RlUjVpVzl6dGlvQU0zV2cyWmtUTHVkTmtNUnFSVkZaYTk5ZWR1OEs4QUdvbkR1Zl9hOW9zMlpCVl9wcXd1TC1tZWlsT2prcHRMaU5nRXVMS0ZmdGs?oc=5",
+    "source": "Unisba Media",
+    "language": "en",
+    "published": "2026-10-16T17:50:40+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-17",
+    "title_es": "Geoffrey Hinton, pionero de la IA: la IA es consciente, la superinteligencia está llegando y deberíamos preocuparnos de Nio Stock (htvGNJL54o)",
+    "summary_es": "Pionero de la IA Geoffrey Hinton: La IA es consciente, la superinteligencia está llegando y deberíamos preocuparnos Nio Stock (htvGNJL54o) Unisba Media"
+  },
+  {
     "id": "44499baaad0c",
     "title": "Kendall Square Association convenes 18th annual meeting on AI and community",
     "summary": "Kendall Square Association convenes 18th annual meeting on AI and community news.lavx.hu",
@@ -204,6 +353,26 @@
     "date_added": "2026-10-17",
     "title_es": "500 científicos exigen salvaguardias más estrictas para la IA avanzada",
     "summary_es": "500 científicos exigen salvaguardias más estrictas para la IA avanzada Computing UK"
+  },
+  {
+    "id": "dc9f969907cc",
+    "title": "AI pioneer sees Korea's role in developing world model",
+    "summary": "AI pioneer sees Korea's role in developing world model The Korea Times",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXh2TVNoakRsWG9hWXYxTUkxdExwVGJHakdneXBra2Q3d2V6cjJqeHFZY3VtVVM3RE1JRWZFSGVRNS03QWNPeEZUYXpJUDdTYW1xYUJxbERHMzdVd0w4Q2dEU2lGMkUycEpHcDZtTjEzWXRlN1hydmRnZDI4ckI0dmE2Z2t6cGNpbEdQb2JJckFUUFdpR2NvWURrTnkxQlVZaGJ3R2NqY1FlSnp5Q3ktcFk0WdIBuAFBVV95cUxOeVJBekZOUEx4TU02eHA1azJhOUQtRXN0SEtjV0ZPLVU4OWJpamhmT3ZKSWFZXzg5RzFFcHByaTJBVloyY3E5c3NEWlNsOGZoX0tZbG56c1dxcTJ0YnVZVVpiR09aek9HUk9UUGlncno3QWNjUXlnUFpYNmNkMl9lMFM1d0FtVGpkRVJhVEh6OUhEdXRPM2tjbUVLVzdabERJdHJjaFVEd3BDR3JjV3FpTkZmYUdwdHNq?oc=5",
+    "source": "The Korea Times",
+    "language": "en",
+    "published": "2026-10-12T05:38:03+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-17",
+    "title_es": "Pionero de la IA ve el papel de Corea en el modelo del mundo en desarrollo",
+    "summary_es": "Pionero de la IA ve el papel de Corea en el modelo del mundo en desarrollo The Korea Times"
   },
   {
     "id": "315c26b7ee28",
