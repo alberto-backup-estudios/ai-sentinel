@@ -1,5 +1,120 @@
 [
   {
+    "id": "17a13c0f8ac1",
+    "title": "Anthropic pitches own AI Safety Bill",
+    "summary": "Anthropic pitches own AI Safety Bill The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemFjRklpVzhhLXdsTmRoNDIyaUhTNUZIM0FKUHZxRFJlb3VqTXdtNmp2aEx2VDVUV1pFLVVVeWdRV2xyd1VrcU1jN3lIZjRDUUx6UlRRR21VUlczVVN5RTlMMGV1SVFsa2NQb1RUMHJ1UHJ0ZG1rdDNyT2kwUjlaNmxiMkp0STJUZkZCX1ZqTEIyRkFZUUhkUUVnYk5xU1ZKZ1BPX1htRjBVdkHSAbABQVVfeXFMTUlLUmo4cm4xM2duOEpJWWNmZElqeFNTVjdETTJWX1R1ZGxkNVJFQldJMTd0X1pYUVYwMDdMUEZtU3JLdGdKdXdkV0lJaTcyRExxZFNNVDI0RU1lbzl1b1ZhT0NwYXlxaWxMVVBMeXhENy1MU1FjY294SFpkQXRDUVMzb1BfT3U4OF92NlhIY1gzMHZhSVkwekwwY0dVbUQ4Z3RiNlF2Sy1iR1EyNFNVVHo?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-10-18T02:02:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-18",
+    "title_es": "Anthropic lanza su propio proyecto de ley de seguridad de la IA",
+    "summary_es": "Anthropic lanza su propio proyecto de ley sobre seguridad de la IA The Times of India"
+  },
+  {
+    "id": "87e01981f809",
+    "title": "Deconfusing Corrigibility",
+    "summary": "Many thanks to Abram Demski for materially and intellectually supporting this research. Thanks also to Brian Berns, Roman Malov, Gurkenglas, and Lorxus for valuable conversations. Introduction Despite the central place of corrigibility to theoretical AI alignment, it seems like no one can really agree about what is . Much of this confusion is du...",
+    "link": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-17T23:08:02+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-18",
+    "title_es": "Corregibilidad desconcertante",
+    "summary_es": "Muchas gracias a Abram Demski por apoyar material e intelectualmente esta investigación. Gracias también a Brian Berns, Roman Malov, Gurkenglas y Lorxus por sus valiosas conversaciones. Introducción A pesar del lugar central que ocupa la corregibilidad en la alineación teórica de la IA, parece que nadie puede realmente ponerse de acuerdo sobre lo que es. Gran parte de esta confusión se debe..."
+  },
+  {
+    "id": "e9a01b7eb2cc",
+    "title": "Yuval Noah Harari, historian, one of the world's most influential intellectuals — Hyde Park Civilizace",
+    "summary": "Yuval Noah Harari, historian, one of the world's most influential intellectuals — Hyde Park Civilizace Česká televize",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONk1yYl9TdlpYWXNiSUFDSFZKMDhIZUczbGc2eWFwU1hKcWl1ODRiZmpUdW9XTEFfUmtHWUpHRkFIMmFEX1lDZU5HNHlIbUZBNE14R0hIX3Z4ajlILTFCMjYxX1NIX0c5dDNBRDVlUjhnS0M1Q05vdGt6bno5Y0FBbkVfdVpvZWdFVnhuaTVBc3dzSzhzUVlLQnNtVW5Rdw?oc=5",
+    "source": "Česká televize",
+    "language": "en",
+    "published": "2026-10-17T19:00:00+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-18",
+    "title_es": "Yuval Noah Harari, historiador, uno de los intelectuales más influyentes del mundo — Hyde Park Civilizace",
+    "summary_es": "Yuval Noah Harari, historiador, uno de los intelectuales más influyentes del mundo — Hyde Park Civilizace Televisión Checa"
+  },
+  {
+    "id": "64c9513afc36",
+    "title": "Google CEO Sundar Pichai, 'Godfather of AI' Yann LeCun reply to Elon Musk post that says ‘future has flyi",
+    "summary": "Google CEO Sundar Pichai, 'Godfather of AI' Yann LeCun reply to Elon Musk post that says ‘future has flyi The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQby1nM3RORzZNMTFhZTRBa0VWRHZhUWoxLUl5X3kyZS1OZXRWVGJtN1gyNDNXSmQwVjVoY1Ric1loMEg5ckIwOWtFVUFNVUFYS2w5NmVYVTY1RGZTQmdCVDk5QmtINnFlSkg3ZWxTMFBpTkk2SGhBb0FHblI5NDA2TUp0UkpTVThkYUNDcWNUWm1WVlgyNjlYTzBNd3BxX1U2TjRjVzE4ZkdZRTROSEFlSzBVNlc1clgza3N5WGxJMWtRZ3BJaFo0TnIzdVdqdTRFRUNsc1p4UVZaaWZ3RDBMM0toY2FXQkh4azlyaWhncTV2NmhIM0dqSWwxU2VoX2JSeHRpU2MwQVlZaEhoRjFYcGNvUnRocUtoUGFaTEFuYVXSAaACQVVfeXFMUG8tZzN0Tkc2TTExYWU0QWtFVkR2YVFqMS1JeV95MmUtTmV0VlRibTdYMjQzV0pkMFY1aGNUYnNZaDBIOXJCMDlrRVVBTVVBWEtsOTZlWFU2NURmU0JnQlQ5OUJrSDZxZUpIN2VsUzBQaU5JNkhoQW9BR25SOTQwNk1KdFJKU1U4ZGFDQ3FjVFptVlZYMjY5WE8wTXdwcV9VNk40Y1cxOGZHWUU0TkhBZUswVTZXNXJYM2tzeVhsSTFrUWdwSWhaNE5yM3VXanU0RUVDbHNaeFFWWmlmd0QwTDNLaGNhV0JIeGs5cmloZ3E1djZoSDNHaklsMVNlaF9iUnh0aVNjMEFZWWhIaEYxWHBjb1J0aHFLaFBhWkxBbmFV?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-10-17T17:28:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-18",
+    "title_es": "El CEO de Google, Sundar Pichai, el 'padrino de la IA', Yann LeCun, responde a la publicación de Elon Musk que dice \"el futuro ha volado\"",
+    "summary_es": "El CEO de Google, Sundar Pichai, y el 'padrino de la IA' Yann LeCun responden a una publicación de Elon Musk que dice \"el futuro ha volado\" The Times of India"
+  },
+  {
+    "id": "e2c17a23eb8a",
+    "title": "Anthropic aboga por un proyecto de ley sobre seguridad de la IA con umbrales de intervención elevados",
+    "summary": "Anthropic aboga por un proyecto de ley sobre seguridad de la IA con umbrales de intervención elevados KuCoin",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk5qWE4wYnJPNUtYcDlKWG5IZ3VDZkpkSEJoek9jWTFFT3BnX1FvR1F2ZE5FVDZZUDloT0Z4Z0JJSFhtazIxNUxGbVcxTEZtcjJaMGVnYWx0U2JFUGFLYWZDUjBwNHA0bHJzZllTd1g3UFIyMFE2RlRMdnB3QUhuZ3ZyOFUzdlBvZGs2bDFlQVVqLXhFMXJwSWhpbkx0Zy14d2w1aG43WkU0Q2s?oc=5",
+    "source": "KuCoin",
+    "language": "es",
+    "published": "2026-10-17T09:48:54+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-18",
+    "title_es": "Anthropic aboga por un proyecto de ley sobre seguridad de la IA con umbrales de intervención elevados",
+    "summary_es": "Anthropic aboga por un proyecto de ley sobre seguridad de la IA con umbrales de intervención elevados KuCoin"
+  },
+  {
+    "id": "32788f1f6751",
+    "title": "Yann LeCun opposes slowing AI, calls Anthropic's stance 'anti-enlightenment'",
+    "summary": "Yann LeCun opposes slowing AI, calls Anthropic's stance 'anti-enlightenment' TechGig",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjBQWWZGdEotNFN3NlpFTE5RYWlFTmY0UjJvdng2aEdObEdkVW5JVk90V21XekRSTFQ4anQ0N0RBZTBJUEt5X09OM3FPYlZXZTNzaG5oVXB5Q2xKNnJKVjFETVEtS2h6YThHYWpYdHljU1NPNl9INXBpY3FKSHpnNnlLSGFMajgwZmZuX1pfYVNjWHhPVHIwTVNZSU1rdDFRNk9TbXNsaGdoWldndnVR0gG0AUFVX3lxTE85TFhGSDZlWllMZ21wZjB1dHBCSURlSlpISUhidVFDSDJIY0pFZTJ5akRsOS1nczNFZDczalRvdHhsejBjYno0M3NmZFBQYmtVSGNJR0U5cGYxelgyd3laWWZiZnFRc3B6bUpvaWg5SGQzUnhid0pFQ0tJcWN1UEZvUHVEM2pGQ1UtYzN5dnc5YUJRaXM2c3dwaW1UNG1OZDNSNzU3RWhQR1Rnc2VaS3VCU21veA?oc=5",
+    "source": "TechGig",
+    "language": "en",
+    "published": "2026-10-16T09:18:30+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-18",
+    "title_es": "Yann LeCun se opone a la desaceleración de la IA y califica la postura de Anthropic como \"anti-Ilustración\"",
+    "summary_es": "Yann LeCun se opone a la desaceleración de la IA y califica la postura de Anthropic como \"anti-Ilustración\" TechGig"
+  },
+  {
     "id": "367fcdf347c7",
     "title": "AMD agrees to buy Fei-Fei Li's World Labs for 8.2 billion dollars",
     "summary": "AMD agrees to buy Fei-Fei Li's World Labs for 8.2 billion dollars Startup Fortune",
