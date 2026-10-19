@@ -1,5 +1,366 @@
 [
   {
+    "id": "75ae04c5518d",
+    "title": "AI safety: What to trust, what to share, and when to take control",
+    "summary": "AI safety: What to trust, what to share, and when to take control WISH-TV",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclR3V0FEYUlncXJJTlY0NkJlU2d5TlVydlRRVjdWM0h5MlVabEpxMlNDdU9XZFNEYjNnSFZUbGJiTFdwa1hUbURocUU4alpUV3hESWJxS1ozNHpZTEFVcmdFMF9tUnFRNTJfOWZCa0FGWHYzb0w3cVlERmNkUUNhcGo2WnExUUpTcHJzLVFiUnpZUXV6R09TUy1BV1I?oc=5",
+    "source": "WISH-TV",
+    "language": "en",
+    "published": "2026-10-19T21:08:30+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "Seguridad de la IA: en qué confiar, qué compartir y cuándo tomar el control",
+    "summary_es": "Seguridad de la IA: en qué confiar, qué compartir y cuándo tomar el control WISH-TV"
+  },
+  {
+    "id": "a8a91cc89849",
+    "title": "Pa lawmakers push for AI safety rules as federal action lags",
+    "summary": "Pa lawmakers push for AI safety rules as federal action lags WITF",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTdsWDdCUFJkNFZDRXZDcllncmVEVVYyU2hOSXAxVGJCeXVsamtiS1Vwa2N6NEE4ZVByaVNhOW5DNzB4bFZudW10TmNKVXVOV1NSRURtRmowbDF6cFljYXVTSUFiY1NDNk05NnVieElPVFZWZWxpengwQVRSYmhheVhmUVdiMDdVM0R2am15YnhzWnhpSnMxNw?oc=5",
+    "source": "WITF",
+    "language": "en",
+    "published": "2026-10-19T20:59:06+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "Los legisladores de Pensilvania presionan por reglas de seguridad de la IA mientras la acción federal se retrasa",
+    "summary_es": "Los legisladores de Pensilvania presionan por reglas de seguridad de la IA mientras la acción federal se retrasa WITF"
+  },
+  {
+    "id": "0d6ddedd4d2e",
+    "title": "New paper: Emerging trends in AI agent evaluation",
+    "summary": "Understanding the methods, questions, and ecosystem for evaluation",
+    "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-10-19T20:11:55+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-10-19",
+    "title_es": "Nuevo artículo: Tendencias emergentes en la evaluación de agentes de IA",
+    "summary_es": "Comprender los métodos, las preguntas y el ecosistema de evaluación"
+  },
+  {
+    "id": "c589f510a2d1",
+    "title": "Yoshua Bengio and Geoffrey Hinton Call for A.I. Safeguards. Enterprise Buyers Can Help Enforce Them.",
+    "summary": "Yoshua Bengio and Geoffrey Hinton Call for A.I. Safeguards. Enterprise Buyers Can Help Enforce Them. Observer",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHQkdad1NldVlCS0FFZlhQTFRxQVdXZW1YNmo0QTJfdTVrMmlGWG56aXgwV2hJV0tHejZTQjlXOUZrZ1FBT0owaDR4RXptUGRjZUlEMzhDU2RiODJORVZERUFQbS04MmlyRmlMT1o5azcycE1fSXc?oc=5",
+    "source": "Observer",
+    "language": "en",
+    "published": "2026-10-19T20:04:20+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-19",
+    "title_es": "Yoshua Bengio y Geoffrey Hinton convocan a A.I. Salvaguardias. Los compradores empresariales pueden ayudar a hacerlas cumplir.",
+    "summary_es": "Yoshua Bengio y Geoffrey Hinton convocan a A.I. Salvaguardias. Los compradores empresariales pueden ayudar a hacerlas cumplir. Observador"
+  },
+  {
+    "id": "0d38fc8063d3",
+    "title": "Darwin AI Launches Finch, the First AI Assistant Built for Public-Sector AI Governance",
+    "summary": "Darwin AI Launches Finch, the First AI Assistant Built for Public-Sector AI Governance EIN Presswire",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUVBXa3BsLVlrd21KZk51NHc5NWsycDJqUTZiY25SQWlNUjlxZDVGSmtVSmI0T3l4MVUxWEdmTkdZU2ZhQ0FtU1hvaTVTa203Z2hraTd2WnVzekhWS2JIVDJRS01ucXJoYVBncTdKelotQTVPWVFNUVlBbVJHLVdJdlRrWWNRQlVsOHlNX25TWWtZV1pVUmhfLW5FQUdlSUhER2otV20tWkdqRkx2THEzSjJ0NkR2ZjViajRpMmdZUWZYTW43NFlmcHJQNU4?oc=5",
+    "source": "EIN Presswire",
+    "language": "en",
+    "published": "2026-10-19T20:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-19",
+    "title_es": "Darwin AI lanza Finch, el primer asistente de IA creado para la gobernanza de la IA en el sector público",
+    "summary_es": "Darwin AI lanza Finch, el primer asistente de IA creado para la gobernanza de la IA en el sector público EIN Presswire"
+  },
+  {
+    "id": "3d78da34615e",
+    "title": "Walter Isaacson Launches New Podcast to Examine the Builders of AI, Including Elon Musk",
+    "summary": "Walter Isaacson Launches New Podcast to Examine the Builders of AI, Including Elon Musk The Hollywood Reporter",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVhWc0h5ejRqY21RTnBMdFNrS3hUSWJ6VERaZTgxcWQyZ2x3Ym5SOHk2ODh6ck1ENTFYMG5BdEJaUlBuR1g4WTc1TmN2d0JFeGJCRXNvZHFuV1RnM2h3bmpyalBoZWZnM1c5YW5UbklsYkVoRzRpb0wyQ1FYR0ZwOWJsdkVHY0xXSlAxTGQ4UTJSSDRBNEFSSHY5aVNPN1N1VF9vdDR3?oc=5",
+    "source": "The Hollywood Reporter",
+    "language": "en",
+    "published": "2026-10-19T19:54:19+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-19",
+    "title_es": "Walter Isaacson lanza un nuevo podcast para examinar a los creadores de la IA, incluido Elon Musk",
+    "summary_es": "Walter Isaacson lanza un nuevo podcast para examinar a los creadores de la IA, incluido Elon Musk The Hollywood Reporter"
+  },
+  {
+    "id": "84d46fd35c2e",
+    "title": "Is it already too late to reduce catastrophic AI risk?",
+    "summary": "Is it already too late to reduce catastrophic AI risk? Harvard Gazette",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVG5xT0hGemdVU2VjTC1tTGVkYkVoWlljXzlUSV9iWkhmLVdLS0FOOW9adUlDdU1oSDlpVmZpQnBVUTNfQncwRXVvNEVjVVFGMEtKZjBtTUFSOFpYZTg5enFSRWw0RzJXQXRBVnRFVlZWOXh0RjZKb0ZremMwTURZTVIxRWJWSG13Q3pqVE9rMUE1bGdZb3I3NjRFRl9QSTdYTlZZ?oc=5",
+    "source": "Harvard Gazette",
+    "language": "en",
+    "published": "2026-10-19T17:50:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "¿Es ya demasiado tarde para reducir el riesgo catastrófico de la IA?",
+    "summary_es": "¿Es ya demasiado tarde para reducir el riesgo catastrófico de la IA? Gaceta de Harvard"
+  },
+  {
+    "id": "93877a5e83c9",
+    "title": "How AI governance should work on social media",
+    "summary": "How AI governance should work on social media VentureBeat",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmZVUkZGd0hfRlVUbkFuQ0dPLVhLb1dROXg0cTNObEF6ZnhCQTFhYU1qZFBMZm5yRzV3aU0wdEhaUmQyVTlQY05YZmZ3RFdvdHF6MlkxMWVUNjJ3WGYtWHRxMXdGMkt4RUxGcWlUV1Bsa010cVFWYWNvb3BrMDF2QW1UWGw?oc=5",
+    "source": "VentureBeat",
+    "language": "en",
+    "published": "2026-10-19T17:36:17+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-19",
+    "title_es": "Cómo debería funcionar la gobernanza de la IA en las redes sociales",
+    "summary_es": "Cómo debería funcionar la gobernanza de la IA en las redes sociales VentureBeat"
+  },
+  {
+    "id": "7428862f5c32",
+    "title": "Geoffrey Hinton en Tenerife: la IA se vuelve incomprensible",
+    "summary": "Geoffrey Hinton en Tenerife: la IA se vuelve incomprensible Teneriffa News",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYU9vYk8zWjBBUzVqZDVNd25XM3B6Nnl0QzR1RE1tLWYwSFNOM2RyVUNzZVRma0JFa0Q2SGt5ejkxek5veVBKZDJ0cGRaaTR0U3Rqdkhia2QwdE5yWjVBbUsyT2otYmtobkdIc2lWc3BNMndibm1mWnc3S05MU25udUI1U1hEUGtyTFduT2N5eUNPdUNPa0NjdE1hZDRuVEFTUnppOTJZMmkyN3FRQmNfNVZtTHN5amlTa1lGSXRJNld2Y3FqTzZPUm9QQzhVSERHZENaMnNlU09SVlNVTHc?oc=5",
+    "source": "Teneriffa News",
+    "language": "es",
+    "published": "2026-10-19T17:19:29+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-19",
+    "title_es": "Geoffrey Hinton en Tenerife: la IA se vuelve incomprensible",
+    "summary_es": "Geoffrey Hinton en Tenerife: la IA se vuelve incomprensible Teneriffa News"
+  },
+  {
+    "id": "37f7da37cf10",
+    "title": "Tenerife: Hinton compares humans to rats in the face of superior AI",
+    "summary": "Tenerife: Hinton compares humans to rats in the face of superior AI Teneriffa News",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd2ppTnVoUnVwTTNCYWFnOGo4cEFsemk5MFRqcmRnSFQ2a1lIcmxLSGFwLUE1WWtfUjh5QUNvdGpranB1aTYtMTVnU1NBRHltR0I4MW9XcHB2Z3UxZWRRcklBQ1prVVBwYzYzekl4UndUNDhrVUxrdXR3cXRIb2dHYm5Md3ZqN3AxdU9kQUJIdGZPZUtWRDdCZjZObDA1MFByUEVnaHdFeWEyaGM3OTFaeklxTmVfa05DU09DX0xxWG9lUHFEbnFETVYyMkFzbk9KYnc?oc=5",
+    "source": "Teneriffa News",
+    "language": "en",
+    "published": "2026-10-19T17:19:29+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "Tenerife: Hinton compara a los humanos con las ratas frente a una IA superior",
+    "summary_es": "Tenerife: Hinton compara a los humanos con las ratas frente a una IA superior Noticias de Tenerife"
+  },
+  {
+    "id": "bf8100e6b925",
+    "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
+    "summary": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky Lawfare",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenVtclc0YUNuT3pwOGdEVjhrc1c2VFFoS1pyV0Nob2VVMmZtSEMtVTFmZU5veEtVWWg4bkwzVDdpNEhlekVVTWFKXzFSSmtkVUU4enE0elBacXRXWTFQdy0xWTc2V3NYUVkwQzktYno1WjFrajlicUdYN0ZJSlZldUZFOHNfbmRYdnA5SnZkdzJsc1NndXVEQTU2Qm8?oc=5",
+    "source": "Lawfare",
+    "language": "en",
+    "published": "2026-10-19T17:04:07+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-19",
+    "title_es": "La Ley de IA de la UE exige la notificación de incidentes de IA, si tenemos suerte",
+    "summary_es": "La Ley de IA de la UE exige la notificación de incidentes de IA... si tenemos suerte"
+  },
+  {
+    "id": "0b594bac3093",
+    "title": "Microsoft refuerza la seguridad de la IA",
+    "summary": "Microsoft refuerza la seguridad de la IA Hora Cero Web",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03YXJFaUt5aFY3amp4MXRha0s3SnU4YWVxZnBqQ1o5WHRXQmdDd21LRFk2MlBfbXVTS2xSdk5wa1BVNXBlYTR2STQyRnZ4V01FTXhMY3VqZG5iTkJJNV95OHR0eGU4RzcyUVBiQ0VCckE?oc=5",
+    "source": "Hora Cero Web",
+    "language": "es",
+    "published": "2026-10-19T16:30:58+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "Microsoft refuerza la seguridad de la IA",
+    "summary_es": "Microsoft refuerza la seguridad de la IA Hora Cero Web"
+  },
+  {
+    "id": "698f3b58e9b4",
+    "title": "Geoffrey Hinton, padre de la IA: No entenderemos la IA, como las ratas no entienden números primos",
+    "summary": "Geoffrey Hinton, padre de la IA: No entenderemos la IA, como las ratas no entienden números primos Diario El Mundo",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjlmcldndU5hbDlwYmRIcDViUFNWcl9jSFFQOWJQdWRnM3J0UzQ0ZkdnbTEyOFQxck82LVk4YVplUTgwYTJBVFctRWhoOTEwMVBBT1d2R3Z5T0lYbER2RXpQcUk5R2hacGJ6UHlyWDdRVFNqZnZTTll2LVRQdXJXQjdIQVNRbko4cjhwM2hhLXFXZ3h2M3NUMzF3YVBNMk16S1M5SkhISTQ4dWJlaVZ3Yk9lWGdjbmc2clBMeTE3UzRGQjRqOGs2bWlXZXpVbU83cHNvVEhNQXVnNlpPZEHSAdQBQVVfeXFMT21MRGdFV1hlWUo3bkRrVUU1NWlYZThKQmFNUDNMNUUzc2FQRjNlcWczRXBwcUdjSmZ2STU1d1o0R2JPdi1QR2dId1VoRGdIVmNmTjNUalVmV0RpRjAzMThvSnlNczgwOGl1WGtVV3lQM3ZjT0dNa3hGb3J4YTJmNGwwbU16QXRiRjNHRzFNd2lVZk55MGlYaFFvUEFoRTctTEJna3lkUFFmV1FiYXFLS0dBX19yU21taVNWRUh3d3lMWUZCQ3pGdi1NZDdmdEtCWUY0aEI?oc=5",
+    "source": "Diario El Mundo",
+    "language": "es",
+    "published": "2026-10-19T16:10:32+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "Geoffrey Hinton, padre de la IA: No entenderemos la IA, como las ratas no entienden números primos",
+    "summary_es": "Geoffrey Hinton, padre de la IA: No entenderemos la IA, como las ratas no entienden números primos Diario El Mundo"
+  },
+  {
+    "id": "104f36de0167",
+    "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push (Oct 15) By Reuters",
+    "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push (Oct 15) By Reuters Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNencyb09QTkJZNHJ3ZU1WUk4xVXlCWEh3MmM1THVob1ZsNUF4eGRBU25NSDl2UGZuMkZvRTRwN080WWFaQ0dxYVJuVFZOdWw1aURjZDRSeXJIdmpoeVgzeERodTFEWl9NdzA4VU1SLXFVdUk4TC15eGE4eWI2bmVISDZnZ1VjdEsyWnNYbDZMT21VRkN6bmQ2Sy0xZHVCOXJKVkNEcXByQTBZVEotbDlhSEd5dzVEclV3QzRYY1Y0V3kwNnRPcUdFcHEwLTdtYjRUbHlRME54Sk1TZw?oc=5",
+    "source": "Investing.com",
+    "language": "en",
+    "published": "2026-10-19T15:26:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-19",
+    "title_es": "Anthropic otorga acceso a nivel de empleado al evaluador externo METR en el impulso de seguridad de la IA (15 de octubre) Por Reuters",
+    "summary_es": "Anthropic otorga acceso a nivel de empleado al evaluador externo METR en el impulso de seguridad de la IA (15 de octubre) Por Reuters Investing.com"
+  },
+  {
+    "id": "01866bc73ad1",
+    "title": "Venture Matters - EU AI Act: Implications for the Venture Ecosystem",
+    "summary": "Venture Matters - EU AI Act: Implications for the Venture Ecosystem Ashurst Perkins Coie",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHlHSjdmY3RzUGhZaUhUcGtvR1hoR29kemc4X1ZZNXFZVXBweHptNnZ5RllfS1ZXRHZPbTFwLTJZSFRsd01naDdmS3VCa3ZKUVJTNVhnWW5iQUlPVXhmRlRzOHVKRzk0cnBMNUJuZU05QVdPbmc5UElCOHpjQUg3b3BPbjVfQjdmX0xKc0VHdWE4Nlo0ZXVhNHZsSkRRbWFvS2hzcWg5dnBPTlY2WkhTS3B3?oc=5",
+    "source": "Ashurst Perkins Coie",
+    "language": "en",
+    "published": "2026-10-19T15:12:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-19",
+    "title_es": "Venture Matters - Ley de IA de la UE: Implicaciones para el ecosistema de riesgo",
+    "summary_es": "Venture Matters - Ley de IA de la UE: Implicaciones para el ecosistema de riesgo Ashurst Perkins Coie"
+  },
+  {
+    "id": "5057444402fa",
+    "title": "Yuval Noah Harari on AI: “We are the cows of the future”",
+    "summary": "Yuval Noah Harari on AI: “We are the cows of the future” CTech",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKNHJ3eTNFcXVHSjZlWTc2ZWpwVy0tV2FSMFZ6MU1FRnJ0aDM0Q1AtZnZMMENPb19SOTF6bWN4c05TN2tmY0M2S19TYXk3c29KaWY2U3paX0F0YWpLSS1icVppYWluSUk?oc=5",
+    "source": "CTech",
+    "language": "en",
+    "published": "2026-10-19T14:20:00+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-19",
+    "title_es": "Yuval Noah Harari sobre la IA: “Somos las vacas del futuro”",
+    "summary_es": "Yuval Noah Harari sobre la IA: “Somos las vacas del futuro” CTech"
+  },
+  {
+    "id": "fb31cfbb2a8c",
+    "title": "Entelgy's Free AI Governance Tool Targets Channel's Hottest Service",
+    "summary": "Entelgy's Free AI Governance Tool Targets Channel's Hottest Service The Futurum Group",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGtURE5XdWJ1WV9iZzA1UldrcXU3bncwR0lpNVIwQUJNcFVKeFdJZ3pibDBxUWpocldkeHBKYTBDS1JPN2JpWlEzdGszZ0R4TE9KQ0ZRb19DaUp4bDVyM1h5TlFBQkJrMzBkQzJ0N2R3VzJCcU1xRGVTbk14dHhvY1FTRWFfaWp6R3NCcXBNcVJkemY4aVhMV3FHcHFGcURLMVE?oc=5",
+    "source": "The Futurum Group",
+    "language": "en",
+    "published": "2026-10-19T13:32:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-19",
+    "title_es": "La herramienta gratuita de gobernanza de IA de Entelgy se dirige al servicio más popular del canal",
+    "summary_es": "La herramienta gratuita de gobernanza de IA de Entelgy se dirige al servicio más popular del canal The Futurum Group"
+  },
+  {
+    "id": "66899d19ea10",
+    "title": "Portal26 launches AI governance platform for MSPs",
+    "summary": "Portal26 launches AI governance platform for MSPs ChannelE2E",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlIN0VtR0tKMnhNSnpfYzVPZkVkQ2NxazRmRndtcUVLdjRsUVFuc2JubVo0b0k3ZDc5R19CZk1lWTh6Z3kwcThwcU9JLXJNLXc1dndBRDFKMUZkV1RDMHNSZGkwaUF2cHNXWFJjR2Fyb3VPck9aZHBwZDVzV2dLMTVuUG84bEU4?oc=5",
+    "source": "ChannelE2E",
+    "language": "en",
+    "published": "2026-10-19T13:28:16+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-19",
+    "title_es": "Portal26 lanza una plataforma de gobernanza de IA para MSP",
+    "summary_es": "Portal26 lanza una plataforma de gobernanza de IA para MSP ChannelE2E"
+  },
+  {
+    "id": "aa2ee7247dc7",
+    "title": "‘We are the cows of the future’: Yuval Noah Harari warns AI could take over financial systems",
+    "summary": "‘We are the cows of the future’: Yuval Noah Harari warns AI could take over financial systems Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54U0lHWTlzYUZ1Um1lTmZiUG5Va3Y1UGI2NTgzcGEtNkt2N001Q09ZT244WEdjenQwMlVaUWVzRFRld3JDcWY2QnBWTnhuTEZfR2NtTk5sM3pNVWVvVW9PM0t6dE9hbEhJa0t2Sg?oc=5",
+    "source": "Ynetnews",
+    "language": "en",
+    "published": "2026-10-19T12:17:36+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-19",
+    "title_es": "“Somos las vacas del futuro”: Yuval Noah Harari advierte que la IA podría apoderarse de los sistemas financieros",
+    "summary_es": "“Somos las vacas del futuro”: Yuval Noah Harari advierte que la IA podría apoderarse de los sistemas financieros Ynetnews"
+  },
+  {
     "id": "6921e283aac7",
     "title": "SDxInterviews: Why AI governance is telco’s next big challenge with Kailem Anderson, Blue Planet",
     "summary": "SDxInterviews: Why AI governance is telco’s next big challenge with Kailem Anderson, Blue Planet SDxCentral",
