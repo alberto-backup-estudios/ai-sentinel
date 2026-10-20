@@ -1,5 +1,136 @@
 [
   {
+    "id": "a107769b71b6",
+    "title": "Skyfall AI unveils SKY-001, a world model built only for engineering",
+    "summary": "Skyfall AI unveils SKY-001, a world model built only for engineering Startup Fortune",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEM5eFZoemNRb0xkcDFERng3RmlFYklNWlcyX2JjdWNxbjRuMm9adHlvYm1ta0UwNFdoNzlXY0doeGtITEJES2pZaHNUMzd2Qjg4UEd1bnEwcy1RVDZKa0RuanVsNzctb2lPWFpha1RQb1drUWprazlWV0pmZktOZ3lJYVJtS3MzSTdzeDVwWlZSVzFRMzhZdHpoMA?oc=5",
+    "source": "Startup Fortune",
+    "language": "en",
+    "published": "2026-10-20T02:50:08+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-20",
+    "title_es": "Skyfall AI presenta SKY-001, un modelo mundial construido únicamente para ingeniería",
+    "summary_es": "Skyfall AI presenta SKY-001, un modelo mundial construido solo para ingeniería Startup Fortune"
+  },
+  {
+    "id": "8cf4e4f39353",
+    "title": "Cha Ji-hoon, ambassador to the United Nations, was appointed as the co-chair of the United Nations",
+    "summary": "Cha Ji-hoon, ambassador to the United Nations, was appointed as the co-chair of the United Nations 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uY254WkpvMjJiN2prR3EwVkNWWlFhZGs2YnA3M2xPalJ6ZkQ3ckl3aTNKZktGYW41cHluYU4xZmViVEhjTmtYXzEtRE9ONGFYSmc?oc=5",
+    "source": "매일경제",
+    "language": "en",
+    "published": "2026-10-20T01:01:57+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-20",
+    "title_es": "Cha Ji-hoon, embajador ante las Naciones Unidas, fue nombrado copresidente de las Naciones Unidas",
+    "summary_es": "Cha Ji-hoon, embajador ante las Naciones Unidas, fue nombrado copresidente de las Naciones Unidas 매일경제"
+  },
+  {
+    "id": "8a2705bba0b9",
+    "title": "Geoffrey Hinton asegura que no entenderemos la IA, como las ratas no entienden números primos",
+    "summary": "Geoffrey Hinton asegura que no entenderemos la IA, como las ratas no entienden números primos N Digital",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHhsS3VDZ0dDYUdPZHdnR0l3RW01MjlNMlp2QmtXVVltalZPU0RLd0dNMThtLXg4T053X2d2ZUNSUHBXeWhkQm1KZXRIMXdYTTk0eS1wSHY1Z3RmZUtfc2s0ZWkwN0dCYzRqZTFPbWRuQXhTWnRSWnJLeFlnZ2kwZS1tOUEtclFQRHR1aGRWOE5aZXZoNVpucFVxWk5RTHFPWjd1YklkTDcwWnBZUHhiQmxoSnYtaHF3RFRrS2ln?oc=5",
+    "source": "N Digital",
+    "language": "es",
+    "published": "2026-10-19T21:45:51+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-20",
+    "title_es": "Geoffrey Hinton asegura que no entenderemos la IA, como las ratas no entienden números primos",
+    "summary_es": "Geoffrey Hinton asegura que no entenderemos la IA, como las ratas no entienden números primos N Digital"
+  },
+  {
+    "id": "460f1b260235",
+    "title": "Darwin AI Launches Finch, the First AI Assistant Built for Public-Sector AI Governance",
+    "summary": "Darwin AI Launches Finch, the First AI Assistant Built for Public-Sector AI Governance EIN News",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmRVTnRabEZaTGRHeDA2QWdYX0JxaGJaVlRReWZneEl1cUZqU3JNQWdnbFBNZzJxQVhjQ0dCVFRiM1ZuWTVfZ2VmNzVLMWhwRHVMNWQ2d1NzWDBqYWtHWklNX1RoblFmOWhjQ1FLSlVqYlM4NDh1VkgxTGU0cG5EZFJpNng1dURzZkxzekpTeFJNSXJFZm1oVGNWckZhUERITXhJZUpoZUQxbkFfbERBdzJ3R1FpT1EyYW1hdG1KQ0VqeEFvc0E?oc=5",
+    "source": "EIN News",
+    "language": "en",
+    "published": "2026-10-19T20:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-20",
+    "title_es": "Darwin AI lanza Finch, el primer asistente de IA creado para la gobernanza de la IA en el sector público",
+    "summary_es": "Darwin AI lanza Finch, el primer asistente de IA creado para la gobernanza de la IA en el sector público EIN News"
+  },
+  {
+    "id": "b3bb2d6b0c94",
+    "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push (Oct 15)",
+    "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push (Oct 15) Central Oregon Daily",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcmVYMmE0MmY0d3ZmbnMtVDR3VlduTjF6QUsyZ095TGNRTHN4MWxmTkR5WU0wTkRZZi1BellDSnllRWUybDFSSzVob0NWUEx4bDFSZ2FJaWVYVExObm9WdDdrZ1VTVUlhcGFEOHlFcGc0OFE2ZTFCMGluOWRWWXRNQjI3MVktREFGTHNaNlIzUkszM0VNZnBkYmZTdVZiZ1p3THpFWmFtZHdhMDRrcTFXMnNpZ1lYVFM4ZE9MYmZMbzR2S2RXbG81MzBZaGxWNmRIZE5TTlNqZ1d5YjJrTVVWZ1NaS19BbHBXUmNxYW1TX2pPYnhrcEwwcmZZVHBfYmpkdGk1TEp6N1VfdTROaXlWOXRRMA?oc=5",
+    "source": "Central Oregon Daily",
+    "language": "en",
+    "published": "2026-10-19T15:12:29+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-20",
+    "title_es": "Anthropic otorga acceso a nivel de empleado METR al evaluador externo en el impulso de seguridad de IA (15 de octubre)",
+    "summary_es": "Anthropic otorga acceso a nivel de empleado del evaluador externo METR en el impulso de seguridad de la IA (15 de octubre) Central Oregon Daily"
+  },
+  {
+    "id": "adeae4cda6a8",
+    "title": "Bridging the AI Governance Gap: Emerging Board Opportunities for Women General Counsel",
+    "summary": "Bridging the AI Governance Gap: Emerging Board Opportunities for Women General Counsel Blake, Cassels & Graydon",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWOC01UVFqOGQzR0FnYzBfR0M3NTkzMzVIZ2x3bVZlU3hXdUE2UlBQSlptRUFnTVZxZk1fa1NBdmVISW9JLWRvdG9FMlZiX1loNTFMdG1KN284UGd6?oc=5",
+    "source": "Blake, Cassels & Graydon",
+    "language": "en",
+    "published": "2026-10-19T15:11:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-20",
+    "title_es": "Cerrar la brecha en la gobernanza de la IA: oportunidades emergentes en la junta directiva para mujeres asesoras generales",
+    "summary_es": "Cerrar la brecha en la gobernanza de la IA: oportunidades emergentes en la junta directiva para mujeres Asesora general Blake, Cassels & Graydon"
+  },
+  {
+    "id": "23059938d704",
+    "title": "AI Governance by Design: Making AI-Generated Customer Communications Audit-Proof",
+    "summary": "AI Governance by Design: Making AI-Generated Customer Communications Audit-Proof Doxee",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CY2hPVkc1bWYyWmw4MXBjcnpvSFEzaWUwOVZ1MUdLZEIwcjFvTm9LZExZQ01fWVhZd241NGpJNFBlbzdWRXRRWWNiSV83dlQ3LWpNbWJrSkVvY0dSM2VsdURZODlpOUxF?oc=5",
+    "source": "Doxee",
+    "language": "en",
+    "published": "2026-10-19T13:47:24+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-20",
+    "title_es": "Gobernanza de la IA por diseño: hacer que las comunicaciones con los clientes generadas por IA sean a prueba de auditorías",
+    "summary_es": "Gobernanza de la IA por diseño: hacer que las comunicaciones con los clientes generadas por IA sean a prueba de auditorías Doxee"
+  },
+  {
     "id": "75ae04c5518d",
     "title": "AI safety: What to trust, what to share, and when to take control",
     "summary": "AI safety: What to trust, what to share, and when to take control WISH-TV",
