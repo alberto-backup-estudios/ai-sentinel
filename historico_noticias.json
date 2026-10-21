@@ -1,5 +1,226 @@
 [
   {
+    "id": "bcf51deeffb4",
+    "title": "Complaix Launches Founding Pilot Cohort for Operational AI Governance to Address the Execution Gap",
+    "summary": "Complaix Launches Founding Pilot Cohort for Operational AI Governance to Address the Execution Gap The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTEdHNWUycTdEY0dneUxyWGtjR2JvRXk3WXpVQUFoRHp3NnNJZUk0TGM4QV9LbXJhV3AzLWtjNGZlVUhnRHhWdmpFdWFyYXdaRGRNd29HRDRvWklWMjdhLTNFWExwQ0Z5bFhaNDRzbjMtd0dja2R1al9tdDUybUpjbTVuajE3WlVXaDNHRmEtb0RDVTEzU0hvazV5eFVqb3dOZF9pS21jY0VqS2FWbkNOQ29aSzlpWWhYeDczVnZ3bjhocWZCaUUwTmxJUjNNRFpIeDgzZTA0UmlKNGdERWc0NHZpSWlPcDZiOUZWYUt4WGwydXVBUjFISk1LdDJUNGNHaW1DUDk1ejJCQ1U?oc=5",
+    "source": "The Globe and Mail",
+    "language": "en",
+    "published": "2026-10-21T20:25:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-21",
+    "title_es": "Complaix lanza una cohorte piloto fundadora de gobernanza operativa de IA para abordar la brecha de ejecución",
+    "summary_es": "Complaix lanza una cohorte piloto fundadora de gobernanza operativa de IA para abordar la brecha de ejecución The Globe and Mail"
+  },
+  {
+    "id": "0ee764f8133f",
+    "title": "Geoffrey Hinton, the godfather of AI: ‘I’m not a doomer. I think there’s a 1% chance it will destroy us’",
+    "summary": "Geoffrey Hinton, the godfather of AI: ‘I’m not a doomer. I think there’s a 1% chance it will destroy us’ EL PAÍS English",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTkxXMlBfdUxNLWFHemh6SWlmTmlOeDZLSGMwWDg0SzNCNUJHbXRWb09DMi1COEFpcE5uZWVvY1lHV29CV1dxSkJXSE9FVmFab3l3NTRHSTZPbzkxbDlsMXBmWWxNY3FaSUxuWVF5bHRRalN1STEyLWdxR3lVVTlqVU1heTVOZ2VpZ0tPMnhYbllMQU0wZktQSVVEeVJsOUI3ZklVY1VpSTVhZzdEbGdyOTlJQUE1cmJZUmZyc2ZUUzFBWVU1ajhUa3l1bDZJX0FIRy04ejNySmJEdm9nZzJCaEtBUUIwYXfSAfsBQVVfeXFMT2NHWklaV0c5R09la3JJdkNUV1ZlY1F3TW0ySE9IVUxqYXB6SmVYTkwzYVRsT0l1ZFo0NkpYSmdGSUprYXI4dEREUDBoV1pHQXZNSmtyT0h4cDlEN0l3THNxQmU3MmpEMUVDbUItTTVzcXhKX0dUak9EeXdEcF85MWNrSWxhcXdCbHZ2MzVTVGMzVXJMRVpjaG55N0xZNlZjS1dEUVJpUmFXTjFnaGd6ODAzc0tqa205NTBaNDRKaE5Ud3dEN2JjalNvRjJJNTNmZGdfeWZCQ0RfZk0tNGVWcGVCeTkyYWVIakNnT0VwWGRmNmJ4cjI2S2VFY2s?oc=5",
+    "source": "EL PAÍS English",
+    "language": "en",
+    "published": "2026-10-21T19:07:43+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-21",
+    "title_es": "Geoffrey Hinton, el padrino de la IA: “No soy un fatalista. Creo que hay un 1% de posibilidades de que nos destruya.",
+    "summary_es": "Geoffrey Hinton, el padrino de la IA: “No soy un fatalista. Creo que hay un 1% de posibilidades de que nos destruya” EL PAÍS"
+  },
+  {
+    "id": "64a31e61f5a8",
+    "title": "U of T researchers — joined by hundreds of global experts — make headlines with call for better AI safety standards",
+    "summary": "U of T researchers — joined by hundreds of global experts — make headlines with call for better AI safety standards University of Toronto",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejFBN0VuVVlVd1lQTXNHVGdfTC11Q0JYaEFiQjRBa2xvbzNzRjcyaUI5anBiOS10WU4xRjl5TlVDRzl4QjczeVJ0UzhLbmRtSk9CbHBoTnJKcHVScVVWZW1jNjJsLWgtMnlESi10TVdYLXZpblRrSU93UEhRdVQtV3YzNVNFbm80Y0EweW0ySlU2YWJoNkNDOHI4b1R6TG5nYzhiTndRbThHcjM3cUY3RVRidFBzbTJvYW5lQXFyOA?oc=5",
+    "source": "University of Toronto",
+    "language": "en",
+    "published": "2026-10-21T18:45:32+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "Investigadores de la U of T, junto con cientos de expertos globales, aparecen en los titulares con un llamado a mejorar los estándares de seguridad de la IA",
+    "summary_es": "Investigadores de la U of T, junto con cientos de expertos globales, aparecen en los titulares con un llamado para mejorar los estándares de seguridad de la IA Universidad de Toronto"
+  },
+  {
+    "id": "cea1216b3322",
+    "title": "Anthropic Proposes AI Safety Bill With 50-Person Death Threshold",
+    "summary": "Anthropic Proposes AI Safety Bill With 50-Person Death Threshold Morocco World News",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjJZd3ZIc3hERXFQQlRHeVVaQ3VJRVdqM1BzR1VaWGE2MF9HcGdpcHEwTnR3RjR1SzVrMWxSLXYyYUN4UTVmaFlsMllOTldvTVBvWVRNbm9HZXBfWU9WaFJvTm4xVWthRl9DT012Mjg4bldoclRqcVhMeHZmUGdjOUlWcy1GaF91U1I4aVhJUnRHVlU4OWlwTlhkV2Y5d2dyNzRQWU96dzFXVVpGNU9nTk1XNA?oc=5",
+    "source": "Morocco World News",
+    "language": "en",
+    "published": "2026-10-21T18:36:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "Anthropic propone un proyecto de ley de seguridad de la IA con un umbral de muerte de 50 personas",
+    "summary_es": "Anthropic propone un proyecto de ley sobre seguridad de la IA con un umbral de muerte de 50 personas Marruecos Noticias del mundo"
+  },
+  {
+    "id": "385982a0e55a",
+    "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+    "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven't been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not just the stock price. So it won't destroy the co...",
+    "link": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-21T17:53:01+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "Las redes neuronales son excepcionalmente vulnerables al auto-hackeo de objetivos",
+    "summary_es": "Supongamos que tenemos un director ejecutivo de IA, dedicado despiadadamente a maximizar el valor para los accionistas. Afortunadamente, no hemos sido completamente estúpidos y le hemos dado una rica definición de valor para los accionistas, que abarca el éxito, el florecimiento, la seguridad, la satisfacción de preferencias y los valores morales de los accionistas, no sólo el precio de las acciones. Para que no destruya el co..."
+  },
+  {
+    "id": "81e692bc6986",
+    "title": "Anthropic to publicly file S-1 by Friday, Huang on AI safety, & Netflix's future after earnings",
+    "summary": "Anthropic to publicly file S-1 by Friday, Huang on AI safety, & Netflix's future after earnings Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMkkzN2V4UUkycm1jOW9ydm9RUEIyLUZYeU1iT3lFbktadkdsekJjZW0yYkNlOGRVY1FhdW03MGItZ25LMFpqSEU5N3cyMHRwcGZSWjluNkQ3d3pZUTlQdWgtQk9YTFd0cEhJRGV2QVlYdFNiaFBkOS0xWVRYRnlCOGVHRTZEX0daYXFhd3o5amVXR2NNbm9MV2o3bG9uSnpGTFpnRHRTeFFWUmNPZ2lYT25YdV9LN2Rfc2c4OFllQ2RzS1VhVWhsMTBUSjdKNUhVTFJDVw?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-21T17:49:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "Anthropic presentará públicamente la S-1 el viernes, Huang sobre la seguridad de la IA y el futuro de Netflix después de las ganancias",
+    "summary_es": "Anthropic presentará públicamente la S-1 el viernes, Huang sobre la seguridad de la IA y el futuro de Netflix después de las ganancias Yahoo Finanzas"
+  },
+  {
+    "id": "2b201cfd233d",
+    "title": "AMD’s World Labs Deal Adds Spatial AI Research and Fei-Fei Li to Its Leadership",
+    "summary": "AMD’s World Labs Deal Adds Spatial AI Research and Fei-Fei Li to Its Leadership theaisoftwarereport.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDZwR1ZYUmRlcEJicFVfRlQwanpuV0I2c0djUUc1NjFtZ1gtMVpBX2JZS3ZuekUtQkhDdE5pY2IwLTlhUlJmNk9pS1VnaWVrZmhkQV9kMWRjUlRqMFpGSWJDaUIwN0VZUW1QLWt4U1FUY2ZJVmxqU2d6RWtZbFlLUGxELVlpSzMxOWRPdkJUQjItcW5yaTRnOXk5cUZ3cDBaMHBNaU9kbG9pdDlDSjZuZg?oc=5",
+    "source": "theaisoftwarereport.com",
+    "language": "en",
+    "published": "2026-10-21T17:31:13+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-21",
+    "title_es": "El acuerdo de AMD con World Labs suma la investigación de IA espacial y Fei-Fei Li a su liderazgo",
+    "summary_es": "El acuerdo de AMD con World Labs agrega la investigación de inteligencia artificial espacial y Fei-Fei Li a su liderazgo theaisoftwarereport.com"
+  },
+  {
+    "id": "113258ce7fe0",
+    "title": "Compliance, AI Governance Drive Observability Demand in Financial Services",
+    "summary": "Compliance, AI Governance Drive Observability Demand in Financial Services https://www.fintechbiznews.com/",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTBzSVdwMzIyYXIwdElxVXltU25FbHIyT0cxWTg0dWMxa2x1Z040UDFDRXRIWmViTGd5MG5hQXhTNXEzRE9ORzhBYkZWcmxUMWRFOHVtWkNFelZaLTZSS2MtN0pKTDRXd3JqaFBiZHdaVzhyczRiV2wxbGdlZ1ZlUFJhNU5sd01CRGltZUhrdXk4UXRlMDh5azdEVk43UEF5eW9zNk1IVG5RMnFwSWRpT1FSZncxZkNJdHRyQnNqX1c?oc=5",
+    "source": "https://www.fintechbiznews.com/",
+    "language": "en",
+    "published": "2026-10-21T17:11:26+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-21",
+    "title_es": "El cumplimiento y la gobernanza de la IA impulsan la demanda de observabilidad en los servicios financieros",
+    "summary_es": "El cumplimiento y la gobernanza de la IA impulsan la demanda de observabilidad en los servicios financieros https://www.fintechbiznews.com/"
+  },
+  {
+    "id": "36a70413e517",
+    "title": "Anthropic signs an AI safety agreement with Singapore as it opens an office there",
+    "summary": "Anthropic signs an AI safety agreement with Singapore as it opens an office there MIXED Reality News",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2RjMFpfZnZBYnBfRWJIZGJDZWNjRkVJeDVxQWFmN0xxX19JdXd5dWR6R0laMmxNUkFSbXhmZC1vb0tYUGdwc09nSEFmRHNZd282NFRDVFMyazhhWG5OdUVuRnR3SmFuT3NpeDhMeTBUdkplcGVKUllkdjNKd2xyRFNBdVlLZUtlWVpMZGpB?oc=5",
+    "source": "MIXED Reality News",
+    "language": "en",
+    "published": "2026-10-21T17:08:58+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "Anthropic firma un acuerdo de seguridad de IA con Singapur y abre una oficina allí",
+    "summary_es": "Anthropic firma un acuerdo de seguridad de IA con Singapur y abre una oficina allí MIXED Reality News"
+  },
+  {
+    "id": "a1a3364d1366",
+    "title": "Anthropic bill would pause AI models if 50+ people could die, report says",
+    "summary": "Anthropic bill would pause AI models if 50+ people could die, report says Mashable",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzBNYzBOY3ZQNHFJU2xxWkxDeEVzTVhIZU9vMWlFWUZYd0FVQUQzbDBZSHd4c0Y2WXZiVG9Ib1lNbVRUOC11aXBKYU1ONVladDF4Y2JySG9WZ0w1b1dPbmM4b2tyR3c3T3ZUOVZ1UFZSZ1Vva3hVbVBNcldKRzlPaVc2aE14RjhDRGc?oc=5",
+    "source": "Mashable",
+    "language": "en",
+    "published": "2026-10-21T16:47:14+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "Un proyecto de ley antrópico detendría los modelos de IA si pudieran morir más de 50 personas, según un informe",
+    "summary_es": "Un proyecto de ley antrópico detendría los modelos de IA si más de 50 personas pudieran morir, según un informe de Mashable"
+  },
+  {
+    "id": "63c5e5e951c4",
+    "title": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
+    "summary": "Anthropic’s AI safety bill would pause AI models if 50+ people could die Mashable SEA",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWERoX0h5YlZ2NjNNZ2tKQVFydG1RamloMW9Ralg4Qm9qX3RBNzFPN09hSGIzU3ZDbWRuYkRaaHNSeVY5N3l1azFYVWZNUnVRVWNlY0NPWkl3SllGckJFMWUyMlVvMzUxNVdDN1dFNnVSemJjUjk5QzJJRVF1VFVqemhDQm1MQTliQVVESGd5STgzZGdKLVFQME54a3JYQS01Y2owa1RDdHBTUQ?oc=5",
+    "source": "Mashable SEA",
+    "language": "en",
+    "published": "2026-10-21T16:40:16+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "El proyecto de ley de seguridad de la IA de Anthropic detendría los modelos de IA si pudieran morir más de 50 personas",
+    "summary_es": "El proyecto de ley de seguridad de la IA de Anthropic detendría los modelos de IA si más de 50 personas pudieran morir Mashable SEA"
+  },
+  {
+    "id": "faf95faa6ee1",
+    "title": "WSSU launching new curriculum on AI’s vulnerabilities with half-a-million dollar grant",
+    "summary": "WSSU launching new curriculum on AI’s vulnerabilities with half-a-million dollar grant WXII",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGJ5Y21MUWlnUVk1S19zSXA1M0VEWVRMeHZ2c3JmRkVMWHBVWjl3QVloUVhsMDJ4cmNEckZrSWt6Q0E2a3Q5RFJrRjZpdWdtU2VOWWVwNnBCckM2d3VNM1dGMFBtd2k5N1NLbmZlWTVpX2lJT0JPNEY4RUJka3l1VXBSdXVfQ1l0dll2eGJTT09mclBHcHlJal9xZ204MWdCdkNPNmdYT2N1VnJoX0c2MmR4OWxEUld5SGd6Nnd2YmVsYkxxTkxJRjlHckVSNDd4S2Jv?oc=5",
+    "source": "WXII",
+    "language": "en",
+    "published": "2026-10-21T16:37:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-21",
+    "title_es": "WSSU lanza un nuevo plan de estudios sobre las vulnerabilidades de la IA con una subvención de medio millón de dólares",
+    "summary_es": "WSSU lanza un nuevo plan de estudios sobre las vulnerabilidades de la IA con una subvención de medio millón de dólares WXII"
+  },
+  {
     "id": "4fd572ac5460",
     "title": "Vodacom Group calls for African-centric AI governance to reflect continental realities",
     "summary": "Vodacom Group calls for African-centric AI governance to reflect continental realities Telecompaper",
@@ -113,6 +334,26 @@
     "title": "Yuval Noah Harari, filósofo e historiador: “Si tu primer novio nunca se enfada contigo, cuando llegue el momento de una relación con un novio humano, estarás muy descontenta”",
     "summary": "Yuval Noah Harari, filósofo e historiador: “Si tu primer novio nunca se enfada contigo, cuando llegue el momento de una relación con un novio humano, estarás muy descontenta” La Vanguardia",
     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVEJXNTIxLVJxUEcyWk5ReUZNcTRiQVlkYmdoSzlKOHVneUlPRllxenRfREJ2SFQ2dFZpREFOWlZ1VW5VOUphNTFMeVN2QVYzNFFEc3ZRRlZwNDJOMGo5WWVUMGV2aDlmN25wV0llRmJPeUYtXzBtcDNhWkQ1eWhRNGJIQ01VVDVsTWNBblJOU2FycXJEeFJMdXhBUkJuc1pIYWxjRTA5VHhkbDFpNTRsdVBfRWRuUXByZER0M0U3YXdDNHE1QzZXYkFXX3lqN2xPLXV6T3BFc3ZOaWs4c3FMOEFaUk1aOTlINjZ6SE94alo1Vzlfek9nUWZ0dnVKT2RLc2RZSHFJYWs5RExUbWthSnBiSGFLTjFwQ05udNIBnAJBVV95cUxQVEJXNTIxLVJxUEcyWk5ReUZNcTRiQVlkYmdoSzlKOHVneUlPRllxenRfREJ2SFQ2dFZpREFOWlZ1VW5VOUphNTFMeVN2QVYzNFFEc3ZRRlZwNDJOMGo5WWVUMGV2aDlmN25wV0llRmJPeUYtXzBtcDNhWkQ1eWhRNGJIQ01VVDVsTWNBblJOU2FycXJEeFJMdXhBUkJuc1pIYWxjRTA5VHhkbDFpNTRsdVBfRWRuUXByZER0M0U3YXdDNHE1QzZXYkFXX3lqN2xPLXV6T3BFc3ZOaWs4c3FMOEFaUk1aOTlINjZ6SE94alo1Vzlfek9nUWZ0dnVKT2RLc2RZSHFJYWs5RExUbWthSnBiSGFLTjFwQ05udA?oc=5",
+    "source": "La Vanguardia",
+    "language": "es",
+    "published": "2026-10-21T14:05:07+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-21",
+    "title_es": "Yuval Noah Harari, filósofo e historiador: “Si tu primer novio nunca se enfada contigo, cuando llegue el momento de una relación con un novio humano, estarás muy descontenta”",
+    "summary_es": "Yuval Noah Harari, filósofo e historiador: “Si tu primer novio nunca se enfada contigo, cuando llegue el momento de una relación con un novio humano, estarás muy descontenta” La Vanguardia"
+  },
+  {
+    "id": "5f51c4fa6ea6",
+    "title": "Yuval Noah Harari, filósofo e historiador: “Si tu primer novio nunca se enfada contigo, cuando llegue el momento de una relación con un novio humano, estarás muy descontenta”",
+    "summary": "Yuval Noah Harari, filósofo e historiador: “Si tu primer novio nunca se enfada contigo, cuando llegue el momento de una relación con un novio humano, estarás muy descontenta” La Vanguardia",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaU1xSjM1dVd0Sy1YcjZRbE40X05xcjJ0OThfdVZqaTBqS0Z3MkF1LW9HTU9LYVN4Q19wcmRfUllURjZnT1BxdmhESzljTERnc3NUcldIbnZyUjFkdVk5Rm80bGVkWUFCdVpSYXFfaVBnQ1RSbGJOZ3FOWjl1VDlCRkk2WGVCNWVLdURzdS16bUMtdHJiRE5jYjJxYzhPZkprSGV4RUFlRVN2b1NnTTFMWVl6TjJoVDYxVW5qSXNZZTlEb1VTbHVUWkNKNXVtbHk3bU5NUG9RazU2NGgyY19yaVI2UGk1UXVIbV9FMkFwblR6WTNIZHhvcjlxVGNfUTBmTXFoQ0gzbHhVNXhLb29CbkQxdXNDcGPSAZwCQVVfeXFMUFRCVzUyMS1ScVBHMlpOUXlGTXE0YkFZZGJnaEs5Sjh1Z3lJT0ZZcXp0X0RCdkhUNnRWaURBTlpWdVVuVTlKYTUxTHlTdkFWMzRRRHN2UUZWcDQyTjBqOVllVDBldmg5ZjducFdJZUZiT3lGLV8wbXAzYVpENXloUTRiSENNVVQ1bE1jQW5STlNhcnFyRHhSTHV4QVJCbnNaSGFsY0UwOVR4ZGwxaTU0bHVQX0VkblFwcmREdDNFN2F3QzRxNUM2V2JBV195ajdsTy11ek9wRXN2TmlrOHNxTDhBWlJNWjk5SDY2ekhPeGpaNVc5X3pPZ1FmdHZ1Sk9kS3NkWUhxSWFrOURMVG1rYUpwYkhhS04xcENObnQ?oc=5",
     "source": "La Vanguardia",
     "language": "es",
     "published": "2026-10-21T14:05:07+00:00",
@@ -846,6 +1087,26 @@
     "date_added": "2026-10-21",
     "title_es": "No se deje intimidar por la IA",
     "summary_es": "No se deje intimidar por la revisión nacional de IA"
+  },
+  {
+    "id": "f683943be29c",
+    "title": "Will AI take my job? Ask an economist!",
+    "summary": "Will AI take my job? Ask an economist! NPR",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWNnNkVfckdfSk5yWkpJZmpPNjFsUk0tbDVZb2stSFRCZ0t4UkIyTnpLUjh0d1ptX0lVQzhIRWs1T25uZThFWnBIM3AzXzZ2ZUhtSTdrSVQwSWVta1FLOVJNQndoV2piMlg3bTdWRjFfcW01ZXRMd0tjY0IzZnExNjUyelA3QQ?oc=5",
+    "source": "NPR",
+    "language": "en",
+    "published": "2026-10-13T07:00:00+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-21",
+    "title_es": "¿La IA me quitará el trabajo? ¡Pregúntale a un economista!",
+    "summary_es": "¿La IA me quitará el trabajo? ¡Pregúntale a un economista! NPR"
   },
   {
     "id": "50ed86a9f5a5",
