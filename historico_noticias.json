@@ -1,5 +1,357 @@
 [
   {
+    "id": "691f2feda8ce",
+    "title": "🇺🇸 Elon has a simple fix for AI safety, and it doesn’t involve waiting years for Washington to catch up. Instead of a slow-moving regulatory agency, he suggests AI companies hold a weekly call and give their competitors access to new models a week before rel",
+    "summary": "🇺🇸 Elon has a simple fix for AI safety, and it doesn’t involve waiting years for Washington to catch up. Instead of a slow-moving regulatory agency, he suggests AI companies hold a weekly call and give their competitors access to new models a week before rel X",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tMFRxRmVTMGVFUFAwSzBIU01CTjUtNm1BRTNOVWxYbHJpeG5aUnJaTmtIZUFmejRwWDE2ZlFGeE9kZHVEV3RaY3RfRzNnQS1qbVgxYXJFTnFibTdGMnlWVlYwdWtSSGxmLWxFbg?oc=5",
+    "source": "X",
+    "language": "en",
+    "published": "2026-10-22T10:30:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "🇺🇸 Elon tiene una solución sencilla para la seguridad de la IA y no implica esperar años hasta que Washington se ponga al día. En lugar de una agencia reguladora que actúa lentamente, sugiere que las empresas de IA realicen una llamada semanal y den a sus competidores acceso a nuevos modelos una semana antes de la fecha de lanzamiento.",
+    "summary_es": "🇺🇸 Elon tiene una solución sencilla para la seguridad de la IA y no implica esperar años hasta que Washington se ponga al día. En lugar de una agencia reguladora que actúa lentamente, sugiere que las empresas de IA realicen una llamada semanal y den a sus competidores acceso a nuevos modelos una semana antes de la versión X."
+  },
+  {
+    "id": "88a55d841666",
+    "title": "Does the EU's AI Act Require Disclosure of All AI-Generated Content? (via Passle)",
+    "summary": "Does the EU's AI Act Require Disclosure of All AI-Generated Content? (via Passle) Frankfurt Kurnit Klein & Selz",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0tObFU1N29UWDB6Qlo0cktSR1RnQUw0QnhmZHFXem1SdHRVNzZsYmhtWEFsNEg4UEdyZzgxMWF3U0V2WEt2WnFIbzNZYmY0SXRFLVF5TXhMcldOcXVMMjdidmJGREJ3NUF5bVpENjhWRUZhYWtQR3k2aUFBMHVqaktzYUt4TnVsZjJaR2pBWDQ0bjZicEw3Rmxyd3BOUEJtNEhjWkx3Si0zTXVrV2R5YQ?oc=5",
+    "source": "Frankfurt Kurnit Klein & Selz",
+    "language": "en",
+    "published": "2026-10-22T10:22:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "¿La Ley de IA de la UE exige la divulgación de todo el contenido generado por IA? (a través de Passle)",
+    "summary_es": "¿La Ley de IA de la UE exige la divulgación de todo el contenido generado por IA? (vía Passle) Frankfurt Kurnit Klein & Selz"
+  },
+  {
+    "id": "d3dc3ffd8788",
+    "title": "AI governance: Why human review is insurers' liability shield",
+    "summary": "AI governance: Why human review is insurers' liability shield Digital Insurance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnJQTG9YZ1pGSzExUkhWOVNFaXNRbGhfa3NGYVA3eHg4Zks3RDBTa3Uzb3h4YVFfQ29fVS16MDJmajZ3S01lT29JY0o1ZTJ6UEJOR0NucFlvR0VUeGZLUW9yWTZWNUZEQjA3RVNFanppSURQQ1JHaVBVbGdndEFmblpWdGdmcjZndVBoc2FWWXI?oc=5",
+    "source": "Digital Insurance",
+    "language": "en",
+    "published": "2026-10-22T10:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "Gobernanza de la IA: por qué la revisión humana es el escudo de responsabilidad de las aseguradoras",
+    "summary_es": "Gobernanza de la IA: por qué la revisión humana es el escudo de responsabilidad de las aseguradoras Digital Insurance"
+  },
+  {
+    "id": "c94e62c2030a",
+    "title": "DNV-backed research to examine AI safety and human expertise in autonomous systems",
+    "summary": "DNV-backed research to examine AI safety and human expertise in autonomous systems safety4sea",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnFKM1hCYk9mOGRNTm5PcVFrQWNLdkF6RVVCMjhpOFB6MVU1RWlsc2FBXy1aQ1Y1MTVTYk9HbmllcHZuRGprQXB0YkxmbktxeUNCX25RUTFyMUJoZHJwbUJ1ZWJaa3JTN2o0UGNJbjg1Q0lYbWliZ2JueWhXMzNGS0pRa1RRNjhDYmkxOFNlX0RJZDduYnlaR0FrVkh5Y3ZSaVAwaUdqWWdqdw?oc=5",
+    "source": "safety4sea",
+    "language": "en",
+    "published": "2026-10-22T09:56:04+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "Investigación respaldada por DNV para examinar la seguridad de la IA y la experiencia humana en sistemas autónomos",
+    "summary_es": "Investigación respaldada por DNV para examinar la seguridad de la IA y la experiencia humana en sistemas autónomos safety4sea"
+  },
+  {
+    "id": "7917cc7d6f0f",
+    "title": "“If your product is harmful, stop”: Nvidia CEO draws line on AI safety",
+    "summary": "“If your product is harmful, stop”: Nvidia CEO draws line on AI safety CTech",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PV29USnlURHVKQ0JIeXJYcmM3WnRmT2tIb3VQcFQ3YUlsNEdZR3Y5dkhuTmRtZFVwUEdxSVktdDZJMmtlRGtaOHBHVzYwX2dWNXFGVnBFMEFHbFd2WG5sWnpubzF0aFMw?oc=5",
+    "source": "CTech",
+    "language": "en",
+    "published": "2026-10-22T09:55:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "“Si su producto es dañino, deténgase”: el CEO de Nvidia pone límites a la seguridad de la IA",
+    "summary_es": "“Si su producto es dañino, deténgase”: el CEO de Nvidia pone límite a la seguridad de la IA CTech"
+  },
+  {
+    "id": "35a1f3f5ae8b",
+    "title": "Yann LeCun and Arthur Mensch back Zurich robotics startup in $30m pre-seed",
+    "summary": "Yann LeCun and Arthur Mensch back Zurich robotics startup in $30m pre-seed Sifted",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjhRblBjMlJvUzJHa2xGemZNekJVNFJvUXY5bHowZ2FRS2tSX1dKbmcyYmdfVnlHLUJqRG9WamFPM1ZiSFpwUThYc0ZabUhYb2ZyQ052UEhwOWtMaVRkMVVXQzBQVjZlSTdYN3NxTDRtX0RtMk5xUmRrUWRIUXBKUGo2U2RkVG9ENndoakVXR0tKdw?oc=5",
+    "source": "Sifted",
+    "language": "en",
+    "published": "2026-10-22T09:27:27+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-22",
+    "title_es": "Yann LeCun y Arthur Mensch respaldan la startup de robótica de Zurich con un pre-seed de 30 millones de dólares",
+    "summary_es": "Yann LeCun y Arthur Mensch respaldan la startup de robótica de Zurich en una pre-semilla de 30 millones de dólares Sifted"
+  },
+  {
+    "id": "7c630c37c343",
+    "title": "Vodacom urges Africa not to copy the EU AI Act",
+    "summary": "Vodacom urges Africa not to copy the EU AI Act ITWeb Africa",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWEUtdDZtaXJURWhpS05uU3ZDV1NfY3hVbFFrai1sQmVPVUNJdXVOWUJVV01PNEpSTjgzaXFfZFhNTFFFNVlVaWdqUi1IcHZEcTJQd2JvUjljTWhaWXA2djdGc3VSV0R6YjRzUVVuVXBMaEp1YjllZldaMDN4MU45VHhvZjZWODctMVcxQlU4YWhOS2FDWkY0?oc=5",
+    "source": "ITWeb Africa",
+    "language": "en",
+    "published": "2026-10-22T09:19:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "Vodacom insta a África a no copiar la Ley de IA de la UE",
+    "summary_es": "Vodacom insta a África a no copiar la Ley de IA de la UE ITWeb Africa"
+  },
+  {
+    "id": "dd467c27c871",
+    "title": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+    "summary": "US banks detect unauthorized AI agents in customer accounts, Axios reports Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-10-22T09:17:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "Los bancos estadounidenses detectan agentes de inteligencia artificial no autorizados en las cuentas de los clientes, informa Axios",
+    "summary_es": "Los bancos estadounidenses detectan agentes de inteligencia artificial no autorizados en las cuentas de los clientes, informa Axios Reuters"
+  },
+  {
+    "id": "9a010151a441",
+    "title": "SAS AI Navigator now available to supercharge AI governance",
+    "summary": "SAS AI Navigator now available to supercharge AI governance Africa Business Communities",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWQwbWdzVFZObWYzR1F5cDllWXc5LTY2b3NtaEZ5ZjVRRVVFbmN3UmtZSDR4b0ZuNW5lR3V5RG5Kb18xcUNXZlNpU21kYjdzeFE1OGhLdE1WRGUyRXJUb2FqQ1RsMmc2ei1LY2daVHJxTmpOLWJFdlh3TFZxNlpicVVDUGpLbENlWnVCY3Q4TWl0eW95TkFxUFl5cWVyRmNHeEtfc1hJUG5TZw?oc=5",
+    "source": "Africa Business Communities",
+    "language": "en",
+    "published": "2026-10-22T09:08:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "SAS AI Navigator ya está disponible para potenciar la gobernanza de la IA",
+    "summary_es": "SAS AI Navigator ya está disponible para potenciar la gobernanza de la IA Comunidades Empresariales de África"
+  },
+  {
+    "id": "ff810c2b7ed4",
+    "title": "Commentary: AI governance — a practical view from a writing classroom",
+    "summary": "Commentary: AI governance — a practical view from a writing classroom New Hampshire Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzI5aVVPWkVnQ0hTeUtaVGx5M095Q0U0dTNEdXNwTVB5XzFjaVFHSWZ6OU5OZE5GXzVhbjZaUjlkbTMybHJaZ0U5ckRkX2hqdExPcnBwLVFNVzlKaEk5TWcwTk83cGVNZl9GQmZSRThraWZheTVCREtvdE95aFJwVlpFS25BX3FWeVdYb0RyakloSXJxWUN5SFkwZWpweVM2aXc?oc=5",
+    "source": "New Hampshire Bulletin",
+    "language": "en",
+    "published": "2026-10-22T08:54:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "Comentario: Gobernanza de la IA: una visión práctica desde un aula de escritura",
+    "summary_es": "Comentario: Gobernanza de la IA: una visión práctica desde un aula de escritura New Hampshire Bulletin"
+  },
+  {
+    "id": "ff1d05bf8b96",
+    "title": "Mistral boss and Yann LeCun back Swiss robotics startup Enact in $30M pre-seed round",
+    "summary": "Mistral boss and Yann LeCun back Swiss robotics startup Enact in $30M pre-seed round Tech.eu",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHYtVnVYSzFISGkteUZ5Rlh6bzRGLTVlWmtfSWJRQWZzRXVNMndYRXluSmVaQld6SGM0NzVMSV9hVFQwVWVDNFJRTURaM3R1TFVOMkFPQnhPWFQzcHJad1NoSTJxUHcyTFh5anVjMG4wQllJajA2NlByYnRZZXdNSjZFR3FmN0xET3NxbFdVV2U3MndTbDg0QkxDenVVLTd2akM2VGR5VXlRWHRWQU1nRg?oc=5",
+    "source": "Tech.eu",
+    "language": "en",
+    "published": "2026-10-22T08:52:57+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-22",
+    "title_es": "El jefe de Mistral y Yann LeCun respaldan a la startup suiza de robótica Enact en una ronda pre-semilla de 30 millones de dólares",
+    "summary_es": "El jefe de Mistral y Yann LeCun respaldan a la startup suiza de robótica Enact en una ronda pre-semilla de 30 millones de dólares Tech.eu"
+  },
+  {
+    "id": "3c65efd6d7db",
+    "title": "Vodacom and Bowmans Urge Africa to Develop AI Governance Frameworks",
+    "summary": "Vodacom and Bowmans Urge Africa to Develop AI Governance Frameworks TechAfrica News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2EyYVRxNnN1Yl9Bemc3RWduT3NfcXNydDYzMnZhZEFDUVByUnFhdGZBcXFkYlBWQmRGbWsxcnVod0pPWlNmQ2k4OVJ6UG9JTGE5M0J3OVpZYkh3emh5UUhMYWwxSlFlcTY4bjJZQlhKNTVJMXRZeW1hSWI4RFFETU9Gdlg4ZWhEN01oNktpSDBLM1RJeHdCdXRXMjlIcVVnMHMzMTFYSjJZdw?oc=5",
+    "source": "TechAfrica News",
+    "language": "en",
+    "published": "2026-10-22T08:41:30+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "Vodacom y Bowmans instan a África a desarrollar marcos de gobernanza de la IA",
+    "summary_es": "Vodacom y Bowmans instan a África a desarrollar marcos de gobernanza de IA TechAfrica News"
+  },
+  {
+    "id": "fb9aaa3b7b40",
+    "title": "You choose: Save the world or make world-historic $$$",
+    "summary": "You choose: Save the world or make world-historic $$$ Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnRCQ3RJQkI0c0FvdzBxWUE3LU11R0FtSkhRcTBFZ3hQT0hEd2l3VmdTaHVONlUza0JZN2lVZ0xmd1BqaVdpeFRMXzNlWWNBSkQxU3JMcG1tWWtaSGRNX19xR3p2Z214VXpfY0lVd0JfTXM4aU9ORkM0YllzOF9JOGpBUnZGTlZQMDZoOHctRWYzNlVzYlVWcHNub0I?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-10-22T08:37:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "Tú eliges: Salvar el mundo o hacer $$$ histórico mundial",
+    "summary_es": "Tú eliges: Salvar el mundo o hacer $$$ histórico mundial Business Insider"
+  },
+  {
+    "id": "8b4ebf391bcd",
+    "title": "Sam Altman weighs three AI safety paths as rivals call for limits",
+    "summary": "Sam Altman weighs three AI safety paths as rivals call for limits The Rundown AI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWlUR3EtUjQ4bno5am5qUGN1WHFaMDQ0eFVlU0ZiVzcyVUFsN1paUlgzSnp4U1dLSWJSR0RkbUxxRVVoaG5hRGJjbkFLbExMTHFmemtDMi1Hd0hyY29Pb2xMTlppWWZkSlBMZWFmRl9ZdVV1d3NCbmFySHhhQXVNYWszVQ?oc=5",
+    "source": "The Rundown AI",
+    "language": "en",
+    "published": "2026-10-22T08:21:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "Sam Altman sopesa tres caminos de seguridad de la IA mientras los rivales exigen límites",
+    "summary_es": "Sam Altman sopesa tres caminos de seguridad de la IA mientras los rivales piden límites The Rundown AI"
+  },
+  {
+    "id": "fa32e537b3ee",
+    "title": "Commentary: New York can improve AI safety while still protecting innovation",
+    "summary": "Commentary: New York can improve AI safety while still protecting innovation Times Union",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BKdjJUQTNqa3BIbFctclJLN29tZE9ZTkNGdm5SdFBqRml0X1dEdFFYREJuX2N0Q0RGZTNsT0J3UTJCOXkwVGM4Nl9fRXRRRmV1U1Bjc21COXlaaTZkMzBnX0hQQ1djcFFRQjJ3YXhYTjUwZFdwZG1SWmhfaWVTVDhDRkNZNVRjWVhFVDh1NTVoX2wxZzRzN0FPMDgyczJZ?oc=5",
+    "source": "Times Union",
+    "language": "en",
+    "published": "2026-10-22T08:05:09+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "Comentario: Nueva York puede mejorar la seguridad de la IA y al mismo tiempo proteger la innovación",
+    "summary_es": "Comentario: Nueva York puede mejorar la seguridad de la IA y al mismo tiempo proteger la innovación Times Union"
+  },
+  {
+    "id": "994a9f3c3c75",
+    "title": "«El padrino» de la inteligencia artificial, Geoffrey Hinton, advierte que la IA ya da señales de conciencia: «Deberíamos crearlas de manera que realmente se preocuparan por nosotros. Y si no hacemos eso, estamos acabados»",
+    "summary": "«El padrino» de la inteligencia artificial, Geoffrey Hinton, advierte que la IA ya da señales de conciencia: «Deberíamos crearlas de manera que realmente se preocuparan por nosotros. Y si no hacemos eso, estamos acabados» Informat.ro",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORl9Lajd4M1FVc0t4VUR6cTNXbmdKb3QwU0Q2SW9INS0tODRlaTZCMWd6cmJTcXo5dzQ1dHZXUlNmdWRlUnh1cno1LTN4WTlaWlMzZlZMMjJWN05faUlLUmpGNHdzeE0ySmMwUFJYZm9GVVFrMnJoeFd5MFhMcmJVQ09ZbWFoWlhSaEF1OWxtNTdIYmFqTGk3bHJDVkZJVVJ2bE1wekVNWWNQU25EblJ5SzZsTF9sTTFFNFB2STJ0dzYwQk5WSU5uVGxR?oc=5",
+    "source": "Informat.ro",
+    "language": "es",
+    "published": "2026-10-22T08:04:31+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-22",
+    "title_es": "«El padrino» de la inteligencia artificial, Geoffrey Hinton, advierte que la IA ya da señales de conciencia: «Deberíamos crearlas de manera que realmente se preocuparan por nosotros. Y si no hacemos eso, estamos acabados»",
+    "summary_es": "«El padrino» de la inteligencia artificial, Geoffrey Hinton, advierte que la IA ya da señales de conciencia: «Deberíamos crearlas de manera que realmente se preocuparan por nosotros. Y si no hacemos eso, estamos acabados» Informat.ro"
+  },
+  {
+    "id": "b5a2e5ec13d1",
+    "title": "“The godfather” of artificial intelligence, Geoffrey Hinton, warns that AI is already showing signs of consciousness: “We should create them so that they genuinely care about us. And if we don’t do that, we’re finished”",
+    "summary": "“The godfather” of artificial intelligence, Geoffrey Hinton, warns that AI is already showing signs of consciousness: “We should create them so that they genuinely care about us. And if we don’t do that, we’re finished” Informat.ro",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSE1KV1BxUDRYMUJNRGRXaFBUbTdnSXNmMU5zU3BpTi1Fblo5RTM4czNNYVhfVk1rQWlwSk1sNHNDQ2lqRlo3blNWRzNYdkZheU9xLVJqdFBGYlNuaENYVEFhVGpyTEJabFEzSmhiY3NCOTVPandHalhsZW12bjhSOVRoT3o3dnJtcmF1NHdEeUw?oc=5",
+    "source": "Informat.ro",
+    "language": "en",
+    "published": "2026-10-22T08:04:31+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-22",
+    "title_es": "\"El padrino\" de la inteligencia artificial, Geoffrey Hinton, advierte que la IA ya está dando señales de conciencia: \"Deberíamos crearlas para que realmente se preocupen por nosotros. Y si no lo hacemos, estamos acabados\"",
+    "summary_es": "\"El padrino\" de la inteligencia artificial, Geoffrey Hinton, advierte que la IA ya está dando señales de conciencia: \"Deberíamos crearlas para que realmente se preocupen por nosotros. Y si no lo hacemos, estamos acabados\" Informat.ro"
+  },
+  {
+    "id": "a827c679cf3e",
+    "title": "Was a Viral AI Safety Whistleblower Part of a Russian Influence Campaign?",
+    "summary": "Was a Viral AI Safety Whistleblower Part of a Russian Influence Campaign? HackerNoon",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThXdGlwR2JaVmZnd1E3OFk5eWlBVFVJZEJDZW1UYlIwU2p2SkJKWjhtd0xzUlFzNDVkS3JfOXVOaGFSUkhmbkVYLTNQczMwZUhZSmhDN3l2N1FGNmhLUDAtdlotQmx1amFZSWVIYW1sMUE2UVhOSnVXTkZqMWwzRlA4UkRRQzFCZGJnb1hZWlA2SEc3QTBfWFBXUQ?oc=5",
+    "source": "HackerNoon",
+    "language": "en",
+    "published": "2026-10-22T07:47:29+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-22",
+    "title_es": "¿Fue un denunciante viral de seguridad de IA parte de una campaña de influencia rusa?",
+    "summary_es": "¿Fue un denunciante viral de seguridad de IA parte de una campaña de influencia rusa? HackerMediodía"
+  },
+  {
+    "id": "2fe64badbf15",
+    "title": "Poland signs one-year pact on responsible AI governance in health",
+    "summary": "Poland signs one-year pact on responsible AI governance in health The Cryptonomist",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDdERDVfTFJ6d2wwS000SENBSVVObVB5UFY3anpjNGNYWVBQekx6WjhZdEFTZXNzOVd3a3NGcWdvVUoxV1RwY1N3ZzgzZFJ1QWpqZDdNOFNwZlpnYTRwR2JRT0pqODBuNUtVdF8wTGRBOURzTXpCbWVRcU9lY0RxRWRGOTA?oc=5",
+    "source": "The Cryptonomist",
+    "language": "en",
+    "published": "2026-10-22T07:35:44+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-22",
+    "title_es": "Polonia firma un pacto de un año sobre la gobernanza responsable de la IA en la salud",
+    "summary_es": "Polonia firma un pacto de un año sobre la gobernanza responsable de la IA en la salud The Cryptonomist"
+  },
+  {
     "id": "4eee079219c0",
     "title": "Anthropic AI Safety Bill: 6 Outlets Diverge [2026]",
     "summary": "Anthropic AI Safety Bill: 6 Outlets Diverge [2026] shattered.io",
