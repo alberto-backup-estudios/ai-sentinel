@@ -1,5 +1,96 @@
 [
   {
+    "id": "bbb760b0581b",
+    "title": "Tech Talk: AI safety concerns grow as autonomous systems raise questions about human control",
+    "summary": "Tech Talk: AI safety concerns grow as autonomous systems raise questions about human control MyNorthwest.com",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpdDh6SFNMQ0xVQWRyS3F1ZWJuR2E0b1hucThPa2JaWk5JT0NrREhOYVN6dnJvNXZyelhicFRUWHlCNnJkTHd6bWZVM1NDVHYwZFlma1dvN2xmNFZTZ2twRGpRZTFzV3VoRHVGYUlzdC12RmtKcHZ4UDQ1bw?oc=5",
+    "source": "MyNorthwest.com",
+    "language": "en",
+    "published": "2026-10-23T20:53:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "Tech Talk: Las preocupaciones sobre la seguridad de la IA crecen a medida que los sistemas autónomos plantean dudas sobre el control humano",
+    "summary_es": "Tech Talk: Las preocupaciones sobre la seguridad de la IA crecen a medida que los sistemas autónomos plantean dudas sobre el control humano MyNorthwest.com"
+  },
+  {
+    "id": "d01bcc359852",
+    "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
+    "summary": "OpenAI resumes frontier AI training with enhanced security, no internet access Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-10-23T20:07:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI reanuda el entrenamiento de IA de vanguardia con seguridad mejorada y sin acceso a Internet",
+    "summary_es": "OpenAI reanuda el entrenamiento de IA de vanguardia con seguridad mejorada y sin acceso a Internet Reuters"
+  },
+  {
+    "id": "ec690a106a7e",
+    "title": "UK AI Safety Institute Finds Anthropic's Mythos 5 Kept Attacking a Real Developer Even After Being Told It Was Real",
+    "summary": "UK AI Safety Institute Finds Anthropic's Mythos 5 Kept Attacking a Real Developer Even After Being Told It Was Real BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RVm5IVXJlZmRSVGFPd1Rvc3RRWkVFaG9SMW1jR2dSTVRRNmdrOEFfa1Y5NjN3am45RkxwZlROSkNQRVR0cHFlc1RpMzZDWHpXUWMyYVBxaC1OVjFWZUREWnA1V2dmZGxIbWIzaVZZV0s0SHNXeGc?oc=5",
+    "source": "BigGo Finance",
+    "language": "en",
+    "published": "2026-10-23T18:35:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "El Instituto de Seguridad de IA del Reino Unido descubre que Mythos 5 de Anthropic siguió atacando a un desarrollador real incluso después de que le dijeron que era real",
+    "summary_es": "El Instituto de Seguridad de IA del Reino Unido descubre que Mythos 5 de Anthropic siguió atacando a un desarrollador real incluso después de que le dijeron que era real BigGo Finance"
+  },
+  {
+    "id": "2ca19c3ae859",
+    "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+    "summary": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring The Decoder",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGRkaFlmU2xkZzl4LWhjTklHdVg1MzMtck5zOEpOVHJ1amRvaGpSTU1qb01ocl91elVMa3VmV2xrSmNnQVBZZmJQSk1pdXRieFk3WUU4UnFpS3Nqc2RrclkyeUVpSlF6NkFhMXV5QWh3X0pJWGFKZ1dfN2lTTG5GNmtsWFJER2pOME1kamJySmFCMWZxSENyZ1FCYTBDYlRlaUw3Qw?oc=5",
+    "source": "The Decoder",
+    "language": "en",
+    "published": "2026-10-23T18:03:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "Una auditoría in situ de tres semanas en OpenAI revela importantes lagunas en el seguimiento de la seguridad de la IA",
+    "summary_es": "Una auditoría in situ de tres semanas en OpenAI revela importantes lagunas en el seguimiento de la seguridad de la IA The Decoder"
+  },
+  {
+    "id": "fedcce585cec",
+    "title": "Legaltech Rundown: Goodwin Launches AI Governance Program, Legora Announces Integrations With iManage, Blue J and More",
+    "summary": "Legaltech Rundown: Goodwin Launches AI Governance Program, Legora Announces Integrations With iManage, Blue J and More Law.com",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQkdLNVZiam03YjZZbGFOX1VYVnJheHRISmJnNlVWenpUZVFOUEo5QzJNeWZmOElTcnlsS2JwUUR2T3B6bDFTc3hEdWVIOFl6T2k0NFpCTHlhblRTRWVuVmZnS01LQnE3M01FUGdXdHY5blBOeEFRTkRPWGZNS1BuU3hzQjVtTUQxQ0Q3SHkycHNYSVJEWmNEbEJxQWZEQ1FaODFnU0xFOEJ3ZGJyb2ZvbnBkR01OdlpNRGxXakc0bTgxekJPNVNrcGoxOEpOaHZaOWlNNU5oZkpWaXFCVHhXYWlHeWJrd2JWSkU4MUFxMDNwcDA?oc=5",
+    "source": "Law.com",
+    "language": "en",
+    "published": "2026-10-23T16:48:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "Resumen de Legaltech: Goodwin lanza un programa de gobernanza de IA, Legora anuncia integraciones con iManage, Blue J y más",
+    "summary_es": "Resumen de tecnología legal: Goodwin lanza programa de gobernanza de IA, Legora anuncia integraciones con iManage, Blue J y más Law.com"
+  },
+  {
     "id": "0a5ae7823ab2",
     "title": "Microsoft Frontier Tour London: Agentic AI governance in the spotlight",
     "summary": "Microsoft Frontier Tour London: Agentic AI governance in the spotlight Computer Weekly",
@@ -16,6 +107,42 @@
     "date_added": "2026-10-23",
     "title_es": "Microsoft Frontier Tour London: la gobernanza de la IA agente en el centro de atención",
     "summary_es": "Microsoft Frontier Tour Londres: Gobernanza de IA agente en el punto de mira Computer Weekly"
+  },
+  {
+    "id": "2e44b5e7fde5",
+    "title": "Portal26 Launches Managed Intelligence Platform, an AI Governance Platform designed for MSPs, & Point2 Academy",
+    "summary": "Portal26 Launches Managed Intelligence Platform, an AI Governance Platform designed for MSPs, & Point2 Academy Cybersecurity Insiders",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT1Y4eEs5MFBGTTJzaUZOWTVDYTRSelp1S1RidmplVlFUYjNVdDdaQWNRQ3dlWTU5TU5WWWdqMkQtdldXOTItY2hXOGZ6ZUQyeTBsU2IyMGtQbmxmTzl1UlFMZnU1UVZTVkFVWkw5SXo2WGxyVW1CVk9vMFhLT19NejlBcVI1ZUd6eVZsQzE4SVVrNjdXbWYxOVQyUWNvaDZfVjdRSXlCSjBtcEpSUF9pcTJ0MFo4N0IxOVlWWkQ5SzJaVjgwcTVUNEJoSnoyUm1pdG5uVklZaVI5aXdKSVY4?oc=5",
+    "source": "Cybersecurity Insiders",
+    "language": "en",
+    "published": "2026-10-23T16:12:39+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "Portal26 lanza Managed Intelligence Platform, una plataforma de gobernanza de IA diseñada para MSP y Point2 Academy",
+    "summary_es": "Portal26 lanza Managed Intelligence Platform, una plataforma de gobernanza de IA diseñada para MSP y expertos en ciberseguridad de Point2 Academy"
+  },
+  {
+    "id": "95abb077f77e",
+    "title": "La seguridad de la IA necesita una segunda opinión",
+    "summary": "La seguridad de la IA necesita una segunda opinión Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WUhZU2RRX1lvcHVPMWNneC12YXB1NnVPSlV3LUFxbFp4YUdxOFJrWVI1SjRjMUZ3eklubm1ZTGY2NnhEbGFmdXR4R0pyTE8wbHRkRUxTcHgwX1hDdWF1eU5fQVhoZC1Ea3pncUZQMV9Sdw?oc=5",
+    "source": "Unite.AI",
+    "language": "es",
+    "published": "2026-10-23T14:19:54+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "La seguridad de la IA necesita una segunda opinión",
+    "summary_es": "La seguridad de la IA necesita una segunda opinión Unite.AI"
   },
   {
     "id": "5f2056b7331f",
