@@ -1,5 +1,97 @@
 [
   {
+    "id": "b37cf5f60735",
+    "title": "Who Can Actually Stop the Machine? The Institutional Test for AI Governance in Southeast Asia",
+    "summary": "Who Can Actually Stop the Machine? The Institutional Test for AI Governance in Southeast Asia fulcrum.sg",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVjJibndzUF9zWUU5YUVXQWl4RUg2eG0tNTBQemZnbUtHMWtrdFF3R082QkdsY216aEFTWnJsOWVLMEtLYm5KNEs2MDF6RmM0TUFJSy15NUphdnZhWkNEOURRc09kcjJSc202bHVwcG9rUHJiY1A1UHBTc2Jkb0NZM25MVXBXVnU3dEJFZlRnUkFXdVJOVGk2aGFWN0dKekxtY1U1SXlKdDZpbmdtcTZXR1RWLWRKN1IxcWlRdFRjWXh3ZlBIdG1aanRldw?oc=5",
+    "source": "fulcrum.sg",
+    "language": "en",
+    "published": "2026-10-23T02:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "¿Quién puede realmente detener la máquina? La prueba institucional para la gobernanza de la IA en el sudeste asiático",
+    "summary_es": "¿Quién puede realmente detener la máquina? La prueba institucional para la gobernanza de la IA en el sudeste asiático fulcrum.sg"
+  },
+  {
+    "id": "979d8b05b20c",
+    "title": "Optro launches domain-trained agents for audit, compliance, third-party risk, and AI governance",
+    "summary": "Optro launches domain-trained agents for audit, compliance, third-party risk, and AI governance FutureCIO",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORGxUODB2V0stOTIyV1NyY3J4NGhrcXByZ1o4RGR2Y1RvdG1YQ0h0UjFwRUtJZENycEo4enRfbWVTb1gzMzhOLVNKTEhWdmVIcTFzU01oUlNDU2k5d0gyLUZ4MFJOVHY0M0RlNWJZVVVMaU5Sc0pDb0luZUZiR3dPS2pSSVRLR1M0ZkNJb01XN0NMVU5SV2tDNEl5S0hlRk5vMHMyQzJOSElzU19GVHUzR1VrMnllOUU?oc=5",
+    "source": "FutureCIO",
+    "language": "en",
+    "published": "2026-10-23T01:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "Optro lanza agentes capacitados en dominios para auditoría, cumplimiento, riesgo de terceros y gobernanza de IA",
+    "summary_es": "Optro lanza agentes capacitados en dominios para auditoría, cumplimiento, riesgo de terceros y gobierno de IA FutureCIO"
+  },
+  {
+    "id": "5e59c8a31502",
+    "title": "Anthropic's proposed AI safety bill only allows government to block models under extreme conditions",
+    "summary": "Anthropic's proposed AI safety bill only allows government to block models under extreme conditions CBS News",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWWTA4WjEtMlNhWDdLYXNuMFQyNVpNc3NFamhxdTNLdTJpWjFWWnFBZTFaLTVxNGhYcVpDVUJVemZSSFhXVTBZdkxFUlVTR2N6RTVTNFR1UW95Q0gxNnp4cEhhWlVRUFptMHFPRUFqcnNFVDFrYU1mZ21ST2w?oc=5",
+    "source": "CBS News",
+    "language": "en",
+    "published": "2026-10-22T21:39:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "El proyecto de ley de seguridad de la IA propuesto por Anthropic solo permite al gobierno bloquear modelos en condiciones extremas",
+    "summary_es": "El proyecto de ley de seguridad de IA propuesto por Anthropic solo permite al gobierno bloquear modelos en condiciones extremas CBS News"
+  },
+  {
+    "id": "b611ec7a0013",
+    "title": "The State of AI Governance in Third-Party Risk",
+    "summary": "The State of AI Governance in Third-Party Risk Compliance Week",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmtCU2o4NVhHb0tkeG0tMkVaQWgzbVVfRGJVNFFBTmNiVm95dFpCd1RwWHR2NTc5TUVnX0c1R2ZIYTVfUVZTbnc1MUtJaVZ4bFM0LWNLWEk5cHdZMDlLOGotM3p2QjluQnNlNTdkeUdkZlJKVXdoenJKT29jX1V0QTNCMnd1endwYVh6d1NyVURrZzFjUjdzUnB2VFo?oc=5",
+    "source": "Compliance Week",
+    "language": "en",
+    "published": "2026-10-22T21:13:31+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "El estado de la gobernanza de la IA en el riesgo de terceros",
+    "summary_es": "El estado de la gobernanza de la IA en la Semana del cumplimiento de riesgos de terceros"
+  },
+  {
+    "id": "057284c2b7ac",
+    "title": "Microsoft AI beats generalist doctors in simulated complex cases, Suleyman says",
+    "summary": "Microsoft AI beats generalist doctors in simulated complex cases, Suleyman says Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTy1EVTB3SVp4bG1KVDdOVzAyckpWMm9vLXFxd2UxSGxCVDVrYks5Rk1kd3hPdWdQZU1BbUpKaDRnd0dGMUxCN2RYYjdBeUI5SUd0Q3A4S2poY19GY09CQ21TOVZCYi1WT3VCcFBfdW9RbEVvY1YxeWdVZlQ0WHZKREZwYw?oc=5",
+    "source": "Mezha.net",
+    "language": "en",
+    "published": "2026-10-22T19:19:45+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-23",
+    "title_es": "La IA de Microsoft supera a los médicos generalistas en casos complejos simulados, dice Suleyman",
+    "summary_es": "La IA de Microsoft supera a los médicos generalistas en casos complejos simulados, dice Suleyman Mezha.net"
+  },
+  {
     "id": "5622bb75770c",
     "title": "Wimpy Selected for Inaugural Oxford AI Governance Program for Social Scientists",
     "summary": "Wimpy Selected for Inaugural Oxford AI Governance Program for Social Scientists NEA Report",
