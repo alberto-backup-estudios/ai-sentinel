@@ -1,5 +1,232 @@
 [
   {
+    "id": "d609f8b12874",
+    "title": "Mustafa Suleyman, CEO Microsoft IA, asegura que su inteligencia artificial supera a los médicos en los casos más difíciles",
+    "summary": "Mustafa Suleyman, CEO Microsoft IA, asegura que su inteligencia artificial supera a los médicos en los casos más difíciles Computer Hoy",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQklLQXZxejliWE5URzNBb0tRdVpIWDNmS3F6azJUWEJzQmdmeFN1djRIaXlULWd1M25jVXJHaVQ2Qm5YeXI0UzB3TU1TSDAtUjYyMkFRN3FiY3BoUkEtTjNZbTk5RjZMS1RwUGRBUkIyazVEN3Exd0xnX05FNVo1NzVqa18wcnBRbWpjY2NVeGdORXo1UGdQWWxWdUlMYnJQaUdBVE1OcXNjbHpBQXFkTXdVNWJxeXdXTDBVQnFBcjFGb2dwUWFrRV82UThTZVJBM1FTT19ualRWNXBUSFNDa1BFT3dVNThLWVdnaHg4U18tUWQ0b3VFeHBuNURNLTVueU5ZTA?oc=5",
+    "source": "Computer Hoy",
+    "language": "es",
+    "published": "2026-10-23T10:35:35+00:00",
+    "feed_name": "Mustafa Suleyman (Español)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-23",
+    "title_es": "Mustafa Suleyman, CEO Microsoft IA, asegura que su inteligencia artificial supera a los médicos en los casos más difíciles",
+    "summary_es": "Mustafa Suleyman, CEO Microsoft IA, asegura que su inteligencia artificial supera a los médicos en los casos más difíciles Computer Hoy"
+  },
+  {
+    "id": "d75295123a18",
+    "title": "AI consciousness debate: Geoffrey Hinton says humans could be toast",
+    "summary": "AI consciousness debate: Geoffrey Hinton says humans could be toast Cybernews",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fbjk1LXgtZ0ZkVTduNHR4QlM3bHlLaEF4YThQenRpWFJydVl4MFJ1UGVjWXZzWnp2WjRzT2M1WUstNlluQjlidVNMWWdqTk9JalhpaWxwZHNkUWNWN2U3MDNSVnVPa3NfaEdfbDdEQ2lweXRhQzE5SQ?oc=5",
+    "source": "Cybernews",
+    "language": "en",
+    "published": "2026-10-23T10:17:43+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-23",
+    "title_es": "Debate sobre la conciencia de la IA: Geoffrey Hinton dice que los humanos podrían estar tostados",
+    "summary_es": "Debate sobre la conciencia de la IA: Geoffrey Hinton dice que los humanos podrían estar tostados Cybernews"
+  },
+  {
+    "id": "ee33963a868c",
+    "title": "OpenAI signs AI safety research deal with Poland’s NASK institute",
+    "summary": "OpenAI signs AI safety research deal with Poland’s NASK institute The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vR2JZMHR0ZHJybDJyZXlhTWgwMTlRWlU0RkxaNC1FMHI0NlM4cVhDUFk1TVU3aXB6cUdnMTNXUk5EWTBpbTYtaVBGVl9LeG82SjVZSG9CY2h6WlFFV1VjR1c4bVdEUWxvS0lOcnNPSzROR2M?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-10-23T09:25:51+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI firma un acuerdo de investigación de seguridad de IA con el instituto NASK de Polonia",
+    "summary_es": "OpenAI firma un acuerdo de investigación de seguridad de IA con el instituto NASK de Polonia The Next Web"
+  },
+  {
+    "id": "72269dbe9e58",
+    "title": "Harvard Alum Launches Hispanic AI safety Institute Following Viral Growth of 'eltechbro'",
+    "summary": "Harvard Alum Launches Hispanic AI safety Institute Following Viral Growth of 'eltechbro' EIN News",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenhWUTR3UFJtck1JX2M4Z0c4RjVCb2xEQkVKV3MzUmxJSTJ1ZDM4bWJfQzhPYU5pcUZGNFRZWU51ODIwcEJyczNoLW9MRVFQYUU1SGdFX3RNM1ZrVVZETXpvQkJhc1JlNk4wdFFyVmhRemo3SVFuemc5V0RVcmR4ejF4ZlNEYzl0azc2dXlDdVduQ0EyWVBZRERUaGd1elBsTHc5VWJnQXBwRFd1b3FNMU90azQ5SURvLVhVYWtBQ084N01EMHZV?oc=5",
+    "source": "EIN News",
+    "language": "en",
+    "published": "2026-10-23T09:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-23",
+    "title_es": "Alumno de Harvard lanza instituto hispano de seguridad de IA tras el crecimiento viral de 'eltechbro'",
+    "summary_es": "Alumno de Harvard lanza Instituto Hispano de Seguridad de IA tras el crecimiento viral de 'eltechbro' EIN News"
+  },
+  {
+    "id": "d18443e1c8f3",
+    "title": "OpenAI y el instituto polaco NASK colaborarán en materia de seguridad de la IA",
+    "summary": "OpenAI y el instituto polaco NASK colaborarán en materia de seguridad de la IA MarketScreener España",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1pjaUNOb2tXQ3hnZzBjdWZBZUVUbmdBOS1Cd3BLTndjT052b3dQTVRYMk5qWklWWlpDS2hmVW0yQ2FhTDZ0LUhnTW1iR19OZGFRRjdDd0NLMlpFeHljZHJ6OFVqX1dMdzhwODJQRTAwYS1WUzVfLXZPVjlyTGNJRnBid1ljOGN0cGhGSENfR3A3ZVVhNWpNTTZKT0pCMC1uNWxlVndiZk0ybjh5RXlJUmNWWWY5dldFWTBHQVNaTnBBMm11Ulo2cDdvc1ZYQ1k?oc=5",
+    "source": "MarketScreener España",
+    "language": "es",
+    "published": "2026-10-23T08:34:53+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI y el instituto polaco NASK colaborarán en materia de seguridad de la IA",
+    "summary_es": "OpenAI y el instituto polaco NASK colaborarán en materia de seguridad de la IA MarketScreener España"
+  },
+  {
+    "id": "593d97e3a03f",
+    "title": "Microsoft is building medical superintelligence, its AI just beat doctors at diagnosis",
+    "summary": "Microsoft is building medical superintelligence, its AI just beat doctors at diagnosis India Today",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQam9LZmlwbHBnZnRxT1ZfbU5yQm1mMjRCcGhxNUNLRHo1NmRwUG91ZHpKLUt6T3E1T2VWLWluQjVYeHNfWGZpVm5FTzJFcjNael9aMzRpOV9ZT2dQSVNndFBLdmVYN0ZxU25yVG5rSlJTOTdmNHpkbkZtbGxPeTljSzliUHFxd0taSE14b1BGM2xYdmFzdFM2NGdZRGhTYzJBMlZtaEUxY2FIbEJPQTVaSXdVSXNSNDFVYW9NLWwydWpBSnV6YTVGTVZ6QTNoSFA0OFQyMVVyTHpnTzJBTTJhbm9BQm5STlXSAewBQVVfeXFMT0VXQTBQTHRxV2U0RFlYX3BpMjF6Qll5cmVOMnplYXRxc1lwQTEyUHdLTi1Ra2J0SF9ZeVA1Q09NMFFvNFhuRFcxNUlkY3pYSnhPOVhDLWc5VXNPUG1EdlE3WVdQWlA4enJvcWNaTUpRMUhTSFhMdkNkbTF3ODVZZkl3UXNCZDVCNmpLVXZfXzYzTXRQaHZIYVY5X0NGQjFHcmM3Xy1ZWk4tMUp6NE0zdnZqbWVsNWFJMVVBS09vYUdwMnJ6U2VQTHF6SFk1R0lmMzlocjNwMXhucUFDYy1GR2NTOFV5bWRfbTF0N0M?oc=5",
+    "source": "India Today",
+    "language": "en",
+    "published": "2026-10-23T07:25:15+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-23",
+    "title_es": "Microsoft está construyendo superinteligencia médica, su IA acaba de superar a los médicos en el diagnóstico",
+    "summary_es": "Microsoft está construyendo superinteligencia médica, su IA acaba de superar a los médicos en el diagnóstico India Today"
+  },
+  {
+    "id": "3ae561d9b9aa",
+    "title": "OpenAI, Poland's NASK partner on AI safety",
+    "summary": "OpenAI, Poland's NASK partner on AI safety Breakingthenews.net",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWZKODktSktOSm82UWRRU2pvLXZuck5BTi0ydzZKTXg5WjFIY3dlaWxOZ0VRZ1ZQQjFLNEt2cUdXbWlZZlpLRGRINFptalFRRE5ieXBYc2pFemxxNVBvYWFvdXpPR3VGOWt6a3p0UFNOOTR0UVB0MndxOVFDakhhYnpMMWVhVXA1Tlc0QzBWcw?oc=5",
+    "source": "Breakingthenews.net",
+    "language": "en",
+    "published": "2026-10-23T07:20:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI, el socio polaco de NASK para la seguridad de la IA",
+    "summary_es": "OpenAI, el socio polaco de NASK para la seguridad de la IA Breakingthenews.net"
+  },
+  {
+    "id": "44a10fdd9b2c",
+    "title": "OpenAI and Poland’s NASK collaborate on AI safety research By Reuters",
+    "summary": "OpenAI and Poland’s NASK collaborate on AI safety research By Reuters Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOC1obE9wMEszaVMzS2JJZEdpNHB1RWJYZ1JFSlRKMjhtWXJVZTNEeUJwOU1BZGFSNUVCSVVHeEpuSHZEX25jeUo0aXZqMGQzR0RQQ3VIcmFYOU9KOE9sbWg0OWZIRzg4MERuZjJadFE4ZjZJOXd1Q1d4ZnFrWXY1eGFCQ2pMTkU5RWxpOE0tRWlPN2lTY29JR05rdGdlLVNZd21hZUtnSTdhS0dXcUlWak1RS28?oc=5",
+    "source": "Investing.com",
+    "language": "en",
+    "published": "2026-10-23T06:52:38+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI y NASK de Polonia colaboran en la investigación de la seguridad de la IA Por Reuters",
+    "summary_es": "OpenAI y NASK de Polonia colaboran en la investigación de la seguridad de la IA Por Reuters Investing.com"
+  },
+  {
+    "id": "34ff9ceda2c4",
+    "title": "OpenAI y el instituto polaco NASK colaboran en la investigación sobre seguridad de la IA",
+    "summary": "OpenAI y el instituto polaco NASK colaboran en la investigación sobre seguridad de la IA MarketScreener España",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPejRZM3hHeHFEZmFtQVdVdElwYnZ2OFA4R0pJMzZ1MlFTMnpDLXVDOXdRclZ1OFUtc1lZaDM4RTQ2LTduV1FkYVRmUW5oWnFZSWxCZnhFX2VVQkZ3aGp0LTJQcURvanBEb3dUOVQtaWp6cVI1T0NveGs1eUNhSDhwUDR2SFF0a2hDOWRObzFDT1l1UnFEN2FjSHozeld2OVp5Y0VmM1F3UkswdWVJU0pGbHZKcEN6cDVUVTVjSVl3OGxLUDM5SkgxTUhlZEhsYlQyZVYxN0VVNUs0S2RS?oc=5",
+    "source": "MarketScreener España",
+    "language": "es",
+    "published": "2026-10-23T06:25:46+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI y el instituto polaco NASK colaboran en la investigación sobre seguridad de la IA",
+    "summary_es": "OpenAI y el instituto polaco NASK colaboran en la investigación sobre seguridad de la IA MarketScreener España"
+  },
+  {
+    "id": "13d5fc69c308",
+    "title": "OpenAI and Poland’s NASK collaborate on AI safety research",
+    "summary": "OpenAI and Poland’s NASK collaborate on AI safety research Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-10-23T06:25:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI y NASK de Polonia colaboran en la investigación de la seguridad de la IA",
+    "summary_es": "OpenAI y NASK de Polonia colaboran en la investigación de seguridad de la IA Reuters"
+  },
+  {
+    "id": "f0c8c1fe9c2c",
+    "title": "Godmother of AI Fei-Fei Li Speaks with Stephen Kotkin on AI (Transcript)",
+    "summary": "Godmother of AI Fei-Fei Li Speaks with Stephen Kotkin on AI (Transcript) The Singju Post",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnF6RUZ4Y25mRE1RSkdDTTh6SzN6THNzdkpKZHlGd2tWb1ZOaG9FYmRWZjBxY2RYUWhxV2VVdnhnY0NHc0JVcmNyREx5X25nZjh2UkExSG1kby1peG8zeWpZYXdqS2RjYUVmVC13TEt2M2VxLXphbzNxVGlObHpKanVjTHNFTEFfNm5fMDJ5UUFoRzFUbWZrS1NR?oc=5",
+    "source": "The Singju Post",
+    "language": "en",
+    "published": "2026-10-23T06:20:50+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-23",
+    "title_es": "La madrina de la IA Fei-Fei Li habla con Stephen Kotkin sobre la IA (Transcripción)",
+    "summary_es": "La madrina de la IA Fei-Fei Li habla con Stephen Kotkin sobre la IA (Transcripción) The Singju Post"
+  },
+  {
+    "id": "d4470dc206aa",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
+    "source": "OpenAI",
+    "language": "en",
+    "published": "2026-10-23T05:11:03+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-23",
+    "title_es": "OpenAI y NASK de Polonia se asocian para promover la seguridad de la IA",
+    "summary_es": "OpenAI y NASK de Polonia se asocian para promover la seguridad de la IA OpenAI"
+  },
+  {
     "id": "b37cf5f60735",
     "title": "Who Can Actually Stop the Machine? The Institutional Test for AI Governance in Southeast Asia",
     "summary": "Who Can Actually Stop the Machine? The Institutional Test for AI Governance in Southeast Asia fulcrum.sg",
