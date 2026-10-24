@@ -1,5 +1,62 @@
 [
   {
+    "id": "2a33cad603f8",
+    "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
+    "summary": "Apple @ Work: The browser is the biggest gap in your AI governance strategy 9to5Mac",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3VlTm5GMUt0X2RZVFVBVkNWbUk3ampWVnlhWjl4aVRrbWpjdmNUNU0wZTRKRFJGTVB1RXRvMDVodENFYk9keVltV2lHSFRpQ0RUcGVzZUVrMGhkY3d3NGtNcVc4RVgtUGtON2xSS01wVmo2QUlleDBycGFUV21NLXhZNy1zZndoM0RfTXZhY2xZLU5WbzZmbFoyWmlLbG8yY3VmNFktYw?oc=5",
+    "source": "9to5Mac",
+    "language": "en",
+    "published": "2026-10-24T13:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-24",
+    "title_es": "Apple @ Work: el navegador es la mayor brecha en su estrategia de gobernanza de IA",
+    "summary_es": "Apple @ Work: El navegador es el mayor vacío en su estrategia de gobernanza de IA 9to5Mac"
+  },
+  {
+    "id": "76b19bbdad1b",
+    "title": "OpenAI and Poland’s NASK partner on AI safety research",
+    "summary": "OpenAI and Poland’s NASK partner on AI safety research AI News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0FVWUZSemxtY2JtWURCSTA1RklkdkZRbFdwb1RESXUxZ2pTN05ZTEpaV0VDMVhCYnk1NF8wWGFxN3AtRFI1SVByaVhhLUFvMWhMQnNOdW1qZkRmUXFNVmo1b3ZjN3JLQk1sb29UcWNUZ2RWenFxSlQwVEU3R2w2Q2pBdFhTVTNENGtocGxPSVFXQzQwMEVKajJGWlFOclZadGpaS3JB?oc=5",
+    "source": "AI News",
+    "language": "en",
+    "published": "2026-10-24T12:04:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-24",
+    "title_es": "OpenAI y el NASK de Polonia se asocian en la investigación de la seguridad de la IA",
+    "summary_es": "OpenAI y NASK de Polonia se asocian en la investigación de la seguridad de la IA AI News"
+  },
+  {
+    "id": "96fc561adc32",
+    "title": "Geoffrey Hinton, Premio Nobel de Física: \"Me fui de Google para hablar de los peligros de la IA antes de que sea más lista que nosotros\"",
+    "summary": "Geoffrey Hinton, Premio Nobel de Física: \"Me fui de Google para hablar de los peligros de la IA antes de que sea más lista que nosotros\" Computer Hoy",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZmNBX1VxSkV0Y1Z5WUd5SUJxdjRQd0pxWmdmRUdhelFKb05mb21zT3M1TjdacWlSYlhscEgxSDRuNDJZMVZYWUFZYnktTW1HWHdFY2o0Z1dSLUFpbktqTGQ3aDRsTk5CUVliV3pvVlZIZ2VfazNNUzlyb0QxeEFDeGtxYXo1WEZwdGthZnY2UDZHUDItYTZ3ajFEdkpObE54SEtxekgyRlIzdjl1TWZaS2VoQnlhY2g0VlNtOHBpMnlqVDM3anRSV1VqUTM0Q20xaGdSUHJTNmd6RWxwcUxPVzJuZmY5WFBPdWhCejRiNWlIRThmOXJhbVVsQUVzbW9UNDZB?oc=5",
+    "source": "Computer Hoy",
+    "language": "es",
+    "published": "2026-10-24T11:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-24",
+    "title_es": "Geoffrey Hinton, Premio Nobel de Física: \"Me fui de Google para hablar de los peligros de la IA antes de que sea más lista que nosotros\"",
+    "summary_es": "Geoffrey Hinton, Premio Nobel de Física: \"Me fui de Google para hablar de los peligros de la IA antes de que sea más lista que nosotros\" Computer Hoy"
+  },
+  {
     "id": "d99fe173035d",
     "title": "A timeline of developments in AI safety since the attack on Hugging Face",
     "summary": "A timeline of developments in AI safety since the attack on Hugging Face Tech Xplore",
@@ -36,6 +93,24 @@
     "summary_es": "Víctor Gómez, ingeniero industrial: “Solo un empresario mediocre ve la Ley de Inteligencia Artificial de Europa como algo malo” La Vanguardia"
   },
   {
+    "id": "039fd442efa6",
+    "title": "OpenAI y NASK de Polonia se alían para mejorar la seguridad y protección de la IA",
+    "summary": "OpenAI y NASK de Polonia se alían para mejorar la seguridad y protección de la IA OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejZHclBiZE5OWFNPc3hKVmtncUZwT3kwaTV0Nk9jN0hRNFczUFh1VGZ3RjkzcW0xM2hjcDRaTTRUVHRWRERLMzRuVDZJblc1STgwOUFrUlBIU2lFQ2xLbkp2SU9UUXZSNERiVXpMVW5yTnR0cDM0U2V2S1piNTZjUg?oc=5",
+    "source": "OpenAI",
+    "language": "es",
+    "published": "2026-10-23T23:04:40+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-24",
+    "title_es": "OpenAI y NASK de Polonia se alían para mejorar la seguridad y protección de la IA",
+    "summary_es": "OpenAI y NASK de Polonia se alían para mejorar la seguridad y protección de la IA OpenAI"
+  },
+  {
     "id": "4af1a3c398f0",
     "title": "A timeline of developments in AI safety since the attack on Hugging Face",
     "summary": "A timeline of developments in AI safety since the attack on Hugging Face Union-Bulletin",
@@ -52,6 +127,24 @@
     "date_added": "2026-10-24",
     "title_es": "Una cronología de la evolución de la seguridad de la IA desde el ataque a Hugging Face",
     "summary_es": "Cronología de la evolución de la seguridad de la IA desde el ataque a Hugging Face Union-Bulletin"
+  },
+  {
+    "id": "97b12a877f83",
+    "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+    "summary": "A timeline of developments in AI safety since the attack on Hugging Face News-Press NOW",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWJtOGdrOE90M3lXTVh2ZDV0TVRkTWlYUnhqS3MyNl9FLVVkVXBwdmFJNXAzVDJjalJVWHBCWWdwR1NLLS1reW9HeWtDUjRMME45ckVYbXdVcng5ejFWb0lEd2ZLbkRONXdhS1FYSVgxWTlYUEJvQmdvbkpVeExSWFZ4bnNSVm9nTVBIMkE0MVgyV1RwR2hXejhXWk53c21fbjNOZzRXX0RibVZ1WmVoZ0x5d25LdU03NGl3X2g0UE11V2FDbjEzV3ZHRlhsMDJZR0xzMXFERW1tekc4Zm1JNHUya01ZTEs3eWZuV1pkbklwbG5ocjc4SlpUak5QNmNJYkN4SzBWRXZENU0?oc=5",
+    "source": "News-Press NOW",
+    "language": "en",
+    "published": "2026-10-23T22:44:16+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-24",
+    "title_es": "Una cronología de la evolución de la seguridad de la IA desde el ataque a Hugging Face",
+    "summary_es": "Una cronología de la evolución de la seguridad de la IA desde el ataque a Hugging Face News-Press NOW"
   },
   {
     "id": "729775a60f7f",
