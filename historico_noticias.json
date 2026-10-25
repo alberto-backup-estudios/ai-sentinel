@@ -1,5 +1,155 @@
 [
   {
+    "id": "37e0686a8657",
+    "title": "Aleksander Madry anuncia que volverá a OpenAI por la seguridad de la IA",
+    "summary": "Aleksander Madry anuncia que volverá a OpenAI por la seguridad de la IA NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXh2OUpRVXBxdDRXalNWd0tHT3VoLTdNV3BxbXZ4TXlrYTRMRGJJcnJROHp5TlVKUGFjT3czaXBNTjZDYlhyaFpYQlkwNGFFZk1NVG9wRHFGc04xbFNkc3dSVWVTOVBQNkFvN1JUQ0pueEdvQ21iQUc2X2RLVWxobFpEcmJsa3BVWTBxc0k3Rkx3YzNRcGVwRUNfSExDdw?oc=5",
+    "source": "NeoTeo",
+    "language": "es",
+    "published": "2026-10-25T00:39:46+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-25",
+    "title_es": "Aleksander Madry anuncia que volverá a OpenAI por la seguridad de la IA",
+    "summary_es": "Aleksander Madry anuncia que volverá a OpenAI por la seguridad de la IA NeoTeo"
+  },
+  {
+    "id": "107b3c7f863c",
+    "title": "High Stakes, Higher Speed: Trust and AI Governance Lead CDO Magazine’s New York Leadership Summit",
+    "summary": "High Stakes, Higher Speed: Trust and AI Governance Lead CDO Magazine’s New York Leadership Summit CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWhyUVNFdU96UFRfUGpGT3RNQXJsa3lZaVlkZ1pXLURWUVY2ZTk1SzFqejVIa1gwcmhrcngtd095UlhFOHUxWWQzc00tRVoySjNfelJ5dGFMSjU3ZmtBeUYyT3NwWjdwSW1wODRBM2FfSjlyX3RyVW0xY1NveG5tZnhVNlR0bGhvdlRERmxwem9VVjlDVEMwSG54Ujk3eXlUTG9jMU5IcGNWcEhwQzVOOTB0WnRCU1VCS3VaX0VoRHNaUXlYQ2hKREV2M1BXdw?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-10-24T21:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-25",
+    "title_es": "Hay mucho en juego, mayor velocidad: la confianza y la gobernanza de la IA lideran la Cumbre de Liderazgo de Nueva York de la revista CDO",
+    "summary_es": "Hay mucho en juego, mayor velocidad: la confianza y la gobernanza de la IA lideran la Cumbre de Liderazgo de Nueva York de la revista CDO CDO Magazine"
+  },
+  {
+    "id": "97624743e418",
+    "title": "EU AI Act",
+    "summary": "EU AI Act PPC Land",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5pWU1pdjR5Q0ltQjhFeEJueXpkSGhfa1JtU3hfVjhsNVFGWmkxbkhoSVYtSnZPb2xDbzhaUjJWemQ?oc=5",
+    "source": "PPC Land",
+    "language": "en",
+    "published": "2026-10-24T20:28:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-25",
+    "title_es": "TENGO actuar",
+    "summary_es": "Ley de IA de la UE PPC Land"
+  },
+  {
+    "id": "c1b8e999194c",
+    "title": "AI governance",
+    "summary": "AI governance PPC Land",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12UnpFSWFwSXo4SEtuSnlSbElXWHZ3ZGo1YW9SMm9WWjVWODFSdzJBc1pBYWV5Qm9yWmVMOERqaVVUenIydkE?oc=5",
+    "source": "PPC Land",
+    "language": "en",
+    "published": "2026-10-24T20:28:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-25",
+    "title_es": "Gobernanza de la IA",
+    "summary_es": "Gobernanza de IA PPC Land"
+  },
+  {
+    "id": "c74a5cefb5f8",
+    "title": "OpenAI y NASK de Polonia se unen para mejorar la seguridad y la protección de la IA",
+    "summary": "OpenAI y NASK de Polonia se unen para mejorar la seguridad y la protección de la IA OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rYmJFZUVLNG92N2FzV1hpOVNkZ0FkS1BUcmZxZnBUZ291TVk3WXo2YjlmMXE0Z1A4X1JENjJhYWpjTHRFdVBMSmdnaUNKUHVKR1U3bnJpcEp5QXVjcDh5bjF6YlVOVk9VdUJ3RnVFRm1ucVdIN2REY2FEdzIxZms?oc=5",
+    "source": "OpenAI",
+    "language": "es",
+    "published": "2026-10-23T23:09:38+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-25",
+    "title_es": "OpenAI y NASK de Polonia se unen para mejorar la seguridad y la protección de la IA",
+    "summary_es": "OpenAI y NASK de Polonia se unen para mejorar la seguridad y la protección de la IA OpenAI"
+  },
+  {
+    "id": "fe2946e66a79",
+    "title": "Only In America: Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence | Hoover Plus",
+    "summary": "Only In America: Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence | Hoover Plus Hoover Institution",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzFVYTZhVVhlUXI3V2haMWdUTkFSVjNsU3NiaUFqNV9Gc1RJUUlDQnF2VWk3ZXpFNkVtNmM5QTROZm5sVHItMXFGWUppUFpJWk9jTFFGM21jUUt4Tm5NeXM5SHExWXdCMENPS2xhSmZzZmRESURXdHEtRm94ZGt1cWZxWWRMYXRzeWlPWktrUkgwTF9MaWhxN2YtQlpDZnE5NlE?oc=5",
+    "source": "Hoover Institution",
+    "language": "en",
+    "published": "2026-10-22T07:46:33+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-25",
+    "title_es": "Sólo en Estados Unidos: Fei-Fei Li sobre la curiosidad, la audacia y la búsqueda de la inteligencia artificial | aspiradora plus",
+    "summary_es": "Sólo en Estados Unidos: Fei-Fei Li sobre la curiosidad, la audacia y la búsqueda de la inteligencia artificial | Hoover más Institución Hoover"
+  },
+  {
+    "id": "5f78e46200a8",
+    "title": "A global, hardwired pause of frontier AI training is feasible, says new report",
+    "summary": "A global, hardwired pause of frontier AI training is feasible, says new report University of California, Berkeley",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWFsZEpIWkJuSUdnY3lmZlkyYjhkaXc5SzdlZUp1RkhkTmhxejQ4N0ZNQ0VOODhsWTB0WmhuZFFLVlF3WDFQOHdhNEZMc1ZINEFiZUF2ZEdPMWNCS01VUVpEZEx5MTE3akhIX0tDWGNBbGZVQkl1SWJPVC15LUp3WU1oSGpuUlhrTEh6Tjc2TDhUWjdOUlNNRVkxRDVuMGl4M0ZhNGdDS2d1QzVfVng5MC1rWXQ?oc=5",
+    "source": "University of California, Berkeley",
+    "language": "en",
+    "published": "2026-10-09T07:00:00+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-25",
+    "title_es": "Es factible una pausa global y programada en el entrenamiento de IA de frontera, según un nuevo informe",
+    "summary_es": "Es factible una pausa global y programada en el entrenamiento de IA fronteriza, dice un nuevo informe de la Universidad de California, Berkeley"
+  },
+  {
+    "id": "882726d4c4f0",
+    "title": "Top Economist Warns AI Could Triple Unemployment Within a Decade — ‘What We Are Living Through…Is Unprecedented’",
+    "summary": "Top Economist Warns AI Could Triple Unemployment Within a Decade — ‘What We Are Living Through…Is Unprecedented’ Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWZHOW1VRG9IYjhGd3FWLXhjXzYzdUpzQnRKWHNRNFFfSFVld0hMclFyWmJGM0dsQzRwZWJaNHBIN05uYldQN1NWcmRGQUNPNTJ5X1VHcXdPUF9TYUV1Tk15aUd4c1hNNUZfZVRYTkJOZmNnQWcxQlMxUjhEVkpSYWVoNnZvanp4bVphM2tUaw?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-05T07:00:00+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-25",
+    "title_es": "Un destacado economista advierte que la IA podría triplicar el desempleo en una década: \"Lo que estamos viviendo... no tiene precedentes\"",
+    "summary_es": "Un destacado economista advierte que la IA podría triplicar el desempleo en una década: \"Lo que estamos viviendo... no tiene precedentes\" Yahoo Finanzas"
+  },
+  {
     "id": "77f31c08d467",
     "title": "Más de 400 científicos acusaron a los laboratorios de IA de negligencia y pidieron un organismo internacional de control",
     "summary": "Más de 400 científicos acusaron a los laboratorios de IA de negligencia y pidieron un organismo internacional de control Infobae",
