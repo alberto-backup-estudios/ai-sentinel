@@ -1,5 +1,100 @@
 [
   {
+    "id": "8fc20c233484",
+    "title": "Setting the Scene (Public v1; October 25)",
+    "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other ...",
+    "link": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-25T07:52:23+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-25",
+    "title_es": "Preparando el escenario (Público v1; 25 de octubre)",
+    "summary_es": "Contexto: Creé esto para compartir antes del inicio de los cursos que facilito para brindar un repaso sobre eventos recientes, pero también como un gancho para atraer a los estudiantes a involucrarse con algunas de las ideas que pensamos en la seguridad de la IA desde el principio. Espero que los temas que cubro en mi publicación \"Preparando el escenario\" cambien con frecuencia, por lo que está menos pulido que algunos de mis otros..."
+  },
+  {
+    "id": "b3a7fcc25117",
+    "title": "OpenAI y NASK firman acuerdo para investigar la seguridad de la IA",
+    "summary": "OpenAI y NASK firman acuerdo para investigar la seguridad de la IA Foro3D",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDlBUVJGWUZYd1kyTU1IcS1FVWNBR04zVDdZZ0ptRGFJOFo5MGdNWUJZUWJjUTNjMFFaYU5YeldEYWpfVHcyckx3clRHTllGa05kSHptSXJ3STlCcFhGd2txR2xsdEVZNXd4VTBJaXRyTkEzUF84TDgzb3phV0VhdWk5R2p0Z0p2U0EzWmhpbWhUQjR4VDlMdW5ja2ZlRXJ4bHA2OTZR?oc=5",
+    "source": "Foro3D",
+    "language": "es",
+    "published": "2026-10-25T06:12:37+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-25",
+    "title_es": "OpenAI y NASK firman acuerdo para investigar la seguridad de la IA",
+    "summary_es": "OpenAI y NASK firman acuerdo para investigar la seguridad de la IA Foro3D"
+  },
+  {
+    "id": "422557911eb7",
+    "title": "Geoffrey Hinton: “El problema de la IA es más urgente que el cambio climático”",
+    "summary": "Geoffrey Hinton: “El problema de la IA es más urgente que el cambio climático” La Vanguardia",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnlxZkV1RlJnR0ljTHNJalM2dVFIMllZQ2pWMmhYOFQ0V29DTnhldFNJQXVLZWpyQkNZWU1wSlhvZVJJaGFBY0pWYS1JVEtrN0pQbUpBSzE2cV84T0F2emRKSXZxcllITjNvc1kwbUV3LXQ3N3JuZGtRRy1HeTBHVUFFS1BIdHBKNVE3dFFjMEJqMDIzZVJScG93MjR5ajFNZERndi1hQUxabjl1UUt3LWw1d9IBuAFBVV95cUxQUU93ZHpCaURoYWdNdmNCOTNUNVlwYlk5QmNlX0FVbXBHdURRNHRKc241U2ViVi1jLXBta0lCUU5IYWQ0cnU4M2xaRV9HZzR4NHAtNXh1aFBaS0J3MGdyWnVSeGRyVTB3TFdQbnVKNUN5bF9XNlpqeExuZXBLLW9HYXlycFlwQmwtTzdDU0tLeFMxYzEzcHhXdEdTYjhpbXlBdFBGUEEzRC1nQk1MT2VGWWYtU1hMcW4x?oc=5",
+    "source": "La Vanguardia",
+    "language": "es",
+    "published": "2026-10-25T05:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-25",
+    "title_es": "Geoffrey Hinton: “El problema de la IA es más urgente que el cambio climático”",
+    "summary_es": "Geoffrey Hinton: “El problema de la IA es más urgente que el cambio climático” La Vanguardia"
+  },
+  {
+    "id": "06b49b74d3af",
+    "title": "Yuval Harari's New Insights on \"the AI rocket we won't get off\"",
+    "summary": "Yuval Harari's New Insights on \"the AI rocket we won't get off\" Наша Ніва",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyNmQ5NlBLZG4xSW1RR3FLYlpIRHFpa2p2N1RpTzVDalZGNG5BZFZNcFMzRTkwZjJCWkxuLXNuUEZsT2dWQnfSAUtBVV95cUxOVU8wZVo2d3lTTlk1T2VmZWFQWmROQjFFQ3l5d21mYU1KbGl0elpXQjFaMm1fQjNTVTYzSmUtcThBUHk0ZDVtdnBXRGs?oc=5",
+    "source": "Наша Ніва",
+    "language": "en",
+    "published": "2026-10-25T03:00:00+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-25",
+    "title_es": "Nuevas ideas de Yuval Harari sobre \"el cohete de IA del que no bajaremos\"",
+    "summary_es": "Nuevas ideas de Yuval Harari sobre \"el cohete de IA del que no bajaremos\" Наша Ніва"
+  },
+  {
+    "id": "099dd7158ba9",
+    "title": "El gobierno del Reino Unido anuncia un paquete presupuestario centrado en la seguridad de la IA.",
+    "summary": "El gobierno del Reino Unido anuncia un paquete presupuestario centrado en la seguridad de la IA. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdy11LUlVbk1ULW01WVItek1xMDlOMktRNzFycXR1TmdJclhNVEtLY0p4UmRBR1JKNmYzajRZSHNKWF9PbnJRZ3ZROVRzVjNhV1hCTEdBbEhkdWZsVExvaXVxc2x0UGF6N21SOEVvZmVqQTNHekNITXA1VTlEamYtR21qZzhTYmZpbmJIMVRoYw?oc=5",
+    "source": "Vietnam.vn",
+    "language": "es",
+    "published": "2026-10-25T01:19:48+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-25",
+    "title_es": "El gobierno del Reino Unido anuncia un paquete presupuestario centrado en la seguridad de la IA.",
+    "summary_es": "El gobierno del Reino Unido anuncia un paquete presupuestario centrado en la seguridad de la IA. Vietnam.vn"
+  },
+  {
     "id": "37e0686a8657",
     "title": "Aleksander Madry anuncia que volverá a OpenAI por la seguridad de la IA",
     "summary": "Aleksander Madry anuncia que volverá a OpenAI por la seguridad de la IA NeoTeo",
