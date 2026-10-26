@@ -1,5 +1,248 @@
 [
   {
+    "id": "b84f8a4d2826",
+    "title": "Bill guide: New Jersey lawmakers take up four AI safety proposals",
+    "summary": "Bill guide: New Jersey lawmakers take up four AI safety proposals Transparency Coalition",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0ZHQU9INUJyVl9VSEZPbnktNmtMSnZLdURPaF9VMWw2Y3NRd29BajdRYjZCd2ZUU0s2Sl9hZ0ZiY2NCbzV5Q0swUDEzRDFfU0R0cmtrZ09hY2Fqdk9RejBMS2RtazZaYjlxMTAzcVlMbFFyTVhZQzBjRVdHZXJ0M2xCd2ZFOS00NmRZ?oc=5",
+    "source": "Transparency Coalition",
+    "language": "en",
+    "published": "2026-10-26T12:05:39+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Guía de proyectos de ley: los legisladores de Nueva Jersey abordan cuatro propuestas de seguridad de la IA",
+    "summary_es": "Guía de proyectos de ley: los legisladores de Nueva Jersey adoptan cuatro propuestas de seguridad de la IA Transparency Coalition"
+  },
+  {
+    "id": "9add40020766",
+    "title": "2027 Predictions: AI Governance Moves Off the Company Laptop",
+    "summary": "2027 Predictions: AI Governance Moves Off the Company Laptop VMblog",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdTgxaW1pMVdZbWNXem9qRTVaSXZnanlzQ09pZzRtLVR0MmRpM0lWV19YQ2Q0blJzNkhwdUQ2ckZhTDVjWE9lRlVnekg5QXk4aEhwNWdVYXRkd2hXNVM3ZkFmalJNZlR6ck13TzEySkhmalB3Y3lGbEhKUVptV2tTZTZjUnFJcDV2enBQYmU3aS0?oc=5",
+    "source": "VMblog",
+    "language": "en",
+    "published": "2026-10-26T12:02:53+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Predicciones para 2027: la gobernanza de la IA sale de la computadora portátil de la empresa",
+    "summary_es": "Predicciones para 2027: la gobernanza de la IA sale de la computadora portátil de la empresa VMblog"
+  },
+  {
+    "id": "4a3f2956e0b8",
+    "title": "AI governance needs to consider users’ emotional responses",
+    "summary": "AI governance needs to consider users’ emotional responses Nature",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZazljZm9YMzI3ZFVSbnozRE5MNGVHZzJJSTAyUTI3Wk9OcENFSGlIOUt5UXJwUGVLd05FdWN6ZVl4X3lyOS1sV1ZiZXJSSHgwSDFSaUtvMnE3X0NINUF3?oc=5",
+    "source": "Nature",
+    "language": "en",
+    "published": "2026-10-26T11:17:56+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "La gobernanza de la IA debe considerar las respuestas emocionales de los usuarios",
+    "summary_es": "La gobernanza de la IA debe considerar las respuestas emocionales de los usuarios"
+  },
+  {
+    "id": "9bea11c64e94",
+    "title": "Cuando la seguridad de la IA deja de parecer ingeniería",
+    "summary": "Cuando la seguridad de la IA deja de parecer ingeniería Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aSWV0STJ6M1dfaDB2eEs5N1pjUUEwbnJKQmtOVzVfbHlGejgzWXVuYmlpbzJqUC1oWDA5S3Iwd1JSZDRhUkd5dXpUck9SWXF1SjBsajZFR3lnclBhOTNuWWVWck95TnY0aDdMRnR0dw?oc=5",
+    "source": "Unite.AI",
+    "language": "es",
+    "published": "2026-10-26T11:12:43+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Cuando la seguridad de la IA deja de parecer ingeniería",
+    "summary_es": "Cuando la seguridad de la IA deja de parecer ingeniería Unite.AI"
+  },
+  {
+    "id": "76295c9409b3",
+    "title": "When AI Safety Stops Looking Like Engineering",
+    "summary": "When AI Safety Stops Looking Like Engineering Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nYXdVclg5ck9nUFpIRkhmN0pXeWU5N21jREtGb1lkLUpJdkdCc0pYdU9fMDF0NG5QREVRbDNkcUxpN1RNclQwNk8zcmhNcHhXZWxzRzZvMkk1TnFLUWlmWEFnaDRZamdzSU5V?oc=5",
+    "source": "Unite.AI",
+    "language": "en",
+    "published": "2026-10-26T11:12:43+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Cuando la seguridad de la IA deja de parecer ingeniería",
+    "summary_es": "Cuando la seguridad de la IA deja de parecerse a la ingeniería Unite.AI"
+  },
+  {
+    "id": "bc25276e5d6c",
+    "title": "Video. Think about the future: Nobel laureate Geoffrey Hinton on caring AI",
+    "summary": "Video. Think about the future: Nobel laureate Geoffrey Hinton on caring AI Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0lveUtWLVJEZWJEbFp3RC1DcnFIdTVyNDJ4ckdvX3ExUEhrNExHc1pnRWIxTnZveU9mUWFZZTloYUU2ekVPNXE3Vm1pTDh0OU5HeDNTVEhsRUxwN1oxSi1pRWN6Rkt6anJ4eEhzWWhuTk1vYmxMSXVjLW1OUERyakRuc2N0SUdiVmxZdFNiRzczVUNadUotUXpiLWxiQ0tObTM3d3VzaE1PU0hCay1vV0RJRUFyQkRDTXNZMWFlNGNpREZn?oc=5",
+    "source": "Euronews.com",
+    "language": "en",
+    "published": "2026-10-26T10:59:38+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "Video. Piense en el futuro: el premio Nobel Geoffrey Hinton sobre la IA solidaria",
+    "summary_es": "Video. Piense en el futuro: el premio Nobel Geoffrey Hinton sobre la IA solidaria Euronews.com"
+  },
+  {
+    "id": "5698a75d281d",
+    "title": "Be nice, not nasty: Nobel laureate Geoffrey Hinton on why AI needs humans at its heart",
+    "summary": "Be nice, not nasty: Nobel laureate Geoffrey Hinton on why AI needs humans at its heart AOL.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHV6ZlExRVFQN2xSenJ3UkhGMTJJOEoyUjMwWEJFWGEyUk9IMnNxcWtnTzFIamgzM215Vlk5cFpUeXd5bXVNa1p0TzlpLUx0MFZPUVcyb19iRHBkWXg2OXFMNUVNN3pzNFNuU2d1UlY4NnZDOGpiVkdkUEtLWnRDVw?oc=5",
+    "source": "AOL.co.uk",
+    "language": "en",
+    "published": "2026-10-26T10:59:38+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "Sea amable, no desagradable: el premio Nobel Geoffrey Hinton explica por qué la IA necesita a los humanos en su centro",
+    "summary_es": "Sea amable, no desagradable: el premio Nobel Geoffrey Hinton explica por qué la IA necesita a los humanos en su corazón AOL.co.uk"
+  },
+  {
+    "id": "3316722fd033",
+    "title": "AI governance gaps leave RIAs exposed to a new wave of cyber threats",
+    "summary": "AI governance gaps leave RIAs exposed to a new wave of cyber threats InvestmentNews",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3JRZEtfNVZNWFc4UVFBN0RQU1ZEYkFucmpmblJLSU1hWDNiR2ZQYTQ4TUJ3S1NrMF9EcE1IeXRQZHVjOFByZnVXVVFyWWJGeFJYbk9TZ0VueFdHTG1wblJfOWhQaHY5MjhQdFZfdVFMdFFBUDh2bjVfeFBpWWdMdms2eUR0VlFDNFpJTkJ6YmdGODZqRUJlQk1HRXV0VHQxUHhfc1pFaW1hRXFhMVhtcjVsUll3UlVXYkswTkhUb2dsVE94?oc=5",
+    "source": "InvestmentNews",
+    "language": "en",
+    "published": "2026-10-26T10:39:23+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Las brechas en la gobernanza de la IA dejan a las RIA expuestas a una nueva ola de amenazas cibernéticas",
+    "summary_es": "Las brechas en la gobernanza de la IA dejan a los RIA expuestos a una nueva ola de amenazas cibernéticas InvestmentNews"
+  },
+  {
+    "id": "f31159819c96",
+    "title": "Geoffrey Hinton, ‘padrino’ de la IA: “Con la IA las cosas pueden empeorar mucho más rápido que con el cambio climático”",
+    "summary": "Geoffrey Hinton, ‘padrino’ de la IA: “Con la IA las cosas pueden empeorar mucho más rápido que con el cambio climático” La Vanguardia",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjZQRVFFcklId3hOQ2Z4bF9mckpTYV9Yako0Y2E5S2ljMWM3RWZzWk1NVHVvVXFaN0tLS1V4MjZzZzFTSTRNS0pkX01pSkZvclR2RDZUdWZDTlYzRHc4NjYxX0RKcmVqT3VibHhuekNkVE9TeTh5ZEg2bm1NdjBqTlUtVE1fRE9LVU5GLXIydF9vY3RyWXdjX1llTUtpMHpLQkttb2pUUjNaaTd4bzBha2xYczI1Y2htRW9qOE1TMHYtNjgxZ2pXZ0kydDUyc1hMakhQWG5hRdIB3AFBVV95cUxOSElsRDJjOGpkWk1mUDdNYjU3ZFoydUhUMkV6Nm5ETDU3ZHgtYUFBWkNhNEplckg3TkVTV2o0QVhkMjhKUDI0X2Nzd3JHTUFrTGYzdG52VFhmanhEeVpLd2Qxa3lmZGF4U2tXYi10UHV4ZGN2bE9fckJseElUMEV5MjJZakRTNDRYd0l0YkJaTDVYbzJRai1wMENVMGI5cE5Renp2Z2JNR3E5NF9Uc3lXTWtrTmRkd09qSEUwY1dBQTBfNWdiTjdUeVJuNVc4Tm16OGFBU3BVMUY4RHBK?oc=5",
+    "source": "La Vanguardia",
+    "language": "es",
+    "published": "2026-10-26T09:53:43+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Geoffrey Hinton, ‘padrino’ de la IA: “Con la IA las cosas pueden empeorar mucho más rápido que con el cambio climático”",
+    "summary_es": "Geoffrey Hinton, ‘padrino’ de la IA: “Con la IA las cosas pueden empeorar mucho más rápido que con el cambio climático” La Vanguardia"
+  },
+  {
+    "id": "a54bdda8fa84",
+    "title": "Powering AI governance at enterprise scale",
+    "summary": "Powering AI governance at enterprise scale CIO",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2VIMnlCR3dGNFFoMXNrQUdrcGJ0LVIwQmRxYXFEY3QzZDhmdERzcFpqYXVlUDBRR05wRlZKbHJKYkVfTm9SaDRRMUZvM2drUXQ3Y0pGb2t5SEJqMG1PR193em9kVDFDUTFmWVVpZk5pNDVtLXUzVy1oQ3hfVzg5cnlteS1PMVJSOU5F?oc=5",
+    "source": "CIO",
+    "language": "en",
+    "published": "2026-10-26T09:03:39+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Impulsando la gobernanza de la IA a escala empresarial",
+    "summary_es": "Impulsando el gobierno de la IA a escala empresarial CIO"
+  },
+  {
+    "id": "00c39b476016",
+    "title": "AI Safety Emerges as Midterm Flashpoint in Battleground Races",
+    "summary": "AI Safety Emerges as Midterm Flashpoint in Battleground Races Bloomberg Government News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnNIanl4NTJrUF83RVIzZkhkVS10RUxabTlpdW9Fd3daX1p4NHBSYnNfQnRXN1JsVWYzUmZNdVlKNEZEZUdTSEY0ekU3VDkyaHRmTHpJUmZBNEUxa29fakYwLXBDRE15UVliemlMREdhTVEwV2RCclp5T3hULVJpMFJnRWJCY0ZlSlpIVGs5M1JmdHB1SlZqX3czdjBxcHNpWXF0RVJnMGRwdHdnemc?oc=5",
+    "source": "Bloomberg Government News",
+    "language": "en",
+    "published": "2026-10-26T09:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "La seguridad de la IA surge como punto crítico a mitad de período en las carreras de campos de batalla",
+    "summary_es": "La seguridad de la IA surge como punto álgido a mitad de período en las carreras de campo de batalla Bloomberg Government News"
+  },
+  {
+    "id": "a58e4f9b8a42",
+    "title": "UK businesses warned over ghost AI governance risk",
+    "summary": "UK businesses warned over ghost AI governance risk SecurityBrief UK",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTGdrNU13bEZEX1BtaV9xMzRVa21NNzdQU2M3RGZjenQzZl9jaHFxRkY5elJvdDNmbmpQODhCelJWTERWMlRZdTFMUzRKY1NUN2ZrZ0xIQ3hLMk1iV2Y0Z2ZSaEVHUlVsZTlBZ1g1TTZvSnNhN1JjdTllVDRNcGZMRDFrMVBVNTE1NUZtRw?oc=5",
+    "source": "SecurityBrief UK",
+    "language": "en",
+    "published": "2026-10-26T07:57:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Las empresas del Reino Unido advirtieron sobre el riesgo de gobernanza fantasma de la IA",
+    "summary_es": "Las empresas del Reino Unido advierten sobre el riesgo de la gobernanza fantasma de la IA SecurityBrief UK"
+  },
+  {
+    "id": "f7449c930a9e",
+    "title": "SK Telecom publishes first AI governance report",
+    "summary": "SK Telecom publishes first AI governance report Telecompaper",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEk1RVh4aDYzeVhJWlhFRUd1TC1rUFcwb3RBVi1VNlo4RDdESmRsQ1lkR2FkOF9HdUExVjFzNWs2WUhmMlpkMkRfRmtCb25Ka1RXRHdWMnRnYUhvVUJQWG1QcUhvY1I3ZW1ENlUxZnVVRVVMV3AtQ2diSUE1X1EwUHBNem90bzhjTGJmN2NwNzZmNHI0?oc=5",
+    "source": "Telecompaper",
+    "language": "en",
+    "published": "2026-10-26T05:20:45+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "SK Telecom publica el primer informe sobre gobernanza de la IA",
+    "summary_es": "SK Telecom publica el primer informe sobre gobernanza de IA Telecompaper"
+  },
+  {
     "id": "8c3c53ab082c",
     "title": "‘We Are the Cows of the Future’: Yuval Noah Harari Says AI Won’t Need Killer Robots to Control Humanity",
     "summary": "‘We Are the Cows of the Future’: Yuval Noah Harari Says AI Won’t Need Killer Robots to Control Humanity Benzinga",
@@ -37,6 +280,24 @@
     "date_added": "2026-10-26",
     "title_es": "METR cuestiona las pruebas de seguridad de IA de Anthropic a pesar de estar de acuerdo en que el riesgo catastrófico es bajo",
     "summary_es": "METR cuestiona las pruebas de seguridad de IA de Anthropic a pesar de estar de acuerdo en que el riesgo catastrófico es bajo EdTech Innovation Hub"
+  },
+  {
+    "id": "fee60ae1b4b3",
+    "title": "AI as force multiplier: Practical AI governance for HCLS security teams",
+    "summary": "AI as force multiplier: Practical AI governance for HCLS security teams Amazon Web Services (AWS)",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTk1Bd2luMVczd09tYmV4WXJQMHVJQmJLOENGZWFPZEphWEp1TjRqQzBkOVhsbzVLd0VrZTVpUzVjSlJjLWR6MVB1c0dYcjNlcll1RzZYWVQ5NjRwS282b3JaNWMyY1ptaTdJdmR0UHR6WWNWTGlCaXhOcEVYM3JOUGxoT3RhVmh4RkRJbnJfcEtqMlMyNk5feGxvVkVQZzlKQmp2TndkLS0xNFZsZGJJOUM3WQ?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "language": "en",
+    "published": "2026-10-25T14:55:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "La IA como multiplicador de fuerzas: gobernanza práctica de la IA para los equipos de seguridad de HCLS",
+    "summary_es": "La IA como multiplicador de fuerzas: gobernanza práctica de la IA para los equipos de seguridad de HCLS Amazon Web Services (AWS)"
   },
   {
     "id": "7713d6d35eae",
