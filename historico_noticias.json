@@ -1,5 +1,358 @@
 [
   {
+    "id": "aba6f4ef3d74",
+    "title": "Satya Nadella says he was wrong to think AI alignment would just happen",
+    "summary": "Satya Nadella says he was wrong to think AI alignment would just happen Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDFhazFqem5YSWVQQVpoNFNLUlpDQ29JQTY2dkphVTFVbUF3dGRiR1QyMU4ycjBfSWxKejVhUVNuU2pGZXl6QklVRThvZkZYMlE5ODZ1ZF9kTVJLQW51NE1ONEdNMHpWQ2k5T3YzQWtNbVpkZzlHeEwzd0tjOThTOUFlT3lUcU5DQnNUdDFyZVYtZlRqdDJLMnNHZkVqMmJSYXAtaDUyZw?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-10-26T22:18:49+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Satya Nadella dice que se equivocó al pensar que la alineación de la IA simplemente sucedería",
+    "summary_es": "Satya Nadella dice que se equivocó al pensar que la alineación de la IA sucedería simplemente Business Insider"
+  },
+  {
+    "id": "4529b70a3d3d",
+    "title": "AI, Security, and Strategic Competition in the Indo-Pacific - The National Bureau of Asian Research (NBR)",
+    "summary": "AI, Security, and Strategic Competition in the Indo-Pacific The National Bureau of Asian Research (NBR)",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnQwcXBhSnpOTzZONjBKV2hNdFFlY3Z3NWpqYnhIdUNyZjV0Mk1UOUwyUnoyQ2s1QnN1TVlpX0NCQ05PWC1zMU0tZkh6bS1lWnhRWDAyWFMwNlpmVi01eHo0SkZwMG1HUWtZOVYwYmRVaFpvaFVITkFOYmgtcmR6U1h1WExUMnl1MlVvd3hJZzdrQXB6?oc=5",
+    "source": "AI Governance & Policy (Global)",
+    "language": "en",
+    "published": "2026-10-26T20:38:12+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "IA, seguridad y competencia estratégica en el Indo-Pacífico - La Oficina Nacional de Investigación Asiática (NBR)",
+    "summary_es": "IA, seguridad y competencia estratégica en el Indo-Pacífico La Oficina Nacional de Investigación Asiática (NBR)"
+  },
+  {
+    "id": "f12cb8345d76",
+    "title": "Anthropic Puts AI Safety Risks at Center of IPO Filing",
+    "summary": "Anthropic Puts AI Safety Risks at Center of IPO Filing BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWNCcFJHbEkwU1BzeXhaLU8zT2x5WHc1QTNtRVRYT01iTHNtaHZOTDVoa3RJREdSVS1nMnlKRzJTWHV3T0lRQkJQR0Y0dnMtbkYxQ1VlZTYxcG5pQ1dVZGFERjFHaWkyOHljWjV0NDlVRmN5RTQ3ZFgyUDhjZktaOGRscVVFSTA0ak5HdEFPWVd5Q2MwYlA0?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-10-26T20:27:29+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Anthropic sitúa los riesgos de seguridad de la IA en el centro de la presentación de ofertas públicas iniciales (IPO)",
+    "summary_es": "Anthropic sitúa los riesgos de seguridad de la IA en el centro de la presentación de ofertas públicas iniciales BankInfoSecurity"
+  },
+  {
+    "id": "1a3032d2b643",
+    "title": "Virtual session to discuss how hospitals put AI governance into practice",
+    "summary": "Virtual session to discuss how hospitals put AI governance into practice American Hospital Association",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlNYSHZCTUVKc3JMbU1uV0Y4dDljcDZtUGRCTFlpTF9zTFNrYzRIbmhZdlhtdFduUWJBRGpKRWtqaEhoR2haTGltNnhERHk1OHdJTzhjX2F2NERXOTdYSFFTTnVmdk4yV2JGQUhFeWRZNWFRTmlhMFN0ZlZNN1VUMGJ2SEotM2RMbVlxaUcwajVkRUNqNHpSOXJrcm5wNEZyOXNheFlQajU4NXAwS0E?oc=5",
+    "source": "American Hospital Association",
+    "language": "en",
+    "published": "2026-10-26T20:25:56+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Sesión virtual para discutir cómo los hospitales ponen en práctica la gobernanza de la IA",
+    "summary_es": "Sesión virtual para discutir cómo los hospitales ponen en práctica la gobernanza de la IA American Hospital Association"
+  },
+  {
+    "id": "4e057ac380e4",
+    "title": "Anthropic Has Risks Beyond AI Safety. What Else to Watch For.",
+    "summary": "Anthropic Has Risks Beyond AI Safety. What Else to Watch For. Barron's",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ0tvb3h1aFJMLTcyWGFXTlprRERxaEpEaFNUOFFsT1Juc2VQY210elYtUGZ5THk3S0ltMzBPeVNDa1F5cF9qeTBxeWNUZGVUb2JGZzZNczZfY01CbjhCTy1MY1A2Z0ZEbHd0Yng1ajF0VGpFRDhqb3FQNUNDQkhLYkRLUQ?oc=5",
+    "source": "Barron's",
+    "language": "en",
+    "published": "2026-10-26T20:23:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Anthropic tiene riesgos más allá de la seguridad de la IA. ¿Qué más hay que tener en cuenta?",
+    "summary_es": "Anthropic tiene riesgos más allá de la seguridad de la IA. ¿Qué más hay que tener en cuenta? Barrón"
+  },
+  {
+    "id": "769312389960",
+    "title": "Anthropic to investors: Trump hates us so much",
+    "summary": "Anthropic to investors: Trump hates us so much Axios",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wbk9teFVFWkxwLW5XNGQ0R09qeVNIMHkzYnQ2U3JiUndZLWhZVnp3aU81Sm04ZVJsbmZibmJLWXd5ZWNTdHF6ZnlJR043SmFNRlZEQWwwdms5ME9kcHkxaTV4MTFsSW1XNDBiOVJZeUlkZTg5V0Y4?oc=5",
+    "source": "Axios",
+    "language": "en",
+    "published": "2026-10-26T19:47:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Antrópico para los inversores: Trump nos odia tanto",
+    "summary_es": "Antrópico para los inversores: Trump nos odia tanto Axios"
+  },
+  {
+    "id": "28b9360eeaca",
+    "title": "Acemoglu, Nobel de Economía: la IA sumará 1,6% al PIB",
+    "summary": "Acemoglu, Nobel de Economía: la IA sumará 1,6% al PIB El Ecosistema Startup",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkNIZklsYl9Vc2tiSXdOQjN5RzNrSS1UQTU3RXNOTVNZdWllc29DZzV0aGd0Nm1jSUpXN2RDb2NoTVZlVzl5Q2hMenBWX2ZZRy1nOHBQQ3hrLVhHTlhaRHBPM1phRmJmSkZmWnE0MDdfa3VibnE0V1BFZzdHWUI4Sm4xZ1V5cE0?oc=5",
+    "source": "El Ecosistema Startup",
+    "language": "es",
+    "published": "2026-10-26T19:33:35+00:00",
+    "feed_name": "Daron Acemoglu (Español)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "Acemoglu, Nobel de Economía: la IA sumará 1,6% al PIB",
+    "summary_es": "Acemoglu, Nobel de Economía: la IA sumará 1,6% al PIB El Ecosistema Startup"
+  },
+  {
+    "id": "6ebc30c7d4c4",
+    "title": "Scoop: The FTC is demanding Anthropic execs testify in expanding AI safety probe",
+    "summary": "Scoop: The FTC is demanding Anthropic execs testify in expanding AI safety probe Axios",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+    "source": "Axios",
+    "language": "en",
+    "published": "2026-10-26T18:27:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Primicia: La FTC exige que los ejecutivos de Anthropic testifiquen en la ampliación de la investigación de seguridad de la IA",
+    "summary_es": "Primicia: La FTC exige que los ejecutivos de Anthropic testifiquen en la ampliación de la investigación de seguridad de IA Axios"
+  },
+  {
+    "id": "091e82b75a8a",
+    "title": "Geoffrey Hinton, premio Nobel y padrino de la IA: «La IA tiene tanta experiencia subjetiva como nosotros», y avisa de que si no nos hacemos amigos estamos perdidos",
+    "summary": "Geoffrey Hinton, premio Nobel y padrino de la IA: «La IA tiene tanta experiencia subjetiva como nosotros», y avisa de que si no nos hacemos amigos estamos perdidos La Razón",
+    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOSnlhNzZCYTFxX2lsZVBocWZDTXdVSWxJdWxUd0k2U3dLaDlpU05jVjJfdWpPT09WY2NJLVk4QnFDeVd5dDE0UXFOMC1naG1FblBpblJkQXlXTGxndWtneWFKR25wZVRsMk9KUXNTWGFiZ01MdDJzNC1xVm5DN1dDN1VlLUV5UDZYZXR5Ql9mcHNocUI1S1ZVOHYwbzdrY0pFRVZNQTA2a2VoaERhall2WlpYYV9waFZldXFnMkZrMnQyQ09HcnZ3eVd6YnRma0U3a2pIalNpSi1QRFZvTW9hQzJsMi1LSkR5MFpmcUR4SXJHTzNVa3h2RDlLS0lrSjdNM1FhNnoxb2ZSbzhXeUM0a3BNWFlHYzVfMmxCQ054WEVWMkxYR1VqclNlQ2prZ1NpYmxRSlM5U1NsTHN5SGlDQmJxV1djbGN1aXN2MWo1NG5fNUVvTFB0Z2FRSQ?oc=5",
+    "source": "La Razón",
+    "language": "es",
+    "published": "2026-10-26T18:15:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "Geoffrey Hinton, premio Nobel y padrino de la IA: «La IA tiene tanta experiencia subjetiva como nosotros», y avisa de que si no nos hacemos amigos estamos perdidos",
+    "summary_es": "Geoffrey Hinton, premio Nobel y padrino de la IA: «La IA tiene tanta experiencia subjetiva como nosotros», y avisa de que si no nos hacemos amigos estamos perdidos La Razón"
+  },
+  {
+    "id": "bc2b0ad8c75c",
+    "title": "Establishing Control: How Financial Services Companies Build AI Governance That Gets AI Into Production",
+    "summary": "Establishing Control: How Financial Services Companies Build AI Governance That Gets AI Into Production JD Supra",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYW00ci1kQUNxUU0wemFvdWVXbUFMTGxmWEJkSGxHbjRBaVVSbjZlbjFTOU9rT01iY3lsUk0zZ1N1THU1c21ZNkFJb0w3NHhwejVnel9aV2hwOGV6WjNudzVHSEdZVTJMTlNDRzd1SEU5MzdXQTl4OGVnRV9mSmZwdDhpYw?oc=5",
+    "source": "JD Supra",
+    "language": "en",
+    "published": "2026-10-26T17:53:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Establecimiento del control: cómo las empresas de servicios financieros crean una gobernanza de la IA que la lleva a la producción",
+    "summary_es": "Establecimiento del control: cómo las empresas de servicios financieros crean una gobernanza de la IA que la lleva a la producción JD Supra"
+  },
+  {
+    "id": "35e4e41b99e9",
+    "title": "Governing Healthcare AI Means Putting Patient Safety First",
+    "summary": "Governing Healthcare AI Means Putting Patient Safety First HCI Innovation Group",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd2J4TjBqOWJtZDgyYjRPc01rbG1iTGJhcW1MZEsyYXFCR1FHYURWWlNfY1d3aEh2Rl9kSU1aNHNMQi15TU5TRW9lNEJzb1JuUWREeXVncjcwSFJQLTE0aXQzMUhISlJObElWTDlEbmsxRFRrbzZUNThoRmtPUDQzLWNIaF9hVW8wZkRXOUNyVVJ0eWh4M2c0ei1mSmp3c3FITTdpZkpSbGN5U0ZnVF80TEQ1M3Q3cFd6VmdWWWFTemFEWG01U1lpRF9NR1BfRUpLNXc?oc=5",
+    "source": "HCI Innovation Group",
+    "language": "en",
+    "published": "2026-10-26T17:41:44+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Gobernar la IA en el sector sanitario significa anteponer la seguridad del paciente",
+    "summary_es": "Gobernar la IA en el sector sanitario significa dar prioridad a la seguridad del paciente HCI Innovation Group"
+  },
+  {
+    "id": "bee1664ed1b0",
+    "title": "¿Somos las vacas del futuro? Harari dice que la IA no va a dispararnos, va a manejar nuestra plata",
+    "summary": "¿Somos las vacas del futuro? Harari dice que la IA no va a dispararnos, va a manejar nuestra plata Perfil",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3FrTC1BdkZWSV9XR0RaUWRBVmtYSGJpZ2w4dlJhYW9TVlJzNEFDWmdNLVRUS2QtcklMelgxa1dRWUY3cmlndmkxXzZOSC1lR3daSi04UjgwTVZQbUEyMkRhaThtTnVGUjloS3pHQVA2UzM1WXFpRVZjSXRVLTBTdE5XXzJoMTJIdmRYeGF6bEdhYVh2N0VLQWtlaV9MSVFUazhwbEp5eGp1NGxtQ2xsczVvR0lKb1ZJMzc5N0NrcFNvUVN6c2gxSFhIMFhyc0lSNldPa214bGNjZ0hFTW5Hd0dR0gHiAUFVX3lxTFBncWtMLUF2RlZJX1dHRFpRZEFWa1hIYmlnbDh2UmFhb1NWUnM0QUNaZ00tVFRLZC1ySUx6WDFrV1FZRjdyaWd2aTFfNk5ILWVHd1pKLThSODBNVlBtQTIyRGFpOG1OdUZSOWhLekdBUDZTMzVZcWlFVmNJdFUtMFN0TldfMmgxMkh2ZFh4YXpsR2FhWHY3RUtBa2VpX0xJUVRrOHBsSnl4anU0bG1DbGxzNW9HSUpvVkkzNzk3Q2twU29RU3pzaDFIWEgwWHJzSVI2V09rbXhsY2NnSEVNbkd3R1E?oc=5",
+    "source": "Perfil",
+    "language": "es",
+    "published": "2026-10-26T17:41:22+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "¿Somos las vacas del futuro? Harari dice que la IA no va a dispararnos, va a manejar nuestra plata",
+    "summary_es": "¿Somos las vacas del futuro? Harari dice que la IA no va a dispararnos, va a manejar nuestra plata Perfil"
+  },
+  {
+    "id": "726321868341",
+    "title": "Daron Acemoglu, economista turco y premio Nobel, sobre la productividad y la IA: “Los beneficios de la automatización han sido enormemente exagerados”",
+    "summary": "Daron Acemoglu, economista turco y premio Nobel, sobre la productividad y la IA: “Los beneficios de la automatización han sido enormemente exagerados” Infobae",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ05IdG5UczlZMlpsS19lQnFRVmpCTXFhS1FHVUU2MkJLazVhczdLM2RYVjllMm45c0l4WlJhdlhXSnhZTjkxV0pIY2ZLUUNQWmxndHBIQ3BaSG12dlhlNS0tU1R4UHRrOERwVVFhbUo1N3FHbFFtTjdvLXM3dGxxSnRXNVdmOWZfZFJnUExXcGlsV1oyRTlmQ04tZnMycjF3bl9ZdEhmTGxCbE5fRXBEaV9kUUtzTHNXVERXT19ZaHJoSWZ6VmJ3blJUcG1zY0Fhb3I0cVFiajU0V3VCbTFoWXRYMGh5enhsZnFwa0pKNHRFc2h4aFRCWFVYUlpmbUZLYTMwY0hwT1Vmbl9GWW1Wb0FuN3dIRDDSAbICQVVfeXFMUHlmbnc5N2xRMklBNGV1WU04U3BOZG1wQi1TWkdEa3FZOElKdDhQLUw4dU5ULVphVk1faXlYS2dOVm9JNFhEVEtEVWthMGI3NTJTM2pkZzdOak1SelhhUDZLTFl2bGJ3blRRRWN3ZG1jN3RHMUF5eTY2TGhremkzWXVEa0FGVGpISlpTdVA0UzZSWC1hNWYzYnpERjJfOUFLeEZfMnJlejh4N1k0RW5La3RPODhVNkhpTExyYUVCNkNvdHpDMFRYRkdTWmVUUGU5U1FycEZFMFN6aW0tRVNPdjB6ejFHcFQ3TUxEdDhhU0d2MXgyRzVQTlV2U0lUdWJHWHMxanJadE5KR1R1ckMxWXhwVHZZNGxrOUJfTWMtMG5PbXlfRlJ2b193OWRKb1JIRE1B?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-10-26T17:34:55+00:00",
+    "feed_name": "Daron Acemoglu (Español)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "Daron Acemoglu, economista turco y premio Nobel, sobre la productividad y la IA: “Los beneficios de la automatización han sido enormemente exagerados”",
+    "summary_es": "Daron Acemoglu, economista turco y premio Nobel, sobre la productividad y la IA: “Los beneficios de la automatización han sido enormemente exagerados” Infobae"
+  },
+  {
+    "id": "7e09f78f435a",
+    "title": "Europe's AI Governance Controls Lag Behind Deployment -",
+    "summary": "Europe's AI Governance Controls Lag Behind Deployment - Enterprise Times",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2p5eE9iUFdXUjNBc3FPd0RFaUtZRmJtamxfVmVNNmpFTE41NXRMRTVrTldaTmpncEtQMkRYSWZRQndhQ1JULTlkdlZsekRqcEw0WWRZVjdaNkN2N1hRVmRicURFVkh0dVhxWUtiaGQ5VDQ1U3JTN29mdVdzMVF6Vm1tT0M4cHNDUGw1Z0o5Q2JxYjU3VnFGdUloU0x6c2c?oc=5",
+    "source": "Enterprise Times",
+    "language": "en",
+    "published": "2026-10-26T17:16:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Los controles de gobernanza de la IA en Europa van a la zaga de su implementación -",
+    "summary_es": "Los controles de gobernanza de la IA en Europa van a la zaga de su implementación - Enterprise Times"
+  },
+  {
+    "id": "47d63c8af486",
+    "title": "El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos",
+    "summary": "El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos MIT Technology Review en español",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWpfWFNzd3Z5dWpqMmEwb21MQkRNSWpobmtOY1BuZjBYYzJBY2JFb0VvMWg3RkREV0FjVkQ5OUZJb1h1elNqb1dfNVFCcm9kdHRWSENhOVI1WmlVcE9fb2htWjJJV0JlRF80Qlp0ZWR3Zk1IRmRVcTJGS3dwMER5OFpqQUY3YldRcXhKRVVVNGVaS1B1Ym1uN0xYRWxXX1VXa2JXNmtEQlpTeTBkVFN3Q1V2NE5OMXlWNDA0?oc=5",
+    "source": "MIT Technology Review en español",
+    "language": "es",
+    "published": "2026-10-26T17:11:22+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos",
+    "summary_es": "El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos MIT Technology Review en español"
+  },
+  {
+    "id": "2506db01f77a",
+    "title": "This AI safety org is tracking how each AI model ‘cheats’ on tasks",
+    "summary": "This AI safety org is tracking how each AI model ‘cheats’ on tasks IT Brew",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yRXhreERLRWFlNndMb2ZFTXFOZ3dXcHRQWmpRQUdEZGZmako1NHRLRFU0dGpkbmdzcEtDUFdwWkxURkpPd0JjYldadUtKaXpyS3lkOENtdURUUDJzM2hEVVNyd2p6ZlhCV1lOSDdKWTJNdGk2VFE?oc=5",
+    "source": "IT Brew",
+    "language": "en",
+    "published": "2026-10-26T17:04:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "Esta organización de seguridad de IA está rastreando cómo cada modelo de IA \"hace trampa\" en las tareas",
+    "summary_es": "Esta organización de seguridad de IA está rastreando cómo cada modelo de IA \"hace trampa\" en las tareas IT Brew"
+  },
+  {
+    "id": "3bc12b02a4fa",
+    "title": "Indonesia refuerza la gobernanza de la IA para proteger los datos.",
+    "summary": "Indonesia refuerza la gobernanza de la IA para proteger los datos. Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFNuTUlOSENXYjVkVjdfbVlTekZaN2cxUGxJQVZ3bGw2TG1OSTc2dnlXWEJMNkJaNm1OUFoyaWNXN2xJNnM5dWlueVlwWjRWV0NYcTRNSU1Nd3FZdFBIdVcxdEJGLURPbEhLdTViYzJBczBQS2dJYXo2ekpRamNTTmlB?oc=5",
+    "source": "Vietnam.vn",
+    "language": "es",
+    "published": "2026-10-26T16:59:08+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Indonesia refuerza la gobernanza de la IA para proteger los datos.",
+    "summary_es": "Indonesia refuerza la gobernanza de la IA para proteger los datos. Vietnam.vn"
+  },
+  {
+    "id": "fccc4e6499b3",
+    "title": "Anthropic IPO filing warns of ‘political backlash’ over AI safety",
+    "summary": "Anthropic IPO filing warns of ‘political backlash’ over AI safety The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenFmLXlLYk1VVXdWNlZ4QXI4LUJlMGNpMzZ2SHFXTFVOV205Y1dQZ3dzcVdaM2RZc1RsTnB6ODFVcGVjdkRqNW1HSmQzUGEwZW1rVWU3d2JTcnlPcERJa3M4My1HYmZnNnVLOW9YN2dGT2VMOTdPZVZvLURFZE1DQw?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-10-26T16:58:28+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-26",
+    "title_es": "La presentación antrópica de IPO advierte sobre una “reacción política” sobre la seguridad de la IA",
+    "summary_es": "La presentación antrópica de IPO advierte sobre una “reacción política” sobre la seguridad de la IA The Next Web"
+  },
+  {
+    "id": "7465f1422ffa",
+    "title": "Experts Explore What the Nuclear Age Can Teach About Governing AI",
+    "summary": "Experts Explore What the Nuclear Age Can Teach About Governing AI The Nuclear Threat Initiative",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXY0YzFBUHgwdDgyaTUtRldzN3BCWE9LOTcyWEpXR01wRVNjYkNwRWtBTElDaERUV1YwWG5XSk5KTEMtRmYyeVhOQTdtM0xlT1pmbXcza1pvbzhIcjBwbkpKamMzNTgyT0NJVGhzUXRIN21FcU1iRElmSm1hcGlybUtCcWxaOVFGd2xPOW51NnN1bXJERFE?oc=5",
+    "source": "The Nuclear Threat Initiative",
+    "language": "en",
+    "published": "2026-10-26T15:57:57+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-26",
+    "title_es": "Los expertos exploran lo que la era nuclear puede enseñar sobre la gestión de la IA",
+    "summary_es": "Los expertos exploran lo que la era nuclear puede enseñar sobre la gestión de la IA The Nuclear Threat Initiative"
+  },
+  {
     "id": "b84f8a4d2826",
     "title": "Bill guide: New Jersey lawmakers take up four AI safety proposals",
     "summary": "Bill guide: New Jersey lawmakers take up four AI safety proposals Transparency Coalition",
@@ -298,6 +651,26 @@
     "date_added": "2026-10-26",
     "title_es": "La IA como multiplicador de fuerzas: gobernanza práctica de la IA para los equipos de seguridad de HCLS",
     "summary_es": "La IA como multiplicador de fuerzas: gobernanza práctica de la IA para los equipos de seguridad de HCLS Amazon Web Services (AWS)"
+  },
+  {
+    "id": "0545e11352dd",
+    "title": "Should We Worry About the Welfare of AI Models?",
+    "summary": "Should We Worry About the Welfare of AI Models? IEEE Spectrum",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1seXZNMnVDTXlpenkyNTZJV1VncjNmZFA5LUR2SkdWc1lFOGxMcndLblVQeVN2TzlyZ0U0WkpZeWdMcFNIMWhLeWpGbjRKUGRHME56SA?oc=5",
+    "source": "IEEE Spectrum",
+    "language": "en",
+    "published": "2026-10-23T07:00:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-26",
+    "title_es": "¿Deberíamos preocuparnos por el bienestar de los modelos de IA?",
+    "summary_es": "¿Deberíamos preocuparnos por el bienestar de los modelos de IA? Espectro IEEE"
   },
   {
     "id": "7713d6d35eae",
