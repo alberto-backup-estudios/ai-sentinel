@@ -1,5 +1,133 @@
 [
   {
+    "id": "a9260684bfd5",
+    "title": "2027 Mercedes-Benz C-Class Refresh Adds AI, Safety Tech, and Power",
+    "summary": "2027 Mercedes-Benz C-Class Refresh Adds AI, Safety Tech, and Power Autoweek",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmS2IyWDBBTkFOM0RvampQU1JuckZZeW4xTnBfZnBQTjZHZF9HdTVqUTk3ZUhPMHVsSjIwTlp2ekVOWldNeWdBWGVETjdLZmRqS1BMS19DMTNRNHZpc25xWVMwTlRTTWJnWnluMGJ6dXRFckVacUJqRHk5dHFlajQ?oc=5",
+    "source": "Autoweek",
+    "language": "en",
+    "published": "2026-10-27T03:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-27",
+    "title_es": "La actualización del Mercedes-Benz Clase C 2027 agrega inteligencia artificial, tecnología de seguridad y potencia",
+    "summary_es": "La actualización del Mercedes-Benz Clase C 2027 agrega inteligencia artificial, tecnología de seguridad y potencia Autoweek"
+  },
+  {
+    "id": "6cfd7b481f19",
+    "title": "Anthropic plans stock market debut as questions swirl about AI safety",
+    "summary": "Anthropic plans stock market debut as questions swirl about AI safety WISH-TV",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEQ5Yzl3LUhMRlNGMzg0MGRIMTB5enNrbUM2Zm15eEV5elZETjJ3ajQ3SzkzVFhqc3p6elNtdmhtTEdyRHFoMlc1bEg3Yk0yRUN5c292dVhlU1NCdExtSFZzMWJQT09qTE5YSHcyczItVFBvOXlpSVhBaFh5Ul9pTmxxNzRhOFB1OVB4ZFJkcmNFMVRuUU5CRm1mOTBYYVB5amU2UkRQWnYtYjg?oc=5",
+    "source": "WISH-TV",
+    "language": "en",
+    "published": "2026-10-27T01:53:48+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-27",
+    "title_es": "Anthropic planea debutar en el mercado de valores mientras surgen dudas sobre la seguridad de la IA",
+    "summary_es": "Anthropic planea debutar en el mercado de valores mientras surgen dudas sobre la seguridad de la IA WISH-TV"
+  },
+  {
+    "id": "dbd4163ad82c",
+    "title": "Enterprise AI governance ties controls to workflow design",
+    "summary": "Enterprise AI governance ties controls to workflow design SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDRsbWRxdkkyRllWUld3ZTdJQ1Q2QTRXNnB5WUQ2YzNqVXFScTU5SEhOVHZDcGdXRkJGeUpSNkw2SmF2TmZDUWRoeVhPS1lzazN2azBmSnA4LXZjTkFJelpFWkVab29QTlpTUWUwZTEzZTB5Ymg1cFAyRi1ySWk5emstWHhHLVBTblhhYVFiVXFfeG91RzZzVnlpTk1GZ2JBMG1JaklnWjdIR0lzS1pmMjV4VmNZclRPeHF3X2FqRGVJY1dIS0xZ?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-10-27T01:41:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-27",
+    "title_es": "La gobernanza empresarial de la IA vincula los controles con el diseño del flujo de trabajo",
+    "summary_es": "La gobernanza de la IA empresarial vincula los controles con el diseño del flujo de trabajo SiliconANGLE"
+  },
+  {
+    "id": "647e60e7dee0",
+    "title": "AMD to Acquire World Labs to Advance AI Compute and Infrastructure",
+    "summary": "AMD to Acquire World Labs to Advance AI Compute and Infrastructure The Fast Mode",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVllTEQ3WWhSYS1ISU5SaGViZDZTUXp6bERjMVhEekJ0X0FpcTNQNHRUbDBrYi1WQndnVWR1VHczYkdlaFQ0anQyQm1tNWd3Uzg2MUZwQjJhQWx1QWJTREdpT0lrOFJrUUVzTUJtNWZxMmc0eVdWeVA0NG80MVd6NFNtMkNZUUh1MWpKazN1SXVzWjlRV3BzOWZfX3VUNXZJWDNRelczRW5Qam9iQkkybHBtenJxcmZiUzV6VGpR?oc=5",
+    "source": "The Fast Mode",
+    "language": "en",
+    "published": "2026-10-27T00:33:38+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-27",
+    "title_es": "AMD adquirirá World Labs para avanzar en la computación y la infraestructura de IA",
+    "summary_es": "AMD adquirirá World Labs para avanzar en la computación e infraestructura de IA en modo rápido"
+  },
+  {
+    "id": "a8936dc6ea58",
+    "title": "AI safety advocates urge Trump to support Chip Security Act",
+    "summary": "AI safety advocates urge Trump to support Chip Security Act The Hill",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTN6TG91aWdyZDNnTkpibjNqZXFBWFp2RHlwOFRodXp1X0NUcHdjVk4wNXRiellrb3E2VXdFQVRlcnhrUG1SUXg0M0RHeEY2aUh1SmhIS2Q5R1ZqdG1mV0RJc2hGTUdhQVVEd1lDRlFNcGktakZCRzJKdWtsaW9EVzRjcURoNS1WSk9lZ01Sd1VRZXBlcGZpdFlqbi1waDRzNUFEU285Yjd2MGFlTzdvZtIBtgFBVV95cUxQRS1RSEZ4bzM1bHQ2bmIxVFBqNWMwc3lJOVE3cmhsXzNaYUNqZk1EZEtmbFZpd19RMERxQWE1aF9mS29YZjFzSkhxSzdZT3ZabXBMenk3bWIwWEpFNjBTWi1iYjVjaFgzRWphb3JIZmZialVINXFOREk2RmhTYVA2MkdNTzJoREdDWndjcS13eGtjb1dRUndneDlzQUFWaEdrMU9xbGN5WFlZc2pOX2tOSXFrMjFsZw?oc=5",
+    "source": "The Hill",
+    "language": "en",
+    "published": "2026-10-26T22:34:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-27",
+    "title_es": "Los defensores de la seguridad de la IA instan a Trump a apoyar la Ley de seguridad de chips",
+    "summary_es": "Los defensores de la seguridad de la IA instan a Trump a apoyar la Ley de Seguridad de Chips The Hill"
+  },
+  {
+    "id": "8c53de60c256",
+    "title": "Red Hat y NVIDIA refuerzan la seguridad de la IA agéntica",
+    "summary": "Red Hat y NVIDIA refuerzan la seguridad de la IA agéntica The Standard CIO",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjg3blRua0hxUHBaT2txWmhnRFdwWk5rS0JTMnI0bnlGakpOdmZybW9QNWNnaDFRV1ZxS0FnWFRLbjJzYmliNDRMWjlRLVJsQlh6QnMtTnJoZUxZWVVRYUZMWkVHems2LWhaNFBzZjM4cHN3cTZnM0Fjd25tRVVMVQ?oc=5",
+    "source": "The Standard CIO",
+    "language": "es",
+    "published": "2026-10-26T21:12:58+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-27",
+    "title_es": "Red Hat y NVIDIA refuerzan la seguridad de la IA agéntica",
+    "summary_es": "Red Hat y NVIDIA refuerzan la seguridad de la IA agéntica The Standard CIO"
+  },
+  {
+    "id": "7ac262374d88",
+    "title": "La FTC exige testimonios de Anthropic y amplía el escrutinio sobre la seguridad de la IA",
+    "summary": "La FTC exige testimonios de Anthropic y amplía el escrutinio sobre la seguridad de la IA DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3BhaWs1X0puM2gwVTJpMWtla3ZOMUxSUzhwdmZyU0YtMExqNGtGUnNZMk96SkZkdFM5UmVlQjlhTFhSMXJhdEVJOTJfOUZuTFZIVEVUVnd6dzJuR25YY2w3RXZkYi1xZWdsZHk2cTBsM3BxcnB5UGJLaVA2c1FaeEFwaVg1OGF1bWViWXZ0T2tmTU85cnMxMHNXNHZaaXdHbnE0cEhZZEFyczdQaHpiOTRWZW1MaENMZktleHNuUTdwaDRpMlk0czFn?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-10-26T18:47:34+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-27",
+    "title_es": "La FTC exige testimonios de Anthropic y amplía el escrutinio sobre la seguridad de la IA",
+    "summary_es": "La FTC exige testimonios de Anthropic y amplía el escrutinio sobre la seguridad de la IA DiarioBitcoin"
+  },
+  {
     "id": "aba6f4ef3d74",
     "title": "Satya Nadella says he was wrong to think AI alignment would just happen",
     "summary": "Satya Nadella says he was wrong to think AI alignment would just happen Business Insider",
