@@ -1,5 +1,151 @@
 [
   {
+    "id": "121c65a77690",
+    "title": "AI Safety",
+    "summary": "AI Safety The Herald Journal",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHlXUTVENzA1Y1J3b1dpOW1yWnROVzZ1X3hYYlowVUU4eEhpUzRnQUxuUW9RVGUwdFh0MTAtQ1BXeGE3VXFXaFFDYURnMkVLZUQtbHg5eGswZDZmZnZpZkVidng2RTZJQVRpTXJaMW00MzlTS3hzSzlULUxmMWljM0lDWTZpaDNCRXpJTmJsWjE?oc=5",
+    "source": "The Herald Journal",
+    "language": "en",
+    "published": "2026-10-29T04:01:27+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "Seguridad de la IA",
+    "summary_es": "Seguridad de la IA The Herald Journal"
+  },
+  {
+    "id": "5d4ed866278f",
+    "title": "Responsabilidad, transparencia y gobernanza de la IA: una mirada latinoamericana de “Magnifica Humanitas”",
+    "summary": "Responsabilidad, transparencia y gobernanza de la IA: una mirada latinoamericana de “Magnifica Humanitas” Perfil",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWFVbkdtV2FmUDY5bWk0UUZDSmI3TS15WDFHazVuM2gwMjJ3eTByWmR0bThlRktFS0N3eDNBeUdobm1KVXMzOTQ0dF9HUm1ocUpkX0R4QURrSFR0MHRvUXdSN1RlbnZScDViNlJkN1VDOG05c0RZRUpEc1VfX282dHdIc2JHVnJtTzRsNHdXQzVRMXFKVkxOek4tcUh3UW8tb09UcDlBOVoxVUR5a0xpWW9HZzdjdnZRdmdrdzlwbjJpb3d5Sk92b3IycG1MWTJCSzRveUNqaFR6TUR4V3c?oc=5",
+    "source": "Perfil",
+    "language": "es",
+    "published": "2026-10-29T03:37:28+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-29",
+    "title_es": "Responsabilidad, transparencia y gobernanza de la IA: una mirada latinoamericana de “Magnifica Humanitas”",
+    "summary_es": "Responsabilidad, transparencia y gobernanza de la IA: una mirada latinoamericana de “Magnifica Humanitas” Perfil"
+  },
+  {
+    "id": "7a05f0b52f41",
+    "title": "TikTok introduces new brand protection and AI safety tools",
+    "summary": "TikTok introduces new brand protection and AI safety tools Marketing-Interactive",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXZrb2FsNnNGa2xLNzRmWlRwaHdZbDUyOFhZRVU5a1pLZDZJbFFvQWs2eGI3b0ZIY2lhZmJKZFh3b1V5bTB4WXEwbzNFQkVDMk5JTHlLcnZnNlRfc1lidUhMMW8yeVhwMG1zcWJqeHF6dk92VnpVdVkwYjE3Y2ZtQlpyUVRFb2Q1MWxkdWZBRWJRbUh1Ylg1ZmF2eWo?oc=5",
+    "source": "Marketing-Interactive",
+    "language": "en",
+    "published": "2026-10-29T03:03:28+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "TikTok presenta nuevas herramientas de seguridad de inteligencia artificial y protección de marca",
+    "summary_es": "TikTok presenta nuevas herramientas de seguridad de IA y protección de marca Marketing-Interactive"
+  },
+  {
+    "id": "094c0a07197e",
+    "title": "Opinion | The U.S. is winning the AI race but missing an important strategy",
+    "summary": "Opinion | The U.S. is winning the AI race but missing an important strategy The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2E5S0JnUm5qX3VSSWdGQlU5U3ZnZDdqMk1hM0xhSmM5YktCT0pueS04bkszbUoydFVaRU9ZT2wyWEJ3dnppM0pCbENDX3l2TUU2NGpCcnVfRVA3YWVzREVodU9vbjJxQWxXYURXNjdYMnYxa1FoaEYxaXJpeXIwX0NSaEVLNVprTWFER2pUOTVJUjBfQ3VESGdHTQ?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-10-29T02:13:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "Opinión | Estados Unidos está ganando la carrera de la IA, pero le falta una estrategia importante",
+    "summary_es": "Opinión | Estados Unidos está ganando la carrera de la IA, pero le falta una estrategia importante The Washington Post"
+  },
+  {
+    "id": "cefcba824118",
+    "title": "Cooperación internacional y gobernanza de la IA para el desarrollo sostenible",
+    "summary": "Cooperación internacional y gobernanza de la IA para el desarrollo sostenible Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHYtM0dEX0xUU0pNbl95aWZRN2FZYUt1UzFMU3EtN0FhcDFwUk4zemFHX1haZmNVeXI4alU4Z2R4QjYxekNsQjh5NUpMWV9KZng1WmlHU0JXYU1OTnhMVlpGTzBNUXVyOFFkM00yaXBLaWdFMW9vZzRzVnFzMk1OakRyckp5RlZ6SVNLNUppc0Nadw?oc=5",
+    "source": "Vietnam.vn",
+    "language": "es",
+    "published": "2026-10-29T01:29:35+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-29",
+    "title_es": "Cooperación internacional y gobernanza de la IA para el desarrollo sostenible",
+    "summary_es": "Cooperación internacional y gobernanza de la IA para el desarrollo sostenible Vietnam.vn"
+  },
+  {
+    "id": "8a9ccde1f2f5",
+    "title": "OpenAI signs AI safety agreement with Poland's NASK | ETIH EdTech News",
+    "summary": "OpenAI signs AI safety agreement with Poland's NASK | ETIH EdTech News EdTech Innovation Hub",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHZnSjY4V3F5NVZHQmViVmdKVWJEUDV1LTNsaFJTdzE1ZUZ4cng0OFpuQkJsckgybDlRMEcwNk04eFhWZzVYeXhUY0RlWkJlVmYwekZlTDc3LXZtUFRveVRNWHBOaVBIbnlkSTZvRjZYaG8wTmc3Z0pJcEZiSFZhY2U3d29rSm0tQ1cyWTlMWHlJMFd5MkFLQVRtY3IxVGxrcW1PWTVHV1JITlRfZXY4?oc=5",
+    "source": "EdTech Innovation Hub",
+    "language": "en",
+    "published": "2026-10-29T00:03:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "OpenAI firma un acuerdo de seguridad de IA con NASK de Polonia | Noticias de tecnología educativa de ETIH",
+    "summary_es": "OpenAI firma un acuerdo de seguridad de IA con NASK de Polonia | ETIH EdTech Noticias Centro de innovación EdTech"
+  },
+  {
+    "id": "7bf4ac24b617",
+    "title": "La gobernanza de la IA se perfila como el mayor desafío para las organizaciones españolas",
+    "summary": "La gobernanza de la IA se perfila como el mayor desafío para las organizaciones españolas Revista Byte TI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HQ1ZzamN3U3hESkt3MHFveHQ3Z1lVazBMRDFtZUJ5SER5ai1KLUl3YkxkY2lnTXA0YTQtODdJSE5fU3pBZE81eTJqNUpkSzU0cW01NkdhNFVHRFZQdTZtQ3BkRTNGM3pPOEk4dzIzcGM5MEtRY2xnTw?oc=5",
+    "source": "Revista Byte TI",
+    "language": "es",
+    "published": "2026-10-28T23:35:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-29",
+    "title_es": "La gobernanza de la IA se perfila como el mayor desafío para las organizaciones españolas",
+    "summary_es": "La gobernanza de la IA se perfila como el mayor desafío para las organizaciones españolas Revista Byte TI"
+  },
+  {
+    "id": "f8175bbf888f",
+    "title": "Invent a Better Everyday | Abu Dhabi, UAE | G42 | G42 and Yann LeCun’s AMI Labs Explore AI for the Physical World",
+    "summary": "Invent a Better Everyday | Abu Dhabi, UAE | G42 | G42 and Yann LeCun’s AMI Labs Explore AI for the Physical World G42",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHdiWm10Nlc0SUJ2cEpRcE11UFVYSThRZlFqRWF1OGdocWtHZDhVVHpLaGNDMTdPVHN0VFNwYWppSWV1THJIbU90UkRMejVKajZza1ZhSDREQjhGT2MwSUJzS2Z3RnUtVl9JQ3ZuMllNV1pJNHQ0bWhrVGZxYkZ0dzVvdWM4ZW8?oc=5",
+    "source": "G42",
+    "language": "en",
+    "published": "2026-10-20T08:17:06+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-29",
+    "title_es": "Inventa un día mejor | Abu Dabi, Emiratos Árabes Unidos | G42 | G42 y AMI Labs de Yann LeCun exploran la IA para el mundo físico",
+    "summary_es": "Inventa un día mejor | Abu Dabi, Emiratos Árabes Unidos | G42 | G42 y AMI Labs de Yann LeCun exploran la IA para el mundo físico G42"
+  },
+  {
     "id": "1f87f01d87bd",
     "title": "VikingCloud Introduces AI Governance Assessments",
     "summary": "VikingCloud Introduces AI Governance Assessments Security Today",
