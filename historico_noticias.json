@@ -1,5 +1,95 @@
 [
   {
+    "id": "5131e227c272",
+    "title": "AI Safety",
+    "summary": "AI Safety Times Argus",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMW1HYl9EbXVyWmhid2hXNzEtTTR2WndnREtsLUlobV9YQnpkUXhmeWNaaVMxSzVxUWg5NmpSVjJxLUhIbmRtWjI4MUJGNEdVUHZjeE81Zzd5MGk5MENMRU8xZWV1cWFlVjdiSzc1ekRzTDZENDJOa2l2TzZQaFAtczJHTlhteExvR0ExZ1ZhUUUta1NaVzBSa2VJTjdvMzg?oc=5",
+    "source": "Times Argus",
+    "language": "en",
+    "published": "2026-10-29T09:38:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "Seguridad de la IA",
+    "summary_es": "Tiempos de seguridad de la IA Argus"
+  },
+  {
+    "id": "069ff9e038de",
+    "title": "Exclusive / Voters in key states want AI safety measures, poll finds",
+    "summary": "Exclusive / Voters in key states want AI safety measures, poll finds Semafor",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3NpRlVERW9wZUI4RkROVWJDWG5FUjUzWWtZN3BXYW9kM0pRNkVhTVY0aDViVVNnZGQxRVBLYzBOMzFEcV9lbk5nQjBLZmpSY041X04tdEN2aU1DNVo4WjZhSTZhRkF6RlREZUYwQnAzcWR1MDVKeERnT3gyRW1XTDVUb1kzTFRSZTQxZ04zOUpGalZPd3RmT3JvTEExc1U?oc=5",
+    "source": "Semafor",
+    "language": "en",
+    "published": "2026-10-29T08:53:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "Exclusivo / Los votantes en estados clave quieren medidas de seguridad de IA, según una encuesta",
+    "summary_es": "Exclusivo / Los votantes en estados clave quieren medidas de seguridad de IA, según una encuesta Semafor"
+  },
+  {
+    "id": "29f802d4c9e3",
+    "title": "ImageDeep launch Houndlight for quarries",
+    "summary": "ImageDeep launch Houndlight for quarries Agg-Net",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cFlwX0Y1cld3VERQYlNGdXBrbjI0ZXBreFQtNXZRZTNzR1lTZE5vNnEwbUJFSG1nT3luczJaLU5fY3NGbU05YzF5dXFYckx4Tkc2ZkNteWF0MllSOGtydzBobE1qYUd2aUQ2R3pheE53NXZuVjNHaQ?oc=5",
+    "source": "Agg-Net",
+    "language": "en",
+    "published": "2026-10-29T08:03:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "ImageDeep lanza Houndlight para canteras",
+    "summary_es": "ImageDeep lanza Houndlight para canteras Agg-Net"
+  },
+  {
+    "id": "4d7991a38b10",
+    "title": "AI Governance Must Keep Pace with Legal Practice",
+    "summary": "AI Governance Must Keep Pace with Legal Practice Artificial Lawyer",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFdxc3RmVHpqNWlqUmNTRkg3T1d0ZDF2Z19nZGUzU0hoQzhfXzlPZHZUSjkxSHpHU1I3ck03MEt5Q1dsOGtqWF9hdGZhYWpjNHQxMXVGS0dKMzIwbmNKRk9HN3pWY1l2WHFDS1VsSWhsTGN2cHRBZDNyYlBDbERyYWFDRWN5WmVJNGtqTXByUUtfcm5VVFJRZg?oc=5",
+    "source": "Artificial Lawyer",
+    "language": "en",
+    "published": "2026-10-29T07:44:43+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-29",
+    "title_es": "La gobernanza de la IA debe seguir el ritmo de la práctica jurídica",
+    "summary_es": "La gobernanza de la IA debe seguir el ritmo de la práctica jurídica Artificial Lawyer"
+  },
+  {
+    "id": "faae25429658",
+    "title": "OpenAI signs AI safety agreement with Poland's NASK research institute",
+    "summary": "OpenAI signs AI safety agreement with Poland's NASK research institute EdTech Innovation Hub",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHZnSjY4V3F5NVZHQmViVmdKVWJEUDV1LTNsaFJTdzE1ZUZ4cng0OFpuQkJsckgybDlRMEcwNk04eFhWZzVYeXhUY0RlWkJlVmYwekZlTDc3LXZtUFRveVRNWHBOaVBIbnlkSTZvRjZYaG8wTmc3Z0pJcEZiSFZhY2U3d29rSm0tQ1cyWTlMWHlJMFd5MkFLQVRtY3IxVGxrcW1PWTVHV1JITlRfZXY4?oc=5",
+    "source": "EdTech Innovation Hub",
+    "language": "en",
+    "published": "2026-10-29T04:16:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-29",
+    "title_es": "OpenAI firma un acuerdo de seguridad de IA con el instituto de investigación NASK de Polonia",
+    "summary_es": "OpenAI firma un acuerdo de seguridad de IA con el instituto de investigación NASK de Polonia EdTech Innovation Hub"
+  },
+  {
     "id": "121c65a77690",
     "title": "AI Safety",
     "summary": "AI Safety The Herald Journal",
@@ -124,6 +214,27 @@
     "date_added": "2026-10-29",
     "title_es": "La gobernanza de la IA se perfila como el mayor desafío para las organizaciones españolas",
     "summary_es": "La gobernanza de la IA se perfila como el mayor desafío para las organizaciones españolas Revista Byte TI"
+  },
+  {
+    "id": "cd1a067507f1",
+    "title": "Be nice, not nasty: Nobel laureate Geoffrey Hinton on why AI needs humans at its heart",
+    "summary": "Be nice, not nasty: Nobel laureate Geoffrey Hinton on why AI needs humans at its heart Yahoo News Canada",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02WHNCNElrTHdNdnA4Mlk4V0UzTlgxS1Nqekl1S3c3eUIyOGd1TWVwd0F4ZzRlMlNDWkVfV00xbWIyeXRfNGJkcF9UWmEyY3BCdWMtaUgwVG8zczQyS2tWVm9uSEo3Z1YtX01kOVFnOE9saEFfdXVrQ2x3?oc=5",
+    "source": "Yahoo News Canada",
+    "language": "en",
+    "published": "2026-10-26T10:59:38+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-29",
+    "title_es": "Sea amable, no desagradable: el premio Nobel Geoffrey Hinton explica por qué la IA necesita a los humanos en su centro",
+    "summary_es": "Sea amable, no desagradable: el premio Nobel Geoffrey Hinton explica por qué la IA necesita a los humanos en su centro Yahoo Noticias Canadá"
   },
   {
     "id": "f8175bbf888f",
