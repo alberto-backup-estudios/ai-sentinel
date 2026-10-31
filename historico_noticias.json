@@ -1,5 +1,62 @@
 [
   {
+    "id": "20bf87773d06",
+    "title": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors, Leading AI Safety Bill Signed Into Law",
+    "summary": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors, Leading AI Safety Bill Signed Into Law The New York State Senate (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbTF0SVdxTlFmUGhlQ2pXMFlYeTJsb2t2UUMwTlBuNkw4aUQxXzZ4bHRJRmpfYWszTHlOVUhObTlkdGFfTTNBckxwSzdLeGpDUXVYallrN0pOLVZReGNrNVdpQ3FBZGl6Q2t2NGVPTEs2bXAtZ09ZU0o5SzZmZGExRjgyQ3A2WXdjaVBtMk5hc3pfZVhOTXhDd1pZalpkdzlnZkJmMm9TY3YxdjZHWHdQOVhtMHY2TG4wcE9UR1lYRDg?oc=5",
+    "source": "The New York State Senate (.gov)",
+    "language": "en",
+    "published": "2026-10-30T23:19:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-31",
+    "title_es": "La senadora Kristen González prohíbe la función insegura de chatbot para menores, liderando el proyecto de ley de seguridad de la IA promulgado como ley",
+    "summary_es": "La senadora Kristen González prohíbe la función insegura de chatbot para menores, liderando el proyecto de ley de seguridad de la IA promulgado como ley El Senado del Estado de Nueva York (.gov)"
+  },
+  {
+    "id": "abc268411a8d",
+    "title": "Act This Week: A Call for Urgent Action on AI Safety and Accountability",
+    "summary": "Act This Week: A Call for Urgent Action on AI Safety and Accountability actionnetwork.org",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGl0b19Eb1lZVE0zWUExV1FtUGpDTzRjQnhxYnBGOHNnNmtHODFKSFJ3NmxENmV5M254SHRaQUxsY0hNeE9XRTNjdW04UFl3UGZkaUh4aHhDRXdqd2hHYWh5RC1zbTZnNUo5ZnF6Z3p2NlFraHh3S0t4aVd3Vmd3eGRyYkpSbnA0QjA0Y2M0b0xLMUVubXRPaEVRZXVUM3I0WDJXc1g3US1nN2laaUpJZzloajlRc0pLTFVEXw?oc=5",
+    "source": "actionnetwork.org",
+    "language": "en",
+    "published": "2026-10-30T16:36:49+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-31",
+    "title_es": "Actúe esta semana: un llamado a la acción urgente sobre la seguridad y la rendición de cuentas de la IA",
+    "summary_es": "Actúe esta semana: un llamado a la acción urgente sobre la seguridad y la rendición de cuentas de la IA actionnetwork.org"
+  },
+  {
+    "id": "9dec76482ff4",
+    "title": "AMD Buys World Labs for $8.2B, Fei-Fei Li Joins [2026]",
+    "summary": "AMD Buys World Labs for $8.2B, Fei-Fei Li Joins [2026] shattered.io",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Bc3FQOWRSU2JqRmxacXhsZzBzdHVxdW55eGdXMFVUTjVXbHluNENMUFRFbVA3dHNna1VzR2pGMEp5bTJLYUhFTVh4cFZGbkhWc25KRlFUWWpRWkhwbWtBZEVQN0V3c1ZWWkVJOFMza3h1Q21OckRmMA?oc=5",
+    "source": "shattered.io",
+    "language": "en",
+    "published": "2026-10-28T00:52:28+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-31",
+    "title_es": "AMD compra World Labs por 8.200 millones de dólares y Fei-Fei Li se une [2026]",
+    "summary_es": "AMD compra World Labs por 8.200 millones de dólares y Fei-Fei Li se une [2026] shattered.io"
+  },
+  {
     "id": "5866de50c029",
     "title": "Trust Is the Product: Why CX Leaders Must Own AI Governance",
     "summary": "Trust Is the Product: Why CX Leaders Must Own AI Governance CMSWire",
