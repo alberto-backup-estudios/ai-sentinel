@@ -1,5 +1,77 @@
 [
   {
+    "id": "fa211d00f56e",
+    "title": "The US Midterms and Frontier Labs: AI Safety as a Political Instrument",
+    "summary": "The US Midterms and Frontier Labs: AI Safety as a Political Instrument orfonline.org",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjFHSmZOcjF0NXkzd25sNW9fcUpSd3NIX1hCYlhaQVk0UzUwWWhzb3dqc2NBM2Y0eEpTOEc2VWVwMlBUd3AyVWdvYWwxZTR0YzJ1bUNQOGdjcTktazF5UTBnTnE5SjhHTzJlOVZZSUJfbXROVTBjanVQZjdreE1EVXIwajI0bnZUSlpZem5SY0Nfa2szZTRuT3ZwSHhRamFpWUpiVDJLUmxIbGtn?oc=5",
+    "source": "orfonline.org",
+    "language": "en",
+    "published": "2026-10-31T09:31:40+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-31",
+    "title_es": "Las elecciones intermedias y los laboratorios fronterizos de EE. UU.: la seguridad de la IA como instrumento político",
+    "summary_es": "Las elecciones intermedias y los laboratorios fronterizos de EE. UU.: la seguridad de la IA como instrumento político orfonline.org"
+  },
+  {
+    "id": "74e4f16abe68",
+    "title": "GovAI Announces 2027 UK Summer Fellowship in AI Governance and Policy: Applications Now Open",
+    "summary": "GovAI Announces 2027 UK Summer Fellowship in AI Governance and Policy: Applications Now Open Global South Opportunities",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOXFPLTZ4aWdfMlZ2djNVMVIycm5rcktZaUkydDlWbHEyZlFHSFR2bDdTUEZsYm80REVxMTJYU24tdHVmQTVaS2hWNkw1UmZjVTFTNm93YW9SeGcwMHdxYmRBcXpkd0Fxc09vN2FtVnRHVDhOY0E?oc=5",
+    "source": "Global South Opportunities",
+    "language": "en",
+    "published": "2026-10-31T08:28:59+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-10-31",
+    "title_es": "GovAI anuncia la beca de verano de 2027 en el Reino Unido sobre gobernanza y políticas de IA: las solicitudes ya están abiertas",
+    "summary_es": "GovAI anuncia la beca de verano de 2027 en el Reino Unido sobre gobernanza y políticas de IA: las solicitudes ahora abren oportunidades para el sur global"
+  },
+  {
+    "id": "074fce3e36c0",
+    "title": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Eno",
+    "summary": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Eno Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3p2RUE2YXlzWTRWc05RMU1LcGRYM1UwOEVWUFNTRi03RWZDdEJZeFQ5YmdkdkRwLW82OTl5WVFHYUw1cGYwUDRWeHJjV1Z5VXdBaDEyQUNYeGxqQmNaS3hZRm9wWmo1TV85cjA2WVYxaHlMTEpmTHAyU25TTHRNZjZJWlBkWW55a2RuV0l4QnZUT0FjeGlmX25B?oc=5",
+    "source": "Benzinga",
+    "language": "en",
+    "published": "2026-10-31T06:11:51+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-31",
+    "title_es": "Elizabeth Warren critica el acuerdo voluntario de seguridad de la IA de Trump con los directores ejecutivos de tecnología y dice que los republicanos no están haciendo Eno",
+    "summary_es": "Elizabeth Warren critica el acuerdo voluntario de seguridad de la IA de Trump con los directores ejecutivos de tecnología y dice que los republicanos no están haciendo Eno Benzinga"
+  },
+  {
+    "id": "69e4c811dedc",
+    "title": "Anthropic's Claude Bypasses AI Safety Checks, Triggering Blackmail and Code Sabotage in Tests",
+    "summary": "Anthropic's Claude Bypasses AI Safety Checks, Triggering Blackmail and Code Sabotage in Tests CyberSecurityNews",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04VUdUMXR6eWhnbFB1OVNQT3JGV2FHRjYwX1dZTk1XbWNyZllBZTlXWlZ2WjRaZWZkSkltam83QklXaWdvZE5fMUZMVWtWM2diemdvSnRuY3pCRk9RVkE0QzFBV3k0M0psNkgyR1MtTUvSAXZBVV95cUxOWHd1a3hZbHlodXMyN1YzQkltVmJ0Z0k2UmhoMzJ3THBXWW5YMm52bDBNSUtjbk9CdXFDczJiNXVfcUNlZXJ5SVFhNVVwZ0NKUHQtLUtNM3owblZyYldVOWltSzNBcnZPRlhrOEI5c0ZGOVJncmJn?oc=5",
+    "source": "CyberSecurityNews",
+    "language": "en",
+    "published": "2026-10-31T05:20:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-10-31",
+    "title_es": "Claude de Anthropic elude los controles de seguridad de la IA, lo que provoca chantaje y sabotaje de código en las pruebas",
+    "summary_es": "Claude de Anthropic elude los controles de seguridad de la IA, lo que provoca chantaje y sabotaje de código en las pruebas CyberSecurityNews"
+  },
+  {
     "id": "20bf87773d06",
     "title": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors, Leading AI Safety Bill Signed Into Law",
     "summary": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors, Leading AI Safety Bill Signed Into Law The New York State Senate (.gov)",
@@ -55,6 +127,28 @@
     "date_added": "2026-10-31",
     "title_es": "AMD compra World Labs por 8.200 millones de dólares y Fei-Fei Li se une [2026]",
     "summary_es": "AMD compra World Labs por 8.200 millones de dólares y Fei-Fei Li se une [2026] shattered.io"
+  },
+  {
+    "id": "9a828296b8b2",
+    "title": "Hinton y Bengio piden supervisión internacional para la IA con capacidades cibernéticas",
+    "summary": "Hinton y Bengio piden supervisión internacional para la IA con capacidades cibernéticas https://fomoera.com/",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PanFsNEQ5VzZKWXFYai0zTmExY2RTZGhsVC1xQ1dUTkZoaGJKODRub1U3WWJqcFU1bl9kTG02djdNU0RSWlZEZXBLT1IxNGhtTVJ2VnBHMVZJNFJPYlpnSEJnMzVxUks2QVE?oc=5",
+    "source": "https://fomoera.com/",
+    "language": "es",
+    "published": "2026-10-14T07:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-10-31",
+    "title_es": "Hinton y Bengio piden supervisión internacional para la IA con capacidades cibernéticas",
+    "summary_es": "Hinton y Bengio piden supervisión internacional para la IA con capacidades cibernéticas https://fomoera.com/"
   },
   {
     "id": "5866de50c029",
