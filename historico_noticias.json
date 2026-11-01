@@ -1,5 +1,60 @@
 [
   {
+    "id": "c08f74d6cc00",
+    "title": "ImageDeep launches Houndlight, a solar-powered 4G AI safety alarm camera for remote sites",
+    "summary": "ImageDeep launches Houndlight, a solar-powered 4G AI safety alarm camera for remote sites HUB-4.COM",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2lYdktmQ21HVno4S2I2RUxVT1djTTNiYUk1ajMzU3Q5dnZ3MHhJbWFiYjEyRFZlYTVQRjNjVHJ5TjdHR2FGNEJLTG4waVlueXJKRFZjLXRLWEZEU3Fzc1FiSEZQMWV2NTZFeTRoX0E5UnZvWXdGdkwtN2s1UlpSR1hyZXM2ZTFoMkJRdTNDQ2dpS1FiY0NhQUdOLUVtdnJWQ1lJSUdZR3lMM0x3aVMyag?oc=5",
+    "source": "HUB-4.COM",
+    "language": "en",
+    "published": "2026-11-01T00:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-01",
+    "title_es": "ImageDeep lanza Houndlight, una cámara de alarma de seguridad con IA 4G que funciona con energía solar para sitios remotos",
+    "summary_es": "ImageDeep lanza Houndlight, una cámara de alarma de seguridad con IA 4G que funciona con energía solar para sitios remotos HUB-4.COM"
+  },
+  {
+    "id": "3a95e6f2c077",
+    "title": "Explaining “AI might obliterate you” to senior policymakers in India",
+    "summary": "I gave a 20-minute talk in Delhi at the NDTV World Summit . The audience consisted of Indian policymakers, executives, and journalists. I’ve transcribed the talk and included some highlight clips. I also reflect on several rhetorical decisions I made. The talk This summer, a swarm of AIs went rogue. OpenAI was testing 1,206 agents . Some of the ...",
+    "link": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-10-31T21:37:22+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-01",
+    "title_es": "Explicar que “la IA podría destruirte” a los altos responsables políticos de la India",
+    "summary_es": "Di una charla de 20 minutos en Delhi en la Cumbre Mundial de NDTV. La audiencia estaba formada por responsables políticos, ejecutivos y periodistas indios. Transcribí la charla e incluí algunos clips destacados. También reflexiono sobre varias decisiones retóricas que tomé. La conversación Este verano, un enjambre de IA se volvió rebelde. OpenAI estaba probando 1.206 agentes. Algunos de los..."
+  },
+  {
+    "id": "b34b9aed8d91",
+    "title": "Cisco Systems (CSCO) Became A Founding Member Of An Enterprise AI Governance Alliance",
+    "summary": "Cisco Systems (CSCO) Became A Founding Member Of An Enterprise AI Governance Alliance Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2wwTTQxYnhJRFNET19pMHlRUzBpcHhiUDZka1RmOTVJU3RzWmh1bnVsbjBFeWI2aWdiYUZNSWRZemVxTkNEVG5uQWhTQ0Z0MjhwM1lCZC1fdEE4TTVOdUpZNWFMUXBiYVVVcFlqZGZwdm96Z0RuRExsNFgwa2JmMzBLZVpiMUlIeXA2TWliT1JQYVFIekN2OXhRaERXMWc?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-10-31T21:08:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-01",
+    "title_es": "Cisco Systems (CSCO) se convirtió en miembro fundador de una alianza de gobernanza de IA empresarial",
+    "summary_es": "Cisco Systems (CSCO) se convirtió en miembro fundador de una alianza de gobernanza de IA empresarial Yahoo Finanzas"
+  },
+  {
     "id": "d8c1c3026a34",
     "title": "SpaceX AI Will Watermark Grok Text by Default for EU AI Act",
     "summary": "SpaceX AI Will Watermark Grok Text by Default for EU AI Act FourWeekMBA",
