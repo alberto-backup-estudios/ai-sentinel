@@ -1,5 +1,64 @@
 [
   {
+    "id": "fe4fe945258c",
+    "title": "Seguridad de la IA",
+    "summary": "Seguridad de la IA Espacio Diario",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzZVBtdDVQVEhrS0ZJczhqcXdGUUw4SktNZHBiZENjcFQtQVpPbVNKbHpZSEZONFlRZXlDNHJGd0RyckVIV1RWbDFCbFYwRzlzcVBzNUJCSzlxYUxFX2c?oc=5",
+    "source": "Espacio Diario",
+    "language": "es",
+    "published": "2026-11-01T12:21:22+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-01",
+    "title_es": "Seguridad de la IA",
+    "summary_es": "Seguridad de la IA Espacio Diario"
+  },
+  {
+    "id": "18ed4d98ef5f",
+    "title": "Yuval Noah Harari, experto en inteligencia artificial: \"El 70 % de las personas ya muestra una peligrosa crisis de confianza\"",
+    "summary": "Yuval Noah Harari, experto en inteligencia artificial: \"El 70 % de las personas ya muestra una peligrosa crisis de confianza\" National Geographic España",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTdHMFZXdmp1SjQyNWlTVm5mWXZvWnpaOEtJY2JXVmVFZEdnY1BkVkNxMHJvT25PMzYteWlMaDJEXzhROHd1bm51RGp4NExZcmpmQnZNSGlNZ2JSaWEzZ2VMUnBXMnY2ZGJ3SUs1T2RLZWJNaXNQWFRPRm9JdDY3MWx2aXl0blQtLUl0YWQtQTlMa2ZyclhlUFh1MkljOENSNWZQbmo4UGxTT2Z2MmNoX2hSOHNNelFyZFo1SEg0cVRlSktxYUwyeEtqdmFCcW1DbVUySEdkYW9FX3poanZuOWFraXJMdldTREE?oc=5",
+    "source": "National Geographic España",
+    "language": "es",
+    "published": "2026-11-01T11:00:00+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-01",
+    "title_es": "Yuval Noah Harari, experto en inteligencia artificial: \"El 70 % de las personas ya muestra una peligrosa crisis de confianza\"",
+    "summary_es": "Yuval Noah Harari, experto en inteligencia artificial: \"El 70 % de las personas ya muestra una peligrosa crisis de confianza\" National Geographic España"
+  },
+  {
+    "id": "3b23fef62b43",
+    "title": "Godfather of AI Geoffrey Hinton says Google will win the AI race; those less likely to win are Microsoft",
+    "summary": "Godfather of AI Geoffrey Hinton says Google will win the AI race; those less likely to win are Microsoft The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbTlCTy05dDNOM1pYZVlFY2QwZ1lZaUZXMlJKZ2pDWFFEaEtxd2RnVmk2RkU3ZlIxck9jMGREYUtmOWRtYkJzdXA4NG9VZWFqWHVLeXZ1X1o4N2swMEt5MnhKQUs2aDI3RldtUm8xU1VSUkRpa2ZvbFh6ZnRBOHNtRkR3SkV3ZGhJX3FYc2ZpYkpKNDhfZVFZN1JiMkZReTdRNDZTY0hoUkhfLVRkbUVVd2dyMXdkS2JMeGRSMmdSLWZlODJFYjhXdzluc3FYclZVRW9Vb1FUeUlLNEJFOW1Rd3dKc2tiRlRTNFRmcU1nZkZGeEM1b09CU2RGOXVmMjI5ai1jUE1Ocjd6QUljc21BV21xdkJGaWhQcFdr0gGgAkFVX3lxTE9VWXdSTjQ0MFpoaDBjTTN6el9FS0RkTGtSZUp5YUhaTGZ6X1pDX0c1R29RdXl4TUh3MzJXalB2dG0yWTVYTkRKam1nOUhZWmF3dUVMUHVXQlA4WVZvenAzcm5TOXVhSkltVEZ6dWMydjZ6c2hmaUgyUS1IX2xIYTZlSmI4RjJfWF9vTDVodGJ5X2Rtb2dhZW53TDcwM1Y1aDVEdXRTRlZEQ2ZZZ1MzaFJCN25tZXBJQl9DRWsxbXhxTGtWQXpKQWYzclVyeUJKSmdfQ21yS015eUJSNXFxbTZHdUtSQ2JGRklhc1pwdFVTbWlBRzBwR1pZZjU3eW5TNHNTOEs1SlJ4ZjBuQkNDNl8tX05COWtybXdISEQ2VkQyNg?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-11-01T10:37:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-01",
+    "title_es": "El padrino de la IA, Geoffrey Hinton, dice que Google ganará la carrera de la IA; los que tienen menos posibilidades de ganar son Microsoft",
+    "summary_es": "El padrino de la IA, Geoffrey Hinton, dice que Google ganará la carrera de la IA; los que tienen menos probabilidades de ganar son Microsoft The Times of India"
+  },
+  {
     "id": "c08f74d6cc00",
     "title": "ImageDeep launches Houndlight, a solar-powered 4G AI safety alarm camera for remote sites",
     "summary": "ImageDeep launches Houndlight, a solar-powered 4G AI safety alarm camera for remote sites HUB-4.COM",
@@ -53,6 +112,26 @@
     "date_added": "2026-11-01",
     "title_es": "Cisco Systems (CSCO) se convirtió en miembro fundador de una alianza de gobernanza de IA empresarial",
     "summary_es": "Cisco Systems (CSCO) se convirtió en miembro fundador de una alianza de gobernanza de IA empresarial Yahoo Finanzas"
+  },
+  {
+    "id": "3824056aaea5",
+    "title": "Godmother of AI Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence",
+    "summary": "Godmother of AI Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence finance.biggo.com",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CeXJtTXdTdDMtR1ZRVHhlQ3FSZklEX0VIeUlxMlhNbFVpSVY5ampfUTFUc3Y0TEZXc2xGZTUxWTEtTHNJUXFQM1MxUkczb2x4ODFlVXJLcGQzZHJpVDEw?oc=5",
+    "source": "finance.biggo.com",
+    "language": "en",
+    "published": "2026-10-29T21:08:54+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-01",
+    "title_es": "Madrina de la IA Fei-Fei Li sobre la curiosidad, la audacia y la búsqueda de la inteligencia artificial",
+    "summary_es": "Madrina de la IA Fei-Fei Li sobre la curiosidad, la audacia y la búsqueda de la inteligencia artificial Finance.biggo.com"
   },
   {
     "id": "d8c1c3026a34",
