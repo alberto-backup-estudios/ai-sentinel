@@ -1,5 +1,231 @@
 [
   {
+    "id": "9c77c7ee5f68",
+    "title": "Oracle AI World: Oracle Introduces Deep Trust AI to Enforce AI Safety at the Database Tier",
+    "summary": "Oracle AI World: Oracle Introduces Deep Trust AI to Enforce AI Safety at the Database Tier The Futurum Group",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXo4bndBVjRhbWdfU0pfczVKMzZ5T2Jyc0hZeWlLMm9fTG4xMTRpdjcydHNQMEFIQ3RLMlNOa2tKMkhDam1OUHJDaW0yaEtXRG1jdXRDX2VKUHllcU5BeFpmcWc3aGJvMW94NUN6NTNzb2NydjBjNEFZWGc0S1VoMnotS2JtWmFISWQ1WkFJeW4waV9sOWgwa3E2TzYwb24yWEQyYU9ncTJIMFNWX09pdGhSZ283WWYtb1hPS3pFZXdQQQ?oc=5",
+    "source": "The Futurum Group",
+    "language": "en",
+    "published": "2026-11-02T14:33:33+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-02",
+    "title_es": "Oracle AI World: Oracle presenta Deep Trust AI para hacer cumplir la seguridad de la IA en el nivel de la base de datos",
+    "summary_es": "Oracle AI World: Oracle presenta Deep Trust AI para reforzar la seguridad de la IA en el nivel de la base de datos The Futurum Group"
+  },
+  {
+    "id": "a9fc5cd9d25a",
+    "title": "Some “coherence arguments” are two different things in a trenchcoat",
+    "summary": "The “two kids in a trenchcoat” trope , in case you haven’t heard of it. Image sources: 1 , 2 tl;dr I go through three “coherence arguments”, related to (1) market competition, (2) AI self-reflection and self-modification, and (3) AI training algorithms. I argue that each of these implies a pressure for (something like) “being self-consistent”, a...",
+    "link": "https://www.alignmentforum.org/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-02T14:13:16+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-02",
+    "title_es": "Algunos “argumentos de coherencia” son dos cosas diferentes en una gabardina",
+    "summary_es": "El tropo de “dos niños con gabardina”, en caso de que no hayas oído hablar de él. Fuentes de imágenes: 1, 2 tl;dr. Analizo tres \"argumentos de coherencia\", relacionados con (1) la competencia del mercado, (2) la autorreflexión y automodificación de la IA y (3) los algoritmos de entrenamiento de la IA. Sostengo que cada uno de estos implica una presión para (algo así como) “ser autoconsistente”, una..."
+  },
+  {
+    "id": "c9e130712a90",
+    "title": "What Is AI Alignment? What It Means for Your Organisation",
+    "summary": "What Is AI Alignment? What It Means for Your Organisation Techloy",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hMGpTQXYtX2l6eTJnamxkSjA5aUhZeDBmbHFBcTJNTTEtTHljaXBlLXJ0XzRpc3lZaDdaU2Q4M2hpdDBMSDc1djEwRlBZNnVWR2YtR2hoUWRVQ0ZYOGxKX3kyNlVidDkzTXdncFg1QXhtOXhXS3c?oc=5",
+    "source": "Techloy",
+    "language": "en",
+    "published": "2026-11-02T13:34:48+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-02",
+    "title_es": "¿Qué es la alineación de la IA? Lo que significa para su organización",
+    "summary_es": "¿Qué es la alineación de la IA? Lo que significa para su organización Techloy"
+  },
+  {
+    "id": "771558692d9b",
+    "title": "Conscious AI would be reckless, warns Microsoft AI chief Mustafa Suleyman",
+    "summary": "Conscious AI would be reckless, warns Microsoft AI chief Mustafa Suleyman YourStory.com",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WVk0VTg4alpyVkxuYmNmYnN5LTBTMVJzWnl4Tk1SREwtMGRzOFRibGNFaWxvZzBYM1M2eGtpVVUyZXBnSmNldEszY1U2RHh4b090dUlZVVpOdmNEaWZSM0Jyd1R1azExNnBDR1J2YXpSclhsSmFpbGRB?oc=5",
+    "source": "YourStory.com",
+    "language": "en",
+    "published": "2026-11-02T12:02:27+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-02",
+    "title_es": "La IA consciente sería imprudente, advierte el jefe de IA de Microsoft, Mustafa Suleyman",
+    "summary_es": "La IA consciente sería imprudente, advierte el jefe de IA de Microsoft, Mustafa Suleyman YourStory.com"
+  },
+  {
+    "id": "3dd7c1b5ac7f",
+    "title": "The AI Governance Paradox",
+    "summary": "The AI Governance Paradox MIT Sloan Management Review",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Y1VET3N4WmlYaXU2RVJQZGxITWJiMnpkeU03SldQZXpwMkhoU19QdllVbkIycjg1WjdFLUtJX09HakhhNDdudlh4QzBHTDczbVdxVDQyVnl3c2hUN3QyWVJRTHJnQ1h0ZGg0b0FSbw?oc=5",
+    "source": "MIT Sloan Management Review",
+    "language": "en",
+    "published": "2026-11-02T12:00:13+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-02",
+    "title_es": "La paradoja de la gobernanza de la IA",
+    "summary_es": "La paradoja de la gobernanza de la IA MIT Sloan Management Review"
+  },
+  {
+    "id": "aa39b03fb8d8",
+    "title": "Microsoft AI CEO Warns Against Conscious AI Development",
+    "summary": "Microsoft AI CEO Warns Against Conscious AI Development iHeart",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa05YX2o5WGVvbmpmV2Ffd254RHZMNDl4WThWR25NWTVnOVlDT0Q4QkdQYU93TkZWbVpJNktIRVNJNEZ1bDJwRUVxQ01qZHJNU2Z0Sm1Cd1p1VllLaGpmelpad21mQzM5d1Y1SUROZTVGZlYtd2VkNDdKb3hMUG1maGJDSmhERFZrVmRWTjNDTkJyWFhNUFhmbm5XQVRXaDh1?oc=5",
+    "source": "iHeart",
+    "language": "en",
+    "published": "2026-11-02T11:51:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-02",
+    "title_es": "El CEO de Microsoft AI advierte contra el desarrollo consciente de la IA",
+    "summary_es": "El CEO de Microsoft AI advierte contra el desarrollo consciente de la IA iHeart"
+  },
+  {
+    "id": "809d2ef55816",
+    "title": "ServiceNow launches AI governance alliance with Stripe and OpenAI",
+    "summary": "ServiceNow launches AI governance alliance with Stripe and OpenAI The Paypers",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFpabFZ2c1FaVmtDTzdiMnRHQl9QRzNHMFdLQ0VhOFhjSWZEWlYzd3ROaXBoc0dFOGR0b0htOXNMQmlHZjkzS0o3N183aUJsck5WQVlnb0xsXzVOSDFUODNxODZWbkN4SklhX3dwbWg4SEc0UnYxMjFKc0FhV2JFWV9DN3owNlZyY2FRRmNPTG9ZVGZiU1hvdnFJVzdvU1RkLTRn?oc=5",
+    "source": "The Paypers",
+    "language": "en",
+    "published": "2026-11-02T09:50:52+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-02",
+    "title_es": "ServiceNow lanza una alianza de gobernanza de IA con Stripe y OpenAI",
+    "summary_es": "ServiceNow lanza una alianza de gobernanza de IA con Stripe y OpenAI The Paypers"
+  },
+  {
+    "id": "2c4b321c93d4",
+    "title": "60-second read: is your board’s AI governance defensible?",
+    "summary": "60-second read: is your board’s AI governance defensible? Lexology",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1lyNXIwU1l6NkRCQk92enVJZTJNLTJrc3otUjNBYzdhRXV2bTlYRmRVbW9Ha0g5eHBqZm5rUG1OVkx2NzRwWnF1SEtvV05seU53NUczOER1VDd4MW03NndMZFVjd1BHZGxYZ1JiNVNiYThGakpLM2pyQm15TktNVDg4Qk1mek00SE5pOXppWDZ5Zw?oc=5",
+    "source": "Lexology",
+    "language": "en",
+    "published": "2026-11-02T09:48:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-02",
+    "title_es": "Lectura de 60 segundos: ¿es defendible la gobernanza de la IA de su junta directiva?",
+    "summary_es": "Lectura de 60 segundos: ¿es defendible la gobernanza de la IA de su junta directiva? Lexología"
+  },
+  {
+    "id": "8a6a7117c7cb",
+    "title": "Claude and ChatGPT are just like Indian govt clerks and that's a problem, says Yuval Noah Harari",
+    "summary": "Claude and ChatGPT are just like Indian govt clerks and that's a problem, says Yuval Noah Harari India Today",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORUZNTi1XNlhsODh6SjlmVWNxTU16UFVYdGlScTZDbHpxUDlxZDJfN0thZ2pQVUw1Q2lGMDQxV3ExX3lJX3YtZ1JPQXJ2emN5RXRsdjRTdmJ0TERDWFBBRUVNaGRzWkduMGNTZzNrVHJKZnNVc1loSDh1MU9RUEN1VVU1cUZjMlNHNFdLcVdMbGQ0NHB5OWZSQUxoUTlNUEJCWkJpSVJhcW41ZDJxZ3R3cHFueWRSQTVCRnlNVUVfZmwtNFRNcHFQRnVMN1NIS3RWYUU3NHZSbm1SMFVHLWlsQ2pnUzB1RF9SLVVDZ2Qyb2dvV0XSAfgBQVVfeXFMTzRDZmpacFJKeE9PajZFcWdkZlJ6ZmVqd3VZNXpVRHRLSTVIdE9rZ3lJVzhWZ0ltMEdPb0hNWVZTbDhwY05XSDl0TS1KVVdhdk04Q2lad0hlUjRWRkpBMVhnVUtLSFVyM2FKYk4yaEVnSGV0VzBSelM3UnNvWG1DRGJpSFR4UUtIbUQyQWc3c0lVUjFOeDlRX1BvR0xTbXlETjhMRU9MVG9MR2NybG56ckZxa290RW9TMzRRelJOclk0aWs1eUQtcnN2MHBXd2xTbTd1WG5HaEc5Z2VRcTZyMWtjTXVBdkhMa1NkdzJsTDd5eDMta0NxLTI?oc=5",
+    "source": "India Today",
+    "language": "en",
+    "published": "2026-11-02T08:44:42+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-02",
+    "title_es": "Claude y ChatGPT son como funcionarios del gobierno indio y eso es un problema, dice Yuval Noah Harari",
+    "summary_es": "Claude y ChatGPT son como empleados del gobierno indio y eso es un problema, dice Yuval Noah Harari India Today"
+  },
+  {
+    "id": "2c9294b6028a",
+    "title": "Beyond the Test Lab: Embedding Independent Oversight in AI Safety",
+    "summary": "Beyond the Test Lab: Embedding Independent Oversight in AI Safety orfonline.org",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGlxNGlZQUhVSEVIMUZzTEhJUkxjaFJiQ0dNbFZWSWxRc1p3bGs1SlBIY2tqTTVhdlpCSU9jdWxOc0wyNmhUa0trODg0R1hoRWIxVWF0NzBtZExDaGFPX1ljN0tFY3prUWVGaTlHaWxZSDlQTTd6QkxUT3ctWVRBcXJxM1p3bXFLZFczRXNmQlJ5MlR0cWRFcEFMRkpUU3ZsOEphWGhn?oc=5",
+    "source": "orfonline.org",
+    "language": "en",
+    "published": "2026-11-02T07:01:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-02",
+    "title_es": "Más allá del laboratorio de pruebas: incorporar la supervisión independiente en la seguridad de la IA",
+    "summary_es": "Más allá del laboratorio de pruebas: incorporar la supervisión independiente en la seguridad de la IA orfonline.org"
+  },
+  {
+    "id": "f563a1f4123c",
+    "title": "‘Stop AI development if….”: Microsoft AI chief warns against machines gaining consciousness",
+    "summary": "‘Stop AI development if….”: Microsoft AI chief warns against machines gaining consciousness Business Today",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORE9BWkJwd25jTGo5SHREOG1zazZGNm9BWEhzN0Rtcm9yR0RrbjZLdjNvbWhpX3FZRHlOdU92UnZ2NjR5eXVHQk1acGlDSFVVVlJCZllmVE5Icl9QeGtDMm1HY0RUQnBfSlBFWDB2MEdOa010NWVTc1pZdndTQmFmSkFvT2FGWDhCMWhmZXdGdUFKc3Z2WE5aM2luME9fVXVwbnBVdUNpZEl0dzlseVI2OXllRXVJR2ZYalUydXA1NDRXbk5kN3FLZVhPUXRYd3lRNERkODNWMkZoRDRacmVkb2NCT3RzeTRUYmR30gHwAUFVX3lxTE9tMV9sWWx1WnA1T3VnNnkxSWZJdEI5bXhhdVVHdWVnbTZNWTVGa0w0YW5QaWFfd1VPLVZ1ZjBwcUloQ2x0aldlYTZiMm10M3lXcUFCcUZwTncyWlNmNUVrbzExSW9WTkp0TFpKWWl6QzVrU2twYXROYjhVY1VmRUtpQWh4UUpSWmV5Q0w0dUh5WTlzLU9yNVdEOWtaOTJRcmJ5Z0FLbXl4eWFvZUFROGR1MUsxTUdWMTBfTlF3OFlRNFRnYlVfc2NWR21iOEZfU0J6aGU0bExJbHdScTlQNW5OZ2RWS0wtc3RoVXNDUjlqMA?oc=5",
+    "source": "Business Today",
+    "language": "en",
+    "published": "2026-11-02T06:13:06+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-02",
+    "title_es": "\"Detengamos el desarrollo de la IA si...\": el jefe de IA de Microsoft advierte contra la toma de conciencia de las máquinas",
+    "summary_es": "\"Detengamos el desarrollo de la IA si...\": El jefe de IA de Microsoft advierte contra la toma de conciencia de las máquinas Business Today"
+  },
+  {
+    "id": "a46cb807cc81",
+    "title": "You have no right: Microsoft AI chief says AI can't be conscious, humans did not sign up for this",
+    "summary": "You have no right: Microsoft AI chief says AI can't be conscious, humans did not sign up for this India Today",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSjNrYkRGX1djTXVsTzE0Nmhtblp0QUlTdlM4ZjZEa016Q0VQY3pYdW9yWHg5THFQd0dvVnZ3NWJuTjdXb3lvR0pXRDFfNnFmQ28wSTByMVdBM240WmpNVTVvNXZCMFVuX1lqVXpCbW9jNlJ3bFprUmNyd1JGVEJVbXdZLWlOV2t1SkFhSXRacUpmbFBhbWtKSWVnRTNUT096aTgyeUtlSmxoRHlTQW45T0dxd3RZMDZrNG03RXd6bmwzSUs1UVVQN2pBR0FnM1VPWnFjSkVaQ180c3E1UW9RT1p4c2dsdjNSdjAxS1FXeTQxNUnSAfgBQVVfeXFMTWNicGdkOTVZLTdVeUl5MWc1NUtjV0VJbnJGaThaSUE1YnRvaWxSbzVJdmdoUzVDV1pUTzFWT3dCNHllUTVMR0M3eG1GaG9aX29CUjlweVBTendjdUREWDFFMFBBcGdxTUVqblZoRmtwZEF4QzU3R2ZTUXFtSExndVgxUHlFR1BvbGRtX3J0N0UwNVBQTGFSTnMxNnpfQW5NSm1HX3FqTF9FaElDLWVoaEZ6dExTNkdCeDVrMmNJWnI4RjRaeTJoQzRLMkw0ZV9UMFpCcnU5SHJ5dzFOWktSRVYyMVpiY1hnVjhjRm11Qm9FVEZOZmNtUVU?oc=5",
+    "source": "India Today",
+    "language": "en",
+    "published": "2026-11-02T04:49:13+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-02",
+    "title_es": "No tienes ningún derecho: el jefe de IA de Microsoft dice que la IA no puede ser consciente, los humanos no se registraron para esto",
+    "summary_es": "No tienes ningún derecho: el jefe de IA de Microsoft dice que la IA no puede ser consciente, los humanos no se registraron para esto India Today"
+  },
+  {
     "id": "55f2081d24ab",
     "title": "If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says",
     "summary": "If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says Los Angeles Times",
@@ -19,6 +245,26 @@
     "date_added": "2026-11-02",
     "title_es": "Si decimos que la IA merece derechos, podría empezar a creerlo, dice el CEO de IA de Microsoft",
     "summary_es": "Si decimos que la IA merece derechos, podría empezar a creerlo, dice el director ejecutivo de IA de Microsoft Los Angeles Times"
+  },
+  {
+    "id": "ae4413597c3d",
+    "title": "Microsoft AI CEO warns industry against trying to build conscious machines",
+    "summary": "Microsoft AI CEO warns industry against trying to build conscious machines Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTk3Q3dma3N6UGxMcFQtX0YwalZoUXlyYkM0Qmlvb3BJU284YTMyeU01V2lDTGtZdHVvMndxRTVZT0Jocl9KM2gxbUdoU21STWxVRWlSaUVzTXNBbjMxT25mQk9MWm1UMXZUTUVmbGo3cVRHSXhacUlIaEVQdHF0SjlZUDBoaVFYSm1OQ0s4YzZuRmh0b0FDNFA5S21pMmtoU3lhcVRickx5b1FvSUp5ajFxZWtsclprV0ZUUVJMRjM4dkJJ?oc=5",
+    "source": "Los Angeles Times",
+    "language": "en",
+    "published": "2026-11-02T02:17:36+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-02",
+    "title_es": "El CEO de Microsoft AI advierte a la industria que no intente construir máquinas conscientes",
+    "summary_es": "El CEO de Microsoft AI advierte a la industria que no intente construir máquinas conscientes Los Angeles Times"
   },
   {
     "id": "3bb53ad657d0",
@@ -75,6 +321,26 @@
     "date_added": "2026-11-02",
     "title_es": "Lo que necesita un canal de seguridad de IA entre Estados Unidos y China",
     "summary_es": "Lo que necesita un canal de seguridad de IA entre Estados Unidos y China The Wire China"
+  },
+  {
+    "id": "8890516cedd1",
+    "title": "Vatican hosts dialogue on AI and human dignity",
+    "summary": "Vatican hosts dialogue on AI and human dignity Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhYYlNxeVYyNVNNVUV2U0hUSXlnZ0paSnFNVUZNWlVhQS02WnkwbTB6QWlRWl9SdUZOZnlFRHQxV1JHY2dOMUlGa1g3YkRKSlRWN21JQUxhUExWQWU4Qmg5VmkzV1hiTE43V21xM3Q3RGttUU5UVlA0QjhQLW40S1FUc25lcDh5eHBUV2d0YTdmVE8zZUlLaFU4YmxCVDR5YUJTWmZIOWNrQjV0a281TW9KNTFlUG91aDdWWnplT0RxVVk?oc=5",
+    "source": "Vatican News",
+    "language": "en",
+    "published": "2026-10-30T15:05:08+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-02",
+    "title_es": "El Vaticano acoge un diálogo sobre la IA y la dignidad humana",
+    "summary_es": "El Vaticano acoge un diálogo sobre la IA y la dignidad humana Vatican News"
   },
   {
     "id": "43b76056e19e",
