@@ -1,5 +1,82 @@
 [
   {
+    "id": "55f2081d24ab",
+    "title": "If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says",
+    "summary": "If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTk3Q3dma3N6UGxMcFQtX0YwalZoUXlyYkM0Qmlvb3BJU284YTMyeU01V2lDTGtZdHVvMndxRTVZT0Jocl9KM2gxbUdoU21STWxVRWlSaUVzTXNBbjMxT25mQk9MWm1UMXZUTUVmbGo3cVRHSXhacUlIaEVQdHF0SjlZUDBoaVFYSm1OQ0s4YzZuRmh0b0FDNFA5S21pMmtoU3lhcVRickx5b1FvSUp5ajFxZWtsclprV0ZUUVJMRjM4dkJJ?oc=5",
+    "source": "Los Angeles Times",
+    "language": "en",
+    "published": "2026-11-02T02:17:36+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-02",
+    "title_es": "Si decimos que la IA merece derechos, podría empezar a creerlo, dice el CEO de IA de Microsoft",
+    "summary_es": "Si decimos que la IA merece derechos, podría empezar a creerlo, dice el director ejecutivo de IA de Microsoft Los Angeles Times"
+  },
+  {
+    "id": "3bb53ad657d0",
+    "title": "NAMI joins Common Sense Media on youth AI safety standards | ETIH EdTech News",
+    "summary": "NAMI joins Common Sense Media on youth AI safety standards | ETIH EdTech News EdTech Innovation Hub",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeF9JYWU1Z29oa0R2SjFqOGVFREJ2SjFqbTFUbVBBOWY3ckxlMkphWU1INVBET0xaT3VRY3h0cV9kak5fSGs1eXNrdmZCQWF5SDc1VGYwX2RrbDNCRklGV2RiSXpHZ0FFb2lpOHJNUzhrQkhDbUhjdXNyUWQtTTN2MnZLU3JzUnFiTzFSNUhFOEFsbjFZMUlzMTNqWFlKMzFfYXBKdUNORjc4OFdkOEExN3EtYnNLVjMtUUxzTEhseXlnckktTk1kcmdR?oc=5",
+    "source": "EdTech Innovation Hub",
+    "language": "en",
+    "published": "2026-11-02T00:48:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-02",
+    "title_es": "NAMI se une a Common Sense Media sobre los estándares de seguridad de la IA para jóvenes | Noticias de tecnología educativa de ETIH",
+    "summary_es": "NAMI se une a Common Sense Media sobre los estándares de seguridad de la IA para jóvenes | ETIH EdTech Noticias Centro de innovación EdTech"
+  },
+  {
+    "id": "8953842bf4ae",
+    "title": "Microsoft AI Chief Mustafa Suleyman: Models Have No Consciousness, and We Shouldn't Build It Into Them",
+    "summary": "Microsoft AI Chief Mustafa Suleyman: Models Have No Consciousness, and We Shouldn't Build It Into Them BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRVpGRFYyUTZZcU9STWMtTHBIYVJVM1FqS3JZTDBLVVUwYzA3RERwblRJcDl2MEtDQWp1bFZzUkNLem8tZlpYb2xDaGpVVFdzZ2pES2pvZ1hyNmtjaGNLdWVMd241RDR5MlJ1ZEZQNGJZaDY0MVE?oc=5",
+    "source": "BigGo Finance",
+    "language": "en",
+    "published": "2026-11-01T23:41:39+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-02",
+    "title_es": "Mustafa Suleyman, jefe de inteligencia artificial de Microsoft: Los modelos no tienen conciencia y no deberíamos incorporarla",
+    "summary_es": "Mustafa Suleyman, jefe de IA de Microsoft: Los modelos no tienen conciencia y no deberíamos incorporarla BigGo Finance"
+  },
+  {
+    "id": "dcb08c70ad18",
+    "title": "What a U.S.-China AI Safety Channel Needs",
+    "summary": "What a U.S.-China AI Safety Channel Needs The Wire China",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcElrTmx0cmRpZzU3dDNzRFVOZlBJaEtrczljVFloaGRtTFVib0EtRkIzMG5Td01iZE5lenpZX2tHQURxckxtR0J3ZVBvbEYzNTM2ZENZa1NpX0RoeGc5U25STXgzcHRUUzBRXzd3b3hmako4QjE0NktDdENWUUdzS05hWWNBQmdy?oc=5",
+    "source": "The Wire China",
+    "language": "en",
+    "published": "2026-11-01T22:09:07+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-02",
+    "title_es": "Lo que necesita un canal de seguridad de IA entre Estados Unidos y China",
+    "summary_es": "Lo que necesita un canal de seguridad de IA entre Estados Unidos y China The Wire China"
+  },
+  {
     "id": "43b76056e19e",
     "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
     "summary": "Microsoft AI chief says AI is not conscious and we should keep it that way Business Insider",
