@@ -1,5 +1,208 @@
 [
   {
+    "id": "345465cda0ec",
+    "title": "Strong AI governance keeps clinicians in control",
+    "summary": "Strong AI governance keeps clinicians in control Healthcare Finance News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWVwMlFrclR5X3FYWFJoUjRJbk1sUkItQkFfMTB5VkpheHlSblEzd1JhR1dSOHUydno2cC1CNnNUWXdYeHlfWjc4dzN4SlZlLWlja3hJTVRlZmo1MXhIOUlQNS14MTR0YVFDRldUMmE5aGpMWmVkVEkxNTRrRW1ldE51Szh3TWROb1FkVHkxUEROUzdWS2F4ZkJB?oc=5",
+    "source": "Healthcare Finance News",
+    "language": "en",
+    "published": "2026-11-03T22:22:21+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "Una gobernanza sólida de la IA mantiene a los médicos en control",
+    "summary_es": "Una gobernanza sólida de la IA mantiene a los médicos en control Salud Finanzas Noticias"
+  },
+  {
+    "id": "6c73d3614011",
+    "title": "Tensión por ley de inteligencia artificial: propuesta de ministra Lincolao enfrenta reparos de Segpres y Hacienda",
+    "summary": "Tensión por ley de inteligencia artificial: propuesta de ministra Lincolao enfrenta reparos de Segpres y Hacienda SoyChile.cl",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkdtazd0Q0w5YjdXcVlCcW5oeXE0V1BtZFhSdzRUZFNEQkpyblVYOEJweGg4MHRQZDMtanVNVnk5ZlNYWW82VWNQS2FkS1BseDdpSWdYVnZzb3JpeWV0NGZhZU5VTTdXbnBWWDZMQl9VLU1IbE55Z2xuNTg5Z0tMZ252Z094LWRvWWFiLWVXY0FSdENXb25kSFFnVi03TU1X?oc=5",
+    "source": "SoyChile.cl",
+    "language": "es",
+    "published": "2026-11-03T21:42:43+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "Tensión por ley de inteligencia artificial: propuesta de ministra Lincolao enfrenta reparos de Segpres y Hacienda",
+    "summary_es": "Tensión por ley de inteligencia artificial: propuesta de ministra Lincolao enfrenta reparos de Segpres y Hacienda SoyChile.cl"
+  },
+  {
+    "id": "69c7e95dab08",
+    "title": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
+    "summary": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWng3Y1lLdXJhb0F4ZHJEWXZSZ2c0eG1WcEh5WnZpbWM2U1AzUmtVa1JFZ0h3UXd2OEp6SmZiWVBSZW5mcmw4V016RkkyN3lLdnZTQ19UMGRxMUhnMm9famJYREJRVF8zcnF4Q1h5SHJRNk02bllUNHZOMTFidVZ3a2tINnVHcmlRV1oyWF96RlNnWlZNdWg5X0JvZEdNbGc?oc=5",
+    "source": "The Guardian",
+    "language": "en",
+    "published": "2026-11-03T21:36:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-03",
+    "title_es": "El 'padrino' de la IA, Geoffrey Hinton, dice que podría resultar que los humanos estarían mejor sin la IA",
+    "summary_es": "El 'padrino' de la IA, Geoffrey Hinton, dice que podría resultar que los humanos estarían mejor sin la IA The Guardian"
+  },
+  {
+    "id": "a46e149735f8",
+    "title": "Blue INK Security is leading the way with integrated risk management across Cybersecurity, Data Privacy & AI Governance",
+    "summary": "Blue INK Security is leading the way with integrated risk management across Cybersecurity, Data Privacy & AI Governance EIN News",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVB4V1FrQ293eEhUenp2enBlRW9hVzM4M3Jkd3RyMGpfOWZ6bDZNUlE3cmtYbmpGY1Y0amlZYWVnc1pXSXAtN2dXMW1ZNFJ6VmswWlhuallNdlpOM2ZfOTVPYXJhbHl0X2JZeVRQZElkdFBrTUJEMkV5blF4V21lbHBUbFZpcllnaUpXMldLT2JkSmVFbExNbjZ1R0VSaHBUQTdFVEFtbFZvTXZmTEZKVUhleWtoUzluUWs0VC10NFFNLXVQNldkOWNRN0VkVTlzQzVSbDhXZGlodHhwVEttNGNLQjRvdEhMNmpmaUhBYw?oc=5",
+    "source": "EIN News",
+    "language": "en",
+    "published": "2026-11-03T20:48:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "Blue INK Security lidera el camino con gestión de riesgos integrada en ciberseguridad, privacidad de datos y gobernanza de IA",
+    "summary_es": "Blue INK Security lidera el camino con gestión de riesgos integrada en ciberseguridad, privacidad de datos y gobernanza de IA EIN News"
+  },
+  {
+    "id": "20dbbc17d618",
+    "title": "Automating subtle emergent misalignment research",
+    "summary": "Authors: Oscar Balcells Obeso, Richard Qi, Monte MacDiarmid, Evan Hubinger Abstract Red-teaming by humans is a vital part of model safety testing, but it may struggle to keep up as models improve. To test whether automated safety techniques could scale (which would allow us to turn more compute into progressively more safety confidence), we set ...",
+    "link": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-03T18:27:53+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-03",
+    "title_es": "Automatización de la investigación de desalineaciones emergentes sutiles",
+    "summary_es": "Autores: Oscar Balcells Obeso, Richard Qi, Monte MacDiarmid, Evan Hubinger Resumen La formación de equipos rojos por parte de humanos es una parte vital de las pruebas de seguridad de los modelos, pero puede resultar difícil mantener el ritmo a medida que los modelos mejoran. Para probar si las técnicas de seguridad automatizadas podrían escalar (lo que nos permitiría convertir más computación en una confianza de seguridad progresivamente mayor), establecimos..."
+  },
+  {
+    "id": "d2176bc149a9",
+    "title": "Barbados and United Nations to host AI safety summit",
+    "summary": "Barbados and United Nations to host AI safety summit Digital Watch Observatory",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZ09OSEc2am9CWVh6MENiWkxzZjRIUGVCaUtkYkRlUG5ubDJJdjNET0FaUGgxd1dZNjZncXItOFZGNGhEaVlQaHYxZXpVVHpoOGl0bE80OFdCN2dab0tabzFONmFiVnd6dXBuNVlJaV9IUUtX?oc=5",
+    "source": "Digital Watch Observatory",
+    "language": "en",
+    "published": "2026-11-03T16:38:34+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "Barbados y las Naciones Unidas acogerán la cumbre sobre seguridad de la IA",
+    "summary_es": "Barbados y las Naciones Unidas organizarán la cumbre sobre seguridad de la IA Digital Watch Observatory"
+  },
+  {
+    "id": "a002d6328480",
+    "title": "CrowdStrike prepara compras de Fiddler y Dreadnode para reforzar la seguridad de la IA",
+    "summary": "CrowdStrike prepara compras de Fiddler y Dreadnode para reforzar la seguridad de la IA DiarioBitcoin",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLV9UNVYwRGR5X1M0YjZXeERMaVNtaWZrSzFOMFZuU2xtR3V0UUU3a3ZMRmF2MVFwS2ZFWGRkM2V6bjZPNTZ5OHk0eXk2VWcwaE16d1pXZjNnbkxuRG1tWjNjRG5YUzhhVkl6SkZSMldRSDJqWnk2VVBYbUM1V2ZDNnVYU1pUcmduamxvVUhNTWtVR2EwdE1sMzhSVUVxV2Y5eDh0UHJ6TWpQMXB3WVlXUXVXMkdidXhIckJyQm5ITERXRGlsdXFz?oc=5",
+    "source": "DiarioBitcoin",
+    "language": "es",
+    "published": "2026-11-03T15:40:12+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-03",
+    "title_es": "CrowdStrike prepara compras de Fiddler y Dreadnode para reforzar la seguridad de la IA",
+    "summary_es": "CrowdStrike prepara compras de Fiddler y Dreadnode para reforzar la seguridad de la IA DiarioBitcoin"
+  },
+  {
+    "id": "f55825b7e847",
+    "title": "The Incident Report Is Becoming a Building Block of AI Governance",
+    "summary": "The Incident Report Is Becoming a Building Block of AI Governance Tech Policy Press",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTRGcFNzdDZZR293RG5aRnJKSkJueEctQ0pjS0lfc1ZjWm8zY082bmx5XzMyc0V4M09VUjQxOWtZRGs0bG8zUFRtQnBmQ0Y3bEJvNE54eFdFQWRza3NJcmRvUWZITTM4QXBkRnhwZHBqclNlVG10b2czc05qMXVBLXdrNzdGMFgwUnhPVDdkZHpwSDhXMTFtWjNRRQ?oc=5",
+    "source": "Tech Policy Press",
+    "language": "en",
+    "published": "2026-11-03T15:35:06+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "El informe del incidente se está convirtiendo en un elemento fundamental de la gobernanza de la IA",
+    "summary_es": "El informe del incidente se está convirtiendo en un elemento fundamental de la prensa sobre políticas tecnológicas de gobernanza de la IA"
+  },
+  {
+    "id": "3eac06239c06",
+    "title": "CrowdStrike planea adquirir Fiddler y Dreadnode para reforzar la seguridad de la IA",
+    "summary": "CrowdStrike planea adquirir Fiddler y Dreadnode para reforzar la seguridad de la IA Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnVBMFRRZ2JFSmEyYkFma2Fpa0Y4Rmszc0Vvb3V0eHJGNWJ2NFBCLVVQSVRVT3dCeXJKSVhhSHVZZ0ROdWVVMmpCZUoxYTl3N2VBRG1BWDZ4UXJkRHlfNVdjRjlhYUVlM1pCanZ4clNEMU4xQVVPQmFkMk5TYnBuQnV0YlNBTy1Ibm9ON1hfajZvMlhHaHl3WA?oc=5",
+    "source": "Unite.AI",
+    "language": "es",
+    "published": "2026-11-03T15:11:03+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-03",
+    "title_es": "CrowdStrike planea adquirir Fiddler y Dreadnode para reforzar la seguridad de la IA",
+    "summary_es": "CrowdStrike planea adquirir Fiddler y Dreadnode para reforzar la seguridad de la IA Unite.AI"
+  },
+  {
+    "id": "45dd03e53590",
+    "title": "MSPs warned AI governance gaps could cost them major contracts",
+    "summary": "MSPs warned AI governance gaps could cost them major contracts IT Europa",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGZERjZPanhNcFNHMjk5Y3NlZm1XX3pESmR1czk3UG5XWVpvdnZMMzMteWdJaE5nOFl2V2VVRkNsZlVCZS1qQWthbWxLRTJwaWoyYTAxOG90UllsRU1OMW1wY1RENFFETmdjYmI5Tjg4d1QwdlZFNUQ1cWVHRkhfUDRna2VUN0ktYnlmTy1LdFNqQWZPN3o4?oc=5",
+    "source": "IT Europa",
+    "language": "en",
+    "published": "2026-11-03T14:34:32+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "Los MSP advirtieron que las brechas en la gobernanza de la IA podrían costarles contratos importantes",
+    "summary_es": "Los MSP advirtieron que las brechas en la gobernanza de la IA podrían costarles contratos importantes IT Europa"
+  },
+  {
+    "id": "cedb9a93abcc",
+    "title": "Snowflake unveils AI governance tools for enterprise agents",
+    "summary": "Snowflake unveils AI governance tools for enterprise agents Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY2JxMXI2MDgwWEtmZ2RCYm9DVV9tb1d1MFhNbzVwaEEtaFRrbEhFcXZGUG5vRERlMnRYMUJheHVvU29MeFlSeVBiSUF0ZEk2OTc5Q0c4NUhBcFdWWmYwdTFiN1lOQ0cydUctNG5nRmp4LUUzYmZfclg4OU1vQWYwN1Ayb0tQMk00eUZUaDdnMTVYMTVJdEF4aDF5ZFpibldkSTc3TF9UcTRrLWpJX25FaW1wdlBjLU0?oc=5",
+    "source": "Investing.com",
+    "language": "en",
+    "published": "2026-11-03T14:20:29+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-03",
+    "title_es": "Snowflake presenta herramientas de gobernanza de IA para agentes empresariales",
+    "summary_es": "Snowflake presenta herramientas de gobernanza de IA para agentes empresariales Investing.com"
+  },
+  {
     "id": "24f7520b7703",
     "title": "Geoffrey Hinton Could Perhaps Be Right About AI… but Wrong About Radiologists",
     "summary": "Geoffrey Hinton Could Perhaps Be Right About AI… but Wrong About Radiologists The Good Men Project",
@@ -149,6 +352,24 @@
     "date_added": "2026-11-03",
     "title_es": "¿Pueden coexistir la seguridad de la IA y el crecimiento de las ganancias? Anthropic apuesta por ello",
     "summary_es": "¿Pueden coexistir la seguridad de la IA y el crecimiento de las ganancias? Anthropic apuesta por ello CNN"
+  },
+  {
+    "id": "1dff8e87ff43",
+    "title": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street",
+    "summary": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street CNN",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY2gxUHV5VzhJcUoyWkFHdG9vZUdRT1VYZ0hfcjRJOU8xa3otZVpYbWNib1Q0WnJ2UUhhekFRNng1Z2tKWTB2aFBva2ZUN0Vzc3lRT0VuXzZ6LURoRDAxNUI4SzVYdVdXOVIw?oc=5",
+    "source": "CNN",
+    "language": "en",
+    "published": "2026-11-03T10:00:15+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-03",
+    "title_es": "Anthropic fue fundada para responder a la humanidad. Próximamente también responderá ante Wall Street",
+    "summary_es": "Anthropic fue fundada para responder a la humanidad. Próximamente también responderá a Wall Street CNN"
   },
   {
     "id": "10e637261fc1",
@@ -501,6 +722,26 @@
     "date_added": "2026-11-03",
     "title_es": "El CEO de Microsoft AI advierte contra el desarrollo consciente de la IA",
     "summary_es": "El CEO de Microsoft AI advierte contra el desarrollo consciente de la IA KFBK"
+  },
+  {
+    "id": "8bd639fb66b4",
+    "title": "The New Rules of Writing Like a Human",
+    "summary": "The New Rules of Writing Like a Human Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdU9OTmN5NlFWdy15ckFuNnl6Tm90d1RTb2Y1U3hseHo0MGJlaFVleW5PV0pBaWRfUjA1SVZmN3Z6RmxVd0dhVXVhVnlfS3VWaC1rTDBHQUtxV0pUakRjNUhyNHVkb1hfNDBJY2UwRzZkMUNfSXljUk84R3hoc1Z2dmo2djJSLVAtSXVKRE9POTQ4aURSLW9GOVRMbGJLeVFBc2NRYjRlZERYeG8?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-10-31T08:00:01+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-03",
+    "title_es": "Las nuevas reglas para escribir como un humano",
+    "summary_es": "Las nuevas reglas para escribir como un ser humano Bloomberg.com"
   },
   {
     "id": "f2bea87a257c",
