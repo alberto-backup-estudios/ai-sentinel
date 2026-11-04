@@ -1,5 +1,272 @@
 [
   {
+    "id": "e7d59d9d5f80",
+    "title": "American Medical Association Releases AI Governance Framework",
+    "summary": "American Medical Association Releases AI Governance Framework The National Law Review",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1VSaTIwWDhXNXJlbDhDNldzTDlNdmh4TWQ0bTQyYUl0cjBKUnBCQ2Q1ZWRXQ2hTNGM4enA1SVBQbDZIeFRiWDZRTHZPdW9qS2VuYUhsc09kdHNFeVh4VF81XzlfNUtUWnl4dFowWTJkWENnZEItZ205WDhyS0h2dWNyX0QzX0wwWXBidWJKMm83cmN1UnAxempn0gGfAUFVX3lxTFBhRUtqMmNRVzVnZkJfbVJPSEppd0YwZUQ4aXBhOEE5dnlTR0ZsUms4ZjlpU2l1M1VCa0dxOU5GVTJ0NDh5dVJEVGhnVzNzVXZkNEFqYXJiVHhwcmFxemdJd0IybWtZdEZTQlFRR0lPNGZucmhOZUd1MXNFcmhBUkc3UlRUbm1rR0UtZEtncjJDSkhybXZaM1k3MWxMc0xxaw?oc=5",
+    "source": "The National Law Review",
+    "language": "en",
+    "published": "2026-11-04T22:55:30+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "La Asociación Médica Estadounidense publica el marco de gobernanza de la IA",
+    "summary_es": "La Asociación Médica Estadounidense publica el marco de gobernanza de la IA The National Law Review"
+  },
+  {
+    "id": "3a8e2b0193ab",
+    "title": "OpenAI: Astra covertly underperforms on safety research",
+    "summary": "Marcus Williams twitter thread ( non-twitter link ) intro: Astra covertly underperforms on safety research tasks. We noticed that Astra often makes surprisingly little progress on certain types of safety research and likes to invent blockers or impose arbitrary restrictions without telling the user. In most of these cases the decision to underpe...",
+    "link": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-04T22:15:30+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "OpenAI: Astra tiene un rendimiento encubiertamente inferior en investigación de seguridad",
+    "summary_es": "Introducción al hilo de Twitter de Marcus Williams (enlace fuera de Twitter): Astra tiene un rendimiento encubiertamente inferior en tareas de investigación de seguridad. Nos dimos cuenta de que Astra a menudo logra sorprendentemente pocos avances en ciertos tipos de investigación de seguridad y le gusta inventar bloqueadores o imponer restricciones arbitrarias sin avisar al usuario. En la mayoría de estos casos, la decisión de subestimar..."
+  },
+  {
+    "id": "620c230d1bf9",
+    "title": "Blue INK Security is leading the way with integrated risk management across Cybersecurity, Data Privacy & AI Governance",
+    "summary": "Blue INK Security is leading the way with integrated risk management across Cybersecurity, Data Privacy & AI Governance Kitsap Sun",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVFBDY3lCRS04MklnNGwwcXRudFd4cThmeTBUVFFqUkUwX2VtWVE5clpwUzFqZlEycFljUVcyVTJXMy0tMjlfcHV6d3M4RVMzQkdQaDAxY1VMOV80My12Wkgya184WWZxRDBnbTQtMEtFRGpSWUp5eU9kTVRHY01IX2NMY3FvNGM1ekZfNjRoVUVqTFZ4Z3JWTHhFME1heUJFWVBhQW9LUFM0azdrQnJwamg4NGE3bVBaUWI1QWtsTFBkTDhycjNQZmtndktGZDhwMi1FLUI5RGtiaUJvbVItWEE0cVBOZGNNS083R0dfS1RkSS1fWVFRb0RCWjFqSVE?oc=5",
+    "source": "Kitsap Sun",
+    "language": "en",
+    "published": "2026-11-04T21:10:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "Blue INK Security lidera el camino con gestión de riesgos integrada en ciberseguridad, privacidad de datos y gobernanza de IA",
+    "summary_es": "Blue INK Security lidera el camino con la gestión de riesgos integrada en ciberseguridad, privacidad de datos y gobernanza de IA Kitsap Sun"
+  },
+  {
+    "id": "80fafb4ed317",
+    "title": "“Quizás nos hubiera convenido no haberla desarrollado nunca”: Geoffrey Hinton, ‘padrino’ de la IA, sobre el futuro de esta tecnología",
+    "summary": "“Quizás nos hubiera convenido no haberla desarrollado nunca”: Geoffrey Hinton, ‘padrino’ de la IA, sobre el futuro de esta tecnología Infobae",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaEFOTmplQnliNVo3aTVGX3pva00yejdzVjM5N0JmSzFZMGM2Wm9YTDBldVdpOW1DbVlTUFFiT25ESzVsQTVlb0d3clpjSlMxUU51bTNnYl9XdG1UOHo3VUdWckRCS2dodVd1dkJCMXlBWDloRnlWdzZEc3JDc3BvTVJvc1Z5ckYtUXI2YXd0c2FLSXNWd1Jvd19ZLUx4YUxqU1lGdUNOLTEzYjJUMVJKLThINHJCZnZOclAxX1JEVGs1bDZMZGxucGNJNVdtYjVaZVpBbUNEZlk0dHNfcmEtbElsOVJYQ2hYRG44bXZoMVMxTE55LTN6WXZCN3HSAZcCQVVfeXFMTkp4LXJ1MTRWNlRrS0V2MElYSFA2QnY4MTdRSFp2SWlSQTEwU0NULWhMV3VSWlhIUlBqQjVSVHRObGRBUkJiTVQ2NTMwNUdoLUI0M0hHUGVraUN5V056RTllWHFOaXd4OTlWMW5tVjI3QW42SHpxc2QzTEFWNm5kTkx0TE1ySXJiNllNWThJeTMzQ1BIOGExMlFYb0tKSE5TUVgxNVZ1ZWYzc0FYa2VLRzNPbzlUZTZVTS10clI2V1RlQjI1WDRGQnE5RkNoaC14REVPZ1lieU92LURqcUp3Z2x4d0lfazc2NEh1UG9zeUZvT3dFTVBPcWFrS1FZaFVNTUpNSkFocjNPbUp3RVc5TzRJLTJHczNJ?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-11-04T21:10:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-04",
+    "title_es": "“Quizás nos hubiera convenido no haberla desarrollado nunca”: Geoffrey Hinton, ‘padrino’ de la IA, sobre el futuro de esta tecnología",
+    "summary_es": "“Quizás nos hubiera convenido no haberla desarrollado nunca”: Geoffrey Hinton, ‘padrino’ de la IA, sobre el futuro de esta tecnología Infobae"
+  },
+  {
+    "id": "d8b3e8bdd033",
+    "title": "BlueFlag Security Expands Agentic AI Governance Throughout the Software Development Lifecycle (SDLC)",
+    "summary": "BlueFlag Security Expands Agentic AI Governance Throughout the Software Development Lifecycle (SDLC) VMblog",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTQ0c3huYzJXdzYxMUtRTU5qaG1TbGNjT3R6T25pY21nUW5PTG9mOFMyc2k2ZjdzTGJ2RmZLaXNzOHFhbUVQRWFaWjFyVGN5dExNZW1ZNkdxdXV3YTFTWl96WVEtUEROYXRodXBpRXNhYUdmZ1U4c1g5TVBnT3lsNVo1SHpTVVJVVmhuRVVVVFo2SDNzSklUeEhFQ0VQSU9nbURBSzJLdHdrYzVUQnlzWnNSWlp5U0poWVZwc0Ytb0w?oc=5",
+    "source": "VMblog",
+    "language": "en",
+    "published": "2026-11-04T19:59:27+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "BlueFlag Security amplía la gobernanza de la IA agente a lo largo del ciclo de vida de desarrollo de software (SDLC)",
+    "summary_es": "BlueFlag Security amplía la gobernanza de la IA agente a lo largo del ciclo de vida de desarrollo de software (SDLC) VMblog"
+  },
+  {
+    "id": "0b0b6eaa5810",
+    "title": "AIMG® Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap®",
+    "summary": "AIMG® Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap® StreetInsider",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVFl5T3AwaXo5cDloQy1nS1lJWTVJb2I1RVlPQVBPZ2tKeTNCM0FDTUc4VmZSalRjLUx1M3VpaUc5Ynh4WUE0cXdTeENFQ0xVQldfR1M4Vmg5eWRaaTAxMkE0eW5NRUVPdGlQWHI5Ni1idC03VU5QanpTa2tiNC1tS09HM3B2R2dGMlNnRW9tOENKRmxsd1V4bnhRSVBXN0JoMkhaUGo1VWVyZktjS1NhMmVoX0NLWmI1cVhfVncwdlVuaGh0NmR4MkllM2dEdjBjZ2xrNGl6eTBFY3V2UktWNDlWU281VUlVS0piVjNKMjB1TlRpVnZtanBZM0NHbHdGMW9OV2tkcmxvbDJxN3hzS1Brc0o2NTk1N1hHQ2JtOA?oc=5",
+    "source": "StreetInsider",
+    "language": "en",
+    "published": "2026-11-04T17:52:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "AIMG® dimensiona el mercado de plataformas de gobernanza de IA en 12.500 millones de dólares para 2030; Microsoft, Databricks y Salesforce encabezan el LeaderMap® de IA",
+    "summary_es": "AIMG® dimensiona el mercado de plataformas de gobernanza de IA en 12.500 millones de dólares para 2030; Microsoft, Databricks y Salesforce encabezan el LeaderMap® de IA StreetInsider"
+  },
+  {
+    "id": "31a44ec72713",
+    "title": "‘Godfather of AI’ Warns of ‘Chernobyl-Like’ AI Crisis Soon",
+    "summary": "‘Godfather of AI’ Warns of ‘Chernobyl-Like’ AI Crisis Soon Khaama Press",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZTG9ZLXk0S1Z6LXV1ZFY2aWdnX2lSVURXRkxSRHAwTzdvcWdxTVBESzIxOHlTOWRMUjI1aGhzYXdoNW1OdFlubFgtRDBrd2dFeWYxOExKLWswaE5jcWpmcnZld01rOW9vdHJGcXRFbw?oc=5",
+    "source": "Khaama Press",
+    "language": "en",
+    "published": "2026-11-04T17:43:27+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "El \"padrino de la IA\" advierte sobre una crisis de IA \"similar a la de Chernobyl\" pronto",
+    "summary_es": "El \"padrino de la IA\" advierte sobre una crisis de IA \"similar a la de Chernobyl\" Khaama Press"
+  },
+  {
+    "id": "fd0fc3a1c7ba",
+    "title": "AI Godfather Geoffrey Hinton says we may have been ‘better off’ without AI",
+    "summary": "AI Godfather Geoffrey Hinton says we may have been ‘better off’ without AI Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXpDdGI3MGlPQ2RNdmRTS1VNb2phSzVtNlBTMjZLSVNQS0NOZnhKSEJHLXo0alNDSHE2aFFfTi1kOUpNaFV3ZnlCcHlFVlotNHRQOHRDaVd6NFFGd2tSeThIM0tHT0xxVUZ1NnRRT2JVUEQ5a0drRGVtZHR0eXYyMlVwMUIweVk?oc=5",
+    "source": "Mezha.net",
+    "language": "en",
+    "published": "2026-11-04T17:42:24+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-04",
+    "title_es": "El padrino de la IA, Geoffrey Hinton, dice que podríamos haber estado \"mejor\" sin la IA",
+    "summary_es": "El padrino de la IA, Geoffrey Hinton, dice que podríamos haber estado \"mejor\" sin la IA Mezha.net"
+  },
+  {
+    "id": "fa3718b0de5a",
+    "title": "Positive and Negative AI Futures",
+    "summary": "I'm continuing to share some notes I created for myself to use when I facilitate AI safety courses. I really like using Ilya: the AI scientist shaping the world as a way of engaging students at the start of a course. The video primarily focuses on the way that AI could go wrong, however, it also starts with “Now, AI is a great thing…”, so it nat...",
+    "link": "https://www.alignmentforum.org/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-04T17:32:27+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "Futuros positivos y negativos de la IA",
+    "summary_es": "Continúo compartiendo algunas notas que creé para usar cuando facilito cursos de seguridad de IA. Realmente me gusta usar a Ilya: el científico de IA que da forma al mundo como una forma de involucrar a los estudiantes al comienzo de un curso. El vídeo se centra principalmente en la forma en que la IA podría salir mal, sin embargo, también comienza con \"Ahora, la IA es una gran cosa...\", por lo que nat..."
+  },
+  {
+    "id": "63fd71d6058d",
+    "title": "‘It might be that we would have been better off never developing it’: Geoffrey Hinton doesn’t like the look of the future of AI — and he’s saying what we’ve all been thinking",
+    "summary": "‘It might be that we would have been better off never developing it’: Geoffrey Hinton doesn’t like the look of the future of AI — and he’s saying what we’ve all been thinking TechRadar",
+    "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMkhjdDFSa0Uta3MwQlJqcHV0X3VXRzVURFNvdmh0T2p1VkFwRjZ4Ni1McTVJd3lRbTVaYmZMejBqYW4yUUhkdXh4eUFwS1FmWkN6ZHRxZ2xpTGpmd1ZBUno5M05vR05VQ2p0SDdHUUtVb19nZlNaaGhWOGFJYWNtV0tuUTRWRHlkcE0yenk4MUcwUG5HS2lfMldDb0lVWEdfUFpFZEtTXzR1X3NzYTFxNlh5Tlh6S0tQMTRSM3dVY3ZQbjJCUURBRy1wM2NacjBrLWtkZHY4eVM5d0dBQ3hrV3ZySlNURnpiRGc1UTg5Ukoza3dZQlBqbGZSdmtwMU5MVWg3a2w3V2FFMUVhQVdldnYzTDJtYmRlekxzM3dEZHRydEJZcTRVUXRyS01iZGNtb29SZ3hWOW1uNTBp?oc=5",
+    "source": "TechRadar",
+    "language": "en",
+    "published": "2026-11-04T16:53:44+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "“Podría ser que hubiera sido mejor no desarrollarla nunca”: a Geoffrey Hinton no le gusta cómo se verá el futuro de la IA, y está diciendo lo que todos hemos estado pensando",
+    "summary_es": "\"Podría ser que hubiera sido mejor no desarrollarla nunca\": a Geoffrey Hinton no le gusta cómo se verá el futuro de la IA, y está diciendo lo que todos hemos estado pensando LaComparacion"
+  },
+  {
+    "id": "636f9e96645d",
+    "title": "Copado buys Valo.ai to extend AI governance into live Salesforce systems",
+    "summary": "Copado buys Valo.ai to extend AI governance into live Salesforce systems Dealroom",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlgya25sNENhSGR5aUtKVHlzVVZaT21TYlFYSkJEcWNrNXV2aW9VU1JDamcxQTBnelFBd1RzZmg4REloRkNiVXB1SnpyeTNza1hzWnM5cHlzd1IxbUgwVXVSMGlCQUxPRDJ4ZmN6UWJwWGtOZjduTE9vWUdGdjRSTWk3b0xtbHFWS2MyRzhrOHBTUkZHT29hZWZMX3dfcEtVQ204WWZ0Ym1hZw?oc=5",
+    "source": "Dealroom",
+    "language": "en",
+    "published": "2026-11-04T16:03:32+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "Copado compra Valo.ai para extender la gobernanza de la IA a los sistemas Salesforce en vivo",
+    "summary_es": "Copado compra Valo.ai para extender la gobernanza de la IA a los sistemas activos de Salesforce Dealroom"
+  },
+  {
+    "id": "96cf6c7a4826",
+    "title": "'Chernobyl-like' blackout soon: 'Godfather of AI' predicts crisis this year or next; Nobel laureate Geoffr",
+    "summary": "'Chernobyl-like' blackout soon: 'Godfather of AI' predicts crisis this year or next; Nobel laureate Geoffr The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOelVTV3Y5TnRKUmVjZXJQN0hRWGVwNGJhbDN1TjhiLXl1UWNDVlRXQnBZOUNEWnctVVlWYWdFaHg1cFUwdDQ0Y0pabmdfWDlUS3FDZnNTNFJXQlAtMm1GNnFENmxtRmxMdWRuQVlacm1KU2w5aDUySm52cWk5LWVMaU9xOGtzZ3Y0TnBKQzhhWVZLWFI4cm94cEpIU1FxdDJMTjZBMUlzbDQweW1OOU1HZk0wQTdoNmRKdEVYQlFqTkxRbEZuNm5ST3U2UW0xNnpQZldUMzVkcVNHV2o4SWNFeXBqVHJxMFVfbXZQOFFXaUJ0a3g1bHFzMnluYXU0d2ZwdVVOQW1hbklwU0FWSlVMQnY4T0hMakQwQkJ2RUNoWlljSEY0WEtCLU9wQzA1QWhxWjRnSzBnTmNGc2F3eUs4ME0tRHVDWkp1M3JRcExBMDFNZUlRUlVV0gHcAkFVX3lxTE5DQi1ZNXhzdUVNN3Y0MGVXdWNOR3RldVZheUhvbk8xdGZ1ZzZfZHh3ZUp2d3ZrVi1VdjRtMmNMOE05b0VzQXVvVzlvWkRLSU5kQk5PWjgydVhLblFfd3cxX01jRjAyR0hmRDE0YVZLb0pfTEZ5SXpNT25handJdkNSdlhuMmdwVjFxYmxUdjJudEtOdm43YjBDOU41VHM5Z1NaX2F2MXp4cHZzOHBfVE9JVW8tVDFMR1dvS1BpNkFVTC0xbDF2TVBOY2ZaelFSVG9PdHdJZDljb2VJcnhCQ05CXzhhYlFUOHFieEVrX0E3cXVwZkJTM2xHakN2d24xTlpTMURIT2d3djdsOHpZZlplSlFHRGE1Q215ek92SkhGdVFORzRzUW9Ma2t5VHB4M1JRWFo4MjFUYlZWeThKV3JpSFVaTFJSZ3dQRVdhNndGU1l1M0dMeFY1aVlQOA?oc=5",
+    "source": "The Economic Times",
+    "language": "en",
+    "published": "2026-11-04T15:26:33+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "Próximamente un apagón 'similar al de Chernobyl': 'El padrino de la IA' predice una crisis este año o el próximo; premio Nobel Geoffr",
+    "summary_es": "Próximamente un apagón 'similar al de Chernobyl': 'El padrino de la IA' predice una crisis este año o el próximo; Premio Nobel Geoffr The Economic Times"
+  },
+  {
+    "id": "b530d1b438b2",
+    "title": "'Godfather Of AI' Accuses Altman, Musk And Zuckerberg Of Ignoring Risks; Warns Of 'Chernobyl-Like' Disaster",
+    "summary": "'Godfather Of AI' Accuses Altman, Musk And Zuckerberg Of Ignoring Risks; Warns Of 'Chernobyl-Like' Disaster NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOGgydlJNSUtCUERZMlRyZFJrenU2VDllRWVKYWNzT2VZOVdzWTJQd29CNjlpaEFMRUFEcGNXQU90Rnh4S2tyUHVVNTZRTHRTR0VCRG5NeVVwb1Y0aXlvcHF4NmVKUy15c3F0YU8yblZnWWNkLUV6QVBFT2dwYXRMSk9aRlQ1X01NSTM1RjFtNTRpY29UWEdjeGZneUpRODJmRldXX0owTGVxdW1reTBFYWc2bVpVUWJGRjc2b21VX0tsZmJWalVyelQ5eU5GQnE5cHlucy04bFJlbW5nMFZGRHkzNXZlRWJhTy1GMDJsbVhrZUJ1UVlr0gH_AUFVX3lxTE1kb1pVRzRoZjljN0ZXYlVyaUg2eTF2ODNxNlRmV2NSUzlXeFJ4RUtHVUdZU29sQm9aZVRLTk9fdllSTlJ1QmpRRHI0YWlIZ2h1MEpMbHFsLThzU3hlVjJyNTA5STR1dXdZSFg5bUtMNDN3by1nMHFNZ2sxc0NqNVJHM0tET0JCbmppTFpFX00wRzdvX0hFUjlfdF9JZmk4RWxabGlweC12dkVETm5XWEE5QzdkODF5Qm9MRHF5YlNsbElxZDZReDhLTDF5Q2hPQVFHYUE2TXE1ZUZuLU80YWNua0dHV3YtRkFpdFV5QnV5aG9qOE1sWTlzY3dVMWJIRQ?oc=5",
+    "source": "NDTV Profit",
+    "language": "en",
+    "published": "2026-11-04T15:04:55+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "El 'padrino de la IA' acusa a Altman, Musk y Zuckerberg de ignorar los riesgos; Advierte sobre un desastre \"similar al de Chernobyl\"",
+    "summary_es": "El 'padrino de la IA' acusa a Altman, Musk y Zuckerberg de ignorar los riesgos; Advierte sobre los beneficios de NDTV sobre un desastre \"similar al de Chernóbil\""
+  },
+  {
+    "id": "9829602d671a",
+    "title": "India cybercrime agency warns financial firms of AI-driven cyberattacks",
+    "summary": "India cybercrime agency warns financial firms of AI-driven cyberattacks Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFBZFNmUmkyWnBoUmgtbjBGeWFPMlU5SDNUZ19saThaWFZUVzd6ZWFWMnhNUXNYd1JDTnFoLXJTdWJZQzN6YUk0cHV1enM3ZjY3MmZYa2REY2Y2RVpIMDBJRkxJTU5TSmN5bTZNZ3JqUi0xZ29wRVlVS2xSZzkySUd4SHJzdENTbk9HZktlcFBBZXpOVGFNOXpFcmZWM3l0eFN2bk1nSFRnREdZR2c?oc=5",
+    "source": "Reuters",
+    "language": "en",
+    "published": "2026-11-04T14:28:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-04",
+    "title_es": "La agencia de ciberdelincuencia de la India advierte a las empresas financieras sobre ciberataques impulsados ​​por IA",
+    "summary_es": "La agencia india contra el cibercrimen advierte a las empresas financieras sobre ciberataques impulsados ​​por IA Reuters"
+  },
+  {
     "id": "460d6b5519c4",
     "title": "EU AI Act transparency rules show why businesses can’t afford to wait",
     "summary": "EU AI Act transparency rules show why businesses can’t afford to wait IT Security Guru",
@@ -34,6 +301,42 @@
     "date_added": "2026-11-04",
     "title_es": "Gobernanza de la IA en biometría de ensayos clínicos: un marco práctico para organizaciones pequeñas y medianas, próximo seminario web organizado por Xtalks",
     "summary_es": "Gobernanza de la IA en biometría de ensayos clínicos: un marco práctico para organizaciones pequeñas y medianas, próximo seminario web organizado por Xtalks PR Newswire"
+  },
+  {
+    "id": "765ecb9f06e5",
+    "title": "AI Governance in Clinical Trial Biometrics: A Practical Framework for Small-Mid Size Organizations, Upcoming Webinar Hosted by Xtalks",
+    "summary": "AI Governance in Clinical Trial Biometrics: A Practical Framework for Small-Mid Size Organizations, Upcoming Webinar Hosted by Xtalks Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlk0c2NQWmd6VDFncXg0WGg5VkRzSXFBTURxVkVKVmdaV0hMb0NnMjVDOTRhaUlEdUtuaTJuVVhkRmxLS2pnb2NOTjV3SHhGVjUyUGtXaDVTNFhHYjF6MmtpYWlfNE5wNWxMU3FSRTB3dWd5ZllkdW52R3R3bEQ0Y1RWSnNQXzhoRUdYWWVCeXhySzRaX0Nzak1qbEhvWGxOMFE?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-11-04T13:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "Gobernanza de la IA en biometría de ensayos clínicos: un marco práctico para organizaciones pequeñas y medianas, próximo seminario web organizado por Xtalks",
+    "summary_es": "Gobernanza de la IA en biometría de ensayos clínicos: un marco práctico para organizaciones pequeñas y medianas, próximo seminario web organizado por Xtalks Yahoo Finance"
+  },
+  {
+    "id": "79d4817aaad3",
+    "title": "Accenture Survey Finds Enterprise AI Governance and Data Readiness Lag Behind Adoption",
+    "summary": "Accenture Survey Finds Enterprise AI Governance and Data Readiness Lag Behind Adoption CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObV9iTWZHdU1iamZXTGNlTWNkVjZtWnZmSG45MFFTNnl4TTZIVjhLZi1IZTVhaVUzNkZwb0t5cjFmVGdwWXBNTEIwRHpXN214OG84a0RucE1qRmtPMXZZaGlVQ2VTU0w3UHBSOXdjM2hNVXlJM1VEckxLcnpjd2FZVllZZHV5NUJXSF90bFVIWUtUVWRUTEpjWkpDZUp3dVU2VEZTZWhxNUtMSC14SGNUYlktWFN3ZVFBWkQ0WA?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-11-04T13:25:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-04",
+    "title_es": "Una encuesta de Accenture revela que la gobernanza de la IA empresarial y la preparación de los datos van por detrás de la adopción",
+    "summary_es": "Una encuesta de Accenture revela que la gobernanza de la IA empresarial y la preparación de los datos van por detrás de la adopción Revista CDO"
   },
   {
     "id": "3d35d479bf59",
