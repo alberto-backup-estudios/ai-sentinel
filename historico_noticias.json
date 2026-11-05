@@ -1,5 +1,296 @@
 [
   {
+    "id": "8fab1b961226",
+    "title": "AI & Tech Brief: Exclusive | AI safety groups target committee gavels",
+    "summary": "AI & Tech Brief: Exclusive | AI safety groups target committee gavels The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1BOSGExbWpFZ0M0TV8xNWhSNlEyRWVZSTh4ZDJWUFZLWWtkMkxobmpaYUtIWTdITU1Ib29lQVR5ZWtFVGFoVnhSTWlsWXBvLS1WUlNfNEtfT0tfbHR3djZSeVVnR1hJNXY4cWRnM01DTWZIWTdRZDQwWXVrZW9rTlh2QmZLZ0ZlS0Z0czVLZklabGdodzI1RndWSllCbEp6YVFWUFFPY3F5ZjYtZ205djNXSEZXSW8tbWpyMmJIY21KVkRva2hZSDVxZnlqVlY1T2hF?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-11-05T23:12:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "Resumen tecnológico y de inteligencia artificial: exclusivo | Mazos del comité de objetivos de los grupos de seguridad de IA",
+    "summary_es": "Resumen tecnológico y de inteligencia artificial: exclusivo | AI safety groups target committee gavels The Washington Post"
+  },
+  {
+    "id": "025873fec476",
+    "title": "Google Search Ultimatum Puts Schools in AI Safety Bind",
+    "summary": "Google Search Ultimatum Puts Schools in AI Safety Bind Campus Security Today",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTdmcFl3OFd3T3g0bkpDOTU3M0NiVVc5S2MyQTJFUDRRRHF6OE9qY2NkR3h0alZYTTlCQVkxRzlrNWVuSnk1Tnh0NVFxUENTeDc4dEl1RlNhWkhzdnU0bTc4VURnX1lKaEtDbllac3VTOW5PMDZqUHRKdkR2Y29iTlhzVWJOaWpHeWpPNXF5aWE2eXpCLXJ0aHBNSFhLUHVVRVpxTGE1RXlrSTdrNnl3SQ?oc=5",
+    "source": "Campus Security Today",
+    "language": "en",
+    "published": "2026-11-05T22:09:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "El ultimátum de la búsqueda de Google pone a las escuelas en un aprieto por la seguridad de la IA",
+    "summary_es": "El ultimátum de la búsqueda de Google pone a las escuelas en la seguridad de la IA Bind Campus Security Today"
+  },
+  {
+    "id": "76a6a00e56e3",
+    "title": "Gobernanza de la IA: control, costos y soberanía según Red Hat",
+    "summary": "Gobernanza de la IA: control, costos y soberanía según Red Hat Impacto TIC",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGUzT2lTVjJIRVd1Qnp2WEdLSnFMNlo5RzkwWjdQYWNfRHpwRHliT1dzOW9JSlJGM2FldnYxQVp2YU0tUV9rLUxta2tNOHQxUGtLeVY1T0xMVmtSZXBNbFV5Z0JBX0YzczlQaUtPTE8zZDR5VW5yMS1sNW9QdnduMjlWRHlXcUk?oc=5",
+    "source": "Impacto TIC",
+    "language": "es",
+    "published": "2026-11-05T22:02:56+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "Gobernanza de la IA: control, costos y soberanía según Red Hat",
+    "summary_es": "Gobernanza de la IA: control, costos y soberanía según Red Hat Impacto TIC"
+  },
+  {
+    "id": "49cc96998af8",
+    "title": "Binance heist is stark example of AI governance gaps and basic security failures",
+    "summary": "Binance heist is stark example of AI governance gaps and basic security failures CSO Online",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmVtMHYzX0wzeWJqSlpneTZjajBFT1JlaDdwZUJIaGVqbGdKaWNUN0JsZDg4UGxMLWdpWnFfWm1wdWdFSDFoMU11WmFCWnRiNl9mWWsybUF2NFR4Rkx5Njlzc2hoZzhtN2ZxSE9ZSWFadnV3UlJ3Vm4wTEdVdVJteThuMmtTT01vWWZsWGVfa05FVFQ5Y0Y0WEJKcXdLNGNmV2o1bC05U2xZOXYwcDY4djZQOXhHbDlNZUx5Wk9mdHBXSUowakE?oc=5",
+    "source": "CSO Online",
+    "language": "en",
+    "published": "2026-11-05T21:58:41+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "El atraco a Binance es un claro ejemplo de las brechas en la gobernanza de la IA y las fallas de seguridad básicas",
+    "summary_es": "El atraco a Binance es un claro ejemplo de las brechas en la gobernanza de la IA y las fallas básicas de seguridad CSO Online"
+  },
+  {
+    "id": "0c07357971fb",
+    "title": "Claude AI Governance and Security Visibility",
+    "summary": "Claude AI Governance and Security Visibility Security Boulevard",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUI1VjAwOVg5dVVkZDIxR3dyRWVkV0F0NWVHM2J1VEFlR3ZqX2FOLU9SRG51M19hMUhJOWNoVHFodnNwS3h1aGdxRjliWXRhMzBQdE8wQ3dqNmh5ZF9IclhwbEpUODNzbmloZVVHaEhTSGlpalY0WUJxQ2lyY3FsR3RobXNMWG5teXpB?oc=5",
+    "source": "Security Boulevard",
+    "language": "en",
+    "published": "2026-11-05T20:57:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "Visibilidad de seguridad y gobernanza de Claude AI",
+    "summary_es": "Claude AI Gobernanza y seguridad Visibilidad Security Boulevard"
+  },
+  {
+    "id": "dd957a628a60",
+    "title": "AI safety and responsibility — Experts warn AI needs human control",
+    "summary": "AI safety and responsibility — Experts warn AI needs human control The Korea Daily",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jUXdzMWtXZ085RDA5dHVWcUZzX0ZybWVVUlZSem1TMF9LR1VXenR4NkpvQmVNWUNkN19maXJWa2todEpUcHJNUTV0dEk4YzBrWmNua1k2aF9EMlE2ek5LWE1sVHBvUQ?oc=5",
+    "source": "The Korea Daily",
+    "language": "en",
+    "published": "2026-11-05T20:09:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "Seguridad y responsabilidad de la IA: los expertos advierten que la IA necesita control humano",
+    "summary_es": "Seguridad y responsabilidad de la IA: los expertos advierten que la IA necesita control humano The Korea Daily"
+  },
+  {
+    "id": "c91936cced5a",
+    "title": "Tech policy coalition calls for new Congress to set AI safety standards",
+    "summary": "Tech policy coalition calls for new Congress to set AI safety standards Nextgov/FCW",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdEZxdTQwSXoxTXdJdnhsVnVmQU9hWDR3Wng4U0lhT2JRLVB4RHczdEdWVVNxc0swOEdaMzFJdk1WY3drWlZzYmY0TjZkY3UyUjF0QmhwQ0dQTWxWd0pNQnd5T0EwbE5uaEEwX1JQYk5SR0ZaUHdzRUNYSUZXNE1DcFRXeW9JN1d0MEF2UHJPTmdWY1R0LXgtdlRKUU5ndHIxWnFMZ1oxLTM4Q3U1RUJiWTMtWEdLME8xcnkybndDNEJfbUljbl9tZlpjemJRWG16S0l1cW1sU3o4a3JJWHp0NFZzbUdadw?oc=5",
+    "source": "Nextgov/FCW",
+    "language": "en",
+    "published": "2026-11-05T19:57:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "La coalición de políticas tecnológicas pide que un nuevo Congreso establezca estándares de seguridad para la IA",
+    "summary_es": "La coalición de políticas tecnológicas pide que un nuevo Congreso establezca estándares de seguridad para la IA Nextgov/FCW"
+  },
+  {
+    "id": "0a56cf95fb4f",
+    "title": "La seguridad de la IA debe estar antes que la productividad: Sam Altman",
+    "summary": "La seguridad de la IA debe estar antes que la productividad: Sam Altman DPL News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzb1Rjd3dKZUJIU1VOM2dERmp6d0ZNcXY4T3BUOWszUlJYMHVCMUdzTDVzZlFDSk5ERE12SDc5ZG1TX1FIX2t1SmxfaHBKT1RNWkJBU0U0MmRJYXFTeDcwTFE0TndfbEt6NnlSa2FTZzQ1TDgzVzBF?oc=5",
+    "source": "DPL News",
+    "language": "es",
+    "published": "2026-11-05T19:31:43+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "La seguridad de la IA debe estar antes que la productividad: Sam Altman",
+    "summary_es": "La seguridad de la IA debe estar antes que la productividad: Sam Altman DPL News"
+  },
+  {
+    "id": "cda1982fcba2",
+    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+    "summary": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtIZ3lxajZKZXl4SEUxN2lzbV9xemZJYl9FXzVPTkZ0dGNSZVhFRXpZUHRMTUVpb3A5WERhaXdEYmM5T1QtMHBVdjJZLTE1U1V2UkI0N1ZvUkN2S1ZHVFlfUW9hazhRaEtLMTJ6Wkt6eEV0N3RFVnp5N3VSQU9wYjh1cnZVaWJVWXZtdmZLRTF1UEVlUENOUmdB?oc=5",
+    "source": "The New York Times",
+    "language": "en",
+    "published": "2026-11-05T19:27:58+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "Los padres demandan a Google por la IA Riesgos de seguridad en los Chromebooks escolares",
+    "summary_es": "Los padres demandan a Google por la IA Riesgos de seguridad en los Chromebooks escolares The New York Times"
+  },
+  {
+    "id": "63e508ca6da3",
+    "title": "How Rhapsody Is Advancing Healthcare AI Governance and Patient Identity Management",
+    "summary": "How Rhapsody Is Advancing Healthcare AI Governance and Patient Identity Management Healthcare IT Today",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2FSSEpvbk5vbHdycjZ6YVVXOXdzaGxnSGxMWlhMcUZqNG5QaVVmQTZkRmxVMUFFUGxleXpaSlQzcGFGQ2lpZ0F3TWVSWDg3STBYc2EzUE9Va1FUM1J0Y0lYSmdsemRXVnV4dEtoVVFqdDNjRnZPdEh4MkJtdk44QTNSUzhxMGxOV19mNFd0NXU5bEdhRG9qX3FjaFJ0SUFyMWV2MFpoSVMyRThlTnhROVBxOTJ3Y1hBLWMxYVNjTEVnNWRhcHZn?oc=5",
+    "source": "Healthcare IT Today",
+    "language": "en",
+    "published": "2026-11-05T17:09:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "Cómo Rhapsody está avanzando en la gobernanza de la IA en el sector sanitario y la gestión de la identidad del paciente",
+    "summary_es": "Cómo Rhapsody está avanzando en la gobernanza de la IA en el sector sanitario y la gestión de la identidad del paciente TI en el sector sanitario actual"
+  },
+  {
+    "id": "9bb41d1cf9a9",
+    "title": "Q2 Becomes First Digital Banking Provider to Secure AIUC-1 Certification for AI Safety",
+    "summary": "Q2 Becomes First Digital Banking Provider to Secure AIUC-1 Certification for AI Safety FF News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVc0OXBEZTU4aFBrdThQT0JoQktIZGJFUXBsaW9OOWt0cll0b2ExaW1XTjMtcUNTaFdxUENMNC1kR0xTbUlHaVFBTmpkX0JZUXlJOU81S0pjVTdSd3JHd0R1dVlPRlJMb0hRY3EtTkNjSTFKeTU1N0poQjF5RnNfRzlUamtkQXBJamtURENXR09KM2Jib1hnSzREcjUyZUVBZll1T0Foa24?oc=5",
+    "source": "FF News",
+    "language": "en",
+    "published": "2026-11-05T16:43:06+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "Q2 se convierte en el primer proveedor de banca digital en obtener la certificación AIUC-1 para seguridad de IA",
+    "summary_es": "Q2 se convierte en el primer proveedor de banca digital en obtener la certificación AIUC-1 para seguridad de IA FF News"
+  },
+  {
+    "id": "aaf98474bfe5",
+    "title": "AWS, Anthropic Partner Caylent CEO: AI Governance Will Define The Next Decade",
+    "summary": "AWS, Anthropic Partner Caylent CEO: AI Governance Will Define The Next Decade CRN",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWl2SlRJUHY0TlVnMXg3b1RLR2pxVjFlMFNzRTRsY19UQnQwNVRHZ3dBS2tyUExJaEV4RnRCZWlzbWdCb3d0SnUtVTV2WERiNWJsX0JZR25SdlpjQTczRE1EMTQweDBFb0d2a0sxR2o3Z3dZUDAxMlBNZmRxeGhKcnBSNkc0QU5yZTNSVm1zMEgtQWNhNXl0dUpaV2wwT3Vic0thYzZfUXZNXzF4MExlVTRwZ3I?oc=5",
+    "source": "CRN",
+    "language": "en",
+    "published": "2026-11-05T16:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "AWS, CEO de Caylent, socio antrópico: la gobernanza de la IA definirá la próxima década",
+    "summary_es": "AWS, CEO de Anthropic Partner Caylent: la gobernanza de la IA definirá la próxima década CRN"
+  },
+  {
+    "id": "5a41859c45eb",
+    "title": "Cloudera to address enterprise AI governance challenges at GITEX Global 2026",
+    "summary": "Cloudera to address enterprise AI governance challenges at GITEX Global 2026 Intelligent CIO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDZMT2lWSE5vZ3VCanhkMEN4UlNjbURPbjJVQXp1OVhjaWxHNXJrYlZnblpKV012TXpqemdwanV6dGFsTzhqVzV5amY0Q2Q5TW9TQ3RRdVdoa2E5SXhYTXpxdzR2OF9DOGExTjVoSjV2QXpTYVJMeEJxamNJdW5VY0hna00wdzJLUXhTekxEMkpIQjl2aThMb0txeU1jcHdnYXl0UHFlWjZiNGNiRklHaWlJLWJNaUE5Ykc1aEJBMA?oc=5",
+    "source": "Intelligent CIO",
+    "language": "en",
+    "published": "2026-11-05T16:19:16+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "Cloudera abordará los desafíos de gobernanza de la IA empresarial en GITEX Global 2026",
+    "summary_es": "Cloudera abordará los desafíos de gobernanza de la IA empresarial en GITEX Global 2026 Intelligent CIO"
+  },
+  {
+    "id": "adfc99b018c8",
+    "title": "France and US clash over G7 AI safety effort",
+    "summary": "France and US clash over G7 AI safety effort Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WWDRSdldnUWQ5Wlo3WlFlblFYeldHMmNaSnJoVktaTDVPaHNvaDV1WGNuNzFScEE5S182TXBnSlF2UnJ5dnRkVWxCSWNjUUQwUkNQd0pJZXRmd2U3SW1UZ3FHdmNnd0ZwU1JEY1diOEN5NlZmbU1hN0ZxWlQ?oc=5",
+    "source": "Mezha.net",
+    "language": "en",
+    "published": "2026-11-05T15:09:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "Francia y Estados Unidos chocan por el esfuerzo de seguridad de la IA del G7",
+    "summary_es": "Francia y Estados Unidos chocan por el esfuerzo de seguridad de la IA del G7 Mezha.net"
+  },
+  {
+    "id": "85e0ec5bd356",
+    "title": "California Sends AI Safety Lawmaker to Congress",
+    "summary": "California Sends AI Safety Lawmaker to Congress The Information",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEZpZENkQ0xiV25NRXY2Q0luNVZSTk0zQm5tYy1JQ0xTN3R3XzI3RTk5dTFQSTUwNlVQZEx0andQV2hxbnhZUzVYaDN6LXlTM054NER2WUZhc3RXaE1DbWFSV0V0bVVNa0hnaDFkeHhKS2xJZlQ4b3lka056MTRWSUJFSldWV3BoM2U1cFFuNThINHRXR1lBX0t6emNGZw?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-11-05T15:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-05",
+    "title_es": "California envía al Congreso un legislador sobre seguridad de la IA",
+    "summary_es": "California envía al Congreso un legislador sobre seguridad de la IA La información"
+  },
+  {
+    "id": "87d1691b48bd",
+    "title": "Statement: The pro-human movement is winning",
+    "summary": "FLI's Head of U.S. Policy Michael Kleinman issues a statement on the U.S. Senate Midterm Election results.",
+    "link": "https://futureoflife.org/statement/statement-the-pro-human-movement-is-winning/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-11-05T14:06:00+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-05",
+    "title_es": "Declaración: El movimiento prohumano está ganando",
+    "summary_es": "El jefe de política estadounidense de FLI, Michael Kleinman, emite una declaración sobre los resultados de las elecciones de mitad de período del Senado de Estados Unidos."
+  },
+  {
     "id": "6a8eb5e33cb3",
     "title": "Unchecked AI Systems Threaten Global Energy and Banking Networks Warns Geoffrey Hinton",
     "summary": "Unchecked AI Systems Threaten Global Energy and Banking Networks Warns Geoffrey Hinton The 420.in",
