@@ -1,5 +1,170 @@
 [
   {
+    "id": "4b20af82f5e8",
+    "title": "Arab Region Advances Shared Vision for Digital and AI Governance",
+    "summary": "Arab Region Advances Shared Vision for Digital and AI Governance Mirage News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3hxQjJrcll6YU9sU0Y0a0pVOGtiNkpfMDRoMlk4WXBkbEJiMmN2alczT0V4ZFk5LUpVTWIxcEZ1ZVFaa0tseF9scnFwb3JOb2ZHY2pzTU5ZY0RoVldpaDNCakhkUWJsZHRBVDFSbkIyWXFscTBfcjBXb3cwYmJHQ1pmR2VNM1pMT0E?oc=5",
+    "source": "Mirage News",
+    "language": "en",
+    "published": "2026-11-06T10:56:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-06",
+    "title_es": "La región árabe avanza en una visión compartida para la gobernanza digital y de IA",
+    "summary_es": "La región árabe avanza en una visión compartida para la gobernanza digital y de IA Mirage News"
+  },
+  {
+    "id": "51d1006f73ea",
+    "title": "School AI Safety Faces a Critical Test After Google Lawsuit",
+    "summary": "School AI Safety Faces a Critical Test After Google Lawsuit Urban Acres",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzVraFNHUFRyNHFWQlZoX25OdXNPSUFFblhpVjh4c3JJMl93WW5vdFdZSVJRQ1cyalNFS09lRjcxRDV3aUh3N0tIMGxhdXRIUHBrVWVnTS0tYkZoZS03NkRWd3ZLRTBpaExKLU11cGNRbzRyMFdFZ1JMQy0xTjlQSGp3YndxN1J3Wnc?oc=5",
+    "source": "Urban Acres",
+    "language": "en",
+    "published": "2026-11-06T10:01:31+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-06",
+    "title_es": "La seguridad de la IA en las escuelas se enfrenta a una prueba crítica tras la demanda de Google",
+    "summary_es": "La seguridad de la IA en las escuelas se enfrenta a una prueba crítica tras la demanda de Google Urban Acres"
+  },
+  {
+    "id": "082f5465cc85",
+    "title": "NTT se suma a McLaren en F1 para gobernar la seguridad de la IA desde 2027",
+    "summary": "NTT se suma a McLaren en F1 para gobernar la seguridad de la IA desde 2027 Foro3D",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlVfSjZRdTZ3R1FsTDNBYUZVQlhUSllLcDU1aHprVW5JTnVSMjc4SHVMTEVJN2xDUFRzSWQ2eVppWDVCNEJJZWZuS3ltcXhfbzNndXpoVzlWOVlZNU8zM0FyV3lBaV9lUF92ZlVzVUR2alJLdmZXdEhSOWdwRTBZYkpVMHZOM2xyd29WSGRrTFEtT1N1WUJicnl5Y0tBaGRkaWx4T0JXd1BleUpu?oc=5",
+    "source": "Foro3D",
+    "language": "es",
+    "published": "2026-11-06T10:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-06",
+    "title_es": "NTT se suma a McLaren en F1 para gobernar la seguridad de la IA desde 2027",
+    "summary_es": "NTT se suma a McLaren en F1 para gobernar la seguridad de la IA desde 2027 Foro3D"
+  },
+  {
+    "id": "a16fdb5b3763",
+    "title": "European Commission picks Capgemini-led consortium for AI Safety contract",
+    "summary": "European Commission picks Capgemini-led consortium for AI Safety contract Telecompaper",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjEzY3J0NXBtN3B3M2kySjlMTFBJVXE0d2xWbEg0cXE3dGRkaWJDX05rM3otdWU3SnBTcnhTRjVSaFM4QU84dnllT1BncElPaVBRSDBqTGpnNUpJVkRaX1QxbWZFN3hSeVZKM3VhdU1laXFYYzJwOC0zaWFJaXpQOEV1XzV4c3FReS1SWkZaTDljb01VLTZJd3VzcGtLVU1fVURRaVZQdjNjZ055dXVxN01XSFZGWlE?oc=5",
+    "source": "Telecompaper",
+    "language": "en",
+    "published": "2026-11-06T09:50:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-06",
+    "title_es": "La Comisión Europea elige un consorcio liderado por Capgemini para el contrato de seguridad de la IA",
+    "summary_es": "La Comisión Europea elige al consorcio liderado por Capgemini para el contrato de seguridad de IA Telecompaper"
+  },
+  {
+    "id": "6716c5400de6",
+    "title": "Binance’s $6.3B Heist Exposes AI Governance Gaps [2026]",
+    "summary": "Binance’s $6.3B Heist Exposes AI Governance Gaps [2026] shattered.io",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTFWTGhfLW1NMWEwUld5NUxoYmxBRUhJZkd2cGlha0NPZ3Y0Y1dac1VkT0F1TjZWMmpYdkUwYVVhY0x6U3R3dTVoS0ZHOE42YUF3T2V4RUhHc0FBeDYyQnlTUWgxVDB5Tnl1cG1COTZqOGEtVzRQaU40N2ZZUWVWZWtDY3NlM0NKckdCMDNvQnB4Zw?oc=5",
+    "source": "shattered.io",
+    "language": "en",
+    "published": "2026-11-06T09:10:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-06",
+    "title_es": "El atraco de 6.300 millones de dólares de Binance expone las brechas en la gobernanza de la IA [2026]",
+    "summary_es": "El atraco de 6.300 millones de dólares de Binance expone las brechas en la gobernanza de la IA [2026] shattered.io"
+  },
+  {
+    "id": "3d6a6ef68cc7",
+    "title": "Geoffrey Hinton AI warning: humans may regret creating AI",
+    "summary": "Geoffrey Hinton AI warning: humans may regret creating AI Cybernews",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LekxIcnQ2NVBrZHB4bjI5ZHFoTW1hN1hyYTlFM3pjampxVXdKUzloRm95QXhsWDRYVzhDN0M0SWdOSURnQnlsTWV4ZVMxcW9BaGZtbG9hYkkyYVJYNFRxSFJHR0NHWVY4VVlFamlpQ0lnSkFmdkE?oc=5",
+    "source": "Cybernews",
+    "language": "en",
+    "published": "2026-11-06T09:10:10+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-06",
+    "title_es": "Advertencia de Geoffrey Hinton sobre IA: los humanos pueden arrepentirse de haber creado IA",
+    "summary_es": "Advertencia de Geoffrey Hinton sobre IA: los humanos pueden arrepentirse de haber creado IA Cybernews"
+  },
+  {
+    "id": "c6c2689b0f53",
+    "title": "UK boards & CEOs split on cyber risk & AI governance",
+    "summary": "UK boards & CEOs split on cyber risk & AI governance IT Brief UK",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUhNeGpVVEVyTDF3aTY2aEdqYXdPR0hLXy0zUDZrQnVmUHNzdktaMnd2aGdlWWR0Um04cWNpYU9LNDY3VVdvOGdCSVhXb3BzUm5pcWd5bGdRMmxnaWxMdG9EdGs1V1NBUWZLRlZDaU5OZUxFMEJzbDFZWF9sdGEtcFFn?oc=5",
+    "source": "IT Brief UK",
+    "language": "en",
+    "published": "2026-11-06T08:45:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-06",
+    "title_es": "Las juntas directivas y los directores ejecutivos del Reino Unido están divididos sobre el riesgo cibernético y la gobernanza de la IA",
+    "summary_es": "Las juntas directivas y los directores ejecutivos del Reino Unido están divididos sobre el riesgo cibernético y la gobernanza de la IA IT Brief UK"
+  },
+  {
+    "id": "1cfe4b1c0004",
+    "title": "Binance Heist: AI Governance Gaps, $6.3B Lost [2026]",
+    "summary": "Binance Heist: AI Governance Gaps, $6.3B Lost [2026] https://tech-insider.org/",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTM1ai1sZmxUUVdVSXo0UlJLd2NuTnNvS1hDN2pKSzM5ajNnVkN5UGlZRjFXcVJMVkt1YzZiMFozYkpJVFNNU0tPMEF2MGxHZUxzdmRUSl8xcEppbG15X3VhLXlnbDZTSFZYc0ZWZzNuc3RmX0FnZFhsWXFXZzVGLU5QSmR3cDRRUW1DSGg2VDFTcGprN0ZN?oc=5",
+    "source": "https://tech-insider.org/",
+    "language": "en",
+    "published": "2026-11-06T08:33:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-06",
+    "title_es": "Binance Heist: brechas en la gobernanza de la IA, pérdida de 6.300 millones de dólares [2026]",
+    "summary_es": "Binance Heist: brechas en la gobernanza de la IA, pérdida de 6.300 millones de dólares [2026] https://tech-insider.org/"
+  },
+  {
+    "id": "990480459c8c",
+    "title": "Tencent launches Hy4 model to boost visual reasoning, AI safety",
+    "summary": "Tencent launches Hy4 model to boost visual reasoning, AI safety digitimes",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3dmb1pLZGMtemg0NTRxd0dFMFotRmFkVVptU2JjS3lyMGhCaERkOFc0OVdoWTU0d2J5UDNyaDBVSXdwTU9rTmVKS3IzdDRpRUUyWmphUU5wcjVMR3lHcVhtWVM5ZUFsYV9YRnl5YjlYNVdsNVJtQnRrcHNEOXJkM2p2R19ZNU1QaUZybVdLR0c1MzgwYnh6WnV3?oc=5",
+    "source": "digitimes",
+    "language": "en",
+    "published": "2026-11-06T06:29:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-06",
+    "title_es": "Tencent lanza el modelo Hy4 para impulsar el razonamiento visual y la seguridad de la IA",
+    "summary_es": "Tencent lanza el modelo Hy4 para impulsar el razonamiento visual y los tiempos digitales de seguridad de la IA"
+  },
+  {
     "id": "83b3d933dc7d",
     "title": "Geoffrey Hinton y los riesgos de la IA: posibles cortes",
     "summary": "Geoffrey Hinton y los riesgos de la IA: posibles cortes NeoTeo",
@@ -40,6 +205,26 @@
     "date_added": "2026-11-06",
     "title_es": "El profesor Geoffrey Hinton, 'padrino de la IA', dice que la humanidad podría haber estado mejor sin ella",
     "summary_es": "El profesor Geoffrey Hinton, 'padrino de la IA', dice que la humanidad podría haber estado mejor sin ella News18"
+  },
+  {
+    "id": "cca3146eb2ce",
+    "title": "Suleyman calls for halting AI if consciousness is detected in models",
+    "summary": "Suleyman calls for halting AI if consciousness is detected in models Foro3D",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnhBcmJ3b2JSRjI1b1VRaHlRajFVQ2hqRUFSMHFNRTNRS1l4QnV5SS1URWM2ZldHdEhvdEoxUXptdThVQTduS252Y1NSOVlMdWtxQ3NJbW4xV3kzMlROMTE5aXpKYVgxcTBCcDd3N29KYlZDSU1LdjdxdTdoUU1QdFRMRnJPaVRUaElYLUxieHRXY3JnN3VqcjlvbkhPeEtoNDVHb0xMR3ZrZ3VsS1E?oc=5",
+    "source": "Foro3D",
+    "language": "en",
+    "published": "2026-11-06T01:45:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-06",
+    "title_es": "Suleyman pide detener la IA si se detecta conciencia en los modelos",
+    "summary_es": "Suleyman pide detener la IA si se detecta conciencia en los modelos Foro3D"
   },
   {
     "id": "6b613e429d4d",
@@ -114,6 +299,27 @@
     "date_added": "2026-11-06",
     "title_es": "METR: Evaluación independiente de la aceleración de la I+D de IA en Anthropic en octubre de 2026",
     "summary_es": "Resumen ejecutivo Del 12 de agosto al 29 de octubre de 2026, el personal de METR realizó una evaluación de alto acceso en Anthropic para evaluar el grado en que la IA está acelerando la I+D de IA. Si los sistemas de IA comenzaran a acelerar significativamente el desarrollo de la IA, esto podría conducir a una aparición repentina de capacidades extremas y riesgosas. Antrópico ofreció algo sin precedentes..."
+  },
+  {
+    "id": "52bbc67fd818",
+    "title": "66-Year-Old Yann LeCun’s New Paper Challenges Scaling Law: 109M-Parameter Model Outperforms 72B-Parameter Counterpart — Larger AI Models Don’t Necessarily Understand the World Better",
+    "summary": "66-Year-Old Yann LeCun’s New Paper Challenges Scaling Law: 109M-Parameter Model Outperforms 72B-Parameter Counterpart — Larger AI Models Don’t Necessarily Understand the World Better 36氪",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wOGNwaVk1NVRZdWcxdko5M2VyUzFQOVE2MzgxTW00cDd6XzRCUU9XTDhScjJfOUN6S2x6MjZvbHRKcGZVRXdNa2ZJa2w1UFJaR2tB?oc=5",
+    "source": "36氪",
+    "language": "en",
+    "published": "2026-11-02T04:50:32+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "gobernanza",
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-06",
+    "title_es": "El nuevo artículo de Yann LeCun, de 66 años, desafía la ley de escala: el modelo de parámetros 109M supera a su homólogo de parámetros 72B: los modelos de IA más grandes no necesariamente comprenden mejor el mundo",
+    "summary_es": "El nuevo artículo de Yann LeCun, de 66 años, desafía la ley de escala: el modelo de 109M de parámetros supera a su contraparte de 72B de parámetros: los modelos de IA más grandes no necesariamente comprenden mejor el mundo 36氪"
   },
   {
     "id": "8fab1b961226",
