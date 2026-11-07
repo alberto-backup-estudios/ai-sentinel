@@ -1,5 +1,85 @@
 [
   {
+    "id": "b50e4df8e171",
+    "title": "Geoffrey Hinton Expects an AI Chernobyl by Next Year",
+    "summary": "Geoffrey Hinton Expects an AI Chernobyl by Next Year Medium",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlNCUlpPWGw0LUFLMmo3MU5uM0daN1pHMVlIakpNbU4ydmR0QkREaFBjeEpHck02aVVHX2R1aVJmalZycU9wb0dlQmY2MThrelNZRmZEcjZpZUZXaHZlMzFaTTVNVkEyV0dySW9UNlRvT0tIWXZkSGFUemltYmF3UUZPdXVLNDVzZm1YLVJWem1QXzdXZGFSaVJwaVF4SXdMdC1F?oc=5",
+    "source": "Medium",
+    "language": "en",
+    "published": "2026-11-06T16:08:14+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-07",
+    "title_es": "Geoffrey Hinton espera un Chernobyl con IA el próximo año",
+    "summary_es": "Geoffrey Hinton espera un Chernobyl con IA para el próximo año"
+  },
+  {
+    "id": "c4f1789d4cf4",
+    "title": "Tech policy coalition calls for new Congress to set AI safety standards",
+    "summary": "Tech policy coalition calls for new Congress to set AI safety standards Route Fifty",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzlWSTBXbnZvLWFnQXJwanpIWnlqcEpfeXhmanQxOEJibElLWDdMQld2OUtvU1Vvc1hsU3ZPR2VSMWNsM0NsT0JCTENaUmpZc2JyT0ZsT3NjOXZmbnViSURWTzhzaEpWakhyS1FnRVlBTHhTN1REQ18tNjhsSnpvaHQ0SjE2MWxhZjM1Y2ZMY3dmUDFQOHpnZnJwOG10LThleGVEeEd2Q2NheDZuaW1OZGFNd2VtZ2dmZDdXZk1NZXEtQ3ZzTlgyY1NuVlBSVEpFd3lqWENLQUtXOGJvRWxyemR2MGQ0dUR1OVRj?oc=5",
+    "source": "Route Fifty",
+    "language": "en",
+    "published": "2026-11-06T16:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-07",
+    "title_es": "La coalición de políticas tecnológicas pide que un nuevo Congreso establezca estándares de seguridad para la IA",
+    "summary_es": "La coalición de políticas tecnológicas pide que un nuevo Congreso establezca estándares de seguridad para la IA Route Fifty"
+  },
+  {
+    "id": "bbd39262b160",
+    "title": "These U.S. midterm election results will force Big Tech to the negotiating table",
+    "summary": "These U.S. midterm election results will force Big Tech to the negotiating table Fortune",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcldaMlRNdUR4STFjNy11RDFXcUVWbUFDclF2bG14Q0pxbWV3UENpektWY0Ixd0E4ZmtwT29fNlphMHZteWpLSDlPSERhOURPcXFTcjV2OGViWEMtX085QWlGcm84NFR2TjRQT0JjZWJyOWdIQm9xS1Q1Z2txa3habzlpT3I4dENKZlFTTTdTejEwb0hDREdNb1cySTZULUpTb0FrNUgzRGZ5RmNDY0JOTmJB?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-11-05T11:56:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-07",
+    "title_es": "Estos resultados de las elecciones de mitad de período en Estados Unidos obligarán a las grandes tecnológicas a sentarse a la mesa de negociaciones",
+    "summary_es": "Estos resultados de las elecciones de mitad de mandato en Estados Unidos obligarán a las grandes tecnológicas a sentarse a la mesa de negociaciones Fortune"
+  },
+  {
+    "id": "18601e284836",
+    "title": "How Pro-Worker AI Can Expand Human Potential",
+    "summary": "How Pro-Worker AI Can Expand Human Potential Time Magazine",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWZkc3l1cGdKN3IyOF9ERnlIVmsxSWZlSnJiZFRFeWJWc3ZtbTZwd0ZXQnRBS09mQ1Y2VFR6alpDWlZZRWpQcnJNV2lsTnhTUWo1VDFzd0NFWklwMF9rZHZTVGxtMFg4aHlENG5kODRNSG4ySFVjd1J1N2o3Vkkyb3YwcG5CWXlpazlLZ2RYTElVLXpvMWJTZnN3YTFDY3pu?oc=5",
+    "source": "Time Magazine",
+    "language": "en",
+    "published": "2026-11-04T15:54:24+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-07",
+    "title_es": "Cómo la IA a favor de los trabajadores puede ampliar el potencial humano",
+    "summary_es": "Cómo la IA a favor de los trabajadores puede ampliar el potencial humano Revista Time"
+  },
+  {
     "id": "70d9770ae73c",
     "title": "Beyer Plans Swift AI Safety Push as Democrats Prepare Takeover",
     "summary": "Beyer Plans Swift AI Safety Push as Democrats Prepare Takeover Bloomberg Government News",
