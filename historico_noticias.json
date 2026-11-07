@@ -1,5 +1,156 @@
 [
   {
+    "id": "c4c6e333e3b9",
+    "title": "Geoffrey Hinton gives chilling Chornobyl-like blackout warning on AI",
+    "summary": "Geoffrey Hinton gives chilling Chornobyl-like blackout warning on AI Neowin",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcC1HWWI2Q2JfS3E4OG1MbEFtWjh0VGVPSVM1NDNyTXR5WWt4aUhSeEFEYXhwU3U4U3l1VHFQRHhmUVFGYUZCaUM4RGFCTTZQNE0zano4Q0JzNmxzdGc4U0pSdkVhdUpPdXVqLWlkSE5QX1c1bWRfenp4SWdBTlpfUzYxUjByZGh5U1hVZ2s3TlQ2WENFMXRFcDNpRkNnZw?oc=5",
+    "source": "Neowin",
+    "language": "en",
+    "published": "2026-11-07T20:04:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-07",
+    "title_es": "Geoffrey Hinton da una escalofriante advertencia de apagón similar al de Chernóbil en la IA",
+    "summary_es": "Geoffrey Hinton da una escalofriante advertencia de apagón similar a la de Chernóbil en AI Neowin"
+  },
+  {
+    "id": "7183fb24268c",
+    "title": "Beyond Blind Trust: Rethinking AI Governance for Operational Resilience",
+    "summary": "Beyond Blind Trust: Rethinking AI Governance for Operational Resilience CircleID",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUk9RTW0tTmNCN3p0SktlenZDRi1vTk5XUUo5U0gxdGhadC04dk9FaUZqQzQyRHFrOU82T0JSX19XOG52VXNKQmt2S19tQm9naThpWWdBaHRWRmpWUEhKM3dibl9Sd1BOdXFXZ0laUmlkVS12OFBUQVRVdjhzSHh0ZlNBd1hPMTdzVGF3UGI2UjhQQzJmd0hINW9GY1NBdw?oc=5",
+    "source": "CircleID",
+    "language": "en",
+    "published": "2026-11-07T17:03:38+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-07",
+    "title_es": "Más allá de la confianza ciega: repensar la gobernanza de la IA para lograr resiliencia operativa",
+    "summary_es": "Más allá de la confianza ciega: repensar la gobernanza de la IA para la resiliencia operativa CircleID"
+  },
+  {
+    "id": "5b0b54707fec",
+    "title": "AI Safety PACs Put 97.5% on the Winning Side; Industry 52.6%",
+    "summary": "AI Safety PACs Put 97.5% on the Winning Side; Industry 52.6% FourWeekMBA",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnNoMl9WLU5sT09yT3BvNTBPOWZEblZpRVhfdGdHWlVyTDB6dy1lSEphRG9xZExvOWFLYmd1OVJLUWR2SlBBT0lXMG1YTFB6V0lNN3RnblE4MXdoSEc4dWI0ejVDdDdLRHBjOGIyWVYwTU9WUmlwaEZEU2llSXljWnlYUk1DREJjQ3c?oc=5",
+    "source": "FourWeekMBA",
+    "language": "en",
+    "published": "2026-11-07T15:56:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-07",
+    "title_es": "Los PAC de seguridad de IA ponen el 97,5% del lado ganador; Industria 52,6%",
+    "summary_es": "Los PAC de seguridad de IA ponen el 97,5% del lado ganador; Industria 52,6% MBA de cuatro semanas"
+  },
+  {
+    "id": "f5d22997938e",
+    "title": "ITU, ISO and IEC explore international standards for AI safety and accountability",
+    "summary": "ITU, ISO and IEC explore international standards for AI safety and accountability Tech Review Africa",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHJZWDRuZ1NGaTY4NzJNZWxfYUpEUE5aLUlEZDkzNDIycFFmX3k3MjlTN051STUwTUJXa0t3VmZfNG1wWHBzZGxIbmRCb1BMT2Z0MDlMZ0pfQXl5OXNnS0RTbnNGeTZXTHR4M2R3aThONDZscWF1RDJxYVZwamxyMV9YNWcyd2h1UXl3d3VlenZISWFKZFFwSzA2NWxBT0wwWnFUX0JFdHNOV2x5Nm1SUEZ4NVJCUGwyenZV?oc=5",
+    "source": "Tech Review Africa",
+    "language": "en",
+    "published": "2026-11-07T15:35:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-07",
+    "title_es": "La UIT, la ISO y la IEC exploran normas internacionales para la seguridad y la rendición de cuentas de la IA",
+    "summary_es": "La UIT, la ISO y la IEC exploran normas internacionales para la seguridad y la rendición de cuentas de la IA Tech Review Africa"
+  },
+  {
+    "id": "3b7d472e6f5e",
+    "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+    "summary": "AI Safety Advocates Make Gains After $110 Million Midterm Fight Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJhRnFjblNCalFSTllsR19sT1RDWC1ZRE50MlBJTlFYQzJhYmRTa1E0RGxxNExfamVvZDdVZUtsYVYwTUFIME90OS16V1FFb0xYTlotTDR4V3VUdVFWdjVmMGI2eVA0Zm1KbDJBUEZWRTFaMnpJZHFYdHZjUXlVcG12NzBJb2R5QUxkLUNKUW53QkFkMjc1OXlLc0V1d2NvcHJzTDRUczRDT1Z3TFhPWHdCaw?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-11-07T14:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-07",
+    "title_es": "Los defensores de la seguridad de la IA obtienen avances después de una lucha de mitad de período por valor de 110 millones de dólares",
+    "summary_es": "Los defensores de la seguridad de la IA obtienen ganancias después de una lucha de mitad de mandato por 110 millones de dólares Bloomberg.com"
+  },
+  {
+    "id": "5e0ceb259d60",
+    "title": "AI Godfather Says to Get Ready for a Chernobyl-Style \"Blackout\" Caused by AI",
+    "summary": "AI Godfather Says to Get Ready for a Chernobyl-Style \"Blackout\" Caused by AI Futurism",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHlRQTVjLXpUb2stNmdPQUVQSDJKTHJFNmNkTE9hTWRKSzhfZnB3MEQ3dy15QVVxRVR3aEZzaG43XzFsaG9jUWNvX2M2Zm95VVFZUmJrWnROM2JFUTJGbmJGUlVjSEJrTlNnZTJPWUhMSjRWaXFLMlM1QU1VTFRhdlhB?oc=5",
+    "source": "Futurism",
+    "language": "en",
+    "published": "2026-11-07T13:49:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-07",
+    "title_es": "El padrino de la IA dice que debemos prepararnos para un \"apagón\" al estilo de Chernobyl causado por la IA",
+    "summary_es": "El padrino de la IA dice que debemos prepararnos para un \"apagón\" al estilo de Chernobyl causado por el futurismo de la IA"
+  },
+  {
+    "id": "454f55faef82",
+    "title": "Can Congress fix affordability? MIT's Daron Acemoglu weighs in",
+    "summary": "Can Congress fix affordability? MIT's Daron Acemoglu weighs in NPR",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVVJUk1meXg5c0JlVXpDZmFqWF9mSWEyX1dPN2xzTlB0a2ZGeE5NVlJ4d1BnWGVjUGlnUnhqUlUxLWhzUzZpRXRxQlRSalFKRnNKeGxXcFY3TFoyTjBvYm52akpZQnZmV0FKRUMxOHhITkJDYkxmTERnWlJhS21PeUpYUlJIVWRqelUyY3pka0pUcFFkMGd5N29ZbmlzOUQ1d1o5RWhwd0k?oc=5",
+    "source": "NPR",
+    "language": "en",
+    "published": "2026-11-07T12:41:05+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-07",
+    "title_es": "¿Puede el Congreso arreglar la asequibilidad? Daron Acemoglu del MIT opina",
+    "summary_es": "¿Puede el Congreso arreglar la asequibilidad? Daron Acemoglu del MIT opina en NPR"
+  },
+  {
+    "id": "906435195ca8",
+    "title": "How Investors Are Reacting To Globant (GLOB) AI Governance Launch",
+    "summary": "How Investors Are Reacting To Globant (GLOB) AI Governance Launch Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmRuUzQtdGNKb0dNMGY0dWs2LXRHWFc2dElMMjNjXy1kVkNKakIycUVGYUhzVk5Bemx0SVNranhBRnZPUDM0MmV0TUI2UkY0eFN1N2diZFdUTGkzVHpaa2E2bXZITkNCT1YyVV9yRWxZM2k2UFZzTDlKN2hzZnQ3QUJEMWZzQ1VKbUxCRmFac0Z4aWs2bjBGc3FmTFdtUnFwYmoyRnVkX2RrMUd3eHFlZTF5dXFtRlNXUmFHZFl4bERfd9IBxwFBVV95cUxOd0ZtOHpiZFI5SE5ZWk5VZGRBVDlCRzVwYV9HT2xLRnBZMVdlSzFPNTk3MzFLXzRFbjdIOEYyMlcxN1dIdm1TZm9wV1V1MTc3VmdUS0FqRU9wc2tiTGJDVmJubnI3NDFFLVhBWm5VUUtmbm1EQ1Y1NlRxRjlSY2Y3bVN6YURoY01RLW1QTWNHcC1kYjZoSkF5aTYya2JMUGI3Q1dMUzRDYzIyMWhjR1Z4RHo5UWlHUXQ2cFRpb0ZXYVVQcS1uaGNJ?oc=5",
+    "source": "Simply Wall St",
+    "language": "en",
+    "published": "2026-11-07T12:28:41+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-07",
+    "title_es": "Cómo están reaccionando los inversores al lanzamiento de la gobernanza de IA de Globant (GLOB)",
+    "summary_es": "Cómo están reaccionando los inversores al lanzamiento de la gobernanza de IA de Globant (GLOB) Simply Wall St"
+  },
+  {
     "id": "7666bfe3b269",
     "title": "UNDP chief urges global AI safety rules, equitable access for developing nations",
     "summary": "UNDP chief urges global AI safety rules, equitable access for developing nations 巴士的報",
