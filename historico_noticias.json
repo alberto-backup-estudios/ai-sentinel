@@ -1,5 +1,228 @@
 [
   {
+    "id": "53a8b84e5bec",
+    "title": "Claude's False Police Tip Shows Why AI Safety Cannot Depend on the Model Alone",
+    "summary": "Claude's False Police Tip Shows Why AI Safety Cannot Depend on the Model Alone HackerNoon",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnoxQnU0N25paUpWdTd0OFBFWnlWR3I2SDd5VUVWenNvY29ZaHNTUGppM3lNdDNob0tSNG9RN3FwNzhCNk5fZm1LVEpSWmF5ei05Y1VUbnd0cVZTNjJRVmc1QnRQVjd6YjlJNEhPc282SV84TFhkazZkZDA3bUFyN2pZc0YwNThBQkp3X2xlOFowTU55SFJud1NnUWs1QzdJcVE?oc=5",
+    "source": "HackerNoon",
+    "language": "en",
+    "published": "2026-11-08T21:18:54+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "El falso consejo policial de Claude muestra por qué la seguridad de la IA no puede depender únicamente del modelo",
+    "summary_es": "El falso consejo policial de Claude muestra por qué la seguridad de la IA no puede depender únicamente del modelo HackerNoon"
+  },
+  {
+    "id": "e52ad9e0c8d6",
+    "title": "A1 launches AI governance service for mid-market firms",
+    "summary": "A1 launches AI governance service for mid-market firms IT Brief Australia",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGYtX1htTW5GSU5acWJPYjVoZ3A5aUxFdkFWMExkOFlKVW9iUFlOUnY3NEY4T05pdG1LRVBwbVZtSGdTa0tycHBfeEtLb0gyVkZQcmZwajZ0amhQWTV4ajlwSEJ6Yy10NDNTdm5oNURnTXE0M0hqcjZNTTEtTFctbzR2eEpRaGFzMkVr?oc=5",
+    "source": "IT Brief Australia",
+    "language": "en",
+    "published": "2026-11-08T21:15:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-08",
+    "title_es": "A1 lanza un servicio de gobernanza de IA para empresas medianas",
+    "summary_es": "A1 lanza servicio de gobernanza de IA para empresas medianas IT Brief Australia"
+  },
+  {
+    "id": "5ec5723652ce",
+    "title": "Seguridad de la IA en EE.UU. bajo la lupa: expertos reportan a la Casa Blanca y surgen dudas",
+    "summary": "Seguridad de la IA en EE.UU. bajo la lupa: expertos reportan a la Casa Blanca y surgen dudas Gestión",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSkowWi1hMFlNdGRrZlVXQzZZVXpER19CcTdXS3RMRkhwZlgwaWlKZEMyaWhGOGtua1NtYXNscnltcGQ4ZHdTTGQ4ckVpTHQ5aE5xZUZldy1DdWs2TzVUUy13aHhoZWFOOXhxWWVKQ0hBZEVFU0ROMEs4eURubXNZRDY4VnFmbTd1bFRnOXB5bUNmbnE0WWlac3dITW5pQk9vd2dpV19vRFBhbUFaV0dKWDlzbTl0ZHBwSUVWd1VR?oc=5",
+    "source": "Gestión",
+    "language": "es",
+    "published": "2026-11-08T20:31:55+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "Seguridad de la IA en EE.UU. bajo la lupa: expertos reportan a la Casa Blanca y surgen dudas",
+    "summary_es": "Seguridad de la IA en EE.UU. bajo la lupa: expertos reportan a la Casa Blanca y surgen dudas Gestión"
+  },
+  {
+    "id": "a1413d786e69",
+    "title": "White House Request Raises US AI Safety Center Independence Concerns",
+    "summary": "White House Request Raises US AI Safety Center Independence Concerns Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUg4amJKWUdzZm1KZ0V3d0QtczEyMWM5Nmo0RHEtYmVaQkpJaGJJeV91SmI2N0hjcy1IMVVxQ0lrNTY1TUZxdHRYbGM4RWM4N1dmX200U1VsRmZYXzZRTnY2d3BQOWFqX05qTzRKMllZMVNnNTJwc01HcnlhRnktOEdIcHdDUzl2RjNwZkhyS05HZVlf?oc=5",
+    "source": "Unite.AI",
+    "language": "en",
+    "published": "2026-11-08T19:34:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "La solicitud de la Casa Blanca plantea preocupaciones sobre la independencia del Centro de Seguridad de IA de EE. UU.",
+    "summary_es": "La solicitud de la Casa Blanca plantea preocupaciones sobre la independencia del Centro de Seguridad de IA de EE. UU. Unite.AI"
+  },
+  {
+    "id": "005cad6394b2",
+    "title": "Microsoft AI CEO Says He’s Open to Agents Deserving Rights If He Sees the Right Evidence",
+    "summary": "Microsoft AI CEO Says He’s Open to Agents Deserving Rights If He Sees the Right Evidence Futurism",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd05rdllEbEhDYzBWbU05emY1dTFwSjE5ckw3aW1Mb0JkWGw2ZXNtbk5PM2hoU1VLWEtDUFhjUEwwdDExQ0FkZG5LMU5aOU9nN0Y2MmFjYUY4X0JBMDd6aTYtX01xN1VqNXRNZUNGZE1FcTdZYUFwUDBXazVDanNfTUl2amZNQ2M5YjFlMw?oc=5",
+    "source": "Futurism",
+    "language": "en",
+    "published": "2026-11-08T18:50:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza",
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-08",
+    "title_es": "El CEO de Microsoft AI dice que está abierto a que los agentes merezcan derechos si ve la evidencia correcta",
+    "summary_es": "El CEO de Microsoft AI dice que está abierto a que los agentes merezcan derechos si ve la evidencia adecuada Futurismo"
+  },
+  {
+    "id": "2d07b5f0cafb",
+    "title": "Ajeya: AI is dramatically accelerating AI research right now",
+    "summary": "Earlier this week, Anthropic stated in their S1 that they “may imminently meet” the threshold of “dramatically accelerated progress due to AI” as defined in their Responsible Scaling Policy. In their latest RSP (effective July 2026) , say this threshold will be met when: They observe or expect overall capabilities progress to be going twice as f...",
+    "link": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-08T17:15:13+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-08",
+    "title_es": "Ajeya: La IA está acelerando drásticamente la investigación sobre IA en este momento",
+    "summary_es": "A principios de esta semana, Anthropic declaró en su S1 que \"pueden alcanzar inminentemente\" el umbral de \"progreso dramáticamente acelerado debido a la IA\" como se define en su Política de Escalamiento Responsable. En su último RSP (efectivo en julio de 2026), dicen que este umbral se alcanzará cuando: Observan o esperan que el progreso de las capacidades generales sea el doble de rápido..."
+  },
+  {
+    "id": "883e74988a20",
+    "title": "2027 AI Governance: Operating Models, Not Policy Documents",
+    "summary": "2027 AI Governance: Operating Models, Not Policy Documents Cybersecurity Insiders",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEpFSnVURUwtLXgtUXFBaGl3LU92Q0JmOVJpVlJqMzlvN2FiNGNxdXpBenI1a3Z6bHZDNG1PM0ZaRkcyYVpqZTJBeDBQNC1WQ2lPck9jSUgzc0hwS2ZNd3pIYUhVT2JjcVo3RTlKY1V1TUxCNXRxekRVM1dyQlhSZndQb2ZPbzByTW5GYnZuNEQ0WlJETDdpQi1Xa0M?oc=5",
+    "source": "Cybersecurity Insiders",
+    "language": "en",
+    "published": "2026-11-08T14:40:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-08",
+    "title_es": "Gobernanza de la IA en 2027: modelos operativos, no documentos de políticas",
+    "summary_es": "Gobernanza de la IA en 2027: modelos operativos, no documentos de políticas Expertos en ciberseguridad"
+  },
+  {
+    "id": "8ecfefc850b2",
+    "title": "Missing the Point: Isolation Alone Will Not Build AI Safety",
+    "summary": "Missing the Point: Isolation Alone Will Not Build AI Safety MedCity News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR24zSXZ4OVRRV1o5ZkRfWEpMelQ4OTVITVQ4S3VNVHAyenluOUl6ZTN3ODhtN2xnRm03Q1RQR2FZWTlBZnFYZXNtbmNXcG15aWV3MG4wV09WSmFpUmlTTkprWlByVU83RkJscmRIYVQydnlSQmFVT3Z4T2hnRXN2Yk1ubXY2Q09mQXppUGFteEhQN2RiNTBVSXhOVVRpbkkwOTF4ZUQ1eGFFcGxE?oc=5",
+    "source": "MedCity News",
+    "language": "en",
+    "published": "2026-11-08T14:25:40+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "No se entiende el punto: el aislamiento por sí solo no aumentará la seguridad de la IA",
+    "summary_es": "No se entiende el punto: el aislamiento por sí solo no aumentará la seguridad de la IA MedCity News"
+  },
+  {
+    "id": "95d7793b66d1",
+    "title": "Geoffrey Hinton warns an AI 'Chornobyl', such as a grid brownout or a week-long financial outage, could come this year or next",
+    "summary": "Geoffrey Hinton warns an AI 'Chornobyl', such as a grid brownout or a week-long financial outage, could come this year or next MLQ.ai",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSEViLVdFd1p3S253SGE3dlEtcWpxLWtKdDVjRkIwV2xLV3BTOU9LcEo4WDA3dlhZLVhkNU8tTlp3bDh6WDd0UnVNTEU5YjU5NERCMjRBT0tZLXlxWW5pdUs1WGhOSUR2a1RnRDB4WHlnTnJjekRNbWZVX056UkFqWVo3YTZ0VVE5Sk9sdmMwZS1wLVlMWFYzOUtKUWRWMG1JZmdEa1ktVjRrUV96WGowT3pDbXQ5V2J0YjduWXIyNk9haTJ2ZWVEN0lreGtEbldSY3NVRkhtY0VGNVU?oc=5",
+    "source": "MLQ.ai",
+    "language": "en",
+    "published": "2026-11-08T14:07:35+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-08",
+    "title_es": "Geoffrey Hinton advierte que un 'Chornobyl' de IA, como un corte de red o un corte financiero de una semana, podría ocurrir este año o el próximo",
+    "summary_es": "Geoffrey Hinton advierte que un 'Chornobyl' de IA, como un corte de red o un corte financiero de una semana, podría ocurrir este año o el próximo MLQ.ai"
+  },
+  {
+    "id": "b5bea5fe94cf",
+    "title": "Crece la preocupación por la seguridad de la IA en EE. UU.: el organismo encargado de evaluarla dejó de publicar informes",
+    "summary": "Crece la preocupación por la seguridad de la IA en EE. UU.: el organismo encargado de evaluarla dejó de publicar informes El Comercio Perú",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaFloYnhGOFJiNmlxSDE2V1p0VGhPT3lDRGs2S3VEX0hMbkI3R3czTVg5bW53VmtCS1BUdS1HNDdfLWQ5RmprRDRPWU90R1B4SkZ0TFlRd2JSUmtiWHhuWkpCM00zVWdCVFlmSG5vVmEzQkxUeUR3SmQ0WVdrWDFnNVhQT0lnWnBacVFDMjdlOXNVQzFDQmUxVFVWdUMzcXc5QThNanRKU2VHNXJyLVdxNXBZQXBYTVVUNkJLVHV0RnFGRHRienNhekpsOFJWTEZfUENDMXZKWjNBeFc3NXhpU3haNlFtRjZKN3l5N0NDcXNpaVdWVUVNV0pQbTJDNnR6NXFXSng3amk3UkVvWlMwekxhTQ?oc=5",
+    "source": "El Comercio Perú",
+    "language": "es",
+    "published": "2026-11-08T13:58:52+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "Crece la preocupación por la seguridad de la IA en EE. UU.: el organismo encargado de evaluarla dejó de publicar informes",
+    "summary_es": "Crece la preocupación por la seguridad de la IA en EE. UU.: el organismo encargado de evaluarla dejó de publicar informes El Comercio Perú"
+  },
+  {
+    "id": "71cd6da86d7f",
+    "title": "Notes on Take-Off Speeds and RSI",
+    "summary": "I created these notes for use when I facilitate AI safety courses. I'm sharing these notes early because this issue is topical and I suspect it is better to make an imperfect version available early rather than a much more polished version available later. Please note: some of this content was taken from Additional Course Context . I decided rec...",
+    "link": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-08T13:39:02+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "Notas sobre velocidades de despegue y RSI",
+    "summary_es": "Creé estas notas para usarlas cuando facilito cursos de seguridad de IA. Estoy compartiendo estas notas temprano porque este tema es de actualidad y sospecho que es mejor hacer que una versión imperfecta esté disponible temprano en lugar de una versión mucho más pulida disponible más adelante. Tenga en cuenta: parte de este contenido se tomó del Contexto adicional del curso. Decidí rec..."
+  },
+  {
+    "id": "e4faf2b17be1",
+    "title": "Chinese AI firm Fangcun urges greater attention to AI safety",
+    "summary": "Chinese AI firm Fangcun urges greater attention to AI safety Global Times",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVnRQejdDYk9ON1pKQWRtejNpS2RmODlrcVRNVXVKNDEtb0tiMjA2SGpBMXBkRnQ4SFM1WFZ6aEM2a25oaTlaNEEzRi1VbWZpU3BxZ2pFS0hKaEJ4WTUyeVZR?oc=5",
+    "source": "Global Times",
+    "language": "en",
+    "published": "2026-11-08T12:03:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-08",
+    "title_es": "La empresa china de IA Fangcun insta a prestar mayor atención a la seguridad de la IA",
+    "summary_es": "La empresa china de IA Fangcun insta a prestar mayor atención a la seguridad de la IA Global Times"
+  },
+  {
     "id": "2cdbca8fa2ca",
     "title": "US AI safety center staff now report informally to the White House, AP says",
     "summary": "US AI safety center staff now report informally to the White House, AP says Startup Fortune",
