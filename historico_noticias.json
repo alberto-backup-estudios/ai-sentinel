@@ -1,5 +1,136 @@
 [
   {
+    "id": "892b5703823c",
+    "title": "Geoffrey Hinton y el riesgo de apagar una IA",
+    "summary": "Geoffrey Hinton y el riesgo de apagar una IA NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMVlIaENTak5GczhOYXllc0tjSS1lZWRjVHRMdEpiOHk4SENVRS1LZUYtWDh6eHNkMnU2dS03TkRFZ0I2a01fZ0FlUHlpLWdOUW01dVdyVHlfRS1XYXRuTGxBbkFKVlJZeGZwd1VOckpNRWk5NHlUOTlR?oc=5",
+    "source": "NeoTeo",
+    "language": "es",
+    "published": "2026-11-09T03:56:04+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-09",
+    "title_es": "Geoffrey Hinton y el riesgo de apagar una IA",
+    "summary_es": "Geoffrey Hinton y el riesgo de apagar una IA NeoTeo"
+  },
+  {
+    "id": "8bdd18e2e910",
+    "title": "$10M US AI Safety Center Said to Report to the White House",
+    "summary": "$10M US AI Safety Center Said to Report to the White House FourWeekMBA",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZENSdDdqY0liNU1Mb3hzZS1TVnZpWDVuZGNCYUk3SUN4YXBMem4xc3M2dFlCTUlqNVRpTVdiWC1fU1RoOGhGeExYdXBiZ1Bqano1dWRnNy1xaVA2U1p6ZmxnSmpuN1IxV1AyZVd5ejhOX1loUW9UbUFCMFhKbkFvaXFzR2RHT2EyU3NsTEZn?oc=5",
+    "source": "FourWeekMBA",
+    "language": "en",
+    "published": "2026-11-09T02:58:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-09",
+    "title_es": "Se dice que el Centro de Seguridad de IA de EE. UU. de 10 millones de dólares informará a la Casa Blanca",
+    "summary_es": "Se dice que el Centro de Seguridad de IA de EE. UU. de 10 millones de dólares informará a la Casa Blanca FourWeekMBA"
+  },
+  {
+    "id": "d4f9626efab4",
+    "title": "SeAH Besteel Corporation expands AI safety management at steel plants; system rollout to be completed in the first half of next year",
+    "summary": "SeAH Besteel Corporation expands AI safety management at steel plants; system rollout to be completed in the first half of next year 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vcUZfTWstMWdVbVBhT2pVY3hTS3Z3d1lmc09PNW1YdHU0WWd1MzR5YTg3Tzl1WEFJZXhYaGhBYXFWRHp5NUJ5UDZPWHEzemZyTE1vS2FrbWo?oc=5",
+    "source": "파이낸셜뉴스",
+    "language": "en",
+    "published": "2026-11-09T01:17:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-09",
+    "title_es": "SeAH Besteel Corporation amplía la gestión de seguridad de la IA en las plantas siderúrgicas; La implementación del sistema se completará en la primera mitad del próximo año.",
+    "summary_es": "SeAH Besteel Corporation amplía la gestión de seguridad de la IA en las plantas siderúrgicas; La implementación del sistema se completará en la primera mitad del próximo año."
+  },
+  {
+    "id": "579a9824981a",
+    "title": "Seah Besteel deploys AI safety to cut accidents at South Korea steel plants",
+    "summary": "Seah Besteel deploys AI safety to cut accidents at South Korea steel plants Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEFoU1FCbVNTVGlZelNlUllHMHV5WEl1VlhibXRkd29EV25kZ1I4ZUJleDEwSExLUGxlajhFeHNMRmJ2VjdVbFd3M01Gcnl3ZFB1U3REandJZWVNektLSEJQQnlxWmxrM0hPOEp5OWdIcUs1TGRGQnpUMXNoU3RSVEF30gGWAUFVX3lxTFBTY3NxZndsVER6MkpNMlBGQ1dnM3lYUVpGN0VlUjBHU0o0TGxIUDEwRzRmTlpRcTlPVnJKZzA5VnVna1pGYm85SzhjLThSZXBYdXc2N3NFQjVqVlFocDJ4bE05NGVBU3lfMV9EbWROLW10LU0zNmdSTnpiV2wtdVFYcVZhVTZGbzUtMGJid19TMGZ0NlhDdw?oc=5",
+    "source": "Chosunbiz",
+    "language": "en",
+    "published": "2026-11-09T00:27:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-09",
+    "title_es": "Seah Besteel implementa seguridad mediante IA para reducir los accidentes en las plantas siderúrgicas de Corea del Sur",
+    "summary_es": "Seah Besteel implementa seguridad mediante IA para reducir los accidentes en las plantas siderúrgicas de Corea del Sur Chosunbiz"
+  },
+  {
+    "id": "7e7f34a1a018",
+    "title": "SeAH Besteel Develops 'AI Safety Solution' Tailored to Steel Plants",
+    "summary": "SeAH Besteel Develops 'AI Safety Solution' Tailored to Steel Plants 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3ZnlQWFBqcVVZVEdwQ2gwSzdGWWVHUmR3am03SnI3RFNFZkxYd1Z0aDNRVlFINDF3TTNINDJFNVlwb1dyMTVuRVJJSDdULXdoVnlYd0JGNzVfNFJBYmpxaUpQdzFjdnhQ?oc=5",
+    "source": "아시아경제",
+    "language": "en",
+    "published": "2026-11-09T00:20:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-09",
+    "title_es": "SeAH Besteel desarrolla una 'solución de seguridad de IA' adaptada a las plantas siderúrgicas",
+    "summary_es": "SeAH Besteel desarrolla una 'solución de seguridad de IA' adaptada a las plantas siderúrgicas Economía de Asia"
+  },
+  {
+    "id": "135e0709b9ae",
+    "title": "Cómo auditar la gobernanza de la IA en la empresa: controles, riesgos y evidencias",
+    "summary": "Cómo auditar la gobernanza de la IA en la empresa: controles, riesgos y evidencias Law & Trends",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2dkcmUySGdFTUdzSWcyV1pudHRaUUxFUm5QUmxLeG5BLTZHQnQwdHNfdzBSb0NiajJXZk93NGVxYnNscjFOUmc5VXJVSk5raTFCSU43RFM3THZ6UnViLUVWUHNKa1pUZHIycFE5M1lISm5pRGdHQTBFeHFpN0ZYTF96N2JVRk10b0UyV21DM1pVSmY1YXhOTXgzYWs1RDZnaXhfdDVOZU0zT2JHQkhpWXhlWC1zYUJkVnQ2TVRTR2JpbUJQcmxYXw?oc=5",
+    "source": "Law & Trends",
+    "language": "es",
+    "published": "2026-11-08T23:44:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-09",
+    "title_es": "Cómo auditar la gobernanza de la IA en la empresa: controles, riesgos y evidencias",
+    "summary_es": "Cómo auditar la gobernanza de la IA en la empresa: controles, riesgos y evidencias Law & Trends"
+  },
+  {
+    "id": "8758de63703f",
+    "title": "Debate Over ‘Conscious’ AI Divides Industry as Microsoft AI Chief Takes Firm Stance",
+    "summary": "Debate Over ‘Conscious’ AI Divides Industry as Microsoft AI Chief Takes Firm Stance BGNES",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0VQd1hKeV90NDdLMHpWNy0zazZfZ2FWN3JlTUpvMUhiTjhYMEZ6T2E5NU13STRnN29GNHdka0hKMVY1dWNEWlNvTnppNzFzcmkyMElfeERXak1TandtUndyTzE0WVpaTUo2X0ptaHc2MFNJSkJnYjA0dlo5QTFmNnBrUkdNQzYzbkNTVGVJNHJjcHVCbHVaYkpEbEdRdC0zNy1BRS1YdXZ3R0kxSktn?oc=5",
+    "source": "BGNES",
+    "language": "en",
+    "published": "2026-11-08T23:06:12+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-09",
+    "title_es": "El debate sobre la IA \"consciente\" divide a la industria mientras el jefe de IA de Microsoft adopta una postura firme",
+    "summary_es": "El debate sobre la IA 'consciente' divide a la industria mientras el jefe de IA de Microsoft adopta una postura firme BGNES"
+  },
+  {
     "id": "53a8b84e5bec",
     "title": "Claude's False Police Tip Shows Why AI Safety Cannot Depend on the Model Alone",
     "summary": "Claude's False Police Tip Shows Why AI Safety Cannot Depend on the Model Alone HackerNoon",
