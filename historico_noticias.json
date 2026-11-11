@@ -1,5 +1,98 @@
 [
   {
+    "id": "1ac94c39e58b",
+    "title": "AI 'Chornobyl' by 2027? Geoffrey Hinton Warns of Cyberattacks on Power and Financial Systems",
+    "summary": "AI 'Chornobyl' by 2027? Geoffrey Hinton Warns of Cyberattacks on Power and Financial Systems Latin Times",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVzlFSkR4X3YyWEJ4OVRxTnlPMFZkMmtVSnY3RkxmbFdhLVVrZXZFYjYtbVJ0cnAtZDRYTkZsY3VkbkFlcWdXdlFEVmRZa2xfWGRpZ3puMFpCUldMNUFPaXR0Q1NudDZtNGpfYThmZEdoRjM3Sm43ZllkSFpDMmlKLXRhdFJvQQ?oc=5",
+    "source": "Latin Times",
+    "language": "en",
+    "published": "2026-11-11T03:21:03+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-11",
+    "title_es": "¿La IA 'Chornobyl' para 2027? Geoffrey Hinton advierte sobre ciberataques a los sistemas energéticos y financieros",
+    "summary_es": "¿La IA 'Chornobyl' para 2027? Geoffrey Hinton advierte sobre ciberataques a sistemas energéticos y financieros Latin Times"
+  },
+  {
+    "id": "48f3ba3c8a44",
+    "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
+    "summary": "This post reflects my own takes, and not that of my employer's. This is a simple idea: before a new model can be deployed internally, you must first test it for a minimum, fixed period. You can adjust various axes of this proposal: Duration of the wait: in calendar time, or until you fulfill some condition. What it blocks: external deployment, i...",
+    "link": "https://www.alignmentforum.org/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-11T00:18:16+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Retrasar las implementaciones internas hasta después de X días de pruebas de seguridad",
+    "summary_es": "Esta publicación refleja mi propia opinión y no la de mi empleador. Esta es una idea simple: antes de poder implementar un nuevo modelo internamente, primero debe probarlo durante un período mínimo fijo. Puedes ajustar varios ejes de esta propuesta: Duración de la espera: en tiempo calendario, o hasta que cumplas alguna condición. Qué bloquea: implementación externa, i..."
+  },
+  {
+    "id": "c8e98d4d936c",
+    "title": "Australia to launch AI safety regulator after OpenAI breach",
+    "summary": "Australia to launch AI safety regulator after OpenAI breach WKYC",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeldXbGZIc09PUDZ4amZnWmE5TG1NYjFjLXNiQWJFUHMya1B3RUdHYkVaT3JNeTNveElwQnRTR09qNkNVQ1BPM2ZfbjFrWWFKcEg4SHU1TG1jYklQem0teW5WRExLTG44WUU0ckFxMEpMYXVibVJkX3MzSG5MaTdSWjFkU1NZQ2x0bjF3R1pkWXpLSU1ZSEZrODRGNU9lQUxYWDNvLW1ZV0Myc25oc0UwSjJlR3N1Nmh1TEhnZE44RFUzVG9SX2w1U3RJV1c4bXdjX2VR?oc=5",
+    "source": "WKYC",
+    "language": "en",
+    "published": "2026-11-10T22:51:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Australia lanzará un regulador de seguridad de IA después de la violación de OpenAI",
+    "summary_es": "Australia lanzará un regulador de seguridad de IA después de la violación de OpenAI WKYC"
+  },
+  {
+    "id": "cd3ec88b7aba",
+    "title": "AI Safety Drive",
+    "summary": "AI Safety Drive Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGJYNGxxVW91eG8xNXlCVUJPZjUxa0Zoc0xrcW9fU2VPYkxmUGs2TFVYY1M1WGR1QVdkTklua2FVcERGTExkVjhqRVFXUzF2bDB0LUtaOGFpaUViVkFsUGFhbExJM2sxazNWY1pOb0w5aVFZUkFGWXU3OExvQTdONUVWdnlpT1NwT1doUW9hQXFtR3VhTUhrMDJ5dzVmTFM0NnI3bFF5a0JYWUhkYmV5WmU3UER4VjNUOWNUZkhTOWFXdEVH?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-11-10T22:14:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Unidad de seguridad de IA",
+    "summary_es": "Campaña de seguridad de la IA Bloomberg.com"
+  },
+  {
+    "id": "ab8e659d5ea9",
+    "title": "Hochul launches new institute for AI safety amid regulatory push",
+    "summary": "Hochul launches new institute for AI safety amid regulatory push Times Union",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzVKY1FYZHJBZ0Ftc0ZpdmFlemh1d3FRUzREd2IyeDJma0FJSVZyZGt5Z3ZvTS1Db3N1bUYwbGZCTVRyUUpHelZyeXdBNDJRQ1VyMHFsT0NuV1BFb0x0TDBjbFc0Z0dNRVd5dnkwTDZjYWdmUlhJQzJrVldDbGgtcU9pRE1qNWp6TnZ4Tk5TSEw0a0ZudVA2M0xESDVnclZreUE?oc=5",
+    "source": "Times Union",
+    "language": "en",
+    "published": "2026-11-10T21:13:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Hochul lanza un nuevo instituto para la seguridad de la IA en medio del impulso regulatorio",
+    "summary_es": "Hochul lanza un nuevo instituto para la seguridad de la IA en medio del impulso regulatorio Times Union"
+  },
+  {
     "id": "0848125ee74a",
     "title": "AI Safety, CBA Profit, JP Morgan Expands Australia Team: Australia Briefing",
     "summary": "AI Safety, CBA Profit, JP Morgan Expands Australia Team: Australia Briefing Bloomberg.com",
