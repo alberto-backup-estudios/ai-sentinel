@@ -1,5 +1,280 @@
 [
   {
+    "id": "c36206131e51",
+    "title": "Estados Unidos crea el primer centro estatal para evaluar la seguridad de la IA",
+    "summary": "Estados Unidos crea el primer centro estatal para evaluar la seguridad de la IA El Nacional",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONm8tcEp1Tk1pakRQTVZlVXkyYVZhcFoxQkZ3X2Q0andNVHJrOG9WVGpJc2dkc0dtWURaNGk0S0hIbnRBekNpVmxBRHdxWjBvWHp4X2U1MFhWRDRoRG1Dd21FLWZlSlFRcUJJQXFuelY4UUtuMkh0c0tsT1JUeG5CVXlUM1FoVTIxRjBlbzc1ODByM1FGLXY5ZTBQa19NSnRLN2x5cw?oc=5",
+    "source": "El Nacional",
+    "language": "es",
+    "published": "2026-11-11T13:17:11+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Estados Unidos crea el primer centro estatal para evaluar la seguridad de la IA",
+    "summary_es": "Estados Unidos crea el primer centro estatal para evaluar la seguridad de la IA El Nacional"
+  },
+  {
+    "id": "3094ecc4a4dd",
+    "title": "Hajj Conference Session Discusses AI Governance, Protection of Pilgrims’ Digital Rights",
+    "summary": "Hajj Conference Session Discusses AI Governance, Protection of Pilgrims’ Digital Rights وكالة الأنباء السعودية",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xTW8wZnAyN2RFTHR2RldfZUY2Qm5zNDBsei1hUVgtVHRXOS03dWNQczk3ZXNzTnRQblhPQVRVaG0yMk1ZVWN5enNB?oc=5",
+    "source": "وكالة الأنباء السعودية",
+    "language": "en",
+    "published": "2026-11-11T12:49:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "sociedad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "La sesión de la conferencia Hajj analiza la gobernanza de la IA y la protección de los derechos digitales de los peregrinos",
+    "summary_es": "La sesión de la conferencia Hajj analiza la gobernanza de la IA y la protección de los derechos digitales de los peregrinos, Agencia de Prensa Saudita"
+  },
+  {
+    "id": "ce285e2a4b04",
+    "title": "Geoffrey Hinton, premio Nobel y \"padrino de la IA\": \"A finales de este año o el próximo veremos un Chernóbil\"",
+    "summary": "Geoffrey Hinton, premio Nobel y \"padrino de la IA\": \"A finales de este año o el próximo veremos un Chernóbil\" La Razón",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2duVVM2QmNzZTdvT1pHT3ZFMUtWR1dlUkc4b1lya1UtUHZVYlNzbzdzalotLXlIbmlkTmtyWnV6dXJFaDNxRGpEeXgtRFlrakl2Q0t1OWc2YmYwTHpTWmVSeFBJT01QelR3ZjRDaFV1LVFPTk9fTERlZlNhX0ViUm1hR0xNRmNBVGVDdWhKeUhsbUNyTUt6UUNGc3FGN2h2Qm1oSktISEIwc29ZVXpyZ09jQ3hNanJaQzhNVkNURHprcWVyR0F4NDdyRUZ3MDNYSFlkVFRfejRjVjU3dVJmXzJQNi1WQdIB-gFBVV95cUxQVzZWMTYxSVl3eDdibWtlazFiZktrN0ExMDZ6bGIyclpSb2o1WF9hdnBLYmphc2RxMEltcVpZczZDWGxDbXFJTXNCY1JHb1ZmRzQ5Yzc3bGhvXzROVXpqTkJVMUs3QmhsNkc4MHBJd3dtU2xHdDl3S2FXd0tlNlp4TW9mMFF2MTR5cHpaLU9lWU1vdWhwUmQ1NVZOVlVxVm9HMlJfYktsc1NXSGcyQ0pnVXB1Nld2c3VJS0txRGZJT2pwb016N2Z2THZ3Mkhsa2tLc0RibTdQcWZnanZPcHJrZGpzblJ6N1FYNGRwQTlxSUVsLVUzMmc5SzBn?oc=5",
+    "source": "La Razón",
+    "language": "es",
+    "published": "2026-11-11T12:15:14+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-11",
+    "title_es": "Geoffrey Hinton, premio Nobel y \"padrino de la IA\": \"A finales de este año o el próximo veremos un Chernóbil\"",
+    "summary_es": "Geoffrey Hinton, premio Nobel y \"padrino de la IA\": \"A finales de este año o el próximo veremos un Chernóbil\" La Razón"
+  },
+  {
+    "id": "8c6e89fe20f4",
+    "title": "Power Alliance targets EMEA AI governance opportunity",
+    "summary": "Power Alliance targets EMEA AI governance opportunity ITWeb",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjlaQV92dWRzVWkyU3dxWE84dGdTUXNuVjk4WUx6Y2dhVGczUG5GWkEyOHhQMHRSWG9oQkZldlp6NlRSdlFJbUhpLVY5SGU3YkNXQU1EcVIteklwSUllNkR5dW1rMEJlZm9IbXdONUJqWkpsUVhHVzg0azVpSzZwbmR2d0JCNlZqVENPYXg4UmRQUVByVk1LcmlXQkhmWG1VRTdUcQ?oc=5",
+    "source": "ITWeb",
+    "language": "en",
+    "published": "2026-11-11T11:41:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "Power Alliance apunta a la oportunidad de gobernanza de la IA en EMEA",
+    "summary_es": "Power Alliance apunta a la oportunidad de gobernanza de la IA en EMEA ITWeb"
+  },
+  {
+    "id": "5cda58090559",
+    "title": "Cybersecurity News: New CISA head, AI safety regulator, N-able’s zero-day deluge",
+    "summary": "Cybersecurity News: New CISA head, AI safety regulator, N-able’s zero-day deluge CISO Series",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzhfZzA2LXZ6dW45SlpZc3hWVUoyN0p4UkRNRXBneTI0SE1PdFc3aWw4bDJGUUJrSWI4cVVadlZWNWZRUnNnUlJ1eFZramt6Wk5xdXZYWTdibEw3Uml1ZXItQXJLT2RjblZmREdPTVMxZWNGOF96WGtFQU9qSnVXQm1iMUt5aElONGh0cHREMW9lUWxJbTNTb0hodmFYSGVfRXc?oc=5",
+    "source": "CISO Series",
+    "language": "en",
+    "published": "2026-11-11T11:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Noticias de ciberseguridad: nuevo director de CISA, regulador de seguridad de IA, diluvio de día cero de N-able",
+    "summary_es": "Noticias de ciberseguridad: nuevo director de CISA, regulador de seguridad de IA, serie CISO del diluvio de día cero de N-able"
+  },
+  {
+    "id": "e91966f1c7ea",
+    "title": "Anthropic Targets $1.3tn Stock Market Valuation Despite AI Safety Warning",
+    "summary": "Anthropic Targets $1.3tn Stock Market Valuation Despite AI Safety Warning Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlliMmVaQ1h4enBSRmQzeHUtNk9jbFhlTTZXRDNWVXlJWnlHTFc1Y1B0Vm9OQThGbEhXMzdDQTl5Qy1QSVBNaGNyVkZ2NXRrRG9VcTRwNUlzbk1tVTVnWXEzWFhkVmJ1UU4xY0V6RUUyVS1nbF9YN0JkUnV5Q1drM3YwRm8?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-11-11T11:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Anthropic apunta a una valoración bursátil de 1,3 billones de dólares a pesar de la advertencia de seguridad de la IA",
+    "summary_es": "Anthropic apunta a una valoración bursátil de 1,3 billones de dólares a pesar de la advertencia de seguridad de la IA Yahoo"
+  },
+  {
+    "id": "614e9557aa92",
+    "title": "New York launches AI safety research center at Binghamton University",
+    "summary": "New York launches AI safety research center at Binghamton University Fingerlakes1.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlcwQ1IxX3BDR0VocjZVeDRFOGY0TElxLVBhYjYxVlRSUE1jZjYyeDJYamMyNUc1SmYwRDBPbnRjODhxMEtQSVZBMXBUMWhJd3RWN0FCaDluVm9wTXU2bEJ1aDROYkh3cVhEVk16Z3RBZHV4NjB5cVoydnc4S2QxY0UxRU42M3djMXA3NXlEdw?oc=5",
+    "source": "Fingerlakes1.com",
+    "language": "en",
+    "published": "2026-11-11T10:07:16+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Nueva York inaugura un centro de investigación de seguridad de IA en la Universidad de Binghamton",
+    "summary_es": "Nueva York inaugura un centro de investigación de seguridad de IA en la Universidad de Binghamton Fingerlakes1.com"
+  },
+  {
+    "id": "e71069586e68",
+    "title": "Zingtree Launches First Agentic AI Governance Platform for Regulated Financial Services",
+    "summary": "Zingtree Launches First Agentic AI Governance Platform for Regulated Financial Services FF News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHp3VUg5bDZNcXlZcWZwSVJoQUdZc1JQVjFVTlJpak42LThNMVZtV1VVVnBnckUxcmF4V0VMa2VrR3h4TXEycmQyU1ZxaTFxV29ackZPSXlHblpfWTlVVk1kSFZOMUhhRnRpdENfNGcwUFFSNjc2dmlGbVlaRTBoalUtZUplWUVrRmxNNWhtb2RmM0V2ckdUWjZZRnA5ekgwMTEtVDdaSQ?oc=5",
+    "source": "FF News",
+    "language": "en",
+    "published": "2026-11-11T10:01:01+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "Zingtree lanza la primera plataforma de gobernanza de IA agente para servicios financieros regulados",
+    "summary_es": "Zingtree lanza la primera plataforma de gobernanza de IA agente para servicios financieros regulados FF News"
+  },
+  {
+    "id": "a298d79ab2a5",
+    "title": "Westcon-Comstor teams up with Check Point and Extreme Networks to drive AI governance",
+    "summary": "Westcon-Comstor teams up with Check Point and Extreme Networks to drive AI governance Telecompaper",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnNTLWZQSFdabUE2RHBpa3p3eEZxRGpqY3NtTmUxcF9ySTdEM19Yd0lCOTdyVVBXME4xZmtPMHR1S2hQMEJ5TzZVNGpXRU9WUVpTNU03ZXFDcWp4RVJNenpkdG5hT1h4XzcweVZfTVBua1hxdkFnQWY0SHc2aW1NaURtNjJ6YS1FUW1pVENHb0hDNTUtR3k2dzhGd2dzZm1MRjFBYWZCRVVtYlhPVWRSVVdDdWY4LXJwbUVSMkVDZnFmQ1lvVGU4?oc=5",
+    "source": "Telecompaper",
+    "language": "en",
+    "published": "2026-11-11T09:52:55+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "Westcon-Comstor se asocia con Check Point y Extreme Networks para impulsar la gobernanza de la IA",
+    "summary_es": "Westcon-Comstor se asocia con Check Point y Extreme Networks para impulsar la gobernanza de la IA Telecompaper"
+  },
+  {
+    "id": "a6fb71777590",
+    "title": "How I'm thinking about different types of automated alignment",
+    "summary": "I used to think of \"automating alignment\" as a natural category. But when I tried to think through the strategic implications, I realised that it depends a lot on the type of work. I'm now thinking of it in three buckets: Empirical alignment research : design and execution of alignment-relevant experiments (for a given notion of what we’re aimin...",
+    "link": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-11T09:49:37+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Cómo pienso en los diferentes tipos de alineación automatizada",
+    "summary_es": "Solía ​​​​pensar en la \"alineación automática\" como una categoría natural. Pero cuando intenté pensar en las implicaciones estratégicas, me di cuenta de que depende mucho del tipo de trabajo. Ahora lo estoy pensando en tres grupos: Investigación empírica de alineación: diseño y ejecución de experimentos relevantes para la alineación (para una noción dada de lo que pretendemos..."
+  },
+  {
+    "id": "ba13289b9903",
+    "title": "European Commission recognises civil society exclusion from 2026 G20 AI governance process",
+    "summary": "European Commission recognises civil society exclusion from 2026 G20 AI governance process WION",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVE3YmluOVZHUEM1cFZDbWhkWjBEUUtVbDBtTjZjMkJQOFdNM1l2dENYOXRrMFB2M2xYNFZlcTZENUZFczRjOG96OVdqOGpreERXM2cyY1lGbzJZa2tfTEgtTzBjbUFTbkRqeU1iNjk3SFRnRVZPNk5jVy1aVWhVRnBqMTRoQ3VVVVphRm1jX2Q2am9lVnRxZkM0WHE5cElTb1FWamZMWUV1djRyMW1zRE1sd2pwNWpnTFFIOXBxNUVxeVY1LVBWZzQtUnluOEnSAdQBQVVfeXFMT0pGZmN0RU1haVdxMTNhWE1kMjhNOGp2dlBqcmtZVWg3R0JBV293Y3dYWm4xb050UDBKNU9BdnRzbEdFd0JzV1hDT2hKNFRMaU1ZODByUnF1cDhDMkFmYmFzVG55WTZVUHR1QVplYkxjbzF1SlJ5dUxSdkl6cTAwdDFMOFFqOWNwcVhlOUxHM056MFprdXhUYllmOFJZT1p0RWFYSi1Qa3lNaGJ5M0lMSmtIV29rNHhMaGNRN09zUi1Bdm1QU05GSkJlN0M0SjVPSFQxZ0Y?oc=5",
+    "source": "WION",
+    "language": "en",
+    "published": "2026-11-11T07:19:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "sociedad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "La Comisión Europea reconoce la exclusión de la sociedad civil del proceso de gobernanza de la IA del G20 de 2026",
+    "summary_es": "La Comisión Europea reconoce la exclusión de la sociedad civil del proceso de gobernanza de la IA del G20 de 2026 WION"
+  },
+  {
+    "id": "19b2d3e2d5a7",
+    "title": "La gobernanza de la IA como nuevo reto de las empresas sostenibles",
+    "summary": "La gobernanza de la IA como nuevo reto de las empresas sostenibles El Español",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenJFVDRMZlExbU1MNEY2WF9EMWlqNno5azJydzVqMk1aZUdTVnFSRGhkVmwyUk5kZENzNTRub29fNTB6YUxabUJsNXR4SFo1S3pHNXpzQ010LTMyOTFLbDlMT1loVWJXTmptRnhnTW1VM2xqQnh0bHlHVk9PS2tpUTlRbncyMlEwRUVoSnhOTEs5dURwb2dwZWE5bGV0bksyY0pBdEVRQmhZNEcwMTF2UVMxYUF1YnBzLTRIMFFEY9IBxAFBVV95cUxPT2lBa3UwSzBmVUtra3AxdlJKWjdFbDNLRXV6SHcteDNDMDA4b0kySHJ5RUpYVmJGcGE4TGc1ejEzMWFkUTU4ZUozaU1RQ2NHRDhLenlzZnlxTngyZ25BalV4dnVZSGVaTFotQkZTSlNvdG90ZmVVbnE2MWxPSDZjb2VRZzZHV1pQQkY4UXlPUWJZNU5PZFdnOW1jd3FuSmw5UmFfbEtLSDJUUnUtZk5iMVQ3ZlN0UlJWODRzODlEWEtVNFNO?oc=5",
+    "source": "El Español",
+    "language": "es",
+    "published": "2026-11-11T06:30:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "La gobernanza de la IA como nuevo reto de las empresas sostenibles",
+    "summary_es": "La gobernanza de la IA como nuevo reto de las empresas sostenibles El Español"
+  },
+  {
+    "id": "5bdfd3450364",
+    "title": "AI Safety for Children: Dozens of Countries Back French-Led Pledge Naming No Tester or Enforcer",
+    "summary": "AI Safety for Children: Dozens of Countries Back French-Led Pledge Naming No Tester or Enforcer Tech Times",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmlkNnZKUFJCMVA2OFRYOGFob01PUG4zMmJpaXFZT0YyVzNxRmRDTElUQ25BWTNMSklaQ0R4Sl9aX0otYy1MSHJObnNFUTh0eDZ2amdJbi1MRG9LX3hNYXR6cVlIZV9BTXFkNnpVc1k4YlJZcG9YU3RWN1paY2IxMktzdWlFUndPTkZEcTdUakwtOFgzUEE0SGNoakxzeW1qWXdWc3pTU3BMYVVVVGY0Y21fcTB3dFBvNGhtQmZTQTdZaFZCZkFkQVJDQmxteUQ3dHRDS0dn?oc=5",
+    "source": "Tech Times",
+    "language": "en",
+    "published": "2026-11-11T05:25:28+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Seguridad de la IA para niños: Docenas de países respaldan el compromiso liderado por Francia de no nombrar a ningún evaluador ni ejecutor",
+    "summary_es": "Seguridad de la IA para niños: Docenas de países respaldan el compromiso liderado por Francia de no nombrar a ningún evaluador ni ejecutor Tech Times"
+  },
+  {
+    "id": "d815907d4726",
+    "title": "Nueva York reúne a expertos para evaluar la seguridad de la IA",
+    "summary": "Nueva York reúne a expertos para evaluar la seguridad de la IA https://fomoera.com/",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93QlpnbkgwMEtEU2kwa3JYenBaTDRLUk92YVppSV9FckltMkNaLWZFWHRlSm5JbkxtUGtJdXhjX25HREllQURpS1FwcVVYQXJPU3d4cEJMWlFXMGtZMGNkRkJfNnhWX1FCeWFR?oc=5",
+    "source": "https://fomoera.com/",
+    "language": "es",
+    "published": "2026-11-11T05:20:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "Nueva York reúne a expertos para evaluar la seguridad de la IA",
+    "summary_es": "Nueva York reúne a expertos para evaluar la seguridad de la IA https://fomoera.com/"
+  },
+  {
+    "id": "0ba9024b2f67",
+    "title": "Former Google AI safety researcher warns AI could use a lab to engineer a deadly pandemic",
+    "summary": "Former Google AI safety researcher warns AI could use a lab to engineer a deadly pandemic The Cool Down",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkNsUkFFU3lMNWpJNGY5YUFfTWgwNW1OWWtWN0NMVDJVMjJFWkpPeGVUYjUybHl6ckF1d3B1aURTV2NOZWZxc2ZhUWo4UlRoWFpMYXB5SmpOOFVSbDhQd2lGcWZWcUw0eVV5SURjWHFvdWtabVFzRzFHSWZ2LTVFSnhvZEFTQk5qYlpEaQ?oc=5",
+    "source": "The Cool Down",
+    "language": "en",
+    "published": "2026-11-11T05:16:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-11",
+    "title_es": "El ex investigador de seguridad de IA de Google advierte que la IA podría usar un laboratorio para diseñar una pandemia mortal",
+    "summary_es": "El ex investigador de seguridad de Google AI advierte que la IA podría usar un laboratorio para diseñar una pandemia mortal The Cool Down"
+  },
+  {
     "id": "1ac94c39e58b",
     "title": "AI 'Chornobyl' by 2027? Geoffrey Hinton Warns of Cyberattacks on Power and Financial Systems",
     "summary": "AI 'Chornobyl' by 2027? Geoffrey Hinton Warns of Cyberattacks on Power and Financial Systems Latin Times",
@@ -19,6 +294,25 @@
     "date_added": "2026-11-11",
     "title_es": "¿La IA 'Chornobyl' para 2027? Geoffrey Hinton advierte sobre ciberataques a los sistemas energéticos y financieros",
     "summary_es": "¿La IA 'Chornobyl' para 2027? Geoffrey Hinton advierte sobre ciberataques a sistemas energéticos y financieros Latin Times"
+  },
+  {
+    "id": "636ab0174b34",
+    "title": "New York State Launches AI Safety Law Targeting OpenAI, Anthropic, Mandating Incident Reports Within 72 Hours",
+    "summary": "New York State Launches AI Safety Law Targeting OpenAI, Anthropic, Mandating Incident Reports Within 72 Hours BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hMjlneWhHSE1NM0RZSDB0Y2t3MWc5SExzcG1Cel9KV1ltOVk1eEEtSHN4WDVfR091bUF0ekhpenVsSU5vNE0wektBSHlQSTdEdm53Yk4ySXRSN2pSQ3lNZTRjTVVKSU9tYnBkTi03bnM3ZmY4NFE?oc=5",
+    "source": "BigGo Finance",
+    "language": "en",
+    "published": "2026-11-11T03:06:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-11",
+    "title_es": "El estado de Nueva York lanza una ley de seguridad de IA dirigida a OpenAI, antrópica, que exige informes de incidentes en un plazo de 72 horas",
+    "summary_es": "El estado de Nueva York lanza una ley de seguridad de la IA dirigida a OpenAI, antrópica, que exige informes de incidentes en un plazo de 72 horas BigGo Finance"
   },
   {
     "id": "48f3ba3c8a44",
