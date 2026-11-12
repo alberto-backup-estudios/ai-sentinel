@@ -1,5 +1,295 @@
 [
   {
+    "id": "6a50951c56d5",
+    "title": "Axway Launches Amplify Platform to Secure AI Governance and Control Costs for Banks",
+    "summary": "Axway Launches Amplify Platform to Secure AI Governance and Control Costs for Banks FF News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpza3YxUHpGODJCY3EwNUZYQ2U4MXdqeUUzUzdmYU0tSmN4aVMtVVo5Tk9fQ25DUTI1NkFHS1VMeDloUTdHWkdUZXAwdUctMm1jdXBGbF82c3VXYUo1NjBuSjZQRmJaVXN5YXljQngxa2ZOMV9nLXdNS0VtVEtvWGtPczFXaExVa3dScTlzNU1DQ3ptY0trMzdIb0RDdVRXc1RzUXdfN0psQQ?oc=5",
+    "source": "FF News",
+    "language": "en",
+    "published": "2026-11-12T00:01:11+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Axway lanza la plataforma Amplify para asegurar la gobernanza de la IA y controlar los costes de los bancos",
+    "summary_es": "Axway lanza la plataforma Amplify para asegurar la gobernanza de la IA y controlar los costes de los bancos FF News"
+  },
+  {
+    "id": "5c82c7b6e52e",
+    "title": "Columbia’s Jeannette Wing to Co-Lead New York’s AI Safety Research Center",
+    "summary": "Columbia’s Jeannette Wing to Co-Lead New York’s AI Safety Research Center Columbia University",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFBGUFI3OVBmLWM5dGEzUjJSZmRGeEg4b054V1lQanVNRTB0NjF3dXdtLXdONHNTQzc3enNkTmpJVVFkNnBNUFppeUx0RjJQOFliTFZGYWxXdlFtUU9lYnRYTXhiajBDZFZFTHcyVjR0MlpxQlUtWEFVNHMyT3czckU3LW9lYUZmdXNpTDE1ZlloU0RPSnZJOHlUdi1CbDkz?oc=5",
+    "source": "Columbia University",
+    "language": "en",
+    "published": "2026-11-11T22:52:24+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Jeannette Wing de Columbia codirigirá el Centro de investigación de seguridad de IA de Nueva York",
+    "summary_es": "Jeannette Wing de Columbia codirigirá el Centro de Investigación de Seguridad de IA de Nueva York Universidad de Columbia"
+  },
+  {
+    "id": "67d663edf3be",
+    "title": "Vanta Buys Pillar to Tie AI Governance to Real-Time Controls",
+    "summary": "Vanta Buys Pillar to Tie AI Governance to Real-Time Controls BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1BocTh3RHBkN2diYy02VDZKXy00Z1VYaFZUcmtKZkJ2T1RSUHRQQWhXN2RQamZZWnlnVEpGMm1ZMlVyeGh4a2JIMk5GN2pZa2NIalhTWk1kMGtnYXNsdnJqeVM4dkMxVXpjanNEY0kyczBFN1BKdzRTLWdBY2UtQ2h5cTVLTDNFcDRyd2dCeFhYQmJZSmFzaF9rOHBqdEhWa1dV?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-11-11T21:52:42+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Vanta compra Pillar para vincular la gobernanza de la IA a los controles en tiempo real",
+    "summary_es": "Vanta compra un pilar para vincular la gobernanza de la IA con los controles en tiempo real BankInfoSecurity"
+  },
+  {
+    "id": "846fbfa7a504",
+    "title": "New York Proposes $3 Million Daily Fines for AI Safety Violations",
+    "summary": "New York Proposes $3 Million Daily Fines for AI Safety Violations PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkxUWDhVTk43VWJCU3liMTB0Z1RjSGpmYXNObjJCUl9ONU95T2hwY2RtQjZpOEpRQ1dJcS1ramo2a3VielVrOU8xU1ZWREw4ckQ1cldQNm5JaVR4dUZMbXlfWVM4WU5jR1hOZFhUUWhZdHRFMHc2UDBfTy1zOTFZaWhqWDRPYmVtX2xvdy1WNkZPZTI4SWpaZnZFbVlFUFBjckI5OW1jbHJfR1ZXZThhbXlHTS1iYnlYVjBkN2JINA?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-11-11T21:14:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Nueva York propone multas diarias de 3 millones de dólares por infracciones de seguridad de la IA",
+    "summary_es": "Nueva York propone multas diarias de 3 millones de dólares por violaciones de seguridad de la IA PYMNTS.com"
+  },
+  {
+    "id": "6e3f5c919081",
+    "title": "Former Chinese Ambassador Cui Tiankai on China-US Relations and AI Governance",
+    "summary": "Former Chinese Ambassador Cui Tiankai on China-US Relations and AI Governance Geopolitechs",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qVnZYaUJjS3RHTW8yRGZSN0k0dGVGOUV4ZThXcUZMVWRhUVJkS1hwTm4wQ0VtWEpaYzNIYm1ldVhtVGlCTVZnbURERTJXTjZpRDFhOWIxeC05WE9pdy1ZUy1ZNmZzNWtodzlLOHZfZ180STNXZmFv?oc=5",
+    "source": "Geopolitechs",
+    "language": "en",
+    "published": "2026-11-11T20:58:58+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "El ex embajador chino Cui Tiankai habla sobre las relaciones entre China y Estados Unidos y la gobernanza de la IA",
+    "summary_es": "El ex embajador chino Cui Tiankai habla sobre las relaciones entre China y Estados Unidos y la gobernanza de la IA"
+  },
+  {
+    "id": "16cd94c957b0",
+    "title": "Fleet launches AI governance push for endpoint GitOps",
+    "summary": "Fleet launches AI governance push for endpoint GitOps IT Brief Asia",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTBuTWZoVmYxVVpMa2h5dGMxbGhHMmVROUxIMC1tRHNQOVJlUGhUSS02dlFTX1YtNGFFWVJvX21YSzk5WVFNYmV0WjV0U3ZJVHlqdEZ2N1BOSEYyd0pRaTNkdlk1VXFCVGJMV2t4NEVRZ2luaTlscEVYWlp0NVB1UDVFWmZqdTg?oc=5",
+    "source": "IT Brief Asia",
+    "language": "en",
+    "published": "2026-11-11T20:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Fleet lanza un impulso de gobernanza de IA para GitOps de endpoints",
+    "summary_es": "Fleet lanza un impulso de gobernanza de IA para endpoints GitOps IT Brief Asia"
+  },
+  {
+    "id": "935351a00b69",
+    "title": "Researchers Validate Consumer-Centric AI Governance Framework for Indonesia",
+    "summary": "Researchers Validate Consumer-Centric AI Governance Framework for Indonesia Bioengineer.org",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2x4MVJjdTFPb2ZzX0V2dHhQR3hBVllrbmpIUV9zNHdLR1FZSkpSUUIzWDR6R24xenZtekJpd21vMFNKV2JKc0VEdEgtd29QYUZxZThUWHctRVBFcmZhVEFBNl9hSHpKajZYVUVyT2hFd0I3SmRUVXdxOHpGaWNuWHVNNnZrRVBMT2JNZlJBMVpkMDQ4QVBEVG4yeW5nb1o1anc?oc=5",
+    "source": "Bioengineer.org",
+    "language": "en",
+    "published": "2026-11-11T19:42:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Investigadores validan el marco de gobernanza de la IA centrado en el consumidor para Indonesia",
+    "summary_es": "Investigadores validan el marco de gobernanza de la IA centrado en el consumidor para Indonesia Bioengineer.org"
+  },
+  {
+    "id": "5cd14c3aecca",
+    "title": "New York Launches AI Safety Center Ahead of RAISE Act Deadline",
+    "summary": "New York Launches AI Safety Center Ahead of RAISE Act Deadline PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVloQVFESlhjZ1hyZ2IzOHphVGlfdWZZNHNSX1JqdVdlV192d0J3amwzQ2VORE43aEhCUW9uRkVEb2hzNjN6bzExdERSTWJ6MFUzdGdtMXpLbXJ6cFNNelBWTXdKYlZBNEladmcydlMzeGlDNGlKVzVlMFkwRE1Kay1XdG1RX0hYOFd0RjMtbEsya0V1S2d3ZERtY21fZlVUVzFLbngxMzdIZkZMczBORkdPU0RNTENlaEZ5RA?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-11-11T19:39:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Nueva York lanza un centro de seguridad de IA antes de la fecha límite de la Ley RAISE",
+    "summary_es": "Nueva York lanza un centro de seguridad de IA antes de la fecha límite de la Ley RAISE PYMNTS.com"
+  },
+  {
+    "id": "a9a860c84247",
+    "title": "How to align AI governance framework with NIST AI RMF, ISO/IEC 42001",
+    "summary": "How to align AI governance framework with NIST AI RMF, ISO/IEC 42001 TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHhzYnlyWHE3RVB4akk5NWlHNFBJaWtiVzNPbjdUaDJ5bG9zTUZ5c3pSb1R3VTM0V09hZjJGajh4c3M1ZGp2c3lHSVlYNWxsTTI3alFsVmxENThuQW9sQ1dyaGNKM1I2OVZkellqbEdWRWlObW1uSEp1RHFxQjJmOU81ZHdOWVlEbjZvQ2o4TTZrTk5WUGF4Z1JvWUJUWXpZdzdPamxKVVNvdw?oc=5",
+    "source": "TechTarget",
+    "language": "en",
+    "published": "2026-11-11T17:58:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Cómo alinear el marco de gobernanza de la IA con NIST AI RMF, ISO/IEC 42001",
+    "summary_es": "Cómo alinear el marco de gobernanza de la IA con NIST AI RMF, ISO/IEC 42001 TechTarget"
+  },
+  {
+    "id": "06bb11f0bc58",
+    "title": "Anthropic Reports AI Safety Threshold Reached Ahead of IPO",
+    "summary": "Anthropic Reports AI Safety Threshold Reached Ahead of IPO Security Boulevard",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEhKMnVpWDdneFI1WDZDZm1raS1EUDlEWGw4c2F5MmEzY0xRVWRyN0RuZUhGdlFaVWZHa3hhYUdWaW5wQlR5S2NsY2F0SGNzUmlPX0JCY2xkbEpkVHNQQ3JBMVdoSVlxVTVIYlVuOEF5LUFuaDdGcDNXY0VNN2hwbmxCZXNMN3BjV3R5eWhEbXZDQ2xoMFRscjlfWTJwZw?oc=5",
+    "source": "Security Boulevard",
+    "language": "en",
+    "published": "2026-11-11T17:36:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Anthropic Reports Se alcanzó el umbral de seguridad de la IA antes de la OPI",
+    "summary_es": "Anthropic Reports Se alcanzó el umbral de seguridad de la IA antes de la IPO Security Boulevard"
+  },
+  {
+    "id": "b8f0c3d5e507",
+    "title": "SK Hynix Closes the Physical AI Trust Gap With Dual Safety Certs",
+    "summary": "SK Hynix Closes the Physical AI Trust Gap With Dual Safety Certs The Futurum Group",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1diQVRadXYwN1JFUjJkdWg4UlVaazRkYTdxQ0RwcVUzek56b04xQTY4TGZ4NFVtSmVPZHU0YmkyekpNeWNrTWd4N184ZHpMN2lwSzhSN1kxMHVuOU9kR0Z1cjFTSl9JWGpsdzN0aDJKQ2xXQUNYMlB4d0NPT2RYdEw2eGlqUTREaXg3LWJNWUJUazlmLWw4LWhUVzB5X3lO?oc=5",
+    "source": "The Futurum Group",
+    "language": "en",
+    "published": "2026-11-11T16:38:24+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "SK Hynix cierra la brecha de confianza en la IA física con certificados de seguridad duales",
+    "summary_es": "SK Hynix cierra la brecha de confianza en la IA física con certificados de seguridad duales The Futurum Group"
+  },
+  {
+    "id": "e219d011d5c7",
+    "title": "Bill Gates Says Next Four Years Are Critical for AI Safety, Calls for Urgent Regulation",
+    "summary": "Bill Gates Says Next Four Years Are Critical for AI Safety, Calls for Urgent Regulation bloomingbit",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10RmgwWG1TNk1EMjNWTlBGRkY2YXRKWm5pdXhPZ3lESEczQ1VkTWRDaHdKQlc3MVFrUHNMZEVZeW5uQ3FWUWhKcXdCenJrdU03dlZEUg?oc=5",
+    "source": "bloomingbit",
+    "language": "en",
+    "published": "2026-11-11T16:34:57+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Bill Gates dice que los próximos cuatro años son críticos para la seguridad de la IA y pide una regulación urgente",
+    "summary_es": "Bill Gates dice que los próximos cuatro años son críticos para la seguridad de la IA y pide una regulación urgente"
+  },
+  {
+    "id": "cb2dfc5d8a53",
+    "title": "Escriben instrucciones invisibles para engañar a la IA de un tribunal y acaban multadas con más de 14.000 euros",
+    "summary": "Escriben instrucciones invisibles para engañar a la IA de un tribunal y acaban multadas con más de 14.000 euros Levante-EMV",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHZoTGJGczlMZEtWd1dDNFZNRjJ4QkZrTWtLSzNsWks0YklkdkM2a1VjckE5Mmd3MGhoVHJXN0VuN0VkdDZHSXYtY2ItcGlfQlRLUU1vQ0VQWm5tNzZRS09UOWI2QkNzbHJPWnBKNGROWTZKcFhNdmE2ZHpkSVJzdnZTN2hkY2JCMlV1Nmx1bEY3WVRwdTlZN1M5SU16VTdhYlM0VDRFcjFHRUdGbWpqMNIBtgFBVV95cUxQZTQ0TmhxMmItZ3loSnFaUjFuNjM1S3BFQTZ3bDBwYjF6NG9HdVROSjdXdFZSd3Bjd2lkUVFIMXlOMjZGd282eU5LNW5GLWNEaVBqTGNzaXlpVXB1bUFWY3cxQjVBYWoyQy1yUGVkV0RocHp5U2VDWnJYMWFGcE94WWtvN1h2MzZ1cGZxV1dqMGVRMHlNZU5zd2w5TWFkbE1ubkVqNGJnMmdTMjBHMGY4NGh1YmFIdw?oc=5",
+    "source": "Levante-EMV",
+    "language": "es",
+    "published": "2026-11-11T16:30:36+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Escriben instrucciones invisibles para engañar a la IA de un tribunal y acaban multadas con más de 14.000 euros",
+    "summary_es": "Escriben instrucciones invisibles para engañar a la IA de un tribunal y acaban multadas con más de 14.000 euros Levante-EMV"
+  },
+  {
+    "id": "49f0e5501bf7",
+    "title": "Centralized or decentralized AI governance?",
+    "summary": "Centralized or decentralized AI governance? IAPP",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0cHMtV2luTVdzYm02c290NFZORTdQX01hb0Y3dFh0SWpfMmJRM0p2aV9LUzBKT203ZnZYRkJhalBIOWhmdnhxeFNZT0doa0tkN3NfVHpqZ05FZ1hESnJudTNwdi02U0pOcE1PUThxcTA4R3NZ?oc=5",
+    "source": "IAPP",
+    "language": "en",
+    "published": "2026-11-11T16:28:35+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "¿Gobernanza de la IA centralizada o descentralizada?",
+    "summary_es": "¿Gobernanza de la IA centralizada o descentralizada? IAPP"
+  },
+  {
+    "id": "4d9871b29594",
+    "title": "Greg Morrisett to co-lead new NYS AI safety research center",
+    "summary": "Greg Morrisett to co-lead new NYS AI safety research center Cornell Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUhvQ283dnZCUVR1dTBab1MwZ1BwUHFsczJmQWlaOXlvYlVWS1dhRll3YjdqZUdJQzZSYnZ5Vk9XNFVOdi1ZSkpuNDJSLU1WVW5pSUlaUm1MelFRanJaM3BOVkh2UEEtSXpUZ2wwbldCOTlpQmthY3BOQVcySnZBblg5dXIyeHg1UEd4LUhCcWlWdzE2WHRVaF9ZNHdjZw?oc=5",
+    "source": "Cornell Chronicle",
+    "language": "en",
+    "published": "2026-11-11T14:58:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Greg Morrisett codirigirá el nuevo centro de investigación de seguridad de IA del estado de Nueva York",
+    "summary_es": "Greg Morrisett codirigirá el nuevo centro de investigación de seguridad de IA del estado de Nueva York Cornell Chronicle"
+  },
+  {
+    "id": "5d6bb25a5df0",
+    "title": "Canada signs AI safety declaration: What does it mean for employers?",
+    "summary": "Canada signs AI safety declaration: What does it mean for employers? Human Resources Director",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkNmaDNJN19OMlRTM3N1T2pBRUVUTTVITVlSNURwb0NRSUpIM0R3c2N6S2RXUEdPR1dsR2FFT29UWldwN3ZFNXRDeU5FMl9sUnZ1dzcwX1ZJeUcwcjdBOGU1MTZGUTVuNGpWaXpYRzdWVDY4VndFdFBybE5QUEdkWmxaUmllejRPMlFqV2QtTExJQ3MxbEhmbENldDRFVEVKZ3FuTmlaRlZXNDdmTEpYMzhhLXJIdzMwb1VBenFiOWY4dDFtYmlneQ?oc=5",
+    "source": "Human Resources Director",
+    "language": "en",
+    "published": "2026-11-11T14:49:41+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Canadá firma una declaración de seguridad de la IA: ¿Qué significa para los empleadores?",
+    "summary_es": "Canadá firma una declaración de seguridad de la IA: ¿Qué significa para los empleadores? Directora de Recursos Humanos"
+  },
+  {
     "id": "c36206131e51",
     "title": "Estados Unidos crea el primer centro estatal para evaluar la seguridad de la IA",
     "summary": "Estados Unidos crea el primer centro estatal para evaluar la seguridad de la IA El Nacional",
