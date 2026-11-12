@@ -1,5 +1,226 @@
 [
   {
+    "id": "a72758e0e569",
+    "title": "Stacklet on AI Governance, Token Custodian, & Policy Control for Cloud and Kubernetes",
+    "summary": "Stacklet on AI Governance, Token Custodian, & Policy Control for Cloud and Kubernetes VMblog",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFjMS1nSFNwVVByX1REdFNBenVzYzFWR3ZmS2hHbXBNSUdDUXJTLXE2VFpBZmFFVzRHRGswbmJ1NUVBeHFhMDZSVTF3LXZQZWxteEJ6MEJobXQ3eE5NVkNXV0JrTmNuOXBYd2ZpZW8yaTFYajIzQjFOYk5pNFdnU1VQdlhtWVU2OWxHVTBLdG1PXzBYU2Vfd1V4NWxFTG9FOHZydExLTDhzdlBHV1psT1AtUm43ZWh5REk1ZQ?oc=5",
+    "source": "VMblog",
+    "language": "en",
+    "published": "2026-11-12T22:59:23+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Stacklet sobre gobernanza de IA, custodia de tokens y control de políticas para la nube y Kubernetes",
+    "summary_es": "Stacklet sobre gobernanza de IA, custodia de tokens y control de políticas para la nube y Kubernetes VMblog"
+  },
+  {
+    "id": "9596d058c35f",
+    "title": "Spacelift at KubeCon NA 2026: OpenTofu, AI Governance & Run Observability",
+    "summary": "Spacelift at KubeCon NA 2026: OpenTofu, AI Governance & Run Observability VMblog",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmVzMzdPZ3F0TW4wVmVta25aaWlhLWJtUVhIUUx4NmNBWmV2RWRXbGI3T0h2SDFJWGVRNFNOdm5ESW1VYU0wSzZiVHR5ekMtX2pvWlFsYnVIVTRCQTdKRFc5SjBpQXpuMXcwZGhzem5qczRKZWFUdmNxMjBoYW1FLWI0QWtxa1BhYmVfZzFSQVJiRVZZRnhUX2U2WllQNXBVWlZyU0tUdjlZRXRMRGV2bUlYM2s1YWlESGc?oc=5",
+    "source": "VMblog",
+    "language": "en",
+    "published": "2026-11-12T22:49:21+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Spacelift en KubeCon NA 2026: OpenTofu, gobernanza de IA y observabilidad de ejecución",
+    "summary_es": "Spacelift en KubeCon NA 2026: OpenTofu, gobernanza de IA y observabilidad de ejecución VMblog"
+  },
+  {
+    "id": "a3e71c996019",
+    "title": "New York Turns Up The Heat On OpenAI And Anthropic With New AI Safety Rules",
+    "summary": "New York Turns Up The Heat On OpenAI And Anthropic With New AI Safety Rules Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHpUdUNpS0RDZHRCckk0OXI4R0FBaVVaOFN6ZC05dlI0Vm5fb1RySVFtbFdVWDlfNUpRUXV6WUF2NDZBT0wwWU1zSnBQMWdTME9GNDRhaVpfZnZVZFV2bGxnUlREbFM1RmhTdk94TGYzTW9CdVQzN19QX3YtaGlnVXFPQzR4ZjhxZW90c09BTVRLZ1JKYWNOclpUX0dGV2VRVzZfZlp5WDk1ZW5kX2RoQXJacjd6eF9LcnhNeVg0cXlqb3ZNMVUxRmJmRDF6N2dwRVFBSnln?oc=5",
+    "source": "Benzinga",
+    "language": "en",
+    "published": "2026-11-12T20:42:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Nueva York aumenta la presión sobre OpenAI y Anthropic con nuevas reglas de seguridad de IA",
+    "summary_es": "Nueva York aumenta la presión sobre OpenAI y Anthropic con nuevas reglas de seguridad para IA Benzinga"
+  },
+  {
+    "id": "69df49234fcd",
+    "title": "AI Safety Claims Need An Expiration Date – OpEd",
+    "summary": "AI Safety Claims Need An Expiration Date – OpEd Eurasia Review",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeng0VVF0eTRFbDVVdGh3eEphOVM4S0NTdzV2QWVjeFRXN0duX3ZXekU1cUtTX01nMllrOVhFY2Q4dEkySW41SF9IQXBkQmJDYUVfSXZhNW9wSmVCZk16WU1xdy1wMFJNaVVUcW92RXZsWEw4VHN5Ui1NRDl0UEtCOTBxb3dhR3JQWjBVRTZn?oc=5",
+    "source": "Eurasia Review",
+    "language": "en",
+    "published": "2026-11-12T19:36:27+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Las afirmaciones sobre la seguridad de la IA necesitan una fecha de vencimiento – Artículo de opinión",
+    "summary_es": "Las afirmaciones sobre la seguridad de la IA necesitan una fecha de vencimiento – OpEd Eurasia Review"
+  },
+  {
+    "id": "480af546ee54",
+    "title": "Rep Gottheimer Announces New Bipartisan Legislation on AI Safety to Protect Jersey Families, National Security - Benton Institute for Broadband & Society",
+    "summary": "Rep Gottheimer Announces New Bipartisan Legislation on AI Safety to Protect Jersey Families, National Security Benton Institute for Broadband & Society",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzVXWmtEYWRsXzItbXRQYkgxUldMaGdIbnowX2hwaXg0cE5hVnJkVDlfcEtZTXhyUEs1YjJ5c2xCUkpyQ3YwQzlTd3lvVmJUZW16RmROTTNPajhLMzZ0Y2hsSW5iTlFkbUROb05TWmpza09PaGtZNU5JZVd6REJnOERJTmhTd0lVaHFWbWJRT0lZMlo2alNLMUxfYktSZU93aW5YVXN6YkNEWW44TThQZW5JTXpVV3gxanc2VlpFMGg?oc=5",
+    "source": "AI Safety & Alignment (Global)",
+    "language": "en",
+    "published": "2026-11-12T18:21:39+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad",
+      "sociedad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "El representante Gottheimer anuncia nueva legislación bipartidista sobre seguridad de la IA para proteger a las familias de Jersey y la seguridad nacional - Benton Institute for Broadband & Society",
+    "summary_es": "El representante Gottheimer anuncia nueva legislación bipartidista sobre seguridad de la IA para proteger a las familias de Jersey, Seguridad Nacional Instituto Benton para la Banda Ancha y la Sociedad"
+  },
+  {
+    "id": "6d4cd7bd4fba",
+    "title": "AMD and World Labs Share a Stage for the First Time Since Acquisition: Lisa Su and Fei-Fei Li Say Robots Will Become the Next Engine of Compute Growth",
+    "summary": "AMD and World Labs Share a Stage for the First Time Since Acquisition: Lisa Su and Fei-Fei Li Say Robots Will Become the Next Engine of Compute Growth BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVHRqWlFPUVNIWWd4OGx1dTFrNmx4eXplUklEckZTWFBxUnZDbmtBMDZtcUducm4wY0NYT19tcWpqUEdOTy1YcnQzak9nSDhhaWpBRHNtSk4xZVZoU1dwYk5icTZlRXpqSGtDRWtVN2ZjRDk3d0E?oc=5",
+    "source": "BigGo Finance",
+    "language": "en",
+    "published": "2026-11-12T18:05:00+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-12",
+    "title_es": "AMD y World Labs comparten escenario por primera vez desde la adquisición: Lisa Su y Fei-Fei Li dicen que los robots se convertirán en el próximo motor de crecimiento de la informática",
+    "summary_es": "AMD y World Labs comparten escenario por primera vez desde la adquisición: Lisa Su y Fei-Fei Li dicen que los robots se convertirán en el próximo motor de crecimiento informático BigGo Finance"
+  },
+  {
+    "id": "583fa2c7fd2c",
+    "title": "Anthropic IPO: Time Is Now for AI Safety, Competition and Fairness Rule",
+    "summary": "Anthropic IPO: Time Is Now for AI Safety, Competition and Fairness Rule Darden Report",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWtBQWpLSGxFYzQtb1RiNUZWS3NQN0hRTmI5bGY5ZjBGbnpLV0dBNzVNVXRKaktHck5lci01bUg5R1JQaFB1NHNQYkZYQmR2eFUxVzRLMjBHd2FGckVNV1gxWUlLNUxqa0ZoNmoxZmRPSjB2WF9Za3pSbmE2V0lmdzNNLVgzanJTSHF4X25RT3BnOHMtbU9KU2diZFJPYUw4VExJc1FxRzFHdlJQV2diMTEyMnB6dFFOSWdvM2Nn?oc=5",
+    "source": "Darden Report",
+    "language": "en",
+    "published": "2026-11-12T16:32:12+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "IPO antrópica: Ha llegado el momento de establecer normas de seguridad, competencia y equidad en la IA",
+    "summary_es": "IPO antrópica: Ha llegado el momento de reglamentar la seguridad, la competencia y la equidad de la IA Informe Darden"
+  },
+  {
+    "id": "76c86e036e1d",
+    "title": "Non-QM, AI Governance, Industry Intel Tools; Corporate Shifts; Demo Day Approaches",
+    "summary": "Non-QM, AI Governance, Industry Intel Tools; Corporate Shifts; Demo Day Approaches Mortgage News Daily",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83SjMyTzRUTjRHbjJMdGRQdmhNY2syOXZiTVBEQlpJTURBNFR3RTdTU3VERzVNM05VVHdJQ05sMkhqdU8tY2FpamxQNkZOTlJDNXhha1l5b2tBWWJzbGFWRC1mWVFsakNnc2l2WFBDOUg1QdIBdEFVX3lxTE1tR2NuLTN5THVEQ2dTeE8wYUlnMlA3TC1VOHlqaFA0Wkdwbmp4MDBzTC1oV3pBRkFndllNN195UHI1bjluVzEtb3pHWXNpYWFkWkNvX0haRHBncW9fVndFUVhINjZpTGMxZkV3TmJnZDJRdzI3?oc=5",
+    "source": "Mortgage News Daily",
+    "language": "en",
+    "published": "2026-11-12T16:26:32+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Herramientas Intel industriales que no son de gestión de calidad, gobernanza de IA; Turnos Corporativos; Se acerca el día de demostración",
+    "summary_es": "Herramientas Intel industriales que no son de gestión de calidad, gobernanza de IA; Turnos Corporativos; Se acerca el día de demostración Noticias hipotecarias diarias"
+  },
+  {
+    "id": "2ba2417fdf70",
+    "title": "AI Governance for Boards, 6th Palm Beach CorpGov Forum",
+    "summary": "AI Governance for Boards, 6th Palm Beach CorpGov Forum Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVpKV1hNeGd4V2RzRGdXX3RRUnVRUEpMWEpEdURvVjE4bWE4enRDMGUyR3dtYlBfTVNnaWtOTGRScnNobk5kNWVYSFMtcXc4TzU0YjdDZWN2UWFrOTFkU00zMXFJQXdxdVJ6VTR2U3VteDJabEdQNjVFZ2FONjFyVzNTc2Flc21sQkpvcHF1Yld4Rll4S1htMQ?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-11-12T16:25:08+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Gobernanza de IA para juntas directivas, 6.º Foro CorpGov de Palm Beach",
+    "summary_es": "Gobernanza de IA para juntas directivas, sexto foro CorpGov de Palm Beach Yahoo Finanzas"
+  },
+  {
+    "id": "f190ca8ca8b0",
+    "title": "CSA, Huawei call for stronger AI governance to protect Ghana’s digital finance ecosystem",
+    "summary": "CSA, Huawei call for stronger AI governance to protect Ghana’s digital finance ecosystem Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazQ5Ym5KaDlRMTBvOHV0MjdvM3BQMjNmeUo0R2RsYWNPb2lwNDE0STdSSmdHZWhwQXotdHRsREtiYVp5N1ZDYm0wR0VQMVpkNzc5XzNuTWZKTVo0NVRiYUhITkZXclRnTUJJVTRqaXZMQXdxTXpKRy1RU0NVMHpLSlh4OVZ6U0hucTZkSk44ejlSTElLZkHSAZQBQVVfeXFMUHFjZ2pZMTFKZmhqMFdLTEpmalZkTVVOT295cHQ1M0toczRWRTVSOGUwZXhPZ0pvdDl0NWMxTXV6RG1LMVFaZXlSOHFNS3pqMmxhRDVacVBKUzZ5ZVBJNFBhbFliWEg0OXJyWjFva1BOSkl1Z2haV1J3M19heE1fQTlaN0JzSG5NSE93OXFubDc0Nndfdg?oc=5",
+    "source": "Modern Ghana",
+    "language": "en",
+    "published": "2026-11-12T16:08:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "CSA y Huawei piden una gobernanza de la IA más sólida para proteger el ecosistema financiero digital de Ghana",
+    "summary_es": "CSA y Huawei piden una gobernanza de IA más sólida para proteger el ecosistema financiero digital de Ghana Modern Ghana"
+  },
+  {
+    "id": "27bcced07746",
+    "title": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs",
+    "summary": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs SiliconANGLE",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnhJZXpUcVJMYkpmOWhmbksxVUJEa3I4TDl3Y05RSVdKOVdnTldjOGNseFBGdno1clFUTjZzQjJkUmNqUTM5WjV0bVBhSlp3WUp6SV95Uk5Sb1RjMjZvcEhEclU0MzczLUE3TEJxRVcwV25xY3prcEl4dW56ZzItTE1FWHlhdERsNURzdlRCTzlnMFdNeWlQM0ZWNURjZ0ZqVTRUa3UtNmlVZTltSjQxQ2xaa28wSmF1d0dr?oc=5",
+    "source": "SiliconANGLE",
+    "language": "en",
+    "published": "2026-11-12T16:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Vanta lanza gobernanza de IA, cuantificación de riesgos y un agente Vanta para trabajos completos",
+    "summary_es": "Vanta lanza gobernanza de IA, cuantificación de riesgos y un agente Vanta para trabajos completos SiliconANGLE"
+  },
+  {
+    "id": "7a5c928d5c2c",
+    "title": "Legal Departments Have Room to Grow Regarding Engagement With AI Governance, Survey Shows",
+    "summary": "Legal Departments Have Room to Grow Regarding Engagement With AI Governance, Survey Shows Law.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGUydS1xNjRSX3RMWUpJVm1wTVU4eHl0a2lNRlNmX3BUSjJfbjRMRFNQLUxqMTJTSTd6VWtpQ2JfMzNEMjRNYmdjcFo5UG1zWFZPU3NZX1JMcW5Rd3hzTTQ0azNRcEh2NmppUTBacEJkdVY3dVhjaU1iMkdjdGFGbElUQXUwTkRIQUpnTl9tdjJ4ZmZaVy1JSHdaYzZFU1hsZmFZekc3RnVJeG5oVHJhVlZVRWNXZVdBZ3lRZ0xmYUVvTTVWdTBBUkRrWm0?oc=5",
+    "source": "Law.com",
+    "language": "en",
+    "published": "2026-11-12T15:43:56+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Los departamentos jurídicos tienen margen para crecer en relación con la gobernanza de la IA, según muestra una encuesta",
+    "summary_es": "Los departamentos jurídicos tienen margen para crecer en relación con la gobernanza de la IA, según muestra una encuesta Law.com"
+  },
+  {
     "id": "9438763dc1f6",
     "title": "From principle to practice: What AI governance actually means for on-chain risk",
     "summary": "From principle to practice: What AI governance actually means for on-chain risk Elliptic",
