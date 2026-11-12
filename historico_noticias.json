@@ -1,5 +1,336 @@
 [
   {
+    "id": "9438763dc1f6",
+    "title": "From principle to practice: What AI governance actually means for on-chain risk",
+    "summary": "From principle to practice: What AI governance actually means for on-chain risk Elliptic",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUJIWEx2a29MRjRmb2VGWUpkQV8tSjVXVmZFZGZMT1hsVHNPZ1Uyb0ptNjEtQmZkRTZKdkszdmRydWNCNGhQbVdwNVJlX3dTOFdKOHRhc1o2aTE3WHUwSlp5WjNjRUFXdVYwQ28tMjhBcXgwREVqUDhmajRvNWJTbXRCckFvVUR4ZXdLRUwwbG53cXkxeHBlV29EcmVMQ1FObmw3U01fREhuWkdxLVNyRDd3?oc=5",
+    "source": "Elliptic",
+    "language": "en",
+    "published": "2026-11-12T14:22:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Del principio a la práctica: lo que realmente significa la gobernanza de la IA para el riesgo en la cadena",
+    "summary_es": "Del principio a la práctica: lo que realmente significa la gobernanza de la IA para el riesgo en cadena Elliptic"
+  },
+  {
+    "id": "bd7116b1d143",
+    "title": "Expedient Expands Next-Generation AI CTRL Platform to Unify Enterprise AI Governance Across Models, Data and Agents",
+    "summary": "Expedient Expands Next-Generation AI CTRL Platform to Unify Enterprise AI Governance Across Models, Data and Agents PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV3JJTDZOalQzZ1JENEROQkdIa2Q2bERNY3pfSmc2VVozNVNYdXY2VmEtYkNkWFVjQlg3YWl6dHZCandEYnJZSzZISGxZWkh6WUVQN19UTXpKQlRUZFFtNUliR2s5dmp5VkdCekZEYnhzZzhQMW5vVHNuX3V2RUhqN3c3b2NWS3RCMW1Ta3FnbXV3ek1YSTlMakNXZ1FseElDM2JfN1MzeXU5QUVYZGswdHhoUjViSXlqbnEzNlVUUk1wYWpkQjJ5MVZoT1pkdXVhX0h6ZDhKcUEydFhMTGVyX2s4RGZuRW1hS2tlbExzak8zVHlEUFVpcWszSUxNTFk?oc=5",
+    "source": "PR Newswire",
+    "language": "en",
+    "published": "2026-11-12T14:04:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Expedient amplía la plataforma CTRL de IA de próxima generación para unificar la gobernanza de la IA empresarial en todos los modelos, datos y agentes",
+    "summary_es": "Expedient amplía la plataforma CTRL de IA de próxima generación para unificar la gobernanza de la IA empresarial en todos los modelos, datos y agentes PR Newswire"
+  },
+  {
+    "id": "993abf4fdf33",
+    "title": "BREAKING NEWS: Japan PM to propose advanced AI safety cooperation framework with ASEAN",
+    "summary": "BREAKING NEWS: Japan PM to propose advanced AI safety cooperation framework with ASEAN Japan Wire by Kyodo News",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRlVxVlhOdG41c1RTZ3UtdWZBdVBIV3ZwOXlwZzR2U3ZoSEdWQTVGekRTVVZEMWJyYzFkdTRUYXFGZ3JkWGtoNTJ3SDB1ZkhOdzZLRDhHWVVkUQ?oc=5",
+    "source": "Japan Wire by Kyodo News",
+    "language": "en",
+    "published": "2026-11-12T13:27:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "ÚLTIMAS NOTICIAS: El primer ministro de Japón propondrá un marco avanzado de cooperación en seguridad de IA con la ASEAN",
+    "summary_es": "ÚLTIMAS NOTICIAS: El Primer Ministro de Japón propondrá un marco avanzado de cooperación en seguridad de IA con la ASEAN Japan Wire by Kyodo News"
+  },
+  {
+    "id": "9faf14cb870a",
+    "title": "Only 10% of organizations have AI governance, Lenovo survey finds",
+    "summary": "Only 10% of organizations have AI governance, Lenovo survey finds Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xV05EZFhlWWdBSnktRmxvc1NULXkyWXM0VkpZWWs4WVZDUU40YjlzSlYzcGRwRVJPOGt6dmw1eGh3T20wZ3pXa2dpNEJ0Y2QzVFRjUGRZN0NzUzdSZ1VOXzF4bFA3NjFlcXUtbU9ZZm54VmpFZGJiaXhn?oc=5",
+    "source": "Mezha.net",
+    "language": "en",
+    "published": "2026-11-12T13:20:29+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Solo el 10% de las organizaciones tienen gobernanza de IA, según una encuesta de Lenovo",
+    "summary_es": "Solo el 10% de las organizaciones tienen gobernanza de IA, según una encuesta de Lenovo Mezha.net"
+  },
+  {
+    "id": "a92dc9d5e50e",
+    "title": "From Telecom Expense Management to AI Governance: How IntraTEM Is Expanding TEM",
+    "summary": "From Telecom Expense Management to AI Governance: How IntraTEM Is Expanding TEM HackerNoon",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3pHeTNWUklnaGpsVWlGblFhMXhKSGQ1ZjByS0lHVGM2TEFwZkVjVURHN3p1aWJ0RWJ1QUpEWlNsaEszejVVSUN6bnJReUh3cFZZUlI1MnVvWGZxUkpjQTJkY1E2c1BkQzM1dWJGUkdPOFF5b3NYQnBrLWJoMEZqZTF3NFVtaU8xRVVpcS1SY3YwUU5JaXhnMVBMUlhQWXNuT1dB?oc=5",
+    "source": "HackerNoon",
+    "language": "en",
+    "published": "2026-11-12T12:04:42+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "De la gestión de gastos de telecomunicaciones a la gobernanza de la IA: cómo IntraTEM está expandiendo TEM",
+    "summary_es": "De la gestión de gastos de telecomunicaciones a la gobernanza de la IA: cómo IntraTEM está expandiendo TEM HackerNoon"
+  },
+  {
+    "id": "18881aa9bbd1",
+    "title": "AI Governance Fragmentation Cause For Concern",
+    "summary": "AI Governance Fragmentation Cause For Concern CIO Africa",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwTlJHNC10aFZZUHU5UUhpN0JMZ1pLRXJyQ0JKRjcxbFBzZlc5UE9nWmJid0lxQmRnbGEwa3FWZEQtelZSUzc0a3g0S1JmSlNyNmR3dHFidlowVXE2WWhQSWY5UHR1c09mV3RJOFpGZzNiRkpNMmc?oc=5",
+    "source": "CIO Africa",
+    "language": "en",
+    "published": "2026-11-12T11:49:10+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "La fragmentación de la gobernanza de la IA es motivo de preocupación",
+    "summary_es": "La fragmentación de la gobernanza de la IA es motivo de preocupación para CIO África"
+  },
+  {
+    "id": "14d8b0012216",
+    "title": "New AI safety research centre launched in New York State",
+    "summary": "New AI safety research centre launched in New York State Telecompaper",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUVFaUJBZWZiUDFKc0xTbEdYU3RHODluQ2RnbV9tNXphV1dlX1oxNVJZYWR3Qjl2SHNYMl9TejZlLWVrMndGRVMtM3plRGw4WVRzd2pZT3ZGVV9LNTNicXJLdTJUSnNLWlZTYzFDcEpnOXdSaTdlR3FpeVJQekE4X2NneUdBSWREcU5BV1RzVUd3eVo4aV9tTHBWblpESEJk?oc=5",
+    "source": "Telecompaper",
+    "language": "en",
+    "published": "2026-11-12T11:36:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Se inauguró un nuevo centro de investigación de seguridad de IA en el estado de Nueva York",
+    "summary_es": "Se inauguró un nuevo centro de investigación de seguridad de IA en el Telecompaper del estado de Nueva York"
+  },
+  {
+    "id": "8061eef78709",
+    "title": "Why AI governance could be the key to faster business adoption",
+    "summary": "Why AI governance could be the key to faster business adoption Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDl6bTh6cm9WdkhNTGNrWmRaUk0yNHROaDRCOG56RWtiaVItX2lncTN6c0h5S1ZsRWdoNExiR096c1p2NHFLU20wVUN3YVNZQlc4QkVJclhUa25rVm5FUDdjTjJpRW1tMFhlT1FpYmxSenF5ak4yTV91elY2U0lIektHYUVpenhESWNkazlPNTlrMHduUUdsaVJDUVlXWVpCUU50Zkl1NGJ2d9IBugFBVV95cUxQbXNpb054eXhJRUE5a25SajhUck9SNFl6Z2o4U0xwWWY0TzViajdBSXQ3VWw2N3FPMFY0c2ZzOWQ4S2lrQjVpS0FnY0NaTHEtXzQyRkR3cmlHZlhVWDF4UHczdzJ5RklmcDFNTEMtVFVyU0x3TFJ6dXh0Q1pSLXlWZ3NwSUliVzJ1NjBCc2FzejlQd3FiaG1yRW1yV1JWcGRrZ3RUUHphMDl3WUpPdHczNm5vTS04SnRtcXc?oc=5",
+    "source": "Gulf News",
+    "language": "en",
+    "published": "2026-11-12T11:32:41+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Por qué la gobernanza de la IA podría ser la clave para una adopción empresarial más rápida",
+    "summary_es": "Por qué la gobernanza de la IA podría ser la clave para una adopción empresarial más rápida Noticias del Golfo"
+  },
+  {
+    "id": "f237c36f8cc7",
+    "title": "Bernstein SocGen reiterates Apple stock Outperform on AI safety",
+    "summary": "Bernstein SocGen reiterates Apple stock Outperform on AI safety Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSndueGk0dWo5S0dyN0xJRFI2MGduZkZfM2lpR1lkMTRuclJtTmJEZzc1RElrY3diUF9fUkxkemMyRVctMlNkSGozMzlkd0t0aGFaUTM0ZnJpU001YTNmVi1INkVkb1pJU3lpNF9ISVpZbk54N1dGSVpCNmZoMW1NT09SV0wtd3FpTU81X0VJbWVMLUFLSGxnU3RHX2lSeVR1VkppZFpOcVJJNlhIRGlWc3VGb1JnVVNxcjZlUEJyWXg?oc=5",
+    "source": "Investing.com",
+    "language": "en",
+    "published": "2026-11-12T10:43:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Bernstein SocGen reitera que las acciones de Apple tienen un desempeño superior en seguridad de IA",
+    "summary_es": "Bernstein SocGen reitera el rendimiento superior de las acciones de Apple en seguridad de la IA Investing.com"
+  },
+  {
+    "id": "6c9c7dfb891e",
+    "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+    "summary": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing The Decoder",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSl9UdG5aV01melRpWlExXzA4U2ZoT1JIdDF1R1dhX2lDZEFnQlVDTWQtUUVYTGg4aXFsNGRXeFl5clpWRkltUGQ0VXZwQlZnLUFoNXVDQ0F6VXZ0SG1oeklZTGFPcE1SOXV3TDVkR2dwNXdsZTk4Q1NPNERkMUxiT0I5cEtVbWdrTGR2dmhHVG5BOXJvWGMxZ0xmWHZVN2UwcF9xMktZQ0t2WU80elZvamNTbmhxbVIwWDBrQVg3TlpFbDE2NFE?oc=5",
+    "source": "The Decoder",
+    "language": "en",
+    "published": "2026-11-12T10:13:32+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "El proyecto de ley de seguridad de la IA propuesto por Australia obligaría a los fabricantes de modelos fronterizos a abrirse a pruebas independientes",
+    "summary_es": "El proyecto de ley de seguridad de IA propuesto por Australia obligaría a los fabricantes de modelos fronterizos a abrirse a pruebas independientes The Decoder"
+  },
+  {
+    "id": "36309b21a3ea",
+    "title": "Insurers with stronger AI governance see higher returns",
+    "summary": "Insurers with stronger AI governance see higher returns IT Brief UK",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVnpEZWkyM295LXRoMnZ1a2JwcnhPbXBrU05yXzZKS2h3Q0kzZmFDWnFQdF9YT2pTV0s4aXUxbkJJQktja3ZCNFhGM3RQak9DSlNyaDBJSUkzTEdTbmRMT21yWXNub0hFV3d5Q0JIXzF6WnBERlFWdjYtbmVuZV9nQjJQdXd0bWtGS01v?oc=5",
+    "source": "IT Brief UK",
+    "language": "en",
+    "published": "2026-11-12T09:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "Las aseguradoras con una gobernanza de IA más sólida obtienen mayores retornos",
+    "summary_es": "Las aseguradoras con una gobernanza de IA más sólida obtienen mayores retornos IT Brief UK"
+  },
+  {
+    "id": "615ade23a339",
+    "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
+    "summary": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence EE Times",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3JSSkJqQ2l6Zkdpcml1YVl3SHVDb2VBNHZhQzlQNHcyblNjWk1uRWQtaWdyNE4xSm9lRWRZOTFIZDg5UzhzNEZoTklMV2tWbE9PdmpUQ2JJWXIzT01jdncydm9yVmxaWDlLSzdTOTl2SWcxcnJlRS03c0xCcjVQNHVGZTFqal9aVUhfcWNsS3lGQQ?oc=5",
+    "source": "EE Times",
+    "language": "en",
+    "published": "2026-11-12T08:32:45+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "seguridad",
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-12",
+    "title_es": "Harari advierte a los líderes tecnológicos contra la búsqueda de superinteligencia en IA",
+    "summary_es": "Harari advierte a los líderes tecnológicos que no busquen la superinteligencia de IA EE Times"
+  },
+  {
+    "id": "6ab66f0b47a7",
+    "title": "Anthropic RSP Trigger Met: 3 ASL Levels Explained [2026]",
+    "summary": "Anthropic RSP Trigger Met: 3 ASL Levels Explained [2026] shattered.io",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXBmU0QyQ3FnVkFYSWtTTGUzYzBQM2lyZlRjUkM2WmNMQWZTU2RROTFHMkZzTTk2bTgxVm1NY3JJQlVtVU9UQ3VBQ2Q3UUltWHhTTnpZeEhZVDM2cFE1QVZ0UnNSSWh5cVZVNE9ybHRmb0V0MXdEQ0hNWFk5TG82Wk5QMlQtU0luTjAtT3FrbFhWNjhhZmhIdkx3?oc=5",
+    "source": "shattered.io",
+    "language": "en",
+    "published": "2026-11-12T08:03:27+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Se cumplió el disparador antrópico de RSP: 3 niveles de ASL explicados [2026]",
+    "summary_es": "Se cumplió el disparador antrópico de RSP: 3 niveles de ASL explicados [2026] shattered.io"
+  },
+  {
+    "id": "3da5197d40e2",
+    "title": "AMD Discusses Robotics and AI Future with World Labs CEO",
+    "summary": "AMD Discusses Robotics and AI Future with World Labs CEO GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVpSb093VkNtLVlBSG5nWUczdU13NGMyazkwUS1PM3lvR0pTN3ZwWS1ZU2lZdkpuVUM2YnMzSjBQUTZ1LXpCejJqVGVRd2tMbl9VZ2k4el9vSl9Wb0xnbDQ0NlVQNll4TkVBdFI3cHUxT2t1R1k5ZE9JUUZHSzdsMG81anlxNUFhV1VyVFNwR2xvZVRXbGJVdFBEdw?oc=5",
+    "source": "GuruFocus",
+    "language": "en",
+    "published": "2026-11-12T07:56:15+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-12",
+    "title_es": "AMD analiza el futuro de la robótica y la IA con el director ejecutivo de World Labs",
+    "summary_es": "AMD analiza el futuro de la robótica y la inteligencia artificial con el director ejecutivo de World Labs, GuruFocus"
+  },
+  {
+    "id": "5f16f064ca27",
+    "title": "First Joint Public Appearance Post 54.7 Billion Yuan Acquisition: Fei-Fei Li & Lisa Su Exclusive Dialogue Unveiling the Unified World Model Atlas in Depth",
+    "summary": "First Joint Public Appearance Post 54.7 Billion Yuan Acquisition: Fei-Fei Li & Lisa Su Exclusive Dialogue Unveiling the Unified World Model Atlas in Depth 36Kr",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLclNWb2w4b010Sjhab1ZpaVpORHNtQnRRTFZxQVlpMC01RW4wZFNBR0Y0UGJKUjVpNU1icngxZ2d6SXhOZW9FNDRtVllNdDhfSWNV?oc=5",
+    "source": "36Kr",
+    "language": "en",
+    "published": "2026-11-12T04:40:20+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-12",
+    "title_es": "Primera aparición pública conjunta tras la adquisición por valor de 54.700 millones de yuanes: Diálogo exclusivo de Fei-Fei Li y Lisa Su que revela en profundidad el Atlas del modelo mundial unificado",
+    "summary_es": "Primera aparición pública conjunta después de la adquisición por valor de 54,7 mil millones de yuanes: Diálogo exclusivo de Fei-Fei Li y Lisa Su que revela en profundidad el Atlas del modelo mundial unificado 36Kr"
+  },
+  {
+    "id": "05dbc51ef02d",
+    "title": "APEC 2026: Building inclusive AI governance",
+    "summary": "APEC 2026: Building inclusive AI governance CGTN",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTJqb3owUnBnbl96ZjJMdy10UTJucWJwdS15dF9wMVliR0J5QXhoaXZjdllVZXdJdFpHVDBxcWIwbExIVlRGTHowenZodm5VY0UzTXJtYnNZdVNORVZNSmZQQ1N6MTN2VEV6VDBnS2Q3UG9OaVZPYXNObkhnXzhUVnVOWmFqRUlaTGR6VjR5TzhfWG1nWDh2U0ZZS0kweUNE?oc=5",
+    "source": "CGTN",
+    "language": "en",
+    "published": "2026-11-12T03:48:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-12",
+    "title_es": "APEC 2026: Construyendo una gobernanza inclusiva de la IA",
+    "summary_es": "APEC 2026: Construyendo una gobernanza inclusiva de la IA CGTN"
+  },
+  {
+    "id": "f35d82b33f82",
+    "title": "Anthropic Joins AFT and UFT's Binding AI Safety Standard",
+    "summary": "Anthropic Joins AFT and UFT's Binding AI Safety Standard GovTech",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXkweDJFZWwzRmJzZDFtMDBURmh5NUF1c1hRRnp6aFNnX3g5a2tBbVB2U0pIaTAxdEFYNjZjZE5TbWFMZDU5VmlqdnliMzhDR0dyMEdrTWVUa2k0aWtUNlFHTVotWXBvYVBUZ1haR0lYZnVVeHp6WTRRT2Q5ZHpEVnowSkgtMFBmUWtPOEFmOERHUmZ4bGQ1ZDhB?oc=5",
+    "source": "GovTech",
+    "language": "en",
+    "published": "2026-11-12T00:10:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Anthropic se une al estándar vinculante de seguridad de IA de AFT y UFT",
+    "summary_es": "Anthropic se une al estándar vinculante de seguridad de IA de AFT y UFT GovTech"
+  },
+  {
+    "id": "d881a1faf777",
+    "title": "Australia's AI safety proposals: should employers be concerned?",
+    "summary": "Australia's AI safety proposals: should employers be concerned? Human Resources Director",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVpGaGJWODVvWXVac29Fa1d2X1IzTnhlc3Y0WHFtRm5xYjR1RkFnRTdRSEVXcm9yMG81TkIxU0xJZXdzNzd5T1N4RzNtR0J3NUd3TjdTYWJsa0tMY1B1ZW9DWk96cFhzbnpVTkFKRXJFbVVJZ0hfc2tCNnNUNTRGbkdDakozQk9ucngzUkZtblpGVDFRTEVaZzUtenBPekg4MnRMYjBSakxadWFBbWwwdFkxelEtLUJYcEVaUXpCY1g?oc=5",
+    "source": "Human Resources Director",
+    "language": "en",
+    "published": "2026-11-12T00:09:17+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-12",
+    "title_es": "Propuestas de seguridad de la IA de Australia: ¿deberían preocuparse los empleadores?",
+    "summary_es": "Propuestas de seguridad de la IA de Australia: ¿deberían preocuparse los empleadores? Directora de Recursos Humanos"
+  },
+  {
     "id": "6a50951c56d5",
     "title": "Axway Launches Amplify Platform to Secure AI Governance and Control Costs for Banks",
     "summary": "Axway Launches Amplify Platform to Secure AI Governance and Control Costs for Banks FF News",
@@ -288,6 +619,66 @@
     "date_added": "2026-11-12",
     "title_es": "Canadá firma una declaración de seguridad de la IA: ¿Qué significa para los empleadores?",
     "summary_es": "Canadá firma una declaración de seguridad de la IA: ¿Qué significa para los empleadores? Directora de Recursos Humanos"
+  },
+  {
+    "id": "f2f45f1495b7",
+    "title": "AI pioneer Yoshua Bengio implores Europe to build frontier models",
+    "summary": "AI pioneer Yoshua Bengio implores Europe to build frontier models POLITICO.eu",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2VtSnZ4eDdiWEo2UlVSQ0E2LXRJMklITXVVZ0dua2Jpc2lQUWlPYnpJVTRUWDNLOTNaaHM4WHdyXzhRUTU0R1N3Rlh0dzJleFdGb0ZyTkpobkJ2aFRpVmYyZGlYVVBEd1VOSXNJdVdQVlVlMTRDZGlDb1A4LWxZQXRrdWl5NHo4ZjQyRzV6Yw?oc=5",
+    "source": "POLITICO.eu",
+    "language": "en",
+    "published": "2026-11-09T11:06:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-12",
+    "title_es": "El pionero de la IA, Yoshua Bengio, implora a Europa que construya modelos de frontera",
+    "summary_es": "El pionero de la IA, Yoshua Bengio, implora a Europa que construya modelos de frontera POLITICO.eu"
+  },
+  {
+    "id": "71a02327d00e",
+    "title": "IA: lo que el optimismo de Yann LeCun no resuelve",
+    "summary": "IA: lo que el optimismo de Yann LeCun no resuelve ActuIA",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVERGSEdHYU1ITVBsOUFEQ3R0MWwzQmROSHBxNHFSUFZidmZLOXJjVWFNQ2tuaTd4d3VEdVNuVzdGMFdfRTY2WExfN0RmbXVhbWxaQW5xMzNubmN0ZzJTeEppVVlFT0JOZ3dkUjlZcTdNOHJkVkJlM0E5ZUJZRzFyMmJ1MDZ6U3c?oc=5",
+    "source": "ActuIA",
+    "language": "es",
+    "published": "2026-10-05T07:00:00+00:00",
+    "feed_name": "Yann LeCun (Español)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-12",
+    "title_es": "IA: lo que el optimismo de Yann LeCun no resuelve",
+    "summary_es": "IA: lo que el optimismo de Yann LeCun no resuelve ActuIA"
+  },
+  {
+    "id": "00ce7ac4b36a",
+    "title": "AI Therapy under the EU AI Act",
+    "summary": "This page aims to provide an overview of AI systems, and in particular general-purpose AI (GPAI) systems, used for the […]",
+    "link": "https://futureoflife.org/uncategorized/ai-therapy-under-the-eu-ai-act/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-08-07T15:31:26+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-11-12",
+    "title_es": "Terapia de IA según la Ley de IA de la UE",
+    "summary_es": "Esta página tiene como objetivo proporcionar una descripción general de los sistemas de IA y, en particular, de los sistemas de IA de propósito general (GPAI), utilizados para […]"
   },
   {
     "id": "c36206131e51",
