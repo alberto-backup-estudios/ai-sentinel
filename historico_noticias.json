@@ -1,5 +1,44 @@
 [
   {
+    "id": "51c5cc1c8dcf",
+    "title": "Geoffrey Hinton - THIRTEEN",
+    "summary": "Geoffrey Hinton THIRTEEN - New York Public Media",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WbmVFY2RTTzRaanBrZGktR3d0cEVQS2FfdjMtU3l0YlAyMUluQjVOWjgza3lGZFhOTU5Xb1l4aUNhV0dxcU45WmdhQm9OM1hjbmVnbVNZZkI4UW9FUW1aN1Nyb3J0RDFMWlRIT2tpTF9VX21RcjY0?oc=5",
+    "source": "New York Public Media",
+    "language": "en",
+    "published": "2026-11-14T01:37:24+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-14",
+    "title_es": "Geoffrey Hinton - TRECE",
+    "summary_es": "Geoffrey Hinton TRECE - Medios públicos de Nueva York"
+  },
+  {
+    "id": "c44731588b76",
+    "title": "Leading AI safety advocate likely to run for president",
+    "summary": "Leading AI safety advocate likely to run for president Politico",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlNWWFJYZk1JZ0xCZjl2bWtJRmFOaXZBQnVROXJGb2djWWJlNXNsQWFBT05CbUFlV203NW9vWU82S2pudnhLZ3lDVFRsUEdnY1NZLWZubzh5b1pDcEZraXBsZEtCbDM1TVFtVXdNaXZIZE51Nk0zV0J4U2lUenREY1Q2ajUyR2dUUDZEZlZkb0N2Q09sb0VEQWhkN290YXlUVVE?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-11-13T13:01:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-14",
+    "title_es": "Es probable que el principal defensor de la seguridad de la IA se postule para presidente",
+    "summary_es": "Es probable que el principal defensor de la seguridad de la IA se postule para presidente Politico"
+  },
+  {
     "id": "bb74332a3068",
     "title": "Beyer Warned of FAA AI Safety Risks Weeks Before Nationwide Aviation Disruption",
     "summary": "Beyer Warned of FAA AI Safety Risks Weeks Before Nationwide Aviation Disruption Falls Church News-Press Online",
