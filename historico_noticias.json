@@ -1,5 +1,81 @@
 [
   {
+    "id": "89f949f60a5b",
+    "title": "EU AI Act Article 50 guidelines published",
+    "summary": "EU AI Act Article 50 guidelines published CASRAI",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdmk2M0Q3MmlJR0drNmRSRnd6UlhHSGQwNlp6cDdxOWs4eFhhYnZ4dXllUzFlWkhEQ3RPT1NKM3EwU3lDeDRFWWtYZWpiTXFQY2JZaDdabXNfUC1UM1E5cnpIMGhKQ3pNUmZJZVBmSE8yWHY4SUVpNWpxUkw?oc=5",
+    "source": "CASRAI",
+    "language": "en",
+    "published": "2026-11-15T13:13:14+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-15",
+    "title_es": "Se publican las directrices del artículo 50 de la Ley de IA de la UE",
+    "summary_es": "Publicadas las directrices del artículo 50 de la Ley de IA de la UE CASRAI"
+  },
+  {
+    "id": "41c3d4be34dd",
+    "title": "Yuval Noah Harari, historiador, sobre la IA y el sistema financiero: «Somos las vacas del futuro»",
+    "summary": "Yuval Noah Harari, historiador, sobre la IA y el sistema financiero: «Somos las vacas del futuro» La Razón",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR29ZRlotaVFiWHV5OGFGZW9wZFJWRmJfME02Wmp2SDIzWXp0TmhRZUhURkxyN24wTXVfaE54bDRxNGU0Umd4SWhhcmRLVlNJRUd1ZlhpNnRhOW1FUGJPTU9KaVpMWkZMMmRXNWJwNklzZWRma01xUmhHelRjMTFWQzY0Q1lFS0c0ZUoxS1BzMG1ISDNjWWkxdlgtVGpOVDZ4Y0VuTGFnZkk2MW90T2M4eDVpdzhaRU55XzJMMVRsTzNTOVMwQ0M3bzZwMmV6UlhxQVhOZ21sVnRvQzltMGZxd0tVNl9za2J2MWpMTlNsLThISGtiemNZcDl3UTdHM1FwNTJSRXdGUDc?oc=5",
+    "source": "La Razón",
+    "language": "es",
+    "published": "2026-11-15T09:00:00+00:00",
+    "feed_name": "Yuval Noah Harari (Español)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-15",
+    "title_es": "Yuval Noah Harari, historiador, sobre la IA y el sistema financiero: «Somos las vacas del futuro»",
+    "summary_es": "Yuval Noah Harari, historiador, sobre la IA y el sistema financiero: «Somos las vacas del futuro» La Razón"
+  },
+  {
+    "id": "f7637626fb77",
+    "title": "New York Launches AI Safety Center to Independently Test AI Models",
+    "summary": "New York Launches AI Safety Center to Independently Test AI Models Technology Org",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUxJRlJwUThReUhGa1hWRDJPdUhrT1pKM19jVjRxT1R0d1RMZi1aT3FmMDVRRVZLUE4xUjN0S3puN2FFdU53ZVo5SDRscnoxdWhkZHppWXU0NVV3ZmF3LXJFNWVlUVlvUFNnaTB4cHJPd1g0Tl9vTDVhcE5QdnJKbmhKUjZyRXphY19CdUdR?oc=5",
+    "source": "Technology Org",
+    "language": "en",
+    "published": "2026-11-15T07:39:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-15",
+    "title_es": "Nueva York lanza un centro de seguridad de IA para probar modelos de IA de forma independiente",
+    "summary_es": "Nueva York lanza un centro de seguridad de IA para probar de forma independiente modelos de IA Technology Org"
+  },
+  {
+    "id": "7f3580865590",
+    "title": "Jeff Dean and Fei-Fei Li on What AI Can Improve and What It Still Can't Understand",
+    "summary": "Jeff Dean and Fei-Fei Li on What AI Can Improve and What It Still Can't Understand Vocal",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUNTNjU2YlR5ZHdjU0RWVTJrWk5udmVBQ3dsMnA3WXhqVWdsakQzU1UwY1JybnBKMVJuZVRWaEJRQk5HdWY4YVVsSlFYbkNWQXNfYWJ0cTFCbVlyQ3VpZVlZNVZaSk01aEtmd2FHQm1ZZUhuaVVaR2V0a0xwNzhkU2FBMnAxb0RSTTBMQ3EtVUh1QWFpVDdsYkxJX2txOGpjZkFMZWFYcw?oc=5",
+    "source": "Vocal",
+    "language": "en",
+    "published": "2026-11-15T04:54:31+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-15",
+    "title_es": "Jeff Dean y Fei-Fei Li sobre lo que la IA puede mejorar y lo que aún no puede entender",
+    "summary_es": "Jeff Dean y Fei-Fei Li sobre lo que la IA puede mejorar y lo que aún no puede entender"
+  },
+  {
     "id": "69b8869ef48c",
     "title": "Harari: AI thrives in bureaucracy, not physicality",
     "summary": "Harari: AI thrives in bureaucracy, not physicality KuCoin",
@@ -54,6 +130,27 @@
     "date_added": "2026-11-15",
     "title_es": "La seguridad de la IA no puede depender de la confianza en un solo director ejecutivo",
     "summary_es": "La seguridad de la IA no puede depender de la confianza en un solo director ejecutivo WeRSM"
+  },
+  {
+    "id": "85b454518bd4",
+    "title": "Geoffrey Hinton | Video | Firing Line with Margaret Hoover",
+    "summary": "Geoffrey Hinton | Video | Firing Line with Margaret Hoover PBS",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5naG5lZ3Y2OE1TRFhTZ05tdUhMcnlUTHBtbS1OdGhyR1pjNjZ4ME9hM0JqUkxlZmEtUHp3NWo1Y3ZYalV2Q1dKVHI4VWFwU3otRGROUDFUajNab3JOcmZXaWItWWtiQ2d2Q0c1U0d1R0oxTFpa?oc=5",
+    "source": "PBS",
+    "language": "en",
+    "published": "2026-11-14T01:38:52+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-15",
+    "title_es": "Geoffrey Hinton | Vídeo | Línea de fuego con Margaret Hoover",
+    "summary_es": "Geoffrey Hinton | Vídeo | Línea de fuego con Margaret Hoover PBS"
   },
   {
     "id": "e8582a7c3e33",
