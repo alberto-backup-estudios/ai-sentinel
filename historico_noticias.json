@@ -18,6 +18,24 @@
     "summary_es": "Publicadas las directrices del artículo 50 de la Ley de IA de la UE CASRAI"
   },
   {
+    "id": "16074b71ecc4",
+    "title": "AI Governance Must Leave the Screen and Enter the Physical World",
+    "summary": "AI Governance Must Leave the Screen and Enter the Physical World Fair Observer",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2JQZE5tVEpWMGFLYVMtRFowZjRud1dGNGo4VnkxZHFKVzBvT2oyUmg5eExmYmlWUXA5NDFBbVNQcXI1cW8wekpxMFBlOGdlNXl4OVVTM2VpZ2RmUHE0ZlE1VzJaQU1PZTE2ZlN4aUJoUjF0UXNGUFlVWm9UVXRLZTNnRFlzdktwTHV0YWxjdi1mTVBOTmZtTENjMUVkWGNVdjh1YUxDTzJBTjA?oc=5",
+    "source": "Fair Observer",
+    "language": "en",
+    "published": "2026-11-15T12:36:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-15",
+    "title_es": "La gobernanza de la IA debe abandonar la pantalla y entrar en el mundo físico",
+    "summary_es": "La gobernanza de la IA debe abandonar la pantalla y entrar en el observador físico de la feria mundial"
+  },
+  {
     "id": "41c3d4be34dd",
     "title": "Yuval Noah Harari, historiador, sobre la IA y el sistema financiero: «Somos las vacas del futuro»",
     "summary": "Yuval Noah Harari, historiador, sobre la IA y el sistema financiero: «Somos las vacas del futuro» La Razón",
@@ -151,6 +169,25 @@
     "date_added": "2026-11-15",
     "title_es": "Geoffrey Hinton | Vídeo | Línea de fuego con Margaret Hoover",
     "summary_es": "Geoffrey Hinton | Vídeo | Línea de fuego con Margaret Hoover PBS"
+  },
+  {
+    "id": "e277c63b4a7a",
+    "title": "Despite Huang Scandal, US-China AI Safety Dialogue Still Seems on Track",
+    "summary": "Despite Huang Scandal, US-China AI Safety Dialogue Still Seems on Track Tech Policy Press",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUdTdHdnMVNUS0JSTXlwc2MzNnU0Y2lZTTBFZk9yd1ptWkc3elZUZXZQMkpRcVZPNUdDRnV1Z2JFZGZDLWFpMVZTNTFiSzVSTThVYTN1UXgwM0NYcFlFdlZvMjRRYk1ZNDBYYnNyb0JROFVFQkdpalVTcGtlcHJSVl9XdUt5eU1tMS1MUnlzR3JZcnFvVWRlN1I1VQ?oc=5",
+    "source": "Tech Policy Press",
+    "language": "en",
+    "published": "2026-11-13T16:39:29+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-15",
+    "title_es": "A pesar del escándalo de Huang, el diálogo sobre seguridad de la IA entre Estados Unidos y China todavía parece encaminado",
+    "summary_es": "A pesar del escándalo de Huang, el diálogo sobre seguridad de la IA entre Estados Unidos y China todavía parece encaminado Tech Policy Press"
   },
   {
     "id": "e8582a7c3e33",
