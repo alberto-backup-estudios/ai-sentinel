@@ -1,5 +1,379 @@
 [
   {
+    "id": "78f0196d2b29",
+    "title": "California Attorney General Sues OpenAI Over Alleged AI Safety Failures",
+    "summary": "California Attorney General Sues OpenAI Over Alleged AI Safety Failures PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3dUbEFJUWtpSWoxbkM4bzFtYVNvQ19wdi0yb194RG5tRWRZN3l2eVFiV0x1N2sxNVpET2lDcVNpLVlLWXhlV3o3TnVWckxzckZkQWtuN0NLeVNkNUwyV3pGRnFpc0ktRW94TkRMR2tPS01rbC12Y3phX0xZemNmWFprclVOSUpPQjl5UkdvU3RhSXJQWkh4c3lzX0tjV2l3bjVzQVBxQXFfZw?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-11-17T00:27:28+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "El Fiscal General de California demanda a OpenAI por supuestas fallas de seguridad de la IA",
+    "summary_es": "El Fiscal General de California demanda a OpenAI por supuestas fallas de seguridad de la IA PYMNTS.com"
+  },
+  {
+    "id": "167a6bf136f7",
+    "title": "California sues OpenAI for misleading public about AI safety",
+    "summary": "California sues OpenAI for misleading public about AI safety The Register",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEN2a2QxM05xc2lsWlp2ejFSR1NsY0YteXFTYVVNeUxBUGJmT0Ffa2NjUWQ0bFNLQy1Lek16WmhVLUYyUUNDS1hPRkx6MDI5Ti1na1dXajVBOEpvTzlFXzJSRW5rb19CQ0x0dFNNZk5xT21aUktxVFNMdmp1bzVEYlozSzlDYk42dDgyalI4U2tmeElwTVBFMlh3NkpDWXl2S0RSY1BIVFJSNmZXU2wzQmliNmRZakdK?oc=5",
+    "source": "The Register",
+    "language": "en",
+    "published": "2026-11-16T23:43:17+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "California demanda a OpenAI por engañar al público sobre la seguridad de la IA",
+    "summary_es": "California demanda a OpenAI por engañar al público sobre la seguridad de la IA The Register"
+  },
+  {
+    "id": "ddee2c32c494",
+    "title": "AMD cierra compra de World Labs, IA 3D, por US$8.200M",
+    "summary": "AMD cierra compra de World Labs, IA 3D, por US$8.200M El Ecosistema Startup",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnlsdTFibUgzczR5YmFvdWtFbDF6bVpQVWVaRlZFQjZPYzd6M1ZTVXF3Y0xBcUNJNW8zTjFsTGJFM3JRTEhpMDUydHB2aHR2NnhXUEFsUGlUV204ZS14b0dud25MNUFpVU40Um8tdG5KUkg4NVhjU2EyZHB0NUVQZzlid3g0bU5j?oc=5",
+    "source": "El Ecosistema Startup",
+    "language": "es",
+    "published": "2026-11-16T22:51:45+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-17",
+    "title_es": "AMD cierra compra de World Labs, IA 3D, por US$8.200M",
+    "summary_es": "AMD cierra compra de World Labs, IA 3D, por US$8.200M El Ecosistema Startup"
+  },
+  {
+    "id": "66b8e909b812",
+    "title": "AMD closes its $8.2 billion World Labs deal and makes Fei-Fei Li its chief scientist",
+    "summary": "AMD closes its $8.2 billion World Labs deal and makes Fei-Fei Li its chief scientist MLQ.ai",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2NuWjdfdFBvLTFnYzZVTFh3RGZPSVhMY010bF80TkZXRkdudHZTOWJtOHJveHA5YmMyNU1PdGEyZXVkdG1JRmpBS1pqOWNmeEhqaXYzVHpyQnZ6Wlh3eHJyS2lHVHZudHNJdjNzMnlNd0c3RFJpS2VDWVJldXdURDhtV1JyYlBPNjNLZlBtZWtQbnYwWGlHdE83eTI3eHB5M2N4TjRR?oc=5",
+    "source": "MLQ.ai",
+    "language": "en",
+    "published": "2026-11-16T21:56:15+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-17",
+    "title_es": "AMD cierra su acuerdo con World Labs por valor de 8.200 millones de dólares y convierte a Fei-Fei Li en su científico jefe",
+    "summary_es": "AMD cierra su acuerdo con World Labs por valor de 8.200 millones de dólares y convierte a Fei-Fei Li en su científico jefe MLQ.ai"
+  },
+  {
+    "id": "4bd70288c0ed",
+    "title": "AMD cerró la compra de World Labs, la startup de Fei-Fei Li, por USD 8.200 millones",
+    "summary": "AMD cerró la compra de World Labs, la startup de Fei-Fei Li, por USD 8.200 millones Infobae",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0RpTF9ONFFUcURMbEVJbFhYSEJKaGR0UlZqdDdGcUZ2Nk9KWGNRNF80MW5KMVR2Q1B6RURzZmgxanhDdkljbk15anhNTXZmdzd1SFVrcFZGN3JxVHFldW9neTRiRkVWNFZIV2ZXd2MtYjJiSkZwT1E2WU9tOFpFTEpuNlE1ZjZHZWxqdzdCSWdsaThqOC1GTVllZHBCRml1RGNMNkdfc1BIYmZ5RmlNd2x0cnBrWUo0LVhBajZHRdIB2gFBVV95cUxNLTEwQ1gxTUxlaWNsN3FkRmhLUENVQkRYRmlOU29DR1l1SEpGdnZQZ0dSaUZIWDRnTWxISlpCaTYzbV9iamZRUks1eWJkT0FTc2l2Um9HaEIwMGppU0IzZjZLWExrZFRadVBfOTg4ZEg0eUdLVHZRQUljb3NrYUZGNmxSUEpKWDlmbWxuVEVJa0hNZHZmZ2cwZ1NOWlA1TnB6aExBbkdlbHdiUWpoQV9RYk9FTGRTaVo5aThEbmI2bHJ4Y0JHTmc0a0M1THhmVFR3cmJXTDE4Y2NSUQ?oc=5",
+    "source": "Infobae",
+    "language": "es",
+    "published": "2026-11-16T21:41:00+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "sociedad",
+    "date_added": "2026-11-17",
+    "title_es": "AMD cerró la compra de World Labs, la startup de Fei-Fei Li, por USD 8.200 millones",
+    "summary_es": "AMD cerró la compra de World Labs, la startup de Fei-Fei Li, por USD 8.200 millones Infobae"
+  },
+  {
+    "id": "048ec8cc4abe",
+    "title": "AMD Completes World Labs Acquisition, Names Fei-Fei Li Chief Scientist",
+    "summary": "AMD Completes World Labs Acquisition, Names Fei-Fei Li Chief Scientist citybiz",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEhFOHVQeEtkcVJsaUZvQ0hBSzItMnppTmIxY2U1Vk42Z2VLc3U1SGFNUWZYMnNRbENhZTREYlA0R2Z3anA0Snh3T3Y2WnVpS2hEWkVrWkg4VUpWMHJyYW5zWm9xYnJjM3YzUmJkSURXbWluQzczX05QTkEyWmtUdE10VW5CdFd0RHFBUkZLYW1HVnFudlp0RVVhVDVuWElaWEdHTU9KZk5uWHhs?oc=5",
+    "source": "citybiz",
+    "language": "en",
+    "published": "2026-11-16T21:32:49+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "sociedad",
+    "date_added": "2026-11-17",
+    "title_es": "AMD completa la adquisición de World Labs y nombra a Fei-Fei Li científico jefe",
+    "summary_es": "AMD completa la adquisición de World Labs y nombra a Fei-Fei Li científico jefe"
+  },
+  {
+    "id": "c8e296071e82",
+    "title": "Anthropic IPO tests AI safety promises as profits loom",
+    "summary": "Anthropic IPO tests AI safety promises as profits loom The Business Journal",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tVU5kbDBsdHA1Vl8zMm0xcTAxb2F1aGNOcmZSaTZwNXJhWXVqU0pMYXFJSVA3b3lDRlJFcFVaaldfNm1ZcXNQaThuajdnOTVNRm9ja3ZuRXlhcUt6UUJuNG1CMkpYQVk0WlpxbEJDTW4?oc=5",
+    "source": "The Business Journal",
+    "language": "en",
+    "published": "2026-11-16T20:39:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "La OPI de Anthropic pone a prueba las promesas de seguridad de la IA a medida que se avecinan las ganancias",
+    "summary_es": "La OPI de Anthropic pone a prueba las promesas de seguridad de la IA a medida que se avecinan ganancias The Business Journal"
+  },
+  {
+    "id": "32bda82f6359",
+    "title": "California Sues OpenAI Over A.I. Safety Issues",
+    "summary": "California Sues OpenAI Over A.I. Safety Issues The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5",
+    "source": "The New York Times",
+    "language": "en",
+    "published": "2026-11-16T19:55:37+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "California demanda a OpenAI por A.I. Problemas de seguridad",
+    "summary_es": "California demanda a OpenAI por A.I. Cuestiones de seguridad Los New York Times"
+  },
+  {
+    "id": "e1bb4f32080f",
+    "title": "California Attorney General Sues OpenAI Over Safety and Public-Nuisance Claims",
+    "summary": "California Attorney General Sues OpenAI Over Safety and Public-Nuisance Claims Briefs Finance",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0dsbnRiSlVVMHVrN1pEaFVEbmF6R1VGTWdwREQtTjIxRm4zTzB1UGkweVB1cmxlYzBNV2JHZmZMdm94em5JMk4wZzFtZG5xUUszZjlXOXpjWmZSdGJJU2MtQXd0bm9hUUEwaUppMjItNldUQ1RRVkxhMlQ4cXQtZWhOMEN2UEpHUDZLeUJBOFFCZw?oc=5",
+    "source": "Briefs Finance",
+    "language": "en",
+    "published": "2026-11-16T19:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "El Fiscal General de California demanda a OpenAI por afirmaciones de seguridad y molestias públicas",
+    "summary_es": "El Fiscal General de California demanda a OpenAI por reclamos de seguridad y molestias públicas Briefs Finance"
+  },
+  {
+    "id": "2c26ad902c87",
+    "title": "When AI moves from answering to acting: Getting governance right",
+    "summary": "When AI moves from answering to acting: Getting governance right NTT Data",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVBGNnRLeTNxVFpZQzZoMHhWNUw0ZXVzMTd4ZUhrZk54cTR6Tnk2aC1MbFV2Mm5SRGRNdEZ1ckJZbXYzNGJySWZwS3oxMnAzeFdJXzZkdTg4OE9OWldUbW12LU5yYVlHeWd3TDNkVjVtT3RDbE43RmtWSnlBMEVNaUtvZjE3cFhXSHc?oc=5",
+    "source": "NTT Data",
+    "language": "en",
+    "published": "2026-11-16T18:48:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-17",
+    "title_es": "Cuando la IA pasa de responder a actuar: lograr una gobernanza correcta",
+    "summary_es": "Cuando la IA pasa de responder a actuar: conseguir una gobernanza adecuada NTT Data"
+  },
+  {
+    "id": "f296306d12a2",
+    "title": "OpenAI lets Apollo embed six AI safety testers during training",
+    "summary": "OpenAI lets Apollo embed six AI safety testers during training The Next Web",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzdYOG5SeXdvWFlKLXVicUFrVG5JR3J2ZnRCeDl6aVdCLWtzQ1Y0dFl4bTdkcTd2cGhrOGRobTdkNl9fMlNFMTRmODAxRV9Bcl9EdDRNTmRfX0RsSnVyUmdxcHg1d2JpTERfSTVXdTJ5M0ktSlJMUC1jYXJWcGI2UmhQTQ?oc=5",
+    "source": "The Next Web",
+    "language": "en",
+    "published": "2026-11-16T18:26:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "OpenAI permite a Apollo incorporar seis probadores de seguridad de IA durante el entrenamiento",
+    "summary_es": "OpenAI permite a Apollo incorporar seis probadores de seguridad de IA durante el entrenamiento The Next Web"
+  },
+  {
+    "id": "b52f67cc372a",
+    "title": "OpenAI Brings Four Outside Research Groups Into AI Safety Testing",
+    "summary": "OpenAI Brings Four Outside Research Groups Into AI Safety Testing Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEFjbFFwdm1WNDJkUmJmNGdkU29fSC1QWUNqWkZ4UFo5dHJEVUpudkhTbWpzZlNNVkRtd1Z0eExFSnJQMkYycFpNSWxOOEpveXVyaGxjRGNlOTNaT1dGM3J0YzFQTEpCSm5UV0JTNHRDT05TSXFzN2Q3akZWcW1mcE5lMW1XRXo4Yk52XzkzRnVySXBtVzMtRHlIaHhDSmJ4ZVhYbzlOZmFQOWVfRnB2UUhWQi1pUEFHVVpqNUEtOVVHdUFKOVEzaQ?oc=5",
+    "source": "Benzinga",
+    "language": "en",
+    "published": "2026-11-16T17:41:24+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "OpenAI reúne a cuatro grupos de investigación externos en las pruebas de seguridad de la IA",
+    "summary_es": "OpenAI reúne a cuatro grupos de investigación externos en las pruebas de seguridad de la IA Benzinga"
+  },
+  {
+    "id": "13cf634edf21",
+    "title": "Why Congress and the European Parliament need an AI safety dialogue",
+    "summary": "Why Congress and the European Parliament need an AI safety dialogue Atlantic Council",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUNwVEhzTXJpLUVJeEFOSUdvemJnbmx2SUpEdnJ6M3NFRHlzTDBsQjNqVWhISVhxVWQ2QXJqZGFDZ3psbGE3OGxTMXhjekF6eEhJOW1XR2pkMUdBZFZvVUZ1Z0tMaEx1ZnZsZU1YbUhweDFvWDRCSUZnZ2o5bThwZzNsLUhYR2RBbUtKbU5PbTBkS1JLanNoc3pDQmtWdVBsbkNHbDlsLWRXTGF5Z1FNTA?oc=5",
+    "source": "Atlantic Council",
+    "language": "en",
+    "published": "2026-11-16T17:27:18+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-17",
+    "title_es": "Por qué el Congreso y el Parlamento Europeo necesitan un diálogo sobre la seguridad de la IA",
+    "summary_es": "Por qué el Congreso y el Parlamento Europeo necesitan un diálogo sobre la seguridad de la IA Atlantic Council"
+  },
+  {
+    "id": "b4478c6fea67",
+    "title": "Process as Assurance: AI Governance in the UK and Canada",
+    "summary": "Process as Assurance: AI Governance in the UK and Canada Stephenson Harwood",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWpYV0JRVlVGdmY2THpKWmtxY3BBUV9wZFZLQ0xnOE5MVWtBbkt3R0RiZ2luYmx2YnFGTTVYQkRsYTRoQkZNODBkc1l3cHM1dWNCUnF6Z0U1c3JTQVhZUFdPQmhKYk1Mc0wwOEZzSFQ1WUZaSzE2UnUwVWFfbmFUbkl4OTVnUVpsV0xPRjBrcGRfYWZsTjI5NGgwNmNUYlJvLVNKV2VR?oc=5",
+    "source": "Stephenson Harwood",
+    "language": "en",
+    "published": "2026-11-16T16:57:22+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-17",
+    "title_es": "Proceso como garantía: gobernanza de la IA en el Reino Unido y Canadá",
+    "summary_es": "Proceso como garantía: Gobernanza de la IA en el Reino Unido y Canadá Stephenson Harwood"
+  },
+  {
+    "id": "d4516e2e5bbc",
+    "title": "ML Spotlight: AI Governance in Practice • News & Events",
+    "summary": "ML Spotlight: AI Governance in Practice • News & Events Penn Carey Law School",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWlA2TlpjRmRqUEhPVHlzeW5SdjRseGFtSmNYQndvSUpzb3VmR2kwbVY5UWR3NTdNVE93S2xhTGFSN1JaR2JfTU1UZW5xTE5iS3poNG0yXy1kcFRJb1l1bWZESFQ5ZmVuZE55RHB5UjBsSU9xbjlFbldxUWRJbkZQMkNSSnR1UTQ?oc=5",
+    "source": "Penn Carey Law School",
+    "language": "en",
+    "published": "2026-11-16T16:16:45+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-17",
+    "title_es": "ML Spotlight: Gobernanza de la IA en la práctica • Noticias y eventos",
+    "summary_es": "ML Spotlight: Gobernanza de la IA en la práctica • Noticias y eventos Facultad de Derecho Penn Carey"
+  },
+  {
+    "id": "b320d75144a3",
+    "title": "Agentic AI governance: Why control hasn't kept pace with autonomy",
+    "summary": "Agentic AI governance: Why control hasn't kept pace with autonomy Independent Australia",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjdOUXRZWlpmRnMzQXkwRnlXV3FTdjNpY0RDOGYxYkRzWnVyamo2eEZfMTFJVXZ4OGkzTjB5ZHpwbmZkZ1ZhOWhNSUtSbnBNZ2dfQUJ5M1dQT01VQjdhNlRITkxxSUYzd3YwWDRMYmRTdU55bnhFRlp0amxacVFPeGR3VG1ZYjJ2dTJJMktsTmdiREptV1lVR1dvYnRaMUx5bl9qTFhPRU15TGxyWjJMOW1wWExhYVNkZHdqWjlMMndFWi0zZEJKTg?oc=5",
+    "source": "Independent Australia",
+    "language": "en",
+    "published": "2026-11-16T15:28:01+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-17",
+    "title_es": "Gobernanza agente de la IA: por qué el control no ha seguido el ritmo de la autonomía",
+    "summary_es": "Gobernanza agente de la IA: por qué el control no ha seguido el ritmo de la autonomía Independent Australia"
+  },
+  {
+    "id": "56142aff99ca",
+    "title": "Only 14% of India, APAC CIOs have agentic AI governance | Tap to know more | Inshorts",
+    "summary": "Only 14% of India, APAC CIOs have agentic AI governance | Tap to know more | Inshorts Inshorts",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkU1bjNZTWZhR0hJSWpLdlFrMDJtV3prZm8tZTNqZk1qRFRmUm11Y0J3OFFENXczeGN6bGVLU2FXdTZUYnZyWlFLdU52YkhYVzU3bEcyYnBQN1Qwa3hQNUs2Z3lfWFE1bG5OUjR5dl8yeXNZWnA5T0FrUDlIYkJhbFNCLXNIOEg3ZTU0R0lIZnRRWndxTG0zUXE1Ym5LZUXSAaQBQVVfeXFMTjJVMmpvaDZRVU1VSFV5NkdSLVNyd3ppc1IzeTlzSVFRaFhXNVhvMEJmZUlNeDNCVGt2MVRPN3p4dnJKSWt4Yi1hWjhKejFUZGZiUkhNU3NSOVpESnU3U3FMUHROT19DSWdRQml0cjFVNWhHY3d4UVA0UFo2V0YybmZvUWZYMmZmZjg1RzhJLVR1N0ZpeE1oYlF5QVk5a0NjRnU0YzI?oc=5",
+    "source": "Inshorts",
+    "language": "en",
+    "published": "2026-11-16T12:26:41+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-17",
+    "title_es": "Sólo el 14% de los CIO de India y APAC tienen una gobernanza agencial de IA | Toca para saber más | pantalones cortos",
+    "summary_es": "Sólo el 14% de los CIO de India y APAC tienen una gobernanza agencial de IA | Toca para saber más | Pantalones cortos"
+  },
+  {
+    "id": "8c1be539891b",
+    "title": "EAD targets AI-enabled environmental governance in Abu Dhabi by 2030",
+    "summary": "EAD targets AI-enabled environmental governance in Abu Dhabi by 2030 Utilities Middle East",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HaUNCWHpiT3lZUFZuY2FXQ3l2TVlrV0c5SE1ZSXlaMmQ0T3poU3ZpV3dGWjV4czk5dTJHYzN6WXh5WHJsRUNoR2FIUVdGYl92bzE1ZFU4aFRwWlBqY3Bwd2gzRmk4b0xpSXV0NF9EUGxFUFk?oc=5",
+    "source": "Utilities Middle East",
+    "language": "en",
+    "published": "2026-11-16T10:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-17",
+    "title_es": "EAD apunta a la gobernanza ambiental basada en IA en Abu Dhabi para 2030",
+    "summary_es": "EAD apunta a la gobernanza ambiental basada en IA en Abu Dhabi para 2030 Servicios Públicos Medio Oriente"
+  },
+  {
+    "id": "593f3b4ba269",
+    "title": "AI Inequality: Daron Acemoglu on 'pro-worker' AI solutions | World Economic Forum",
+    "summary": "AI Inequality: Daron Acemoglu on 'pro-worker' AI solutions | World Economic Forum World Economic Forum",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWlZdTQxVWlVYVlVT0k4YU9uNm5ObjBuOVlRRzVSRHBQSjJ0Mk5mNFJDemtzNmxyTWlDZzBzMnlROUJjdXhsV3RwTDJUMFR2YmFPV0FvTWV2TlJieGdNY080NmpldjJRVC0yMVNSbWtEUHRzdGNsc0hxSTUtRkZvTzdGTmxVaXNNSXBhYQ?oc=5",
+    "source": "World Economic Forum",
+    "language": "es",
+    "published": "2026-11-05T08:00:00+00:00",
+    "feed_name": "Daron Acemoglu (Español)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-17",
+    "title_es": "AI Inequality: Daron Acemoglu on 'pro-worker' AI solutions | World Economic Forum",
+    "summary_es": "AI Inequality: Daron Acemoglu on 'pro-worker' AI solutions | World Economic Forum World Economic Forum"
+  },
+  {
+    "id": "f418a9691b0a",
+    "title": "'Godfather of AI' Yoshua Bengio on why AI can behave unpredictably (and what needs to change)",
+    "summary": "'Godfather of AI' Yoshua Bengio on why AI can behave unpredictably (and what needs to change) World Economic Forum",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZW9NOWZjSjZ1cWFEbmRDNXZZTHVibUQ5dGczUEJtTmNIY2I3T3d4Vl9iRXIxNnZVcWlBdVJHbENfMEpZQ3otWlJ1Nzc4aUs4Q0pHb0tBNFFubmxpN1dyazhESHFOUlJ4VHE3eUluZG53WDY4cDZ5Szkyamh1MERrdjBVOEZHMzNOTGdOWFhuR1pmbm51ZUJRc1B3MDluWDg?oc=5",
+    "source": "World Economic Forum",
+    "language": "en",
+    "published": "2026-04-17T07:00:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-17",
+    "title_es": "El 'padrino de la IA' Yoshua Bengio explica por qué la IA puede comportarse de forma impredecible (y qué debe cambiar)",
+    "summary_es": "El 'padrino de la IA' Yoshua Bengio explica por qué la IA puede comportarse de forma impredecible (y qué debe cambiar) Foro Económico Mundial"
+  },
+  {
     "id": "84854a43a577",
     "title": "AMD completes acquisition of AI startup World Labs (AMD:NASDAQ)",
     "summary": "AMD completes acquisition of AI startup World Labs (AMD:NASDAQ) Seeking Alpha",
