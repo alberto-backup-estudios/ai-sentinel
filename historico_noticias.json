@@ -1,5 +1,374 @@
 [
   {
+    "id": "67ce0201061e",
+    "title": "Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations",
+    "summary": "Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations The Information",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0l1WExpS01mZ1RRNUVoZTROeWpaSXoycjR1dnB6WFF0ZnRuX0s3SUFQbjZfa1F1cXI5VklIV29rQUdkR2F2dlRvSmJDbkNCX1pUbGUtcHQyM0ZiY0JHUUVxb1JLY1lqeWw3dkF0Z1RWanFHYTB1YTUzNlM2UU05QVhwNUtDWGp6Q3g0Q0c0OGdmbWxtdFNjSFJTTktKVHZha2dLMFpFNGU1Z01rTEcySmF2R2tQTXVfbHZzUm9CUzJTWXpzVWtKVGRuTlZpUQ?oc=5",
+    "source": "The Information",
+    "language": "en",
+    "published": "2026-11-18T15:01:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "Por qué la oferta pública inicial de Anthropic está haciendo que el filántropo Craig Newmark retenga las donaciones de seguridad de IA",
+    "summary_es": "Por qué la oferta pública inicial de Anthropic está haciendo que el filántropo Craig Newmark retenga las donaciones de seguridad de IA La Información"
+  },
+  {
+    "id": "7be9c461ea4e",
+    "title": "Disseqt AI Raises $8 million to Build the AI Governance and Assurance Layer for Enterprise AI Agents and Workflows",
+    "summary": "Disseqt AI Raises $8 million to Build the AI Governance and Assurance Layer for Enterprise AI Agents and Workflows University College Dublin",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2RhQ2dPRHF4N05weHRqUHpjQWFoUkdpeTBjVUlDZk15dHNYUGVuM01mXzA3dUlOVkc2NDhveTNLZEthUVdROURxRjdHVHpQSGZmM2tTVkVsOGJKeEVBWUxjTDk3eThBbzJJaTgwZy10OWk2SDhLS1F2amt1TERWSl9vN1dhLU9kRVNQR2RtVEZLbGJRYVJiNVFLdlg5cXM?oc=5",
+    "source": "University College Dublin",
+    "language": "en",
+    "published": "2026-11-18T14:52:11+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Disseqt AI recauda 8 millones de dólares para construir la capa de gobernanza y garantía de IA para flujos de trabajo y agentes de IA empresariales",
+    "summary_es": "Disseqt AI recauda 8 millones de dólares para construir la capa de garantía y gobernanza de la IA para agentes y flujos de trabajo de IA empresarial University College Dublin"
+  },
+  {
+    "id": "f5baed367c5a",
+    "title": "NYC Comptroller Says Pensions Are Ready to Fight for AI Safety",
+    "summary": "NYC Comptroller Says Pensions Are Ready to Fight for AI Safety Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3RTVnpnZWs1UjJTUWwtc0Q0LTNuWkZhSEsxOGs0cjVxdy03M01raHhnUzBfUmNGZlJWV25SbmhKcTdFb1lZMUZFNTM5a3k1QWNNU2hhYkhaV05NNldpcE9FSTJCdUpZckhqd1c5QWtQRXEtTW1vR1lnZjlzSlh3aDlSQmcxdXhoWmVFLVgyLW9Da0I0aDFiWm1CZElPcU1KUGdodVpuUzFINVVKSXpNeTA0Zw?oc=5",
+    "source": "Bloomberg.com",
+    "language": "en",
+    "published": "2026-11-18T14:50:03+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "El Contralor de la Ciudad de Nueva York dice que las pensiones están listas para luchar por la seguridad de la IA",
+    "summary_es": "El Contralor de la Ciudad de Nueva York dice que las pensiones están listas para luchar por la seguridad de la IA Bloomberg.com"
+  },
+  {
+    "id": "607daa73c742",
+    "title": "What is AI Safety? Understanding privacy risks and human control",
+    "summary": "What is AI Safety? Understanding privacy risks and human control Daily Sun",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmwxT0I5NXJmYjJJMG9ZMkR5TGs0WG10ckxqNzhCbkRneDllR2pncnh2TXZrOFZZcnNsSy1BS01hcjktRmpZaUNWR0pDVEQtNjNLeXJ0V0x2RjdYY3h3TVB5aG56azZYWWNnRzlEZ3ZOSkktMnY1LWZZeTRoZXVqMWpYeFlDUHMyS3BZZXprRXNUZGdWbVEzWjJ6RGlOSldVaUFRbkRzZ3g?oc=5",
+    "source": "Daily Sun",
+    "language": "en",
+    "published": "2026-11-18T14:49:02+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "¿Qué es la seguridad de la IA? Comprender los riesgos de privacidad y el control humano",
+    "summary_es": "¿Qué es la seguridad de la IA? Comprender los riesgos de privacidad y el control humano Daily Sun"
+  },
+  {
+    "id": "f6e73b989c55",
+    "title": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules",
+    "summary": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules StreetInsider",
+    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQnRldEtxQ3laenhTVW03cWFjV0g3NjdOV0VYRnpudkhyRmxna2JUTTBEaTFFSnRtNE1KS29oZXh4Wm9XT2FpM2hLU1hqRnFKSjVDR2pjM3NfajdWYzUxRXJSNEVIVmNjZ2dPZThxa2NXdG00a2xRZ0Y3Tkh1QUtNY0lZcm5WRnhYNThzaDJmd2hkNmFfNHVJYjV3WjVselNZQW8yMGI5UnNSdkdNVjd0dXRFY0NPMTBWSzZ1YTBOblRxZi1aMERodVhKdlg5NGpCbWVBX1V2bV9XVTkxZE9neFV2UU9vTS1jVjRYV2N0XzA1cG9ScmhSLWNEdTFqanM3TDRXQnltTVRIN2g3bFdJUnpZS2dfMFp4RVNVSlZORVZxTm0wdUFQYjJUVGNMVG8?oc=5",
+    "source": "StreetInsider",
+    "language": "en",
+    "published": "2026-11-18T14:48:47+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "El Consejo de la CE lanza ADG 2.0 y ofrece sus cruces peatonales de gobernanza de IA de forma gratuita a todos los gobiernos, reguladores y organismos de normalización mientras las naciones se dividen en torno a las normas de IA",
+    "summary_es": "El Consejo de la CE lanza ADG 2.0 y ofrece sus cruces peatonales de gobernanza de IA de forma gratuita a todos los gobiernos, reguladores y organismos de normalización mientras las naciones se dividen sobre las reglas de IA StreetInsider"
+  },
+  {
+    "id": "61342a709928",
+    "title": "Meta Platforms (META) AI Safety Test Exposes Gaps In Simulated Military Scenarios",
+    "summary": "Meta Platforms (META) AI Safety Test Exposes Gaps In Simulated Military Scenarios Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZoV09BNzIyd1JSOUhhamdvc3MyWmhNME5yVmZDZ1pVRW1xdk5CWTZ6T2ROanRibEtxRG5mblRIbTlyc2NPdnA0S1hDSGFxUVBZN0dRMFpOR2xnV3RWcXJyamh3c1B3NFlvbGswTml5ZGpSOTJOc19EbWozT0cwRGJCT1B6MzlGRm44NG9Tb1ZXd1I0S2N2dw?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-11-18T14:12:25+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "opensource"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "La prueba de seguridad de IA de MetaPlataformas (META) expone lagunas en escenarios militares simulados",
+    "summary_es": "La prueba de seguridad de IA de Meta Platforms (META) expone lagunas en escenarios militares simulados Yahoo Finanzas"
+  },
+  {
+    "id": "20df352e10a2",
+    "title": "Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?",
+    "summary": "Opinion | China has a deep bench of AI talent. Can the U.S. still beat it? The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUl6LVdmbFEwNno3d1k1NHQ3ZlpMXzNzUGxzemwzTGc5Z3JIVjVtMllNbGdrZEtYdTdpdzBxV3RhUlFBLTdJdkpWTC0zZ0hCcFdWVERxd3hSRkw0WUtIZGcxOERYZV94T1FNVUhDOUdwVnVtenEwRFlMSl8wWkxWdGlGV2pKOG9aVDlHRF9VYjFsUV9UOXVrOGMteFBjZThFM1BHYS1FTDY?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-11-18T14:02:39+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "Opinión | China tiene una gran reserva de talentos en IA. ¿Aún puede Estados Unidos vencerlo?",
+    "summary_es": "Opinión | China tiene una gran reserva de talentos en IA. ¿Aún puede Estados Unidos vencerlo? El Correo de Washington"
+  },
+  {
+    "id": "e462512cd07e",
+    "title": "Thrive Launches Managed AI Governance and Security Services to Help Organizations Scale AI Securely",
+    "summary": "Thrive Launches Managed AI Governance and Security Services to Help Organizations Scale AI Securely AiThority",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ192SkNsdW0zNnFRc0lBUFhoYzJ4NHVHSWVDQUpGR1BPZFlsUUFOMVAtR3FPc052SVFpb1AtOFEzaHJQRE9yMlRlVjd1Qk9wX3EyQW5vNHhiYnY5dk9zSW5pSWtuMXBJck1ZSVNXV0VFYU41VEJhbjdqNVRMSUtkYXFiaHhmZU1maW8xTVB6Mmxmei14a1l2ZXR6cFRpTExfSkwwY3laaFhQQVIza3ZRcGU3Um9OQUt4Ul9vSVQ0Mjl5TVRyVTE4akUyNDRpRVdjQjR1RjZn?oc=5",
+    "source": "AiThority",
+    "language": "en",
+    "published": "2026-11-18T13:46:44+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Thrive lanza servicios gestionados de seguridad y gobernanza de IA para ayudar a las organizaciones a escalar la IA de forma segura",
+    "summary_es": "Thrive lanza servicios gestionados de seguridad y gobernanza de IA para ayudar a las organizaciones a escalar la IA de forma segura AiThority"
+  },
+  {
+    "id": "b3a6d6ba7666",
+    "title": "Una AI Launches Orchestrator and AI Governance for FP&A",
+    "summary": "Una AI Launches Orchestrator and AI Governance for FP&A Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHNmWXRQYk91emtPeXlTdU52bWJ5N2lFTGI4a3JTMS1tOVhfS0tMN2tudEZST0ZYVGZWRl9DdzZ1a0pjemhVVUlzWmQ4NDlJN1N3bU9XY004SEViNE9WdjJUS3VHNVBxbFYxOFAzT3dsbUgtM2haTzdHWVg0bWFjUHZrVTRDZFpOdGVrMVo2Z1RYY0FvNXpRY1FJMEk3QklsSU1oNEs1NGM1T2Jic196Tg?oc=5",
+    "source": "Business Wire",
+    "language": "en",
+    "published": "2026-11-18T13:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Una AI lanza Orchestrator y AI Governance para FP&A",
+    "summary_es": "Una AI lanza Orchestrator y AI Governance para FP&A Business Wire"
+  },
+  {
+    "id": "1ad520e02530",
+    "title": "OpenAI pens AI safety agreement with four firms",
+    "summary": "OpenAI pens AI safety agreement with four firms IT Pro",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDNKOHBOWVVsOWVMQWdBTUpxNnRKdGpLcFpZRS1kb3RrYnhrMTlvbG85SGFHbzBfMHNJUkRiQ0VJempkTFhfdHBnaUF4Snk1TzVlbV8wNzdvc0tjUFEtSTI4UzMtM2M2cGdSZ3NXTXBldUtPcXRkVkVkdW41a2d0TGx1N3JkT0twd3R6VG0waTlYXzNfbTJoeXRBQUs1MTFxdjBYVWlTNA?oc=5",
+    "source": "IT Pro",
+    "language": "en",
+    "published": "2026-11-18T13:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "OpenAI firma un acuerdo de seguridad de IA con cuatro empresas",
+    "summary_es": "OpenAI firma un acuerdo de seguridad de IA con cuatro empresas IT Pro"
+  },
+  {
+    "id": "01024a18f28a",
+    "title": "Enterprise AI governance alone can’t protect your brand",
+    "summary": "Enterprise AI governance alone can’t protect your brand MarTech",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVGazctUnJGSTZTbzJHVWwyT0hoT3NYTTRiRGJvaU5aVVpCeDI4b0o3NXZCM2ZLZ0ZTaUFZdldxS0NhVDRWbHZLTzdSZ1VIalpSRGlKcUl1R1VUMXROa3UxNlhFUkg3a1Jyc2lSdzY5TjBrRGNiQ1dFbnpsQVNBaQ?oc=5",
+    "source": "MarTech",
+    "language": "en",
+    "published": "2026-11-18T12:56:19+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "La gobernanza empresarial de la IA por sí sola no puede proteger su marca",
+    "summary_es": "La gobernanza empresarial de la IA por sí sola no puede proteger su marca MarTech"
+  },
+  {
+    "id": "247ddf9fc7a3",
+    "title": "Realpage calls for AI governance; Real offers Showcase discount",
+    "summary": "Realpage calls for AI governance; Real offers Showcase discount RealEstateNews.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnhsX1VyWGltR1Bpdi1MLUtuQy1RVEJwSjM1SGtLTEk1NVlDWk8wOFVhX3hDcElVbVZ2eXZUNS1nSEhzSndETDk3cS1yNW5CNENQSTVHLTBVTFNSc2F5alNuemg2ajducThpYW1uUlhBNmlsQjFkd2VVNUZMSk9ad3BwNnZTUHZ2V281c0pfblpqNGh3bjN2R1lVN0FQc3NwYTdqUy1LUQ?oc=5",
+    "source": "RealEstateNews.com",
+    "language": "en",
+    "published": "2026-11-18T12:03:23+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Realpage pide gobernanza de la IA; Ofertas reales Descuento escaparate",
+    "summary_es": "Realpage pide gobernanza de la IA; Ofertas reales Descuento escaparate RealEstateNews.com"
+  },
+  {
+    "id": "7a5bdef17161",
+    "title": "China-based AI safety group briefed US AI labs, including OpenAI",
+    "summary": "China-based AI safety group briefed US AI labs, including OpenAI Politico",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMU5UaTlmU2xrNWh1SGF6MFF2NHBTMnFaUHNtR2pDSmJQb01BWWxkNlZLYnJBUkszSE9WQUsyVGhUbGN4YTlJSzlhd3A5ZEtfc2xUU3JxWElNWElqRl9IVWkwUENkVWVfMlFKOEpsb01tTElveU5fNlZDV082cUJ6T2xPdldtVzVUTnJYY250T2l2amt2bFNsQTAtTTRTQWpmNXlrRnN6emRscXFfSTI1Qm9DOA?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-11-18T12:01:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "El grupo de seguridad de IA con sede en China informó a los laboratorios de IA de EE. UU., incluido OpenAI",
+    "summary_es": "El grupo de seguridad de IA con sede en China informó a los laboratorios de IA de EE. UU., incluido OpenAI Politico"
+  },
+  {
+    "id": "25db7a8f8d82",
+    "title": "Asean banks advance shared AI governance framework for cross-border adoption",
+    "summary": "Asean banks advance shared AI governance framework for cross-border adoption Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHVYVWtiVnhlbTl4NnFtZHN1YTRTOWJrcmU3QkNJem1lRXFoSGgxajk5b01Mc3p0VUZ1SEQ2Nk5xZEZydzNBcDR3QllPb1FLQWJFY3FReVUwLW1oMFYtUkRBRGxoT2tsZzNldFFIYzNqYngzTWFYS3YxN00tZE04dl9tTzRid0ZnY0ZwZHcyUWhfS0E?oc=5",
+    "source": "Traders Union",
+    "language": "en",
+    "published": "2026-11-18T11:29:31+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Los bancos de la ASEAN avanzan en un marco compartido de gobernanza de la IA para su adopción transfronteriza",
+    "summary_es": "Los bancos de la ASEAN avanzan en un marco compartido de gobernanza de la IA para su adopción transfronteriza Traders Union"
+  },
+  {
+    "id": "26ecc73fdad3",
+    "title": "ASEAN banks eye shared AI governance framework",
+    "summary": "ASEAN banks eye shared AI governance framework BusinessWorld Online",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjV2VnowUmlJRlAwZ2QxaS1GQ2NMVnU4OGJnYkdOQW5ZSFBVNDlKTzZLU2o2NnhhX3ZlRndROW9vVzBaQ3ZvRlc1OTlBNVo4YUNzN2dkbUEwekJQbEhCUU5jQUlXWERhUTFKZjcwX3FVUEc0dmdFSFBHaVc0LWRGQzJ4V25zUEVoLXpPSkxXVi1FMmxlc3daQnBBVFluanZxYnJidm5zaTJkUQ?oc=5",
+    "source": "BusinessWorld Online",
+    "language": "en",
+    "published": "2026-11-18T11:11:05+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Los bancos de la ASEAN contemplan un marco compartido de gobernanza de la IA",
+    "summary_es": "Los bancos de la ASEAN consideran un marco compartido de gobernanza de la IA BusinessWorld Online"
+  },
+  {
+    "id": "f66c9e6983f5",
+    "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+    "summary": "OpenAI announces new AI safety program; researchers worry it won't be enough NPR",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1d5aEV0bFYyUUtaMjZyV0owZ2s5MmxET0dPUkhDeEZxRks3YUxtQktDZjlpb1ZlWlVBUWIxdm1hQmFjUlNvaWl6ek1ucDMtYl9QSWM0amRRVFQ2V2s2OXp3c1RZZkUwR1VPLV9CaW5MR1J0NkRib1RGZXRDQnpNMm1QSkphdWpEMmxsZTBCV2Q?oc=5",
+    "source": "NPR",
+    "language": "en",
+    "published": "2026-11-18T10:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "OpenAI anuncia un nuevo programa de seguridad de IA; a los investigadores les preocupa que no sea suficiente",
+    "summary_es": "OpenAI anuncia un nuevo programa de seguridad de IA; A los investigadores les preocupa que no sea suficiente NPR"
+  },
+  {
+    "id": "326ba78602d1",
+    "title": "AMD World Labs acquisition brings model research",
+    "summary": "AMD World Labs acquisition brings model research NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0pQVWtlNjVvNDU5LXdORHJBRWdLV0hyekZ4aWFFNm93RkR5d29lbEIwZkg2Q3FJNHJ5UDB4UldDa1A3a1pDQ3A3bW5fSnpESXNRY0tBaC1WMjVzUUVxcS1LeV9xYndVUFVRel9RaC1wME9kcUQwc2hpdTRrelZrSTRlUnRRdDh1LWtodzNpYlRKYnJlUWl3MjM0ZUx5bzQ?oc=5",
+    "source": "NeoTeo",
+    "language": "en",
+    "published": "2026-11-18T07:48:03+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "La adquisición de AMD World Labs trae consigo la investigación de modelos",
+    "summary_es": "La adquisición de AMD World Labs trae la investigación del modelo NeoTeo"
+  },
+  {
+    "id": "9cabc7d1c66b",
+    "title": "Hochul Launches NY AI Safety Center; AI Developers Must Register by Jan. 1",
+    "summary": "Hochul Launches NY AI Safety Center; AI Developers Must Register by Jan. 1 Bushwick Daily",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkh4QVZVc05tMHl3bU5WYURycEQzN1NzSTI5VVRnWlRFeDF1dERjY2hqZTZKRUlOeE45ajNubEZiUDZuM2xucTd4TG5PelZhNUt5Q09PNVRBUkRLYWhMdUlVbXZMam1kUF9ETmpJNHZMaFpqLVdaV1FncE9GSlVfS1YyZ2Q3Q19MNUc4WFBmeEZPLTZsY0VGTm5sNlJ3QmFNN085MkliWHRpOGRVaG1sQVRucDY4NjJrN3VnUjRvQm9nX2hJT01sdVh5aUpDTFhlb1JqYUhmX1JvMm1WcExDSw?oc=5",
+    "source": "Bushwick Daily",
+    "language": "en",
+    "published": "2026-11-18T07:38:47+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "Hochul lanza el Centro de seguridad de IA de Nueva York; Los desarrolladores de IA deben registrarse antes del 1 de enero",
+    "summary_es": "Hochul lanza el Centro de seguridad de IA de Nueva York; Los desarrolladores de IA deben registrarse antes del 1 de enero Bushwick Daily"
+  },
+  {
+    "id": "9eecbd0dd43e",
+    "title": "Microsoft unveils MAI Code 2 and new cybersecurity AI model",
+    "summary": "Microsoft unveils MAI Code 2 and new cybersecurity AI model BusinessLine",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGJmaTdwalp3UVZodUVVNTl1RWNKNi1zMWJjTGtKSi1zWTJ0b0M2RVBpYi1rNUd0dUo2WnpTakFPSUlYeDRjSFk0NjczRnZZaThrMU5fSl80VTVCQ1lMQ2lWLXJzbnpJZm1ZQlRtRlNTSmpMZlctQWlYR0JxYVltNjdHSU5Qc2l6dmRsdDJoY1lLRE9YZXpoT2xvbE5UMlpRU3luM1VfYjNDQk9GcXoxaDMxUDZocDlyVktBRnZQNUgtOGctWlZZSXNMVdIB0gFBVV95cUxPa1NYMUJNbmVJTTVvcnNCRWJrQ043YkxLaENKTVYyVldBSUZNRi02a2NxaVgtVWJuVkxxZVBabm9UUFE4VEdWZnBiM1lSUEJWUzItM1lEUmFDY0UxdkljTlhFVG9CZFg2Q2NWYXBRR3ZNQVktWUdDTE1fbE5BLTFrT0VERENPV25DRXlBUTZNcS1oRHktSnpDdjhxVVBWV0xqeml1elFGRlNxZ1lsanJfSWpISXVZTXlRemRfNGtmQk5rRnMtQXhMZkxDU3A1QnlZeHc?oc=5",
+    "source": "BusinessLine",
+    "language": "en",
+    "published": "2026-11-18T03:58:04+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "Microsoft presenta MAI Code 2 y un nuevo modelo de IA de ciberseguridad",
+    "summary_es": "Microsoft presenta MAI Code 2 y un nuevo modelo de IA de ciberseguridad BusinessLine"
+  },
+  {
+    "id": "3aff68a3dcb4",
+    "title": "Recent AI cyberattacks are part of a ‘short period of transition,’ says Yann LeCun",
+    "summary": "Recent AI cyberattacks are part of a ‘short period of transition,’ says Yann LeCun Semafor",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmVrelhLWUpYOTVNWC1weXpIVU1fejY4eENnUzN6Sll0VEQ3NHh3LVBvdWM0a1ZBT0lyQXNJVE12ZU9wQWJVV0FNb3l5MXAtMWhsaTNHNS14N2R2bXRBN0o1ZUtTdUV2bjMybzUzX2U2Uy1udHdvLVFrYUZoLTZwZVBORHRRMlhrdUJhY1hPTUVRZldXWmF5VkJvdTVkQzZtREpKZ0dtMmFSQ3BqeXNHbkM2bFNwYUFMUURELXozTQ?oc=5",
+    "source": "Semafor",
+    "language": "en",
+    "published": "2026-11-18T01:02:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "Los recientes ciberataques a IA son parte de un “breve período de transición”, dice Yann LeCun",
+    "summary_es": "Los recientes ciberataques de IA son parte de un “breve período de transición”, dice Yann LeCun Semafor"
+  },
+  {
     "id": "1571beae452b",
     "title": "UK government warned that lax AI safety undermines GDP boost",
     "summary": "UK government warned that lax AI safety undermines GDP boost Computer Weekly",
@@ -70,6 +439,26 @@
     "date_added": "2026-11-18",
     "title_es": "Las promesas de seguridad de la IA de Anthropic necesitan reglas más firmes",
     "summary_es": "Las promesas de seguridad de la IA de Anthropic necesitan reglas más firmes Daily Journal"
+  },
+  {
+    "id": "4d2a1295d9d6",
+    "title": "AI industry still needs to be 'extremely careful,' Microsoft exec says",
+    "summary": "AI industry still needs to be 'extremely careful,' Microsoft exec says Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWgyVTlCLVFhNnFLWWx5U0NnNHBLblhIenZUM3lpdWpMXzV5YlpWWHAwdzM5Rk54ekpZaFhEODZkanFnZDBhQzZ1QjNjaVpRM2piZVBSSWs5SzBVOXUwUXZ1cEJuX0FWeEpWX19ZTkEtdXdxMDZQYjBpWFQwWS1pZlZmSnRhTGs?oc=5",
+    "source": "Yahoo Finance",
+    "language": "en",
+    "published": "2026-11-17T22:30:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "La industria de la IA todavía necesita ser \"extremadamente cuidadosa\", dice un ejecutivo de Microsoft",
+    "summary_es": "La industria de la IA todavía necesita ser \"extremadamente cuidadosa\", dice un ejecutivo de Microsoft Yahoo Finanzas"
   },
   {
     "id": "af4d74c68e44",
