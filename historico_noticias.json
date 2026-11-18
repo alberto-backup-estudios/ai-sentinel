@@ -1,5 +1,334 @@
 [
   {
+    "id": "82432b7dc739",
+    "title": "AMD buys World Labs & Taalas to boost AI strategy",
+    "summary": "AMD buys World Labs & Taalas to boost AI strategy ChannelLife Australia",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUcxdmpWWU9WMFlBZGZIZlM1dnpLaUpEanVxbW9NSE9zVG9DZC1PWFBESHZrTWcxVnlib1Z5c3VRV2pQa1JTR1p5Yk5qQ2I4RkNTbmNFbUU4RktCRnRFZHdmMGw2NWktSUNPQTJmUEJBYXM4M1RfQ1RMLW10UmkzQkVZMWFBbWs?oc=5",
+    "source": "ChannelLife Australia",
+    "language": "en",
+    "published": "2026-11-18T23:21:00+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "AMD compra World Labs & Taalas para impulsar la estrategia de IA",
+    "summary_es": "AMD compra World Labs & Taalas para impulsar la estrategia de IA ChannelLife Australia"
+  },
+  {
+    "id": "e21bcfd0c74d",
+    "title": "Feds Warns of Cybersecurity and AI Governance Risks",
+    "summary": "Feds Warns of Cybersecurity and AI Governance Risks BankInfoSecurity",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFB6NVV1eFdQVGRyYXZhRUJQWHFDM21nZndoekJXcktCakQ0bWRyQjJucHd3R3BPNHdRVHQyWmlhbGFPVFhvYUY1c1NEOGVnRTBuU3hDWVlrOVAtbjM0dXBQRUJSNmV5ZGhiNDYyOENFRW1UbjlKRjZuX1pWRlB5TVZRb2wwSXMwdFhDSjlR?oc=5",
+    "source": "BankInfoSecurity",
+    "language": "en",
+    "published": "2026-11-18T22:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Los federales advierten sobre los riesgos de la ciberseguridad y la gobernanza de la IA",
+    "summary_es": "Los federales advierten sobre los riesgos de la gobernanza de la ciberseguridad y la IA BankInfoSecurity"
+  },
+  {
+    "id": "3a5377703022",
+    "title": "Congress wants to crack down on China over chips. AI safety is a different story.",
+    "summary": "Congress wants to crack down on China over chips. AI safety is a different story. Politico",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUt6VmRQOUstOVYyRElCaWFpQ1lOU3VnRXRGZVpQajUxYjVDUFJYYnhBcUxjZ2IwYUZodmF5TVBhLUV3NmNvTVIzZ2xIc0lzaUc4NEdWRTRVOGVNdUp3YUFBN3p3YmoxbVRXSzBtQ1ZPSEF6YjNHYkdBcVB5dG1uMTJZZnRvb0U?oc=5",
+    "source": "Politico",
+    "language": "en",
+    "published": "2026-11-18T21:22:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "El Congreso quiere tomar medidas enérgicas contra China por los chips. La seguridad de la IA es una historia diferente.",
+    "summary_es": "El Congreso quiere tomar medidas enérgicas contra China por los chips. La seguridad de la IA es una historia diferente. politico"
+  },
+  {
+    "id": "9d974a59a585",
+    "title": "Newsom pitches himself as national leader on AI safety ahead of likely 2028 run",
+    "summary": "Newsom pitches himself as national leader on AI safety ahead of likely 2028 run Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTVOMGpkWUFnYkhsNUlYYi0zdExHclVJd0VJWHhtcjdwMDd1YXNINEJ5eUtpaUpveW1hZzdyTkVzRFEwQ1E1bnFSNDd6TE5hQVZSRlI0RDdVNUtxV0FTa3ltZDExWjR2SUo0Mko5bnJlWmJvSlF2dkRUUDJ6d2ZLWTlwYTNJZ3h2ZHBVZXNiOVV3OXIzV0pOTzVQLTFBcnM?oc=5",
+    "source": "Yahoo",
+    "language": "en",
+    "published": "2026-11-18T21:07:32+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "Newsom se presenta como líder nacional en seguridad de la IA antes de la probable campaña de 2028",
+    "summary_es": "Newsom se presenta como líder nacional en seguridad de la IA antes de su probable mandato en 2028 Yahoo"
+  },
+  {
+    "id": "69db4aa43b57",
+    "title": "Leading figures condemn Anthropic for reckless race to recursive self-improvement",
+    "summary": "Experts agree that the breakneck pursuit of recursive self-improvement (RSI) – AI that can build itself – will rapidly create […]",
+    "link": "https://futureoflife.org/statement/leaders-condemn-anthropic-for-race-to-rsi/",
+    "source": "Future of Life Institute (FLI)",
+    "language": "en",
+    "published": "2026-11-18T21:04:15+00:00",
+    "feed_name": "Future of Life Institute (FLI)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "Figuras destacadas condenan a Anthropic por su carrera imprudente hacia la superación personal recursiva",
+    "summary_es": "Los expertos coinciden en que la búsqueda vertiginosa de la superación personal recursiva (RSI) (una IA que puede construirse a sí misma) creará rápidamente […]"
+  },
+  {
+    "id": "cf90b3c9f947",
+    "title": "Opinion | Look where the world’s most elite AI talent is going",
+    "summary": "Opinion | Look where the world’s most elite AI talent is going The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUl6LVdmbFEwNno3d1k1NHQ3ZlpMXzNzUGxzemwzTGc5Z3JIVjVtMllNbGdrZEtYdTdpdzBxV3RhUlFBLTdJdkpWTC0zZ0hCcFdWVERxd3hSRkw0WUtIZGcxOERYZV94T1FNVUhDOUdwVnVtenEwRFlMSl8wWkxWdGlGV2pKOG9aVDlHRF9VYjFsUV9UOXVrOGMteFBjZThFM1BHYS1FTDY?oc=5",
+    "source": "The Washington Post",
+    "language": "en",
+    "published": "2026-11-18T20:30:00+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-18",
+    "title_es": "Opinión | Mire hacia dónde se dirige el talento de IA más selecto del mundo",
+    "summary_es": "Opinión | Mire hacia dónde se dirige el talento de inteligencia artificial más selecto del mundo The Washington Post"
+  },
+  {
+    "id": "8bcc05a2868d",
+    "title": "OneTrust Introduces New Capabilities Into Workflows",
+    "summary": "OneTrust Introduces New Capabilities Into Workflows Channel Insider",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUncxTzNmWm5zM29lSWx5VkdxNFJLTmk1OVdLWnQ5ZFlzRnRyaEw1eXdhVGF3QzJBSUp6OG40dDVNdUI2QWN6c0pVaU43dWdsb3Y3TXZfU1pwVWwyWHF6dmRVMEZDSTdXeXN1TlIzbzhmdHF4UXBpYWhnRE5WOXFtYXNvOE9LUVk?oc=5",
+    "source": "Channel Insider",
+    "language": "en",
+    "published": "2026-11-18T20:21:59+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "OneTrust introduce nuevas capacidades en los flujos de trabajo",
+    "summary_es": "OneTrust presenta nuevas capacidades en los flujos de trabajo Channel Insider"
+  },
+  {
+    "id": "e42ab5e22cc3",
+    "title": "New York launches AI safety unit as tech outages fuel national jitters",
+    "summary": "New York launches AI safety unit as tech outages fuel national jitters Greater Long Island",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXJFMVV1VmQ3NUttQm5tZ1FWRFFCUWZNRGJlS1c0MEJ2TXI4REVwQ0ZadDZwT0FkbWp1REdYMW40X0U4ZjhUR0c4RkZ1VXFIOVYxTzZuaDJDMWdURTZQb2JSbXpmTUFtUWpJbGpGVktqZzlkV2tkenJ2T0FSVkNBRXM0VnRjLW9va0hTOVRGV1ExcHJ0ejZsdE5kVHV2ZVJBd1I4?oc=5",
+    "source": "Greater Long Island",
+    "language": "en",
+    "published": "2026-11-18T19:51:20+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "Nueva York lanza unidad de seguridad de IA mientras los cortes tecnológicos alimentan el nerviosismo nacional",
+    "summary_es": "Nueva York lanza una unidad de seguridad de IA mientras los cortes tecnológicos alimentan el nerviosismo nacional Greater Long Island"
+  },
+  {
+    "id": "a2b895c6b1d3",
+    "title": "Former OpenAI researcher says he’ll donate his equity to AI safety: 'Everything else is a distraction'",
+    "summary": "Former OpenAI researcher says he’ll donate his equity to AI safety: 'Everything else is a distraction' Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGo1Nmc3RDZRcXV2VnpYMXhybnhTUjgxN2FMTm1YajdibFhUM2kwVzNHQ2RhenpVNWxPZ0FacW9rOG5kR2VYRzRBTlZHN2NsUklhNFdfb3Y1NXF3QWtXd0hBUUtGb1J6cEFETkwxeVV0OG1aTjZqQnhZOVU4Ri1iX0ZQZU1rak9DMDFXNHBFeEpWQ0diTVJYZWtFRWlQbVVybXc?oc=5",
+    "source": "Business Insider",
+    "language": "en",
+    "published": "2026-11-18T19:46:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "El ex investigador de OpenAI dice que donará su capital a la seguridad de la IA: \"Todo lo demás es una distracción\"",
+    "summary_es": "El ex investigador de OpenAI dice que donará su capital a la seguridad de la IA: \"Todo lo demás es una distracción\" Business Insider"
+  },
+  {
+    "id": "e9dbccb18eeb",
+    "title": "California Proposes Mandatory AI Safety Standards, Independent Oversight and Emergency Shutdown Authority",
+    "summary": "California Proposes Mandatory AI Safety Standards, Independent Oversight and Emergency Shutdown Authority CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOURfcm9tTzBrTTVyblc3R2NFX1ExTVctWmxGWXdDTnBvVHprZC1JWm51MW5yenVpTTZwRWxVckRIRC0zTmpIVjlPRFNFb3VHcWZsdzhTQ2l5VTRwME9td0tQQXpfV0FkTDB4VkZNQ19qaUdJZ3F6cExkWjFqSkZiMmVmbzd0X3RKS3pEWElsb3pZRmdELUZwZXp4dDF2SkY5eTFpRzUydklNRHhHZl9MWnBGMDBOd2NHSDFnVDlsMmxVbkZJYTN2QklMRTlDcVlrOHRmY3h5bVJmZEE4dzMyaU83UGc4b2FDalk1eQ?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-11-18T19:23:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "California propone estándares obligatorios de seguridad de IA, supervisión independiente y autoridad de apagado de emergencia",
+    "summary_es": "California propone normas obligatorias de seguridad de IA, supervisión independiente y autoridad de apagado de emergencia Revista CDO"
+  },
+  {
+    "id": "51e23dc73d88",
+    "title": "Chinese AI Safety Group Visits Bay Area to Discuss Risks of Advanced AI",
+    "summary": "Chinese AI Safety Group Visits Bay Area to Discuss Risks of Advanced AI SFist",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEFnNG5jU21WYU5mUE85dmtQZkNZT25hYmUzbWROLWJQNW16enV0N1kxVDc5OFYxd195M2RVaGlGaDUtaTBNaHBWWHozdWkyaWh5NlBoRTdBU2czTHdvLTk1OEl2SmUxRi0tWG82eHZnV1gzWktoaXpHMUc5WTNJYnBBdFo3REtuREhDMFY4VGpOUE1SZnd5bGVSaFllQlhvNkdB?oc=5",
+    "source": "SFist",
+    "language": "en",
+    "published": "2026-11-18T19:00:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "Un grupo chino de seguridad de IA visita el Área de la Bahía para discutir los riesgos de la IA avanzada",
+    "summary_es": "Un grupo chino de seguridad de IA visita el Área de la Bahía para discutir los riesgos del SFist avanzado de IA"
+  },
+  {
+    "id": "0b8b475c0103",
+    "title": "New York attorney general creates unit to oversee AI safety and enforcement",
+    "summary": "New York attorney general creates unit to oversee AI safety and enforcement StateScoop",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGsxelltYWdnWmJ2QnlGYTBXQWkwZkwyc3VXaERwS2ljUm1IYVQ3bFlKcjJYREdkRHdISERZZWF4Q3A4anVEWHFJLTZQM0lrUGVTeU40LVZmdkZ3dXpyQW5xRFFyTURaTkNBVlJDT2dwRzlSSkVpaHdYQ0E0UDM2a1BoSmRrUFkzcjZiQ1h4TTJVUFhsdjcwQ3pCOE1CRWw5?oc=5",
+    "source": "StateScoop",
+    "language": "en",
+    "published": "2026-11-18T18:42:35+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-18",
+    "title_es": "El fiscal general de Nueva York crea una unidad para supervisar la seguridad y el cumplimiento de la IA",
+    "summary_es": "El fiscal general de Nueva York crea una unidad para supervisar la seguridad y el cumplimiento de la IA StateScoop"
+  },
+  {
+    "id": "e6c720416023",
+    "title": "Sustainalytics: Anthropic’s High ESG Risk Brings AI Governance Concerns Into Focus",
+    "summary": "Sustainalytics: Anthropic’s High ESG Risk Brings AI Governance Concerns Into Focus Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemk2MURnTHdzdW5JOEpkZmhRM2xBY1Z5VG5pbDAtYUxZNENkd3pNZnNEM1FuM2xGMElILUhySkNHa3BMaEpKTEVNN0FhV01jRWJqOVEwcUY4VlJQdVBiX3FEUGJpd21WeVMtalh5QmItRXBEZ3BxOEU4NTkyUzFGVXpDZkJxS0ZFQnFWOEp5VUZxQ2U5RVNfMURLQkUtRHpzdHR4SWNXUDN0c09meU5QNkhiTUZDellOMkVsaUxHVUFsSWxMQTVCSXdB?oc=5",
+    "source": "Morningstar",
+    "language": "en",
+    "published": "2026-11-18T18:03:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Sustainalytics: El alto riesgo ESG de Anthropic pone de relieve las preocupaciones sobre la gobernanza de la IA",
+    "summary_es": "Sustainalytics: El alto riesgo ESG de Anthropic pone de relieve las preocupaciones sobre la gobernanza de la IA Morningstar"
+  },
+  {
+    "id": "2a54ac54e256",
+    "title": "AVPT: AI governance expands the platform as recurring revenue targets $500M+ this year",
+    "summary": "AVPT: AI governance expands the platform as recurring revenue targets $500M+ this year TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTzJWellRTHhZcXlGRlNyMjZFSUhYbXpCWU83R2xranhWaDZ4dk1tWkpoQ0VmdncxTDlKbE84MjNvbzI0anR5bV9QRXdjdThJTThPYnZrN0hsZnl4c1BxSzNfX1lMX1drY1d0akVRUGFFQWRXQ0lwcjZ6R2Y4UlVWOWFxekdzVzVlTUFqX1ZNUWVfQnowcGxTOHNUTUs2NW94Y3pLbGF5WWNJQTZjcEt5bDZ1bWNiUkl4UkstQnN0b1NQZnNwVzU0a2Nzcks0UkYwRXJfd2xTMWZFSHQ0NFFDLURlNTBZV01yc2VwRFhzV29sUmJvNW9SakNVTVNvQWM?oc=5",
+    "source": "TradingView",
+    "language": "en",
+    "published": "2026-11-18T18:02:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "AVPT: La gobernanza de la IA amplía la plataforma, ya que los ingresos recurrentes apuntan a más de 500 millones de dólares este año",
+    "summary_es": "AVPT: La gobernanza de la IA amplía la plataforma, ya que los ingresos recurrentes apuntan a más de 500 millones de dólares este año TradingView"
+  },
+  {
+    "id": "f1617053533b",
+    "title": "OneTrust amplía la gobernanza de la IA con inteligencia sobre modelos y supervisión continua",
+    "summary": "OneTrust amplía la gobernanza de la IA con inteligencia sobre modelos y supervisión continua Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUhaSmEtZHpmcjdxV2xNWnlKYVpTcXFRUll0Nk1BeGxkeF9zNWUtRWxkTWQwSUJ1MlRheDZEZlRHVldCczlKWkVWODdHR19DNzVEMnAwUlptUzRmaVE5QVU3YnprYUNkRVp6VmU0VkFDQ3RGWWRtZG90MDhEVFo4X3V3?oc=5",
+    "source": "Unite.AI",
+    "language": "es",
+    "published": "2026-11-18T17:30:03+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "OneTrust amplía la gobernanza de la IA con inteligencia sobre modelos y supervisión continua",
+    "summary_es": "OneTrust amplía la gobernanza de la IA con inteligencia sobre modelos y supervisión continua Unite.AI"
+  },
+  {
+    "id": "4f324c20ed11",
+    "title": "OneTrust Expands AI Governance With Model Intelligence and Continuous Oversight",
+    "summary": "OneTrust Expands AI Governance With Model Intelligence and Continuous Oversight Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZ3pTQUFzZmUyUEFBOFBCelZISi1rLWlBVlJrTHhMeHJwU1ZkSXVGYjY5WUZlME9JcUVPUjdadWM3UEdRampzVExxQUNnZi1pYzkyMkF1V2hFTERHRk9fUmFEY2JESUJhTEUzckNNMEN5bGNoOFFuUjlkTGRHQQ?oc=5",
+    "source": "Unite.AI",
+    "language": "en",
+    "published": "2026-11-18T17:30:03+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "OneTrust amplía la gobernanza de la IA con inteligencia modelo y supervisión continua",
+    "summary_es": "OneTrust amplía la gobernanza de la IA con inteligencia modelo y supervisión continua Unite.AI"
+  },
+  {
+    "id": "1fc2b69b8588",
+    "title": "OpenAI’s Altman and Brockman weigh AI safety against speed at DealBook Summit",
+    "summary": "OpenAI’s Altman and Brockman weigh AI safety against speed at DealBook Summit Crypto Briefing",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiMFhSVUxyRlNKbHNXZG5KOS1ZRHRIaTJXOGJtaWJ4SGNDNlRGOC13WEJGZWJlbWNwR1BQNDBDcm4yR1FLMmtWSG9UQmkzQXVlSnRSUWZzQ0JWM3RHRDMxNjFrYXJacVdnaFVpQXRSemtIVkhyU1NPYg?oc=5",
+    "source": "Crypto Briefing",
+    "language": "en",
+    "published": "2026-11-18T17:10:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Altman y Brockman de OpenAI comparan la seguridad de la IA con la velocidad en la Cumbre DealBook",
+    "summary_es": "Altman y Brockman de OpenAI sopesan la seguridad de la IA frente a la velocidad en DealBook Summit Crypto Briefing"
+  },
+  {
+    "id": "0f670c266734",
+    "title": "CTC CEO Chris Hamilton on AI Governance and Space Security",
+    "summary": "CTC CEO Chris Hamilton on AI Governance and Space Security ExecutiveBiz",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU9URUU2UHJLRm5FbHdpeV9NNTRVV3JEZGplU21nV1p1UmU1aTdjdTVzV2x2NVpjdnhkVk1RUFRua1MweWEyY0c5NmJ6M1k1YXQxTnFoMGpUcnlGYmdhTmdPeGdmcVp0VVVuQTFtRVRzU0NvZGduc1JXanNNWTRJaTcxVjdGSndpV2VTVXJPdm4tdkNIRnN0eGZlRlc2QldBQ25YcTJyYw?oc=5",
+    "source": "ExecutiveBiz",
+    "language": "en",
+    "published": "2026-11-18T16:54:14+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-18",
+    "title_es": "Chris Hamilton, director ejecutivo de CTC, sobre la gobernanza de la IA y la seguridad espacial",
+    "summary_es": "Chris Hamilton, director ejecutivo de CTC, sobre la gobernanza de la IA y la seguridad espacial ExecutiveBiz"
+  },
+  {
     "id": "67ce0201061e",
     "title": "Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations",
     "summary": "Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations The Information",
