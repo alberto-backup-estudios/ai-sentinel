@@ -1,5 +1,41 @@
 [
   {
+    "id": "080f61b5a74a",
+    "title": "Solomonoff induction with reflective oracles",
+    "summary": "Linkpost for https://arxiv.org/html/2611.14454v1 Our PIBBSS fellow Damini Kusum wrote an excellent paper on prediction with reflective oracle Solomonoff Induction (rOSI). Reflective oracles are best known for their game-theoretic applications, where they are often dismissed because \"why would all players choose the same reflective oracle?\" It tu...",
+    "link": "https://www.alignmentforum.org/posts/nvrFYAwciyyj9T5ir/solomonoff-induction-with-reflective-oracles",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-19T04:36:27+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-19",
+    "title_es": "Inducción de Solomonoff con oráculos reflexivos",
+    "summary_es": "Publicación de enlace para https://arxiv.org/html/2611.14454v1 Nuestro compañero de PIBBSS, Damini Kusum, escribió un excelente artículo sobre predicción con el oráculo reflexivo Solomonoff Induction (rOSI). Los oráculos reflexivos son más conocidos por sus aplicaciones en la teoría de juegos, donde a menudo son descartados porque \"¿por qué todos los jugadores elegirían el mismo oráculo reflexivo?\" Es..."
+  },
+  {
+    "id": "3ea80f52e142",
+    "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+    "summary": "We want to get this post out quickly given the urgency of the topic. It’s possible that there are some errors in the modeling, but we think it’s very unlikely that they undermine the high level conclusions. We would love to be corrected on any mistakes we made. METR recently estimated that Anthropic is now making AI progress about twice as fast ...",
+    "link": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/q3-5-timelines-update-looks-like-the-intelligence-explosion",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-10T16:30:09+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-19",
+    "title_es": "Actualización de los cronogramas del tercer trimestre: Parece que, después de todo, la explosión de inteligencia ocurrirá en 2027",
+    "summary_es": "Queremos publicar esta publicación rápidamente dada la urgencia del tema. Es posible que haya algunos errores en el modelo, pero creemos que es muy poco probable que socaven las conclusiones de alto nivel. Nos encantaría que nos corrigieran cualquier error que cometiéramos. METR estimó recientemente que Anthropic ahora está haciendo que la IA progrese aproximadamente el doble de rápido..."
+  },
+  {
     "id": "82432b7dc739",
     "title": "AMD buys World Labs & Taalas to boost AI strategy",
     "summary": "AMD buys World Labs & Taalas to boost AI strategy ChannelLife Australia",
