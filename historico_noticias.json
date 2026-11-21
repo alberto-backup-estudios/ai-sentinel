@@ -1,5 +1,61 @@
 [
   {
+    "id": "cf75ab0cc93b",
+    "title": "Americans begin DOOMSDAY prep, House launches bipartisan A.I. safety caucus, as Trump says ‘relax’",
+    "summary": "Americans begin DOOMSDAY prep, House launches bipartisan A.I. safety caucus, as Trump says ‘relax’ Modern Ghana",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UclJnYWZFSUZCN2lRRTlXd1R4d2NqSjN6ZHRKUzJxbnppQ0VNTU1sVzA1MWdCSGtqd3JfMGN1UlFEdGxBRWRGdXVxOTFNRXJhUllKWjJDc3ExYVlFMi1J0gFcQVVfeXFMT0ZNcXVKdm1GelJJWjE1bFJvLWFYVHJSUVYtMWt2RjJfT2M3VDhCLUUwLXkxLTBhRDkxVV95SDRoanVLZ0dUVGptWWhuQ0s1dTJuejluS3JQQjl0b3Y?oc=5",
+    "source": "Modern Ghana",
+    "language": "en",
+    "published": "2026-11-21T21:50:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-21",
+    "title_es": "Los estadounidenses comienzan la preparación para DOOMSDAY, House lanza inteligencia artificial bipartidista Caucus de seguridad, como Trump dice \"relájate\"",
+    "summary_es": "Los estadounidenses comienzan la preparación para DOOMSDAY, House lanza inteligencia artificial bipartidista Caucus sobre seguridad, mientras Trump dice \"relajarse\" Ghana moderna"
+  },
+  {
+    "id": "a0acd5428def",
+    "title": "Pushing back on North-South AI governance narrative",
+    "summary": "Pushing back on North-South AI governance narrative Asset Publishing and Research",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNVRPYWNld2o3TWZzSktxNXphaW40dmFpV0tJMV9jV2U3WG5zaVJTdU1Cd0puTmFvWm5FM3hMeTB5aFBnbm5tb2h0YUtUOFQxeTlpYlhVZmNpaXM4WlFzaDJJNWhWZ2xhX3piZWhZamVMcWoyYXpXLXNfaVNfbE4zT0Z5UjBZRk9JbnFabXFGMXhhenFEeWFSblVn?oc=5",
+    "source": "Asset Publishing and Research",
+    "language": "en",
+    "published": "2026-11-21T16:46:39+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-21",
+    "title_es": "Rechazando la narrativa de gobernanza de la IA Norte-Sur",
+    "summary_es": "Rechazando la narrativa de gobernanza de la IA Norte-Sur Asset Publishing and Research"
+  },
+  {
+    "id": "8858015359d0",
+    "title": "AMD completó la adquisición de World Labs y sumó a Fei-Fei Li",
+    "summary": "AMD completó la adquisición de World Labs y sumó a Fei-Fei Li mercado.com.ar",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWtZTFUtcll4enoxLXpQakVQbkotbmNBZlEzU2RLdWwwQzVsTmtwdmN4ZXRDbGJMN0w5aEwtSUVhUEZEa1Vhbmt2blgyS0p4bHRNbm5KaXhpOUYzbWp6cmxidEdadzVfdmtVZ2FqNDFfUzJmRzVNMzk2bGlZaUpJczJmRlJrOFp0cy1LVzRhc1FFZWlHd0g2dQ?oc=5",
+    "source": "mercado.com.ar",
+    "language": "es",
+    "published": "2026-11-21T15:00:13+00:00",
+    "feed_name": "Fei-Fei Li (Español)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-21",
+    "title_es": "AMD completó la adquisición de World Labs y sumó a Fei-Fei Li",
+    "summary_es": "AMD completó la adquisición de World Labs y sumó a Fei-Fei Li mercado.com.ar"
+  },
+  {
     "id": "aca3e74a1f1a",
     "title": "AI Governance in 2027: Accountability Moves Into the Workflow",
     "summary": "AI Governance in 2027: Accountability Moves Into the Workflow Unite.AI",
@@ -16,6 +72,25 @@
     "date_added": "2026-11-21",
     "title_es": "Gobernanza de la IA en 2027: la responsabilidad se traslada al flujo de trabajo",
     "summary_es": "Gobernanza de la IA en 2027: la responsabilidad se traslada al flujo de trabajo Unite.AI"
+  },
+  {
+    "id": "48dcbc1b15fa",
+    "title": "Gobernanza de la IA en 2027: la rendición de cuentas se integra en los flujos de trabajo",
+    "summary": "Gobernanza de la IA en 2027: la rendición de cuentas se integra en los flujos de trabajo Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnpZcW1KV05DM1JhTEpPb3ZiSlUzT1JheHZFQ0F4cUtTX3BfekZfR0Q2aWc2WUdFTkc1dThFNXFFblMtR2JBdlViOEdzcVNnT2o2cnNFcDA4UVJrakJQSEpMWG5UUzVXVVJVTDBxQTlVRmxsWXAwbExpdk9QNjR3Q2dxM1ZraWlCZFh2MXhn?oc=5",
+    "source": "Unite.AI",
+    "language": "es",
+    "published": "2026-11-21T14:00:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "sociedad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-21",
+    "title_es": "Gobernanza de la IA en 2027: la rendición de cuentas se integra en los flujos de trabajo",
+    "summary_es": "Gobernanza de la IA en 2027: la rendición de cuentas se integra en los flujos de trabajo Unite.AI"
   },
   {
     "id": "5fc40efa5bad",
@@ -55,6 +130,26 @@
     "summary_es": "El Ministro Ranne asistirá a la Cumbre Especial de la ONU sobre la Seguridad de la IA del Consejo de Estado"
   },
   {
+    "id": "a39345d27145",
+    "title": "AMD stock: World Labs acquisition adds AI research depth",
+    "summary": "AMD stock: World Labs acquisition adds AI research depth ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTdaWk4wemtJa2RDZTZTZTh0UVlLZm5JYzg5aV91cmdkMFlHdDQxaHZKSE5pY0ZwOVZiSTl2T2RJdmR2U05fOXJjdUxEWjhfekZFLVhaZUdfdmtyRGl0ZXNoZjgtWlk2bmpXcVVSMWNXcXViODlfbXpfeUFxNE9rRXp3dTNUTjl3cDE5OWI0UGVCYkY4ZEppVFYyTFl3ZmNXSVd0MzI3bTNLdDZpN0J2c2Y4OVFEUUM5dXc?oc=5",
+    "source": "ad-hoc-news.de",
+    "language": "en",
+    "published": "2026-11-21T09:42:20+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-21",
+    "title_es": "Acciones de AMD: la adquisición de World Labs agrega profundidad a la investigación de IA",
+    "summary_es": "Acciones de AMD: la adquisición de World Labs añade profundidad a la investigación en IA ad-hoc-news.de"
+  },
+  {
     "id": "65f259cd7df5",
     "title": "Human auditors miss most planted sabotage in AI safety research study",
     "summary": "Human auditors miss most planted sabotage in AI safety research study Superpower Daily",
@@ -91,6 +186,24 @@
     "date_added": "2026-11-21",
     "title_es": "NO ES DEMASIADO TARDE El historiador y autor galardonado Yuval Noah Harari rechaza la afirmación de las empresas de tecnología de que la IA es inevitable, diciendo que todavía hay que tomar decisiones sobre hacia dónde se dirige. Harari habló con la directora ejecutiva de Rappler y premio Nobel María R.",
     "summary_es": "NO ES DEMASIADO TARDE El historiador y autor galardonado Yuval Noah Harari rechaza la afirmación de las empresas de tecnología de que la IA es inevitable, diciendo que todavía hay que tomar decisiones sobre hacia dónde se dirige. Harari habló con la directora ejecutiva de Rappler y premio Nobel María R Facebook"
+  },
+  {
+    "id": "ebabf420f047",
+    "title": "La mente solitaria frente a la máquina colectiva: literatura, filosofía y gobernanza de la IA",
+    "summary": "La mente solitaria frente a la máquina colectiva: literatura, filosofía y gobernanza de la IA la diaria",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYmJEc2lKWmRiRWFTSExmTm9jaFBlN2F0aEhJQVRCNEhsejFPRHhhdzltRzY2cGVuV3o4U1ZVbzF0MUVBamlCWXhDQ01NMWQ0cFFfZkNEUExzNWNYcmhOcWZTNTlnbW1McC03T1dGdDVhNjlRajM2TGhORFRQcHp0SGdDbnU4N3NiNWc0dFFpZEwxemwyak9WZExtb1puSGtnWkptSVFlN0xGSkZrX0UwTUZrM1daZFpzckNLdko3Vnc4RURPOGFfNC1wbGpUOFNZT0R5TTZBMm52SFVWcERVZnlYYmI5UkxN0gHoAUFVX3lxTE1iYkRzaUpaZGJFYVNITGZOb2NoUGU3YXRoSElBVEI0SGx6MU9EeGF3OW1HNjZwZW5XejhTVlVvMXQxRUFqaUJZeENDTU0xZDRwUV9mQ0RQTHM1Y1hyaE5xZlM1OWdtbUxwLTdPV0Z0NWE2OVFqMzZMaE5EVFBwenRIZ0NudTg3c2I1ZzR0UWlkTDF6bDJqT1ZkTG1vWm5Ia2daSm1JUWU3TEZKRmtfRTBNRmszV1pkWnNyQ0t2SjdWdzhFRE84YV80LXBsalQ4U1lPRHlNNkEybnZIVVZwRFVmeVhiYjlSTE0?oc=5",
+    "source": "la diaria",
+    "language": "es",
+    "published": "2026-11-21T03:08:22+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-21",
+    "title_es": "La mente solitaria frente a la máquina colectiva: literatura, filosofía y gobernanza de la IA",
+    "summary_es": "La mente solitaria frente a la máquina colectiva: literatura, filosofía y gobernanza de la IA la diaria"
   },
   {
     "id": "93e14594a53d",
@@ -226,6 +339,24 @@
     "summary_es": "Los modelos de IA están desarrollando su propio lenguaje que los humanos no pueden entender, advierte el padrino de la IA India Today"
   },
   {
+    "id": "37ff3cb5f4c7",
+    "title": "La gobernanza de la IA emerge como la gran oportunidad de negocio para el canal europeo",
+    "summary": "La gobernanza de la IA emerge como la gran oportunidad de negocio para el canal europeo www.itreseller.es",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlNYSGxlbklqSTJaaEJ0Y3RnN19PeTBIUW9HLUtvSUtyZl9aRFM0eGRBZUhZelZKQW55SGNMNlp2ekM5OWpDbWs1N2gxbFVjSTZWYU1fMEZrZndpdmctM3JTaWcySjUwNHVveWNkdHFUb21FOURmQlhoMkdiaFRHN3JHMER5dnVXSU9mN1lUUjBPRGdNQ2h2SVFYSElqNUl4dk9oc0QwWDRFU3lRWHJqd2xtdnVJWkZjMnZzREVEZW1WeC1mMDE5N1M3c1hTR0xBMEt0OUxtSkg?oc=5",
+    "source": "www.itreseller.es",
+    "language": "es",
+    "published": "2026-11-20T09:00:00+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-21",
+    "title_es": "La gobernanza de la IA emerge como la gran oportunidad de negocio para el canal europeo",
+    "summary_es": "La gobernanza de la IA emerge como la gran oportunidad de negocio para el canal europeo www.itreseller.es"
+  },
+  {
     "id": "6a00cc7e386d",
     "title": "Geoffrey Hinton",
     "summary": "Geoffrey Hinton Britannica",
@@ -245,6 +376,26 @@
     "date_added": "2026-11-21",
     "title_es": "Geoffrey Hinton",
     "summary_es": "Geoffrey Hinton Británica"
+  },
+  {
+    "id": "f7f69c60129a",
+    "title": "DeepLearning.AI brings Andrew Ng and Yann LeCun to AI Dev NYC November 30–December 1",
+    "summary": "DeepLearning.AI brings Andrew Ng and Yann LeCun to AI Dev NYC November 30–December 1 Superpower Daily",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcldpbUhBTzQ3NG5iVy1SaVpiaEkxYzR5NkhoSmFFbldCSVByZWFTTmJ6N2RkWkl1LU5ycHlPZlBxcWw4SFJLNWJOb3FvVlpOd191aFJNcnkzNHQ0SldQTjBQUTkyZU1VNWZKOF82RWJ2RGdxb0xLTFp3ak9ENzYyMkU3RUgxSUdNOTYxN1pDRWdKUXQyRjBhTUdXSXU2Y0RvMy1ScWdTclJaTUZkbE0zVW51YWpRTFByQ2c?oc=5",
+    "source": "Superpower Daily",
+    "language": "en",
+    "published": "2026-11-05T08:00:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-21",
+    "title_es": "DeepLearning.AI trae a Andrew Ng y Yann LeCun a AI Dev NYC del 30 de noviembre al 1 de diciembre",
+    "summary_es": "DeepLearning.AI trae a Andrew Ng y Yann LeCun a AI Dev NYC del 30 de noviembre al 1 de diciembre Superpower Daily"
   },
   {
     "id": "4c482755c5b9",
