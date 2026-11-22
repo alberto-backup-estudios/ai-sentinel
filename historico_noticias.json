@@ -131,6 +131,24 @@
     "summary_es": "LeCun en CoRL 2026: no trabaje en LLM si desea IA a nivel humano explicax.ai"
   },
   {
+    "id": "50327904db3e",
+    "title": "Looping a transformer increases no-CoT capabilities more than general capabilities",
+    "summary": "Some researchers worry that looping (as in looped transformers ) is a particularly scary way to make AI models more capable, because looped models will be harder to monitor than standard transformers of similar capability. We test this worry on NVIDIA’s Dory 4B, a publicly available looped transformer, and find evidence that it is justified. Res...",
+    "link": "https://www.alignmentforum.org/posts/uxsDuWWHNTpKrsF6P/looping-a-transformer-increases-no-cot-capabilities-more",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-12T20:16:32+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-22",
+    "title_es": "La conexión en bucle de un transformador aumenta las capacidades sin CoT más que las capacidades generales",
+    "summary_es": "A algunos investigadores les preocupa que el bucle (como en los transformadores en bucle) sea una forma particularmente aterradora de hacer que los modelos de IA sean más capaces, porque los modelos en bucle serán más difíciles de monitorear que los transformadores estándar de capacidad similar. Probamos esta preocupación en Dory 4B de NVIDIA, un transformador en bucle disponible públicamente, y encontramos evidencia de que está justificada. Res..."
+  },
+  {
     "id": "214630c07d65",
     "title": "EU leaders put AI on Dublin summit agenda, with Geoffrey Hinton among speakers",
     "summary": "EU leaders put AI on Dublin summit agenda, with Geoffrey Hinton among speakers Superpower Daily",
