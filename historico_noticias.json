@@ -1,5 +1,23 @@
 [
   {
+    "id": "16d9b5886d78",
+    "title": "We need international AI safety cooperation to drive national action",
+    "summary": "We need international AI safety cooperation to drive national action Bulletin of the Atomic Scientists",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUl9VbWNaNHQtNTVjaDdyRThHVURmeFFiVG9CNWhrNGRieERxUms0Z3U4R0RiQk0tNU1jQ0NPbWJwVGFibW5vMkc0NG9GMkxpYU9zVzlIQlVHa21talJ4NFZXdFljNXQyUEY5ZlRHRjFRRUZ2dDdtMnQzRkNrckpMeG85WWd1Sk9RUWc0NVJjUlVMTkQ0RFNrRDJtVjBaRklGckZR?oc=5",
+    "source": "Bulletin of the Atomic Scientists",
+    "language": "en",
+    "published": "2026-11-22T11:02:50+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-22",
+    "title_es": "Necesitamos cooperación internacional en seguridad de la IA para impulsar la acción nacional",
+    "summary_es": "Necesitamos cooperación internacional en seguridad de la IA para impulsar la acción nacional Boletín de los Científicos Atómicos"
+  },
+  {
     "id": "5dc3d970817d",
     "title": "As NASA's Voyager 1 reaches one light-day from Earth, Microsoft AI CEO Mustafa Suleyman says: Built with",
     "summary": "As NASA's Voyager 1 reaches one light-day from Earth, Microsoft AI CEO Mustafa Suleyman says: Built with The Times of India",
@@ -20,6 +38,24 @@
     "summary_es": "Mientras la Voyager 1 de la NASA llega a un día luz de la Tierra, el director ejecutivo de inteligencia artificial de Microsoft, Mustafa Suleyman, dice: Construido con The Times of India"
   },
   {
+    "id": "8d72585aa8a3",
+    "title": "Anthropic’s IPO Makes AI Safety a Business Test",
+    "summary": "Anthropic’s IPO Makes AI Safety a Business Test WeRSM",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhTXJKVE1ITTY5cVFSeHExNm5BREJkYVFQdlF6VFdneUJwXzdQM0VFcFA3U196aFBGZWhZSnhfQXRibkVrbG1FandOV25SRFZwZE4tVUJ1VXZaYzBRbGJlMUtza3dLU0U?oc=5",
+    "source": "WeRSM",
+    "language": "en",
+    "published": "2026-11-22T00:58:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-22",
+    "title_es": "La oferta pública inicial de Anthropic convierte la seguridad de la IA en una prueba empresarial",
+    "summary_es": "La salida a bolsa de Anthropic convierte la seguridad de la IA en una prueba empresarial WeRSM"
+  },
+  {
     "id": "c8da4aa219fc",
     "title": "AI Governance Spending Could Lift Willis Towers Watson Stock And Its Peers",
     "summary": "AI Governance Spending Could Lift Willis Towers Watson Stock And Its Peers Simply Wall St",
@@ -36,6 +72,43 @@
     "date_added": "2026-11-22",
     "title_es": "El gasto en gobernanza de la IA podría impulsar las acciones de Willis Towers Watson y sus pares",
     "summary_es": "El gasto en gobernanza de la IA podría impulsar las acciones de Willis Towers Watson y sus pares Simply Wall St"
+  },
+  {
+    "id": "f6ca0f61358e",
+    "title": "AI Safety Rules Your Company Never Signed May Be Used Against It",
+    "summary": "AI Safety Rules Your Company Never Signed May Be Used Against It Bloomberg Law News",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdibmZ6T0hOaEJwUkFRWm9YRE1VaVJUM21MaE9rM2Myb0ZpUUJmSjNIMmhmb1BJTmxyM2JIWTdjUTBPS0ZNSjFuWjF6RjVHanlET0FDWkxxMHNMaVZibHpsSzNLbG9Od3hETFdka0pYdXlRWmhvS2ktZTY5anRUNmpmc182bmpCS054MzhyQy0wb25PLTc3X3pRMW1pbGEwRXFnSlRkX1VEbWZ3VUVHTnRNRGR3RF9NeTBNUTRydnM2aXZRNTkzb0JneDAyQQ?oc=5",
+    "source": "Bloomberg Law News",
+    "language": "en",
+    "published": "2026-11-19T09:30:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-22",
+    "title_es": "Las reglas de seguridad de la IA que su empresa nunca firmó pueden usarse en su contra",
+    "summary_es": "Las reglas de seguridad de la IA que su empresa nunca firmó pueden usarse en su contra Bloomberg Law News"
+  },
+  {
+    "id": "3857cf7499c4",
+    "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+    "summary": "Plus: CucumberVision!",
+    "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+    "source": "Import AI (Jack Clark)",
+    "language": "en",
+    "published": "2026-11-16T14:01:15+00:00",
+    "feed_name": "Import AI (Jack Clark)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-11-22",
+    "title_es": "Importar AI 481: subcontratistas de IA; un laboratorio húmedo para IA; y subterfugio durante el desarrollo",
+    "summary_es": "Además: ¡CucumberVision!"
   },
   {
     "id": "253e1bbeb06e",
@@ -56,6 +129,85 @@
     "date_added": "2026-11-22",
     "title_es": "LeCun en CoRL 2026: no trabaje en LLM si desea IA a nivel humano",
     "summary_es": "LeCun en CoRL 2026: no trabaje en LLM si desea IA a nivel humano explicax.ai"
+  },
+  {
+    "id": "214630c07d65",
+    "title": "EU leaders put AI on Dublin summit agenda, with Geoffrey Hinton among speakers",
+    "summary": "EU leaders put AI on Dublin summit agenda, with Geoffrey Hinton among speakers Superpower Daily",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0R5ZlhtamZiNXc3MnIyelRkTmxNamt4SVk2eDRUejFzRnprMTFQa2pzYkZNVFV6c2doZVRpZDAtaDdkMTBEbzNGYTV3NF9FSXU0aEVtOFB3N2ZBUFowaGpJYWRDTXNQUnNaQXNYS3hsUDF6TVVUbmM4MFRXbk9GNUQ0LTktWkVkT1RfZVo2QWRXR2prWEhMUzFYYUZmYS1ITGhzX1pBZEctZ2JkVGI0Mg?oc=5",
+    "source": "Superpower Daily",
+    "language": "en",
+    "published": "2026-11-12T08:25:54+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-22",
+    "title_es": "Los líderes de la UE incluyen la IA en la agenda de la cumbre de Dublín, con Geoffrey Hinton entre los oradores",
+    "summary_es": "Los líderes de la UE incluyen la IA en la agenda de la cumbre de Dublín, con Geoffrey Hinton entre los oradores Superpower Daily"
+  },
+  {
+    "id": "bb31cb798c48",
+    "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+    "summary": "When do you think we'll have robots on the moon?",
+    "link": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+    "source": "Import AI (Jack Clark)",
+    "language": "en",
+    "published": "2026-11-09T13:31:34+00:00",
+    "feed_name": "Import AI (Jack Clark)",
+    "thinkers": [],
+    "categories": [
+      "opensource",
+      "seguridad",
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-11-22",
+    "title_es": "Importar AI 480: Economías espaciales autosostenibles; IA para el progreso científico y Meta construye manos perfectas para una superinteligencia",
+    "summary_es": "¿Cuándo crees que tendremos robots en la Luna?"
+  },
+  {
+    "id": "89a3d9b718b7",
+    "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+    "summary": "What do LLMs think about vision models?",
+    "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+    "source": "Import AI (Jack Clark)",
+    "language": "en",
+    "published": "2026-11-02T14:30:54+00:00",
+    "feed_name": "Import AI (Jack Clark)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-11-22",
+    "title_es": "Importar AI 479: Guerra espacial; tareas de baja latencia versus LLM; genio 4",
+    "summary_es": "¿Qué piensan los LLM sobre los modelos de visión?"
+  },
+  {
+    "id": "37cf6781a9fe",
+    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+    "summary": "What is “night” to a machine?",
+    "link": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+    "source": "Import AI (Jack Clark)",
+    "language": "en",
+    "published": "2026-10-26T12:31:52+00:00",
+    "feed_name": "Import AI (Jack Clark)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-11-22",
+    "title_es": "Importar AI 478: Matemáticas para alineación; Banco de programas; y Mirendil muestra lo que significa RSI",
+    "summary_es": "¿Qué es la “noche” para una máquina?"
   },
   {
     "id": "cf75ab0cc93b",
