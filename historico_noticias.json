@@ -1,5 +1,399 @@
 [
   {
+    "id": "56bef4e5d453",
+    "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety",
+    "summary": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety 93.3 The Drive",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelJiQ3RMa0JQM1ByRmJONWZVTC0yR1p1aWFPNXc2MmVwMkRCQzNLTGVuNDJ4amxTU0llSHpCMWJNYi0zSnJIQUZkMFFIbGp0a05SOEpfWEVlZTRmckE2dDlkQWRNY2w2STB0Y0VSQV9UUFJmM1dYUDRTU0s5dUgyRXhHR1VVbVBaWk1FeVAwZElkb1BCTjVqeVIxbmtKSnZIcFlGQ011QXhpaVlDeVJCbw?oc=5",
+    "source": "93.3 The Drive",
+    "language": "en",
+    "published": "2026-11-23T17:18:53+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "El CEO de AWS de Amazon dice que la ingeniería, no los interruptores de apagado, es el camino hacia la seguridad de la IA",
+    "summary_es": "El CEO de AWS de Amazon dice que la ingeniería, no los interruptores de apagado, es el camino hacia la seguridad de la IA 93.3 The Drive"
+  },
+  {
+    "id": "201f382cb8cb",
+    "title": "AI safety test sparks controversy after agents swarm external org",
+    "summary": "AI safety test sparks controversy after agents swarm external org TechTarget",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmhWYVRzOFpjdVVkNG9fcFQySURXcE03Z21jTENvZFdLTE9TaG1rN2g2T2hIUVlaYjRSUkVJSGdQdFlkdlN0Y21BbEtvdllXZmItUm5qdDAxUTdhVlhXVWJraUh1RUU5S1ZqbjlKQVRlZllGVlFjRjFuS3B0YlFKUUU0TlJyR0hBc0lUVkFrNklrM2VsbEQ0VTBzQm9ETzAtSkstSGl4N0Y?oc=5",
+    "source": "TechTarget",
+    "language": "en",
+    "published": "2026-11-23T16:52:30+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "La prueba de seguridad de IA genera controversia después de que los agentes pululan por una organización externa",
+    "summary_es": "La prueba de seguridad de IA genera controversia después de que los agentes pululan por la organización externa TechTarget"
+  },
+  {
+    "id": "dcb21a9f3117",
+    "title": "APEC 2026, la gobernanza de la IA y la economía digital",
+    "summary": "APEC 2026, la gobernanza de la IA y la economía digital Imagen Poblana",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTldDMTJacVZ4OWlKVUZQX1p5dm5kblFOWTlKTVQ2Q2dxY09mTlJ4MG5SQVdSaFBwZXFLRnJkNXFKRkota2dvVjRSQ3FVQWR0VXpaS0Fhbk9oZk15Yk1xQnJjaUtmODVXX1puTXNNTFpUXzRpS3RSOWFXYjlKUHMtNXZDRklmSGpTcm1FeG5lZTlyX0U?oc=5",
+    "source": "Imagen Poblana",
+    "language": "es",
+    "published": "2026-11-23T14:18:34+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "APEC 2026, la gobernanza de la IA y la economía digital",
+    "summary_es": "APEC 2026, la gobernanza de la IA y la economía digital Imagen Poblana"
+  },
+  {
+    "id": "cc6df6dba6ba",
+    "title": "The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law",
+    "summary": "The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law Just Security",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYN0t2VVRDQXRQdTJISmdOSlg0clRwTXFCbFZvTjhGT0FoYy1kLTZWMkZ4MEtqcG12UmNiOUhQWnNBVDJSUkpudFViTmZHLVNsckdUVE9TdU1HX2s0NWllaW9IYkdONjcweEgycFZKSjBCeHNvWHFKMQ?oc=5",
+    "source": "Just Security",
+    "language": "en",
+    "published": "2026-11-23T14:15:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "El mito de la inevitabilidad: seguridad de la IA, incentivos industriales y el papel de la ley",
+    "summary_es": "El mito de la inevitabilidad: seguridad de la IA, incentivos industriales y el papel de la ley Just Security"
+  },
+  {
+    "id": "7025083d3a00",
+    "title": "AI Governance in Latin America: Scaling With ISO 42001",
+    "summary": "AI Governance in Latin America: Scaling With ISO 42001 Mexico Business News",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHNnQXN5Ym43WjFoNk1aSklocHdnZTNhd2M4YUpNbkFteDZCNFdFd3JISU5XUEk4RVh5MzM0WktyWUowX3Z3dDBjcmVrUGhYUGZpM2RDd1lkX01rOFpSZnBhZDRjQXdISWZlWGNoeUdVZ0dUWFh5NllxUG41SmdPQVJBMWtwWjlqVWEtdUVIMnJtb0JzLXc?oc=5",
+    "source": "Mexico Business News",
+    "language": "en",
+    "published": "2026-11-23T13:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "Gobernanza de la IA en América Latina: escalando con ISO 42001",
+    "summary_es": "Gobernanza de IA en América Latina: escalando con ISO 42001 México Business News"
+  },
+  {
+    "id": "c4735c8181c0",
+    "title": "Governors Propose Federal-State Framework for AI Governance, Seek to Preserve State Authority",
+    "summary": "Governors Propose Federal-State Framework for AI Governance, Seek to Preserve State Authority CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Y4dGVqcUlFdTRQUE40ZnBQWDFUdEl5YUlnZG9jMy1YZV9STGtqX3FidmdqTDRjcVZpeW1QaERSalcxMVRNMnNhRXRZd3JQdlNCdjR4SWUzMTVHX0JwM0NOVml4TDRsd2NHa0xySDNLR1FjUFo5LVJNYkhoV2NjMWJ1aEJNLXh2R24zZmZHOEVrSVhxcWVpdzJXSWpUSWZwY0JXTkJOTFBqYVVXZEdsT1lHWTNvSEYxY3FRNmpLbFBaUGRPNjBsMVRSN2kyT2VpUXQ1V0ltVjBQVERp?oc=5",
+    "source": "CDO Magazine",
+    "language": "en",
+    "published": "2026-11-23T12:14:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "Los gobernadores proponen un marco federal-estatal para la gobernanza de la IA y buscan preservar la autoridad estatal",
+    "summary_es": "Los gobernadores proponen un marco federal-estatal para la gobernanza de la IA y buscan preservar la autoridad estatal Revista CDO"
+  },
+  {
+    "id": "47a0b5aad30f",
+    "title": "Superintelligence arriving soon, Meta AI chief Alexandr Wang warns amid AI safety debate",
+    "summary": "Superintelligence arriving soon, Meta AI chief Alexandr Wang warns amid AI safety debate Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd05YWFRZcXBndWFCTkRjVENucXJaU2pURkNlY0ZLM0hBS25OaG83VmR2TENWVWRwMzIxUG1vSDRDdjNselhiQjZBcl83WUV0UHBlRjJuWUlCNEVoWDF2QXdLcW4tc242WTFDZVVScE5oenI1M2RUZl9sLXBsc1Qxd0VPby1TVVp5V0dvSENpd2dGNFRHb2dTT2xodWNDU0xNd2lpNUhrWXVRNElVbUZPTUdXclJkbXlITzA3b0hlWkp0c3M?oc=5",
+    "source": "Seeking Alpha",
+    "language": "en",
+    "published": "2026-11-23T11:47:54+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "opensource"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "La superinteligencia llegará pronto, advierte el jefe de Meta AI, Alexandr Wang, en medio del debate sobre la seguridad de la IA",
+    "summary_es": "La superinteligencia llegará pronto, advierte el jefe de Meta AI, Alexandr Wang, en medio del debate sobre la seguridad de la IA Buscando Alfa"
+  },
+  {
+    "id": "2a479bd5b518",
+    "title": "ExcelMindCyber Adds AI Governance Training as It Builds the Best Cybersecurity Bootcamp in the US for Career Switchers",
+    "summary": "ExcelMindCyber Adds AI Governance Training as It Builds the Best Cybersecurity Bootcamp in the US for Career Switchers lincolnjournal.com",
+    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNYTVHeVFVU1ViM0Q3aUVMclF2TkUzckpNVkxWQW5lN2h0VW0yX0Z6SzlUQS1mSzlNZnlEVzhfNXF2VnNKQ29CWThJdTZBSUU4ZWc0RGlfNVJsTnVvdHp0cFBxMFdLRnBUc2NwbXNvWTdGMHkwck41cFpfZDEwVG1PT3Fxd1lvN2pDbmRueHN6TWRlRzd2S2dEeTNvVVFhUEg0UFVoazZ0M2phMG83M3piTWpDVHkyOURXT1NJOUlnbDI5M1pQb291YzZVQVplMVN6RFhFSmM4M210cGk2aEt5SnV2cmdGcGI1YmhrU1pDSFhIcnpza05kLUJxRVJsYTZkbE9GaXAwVk9JZGh2OXY4SUtWQmhYTHA3MkxOdWZNcnVVOUNyd3Z1dTE5amJBcGZKZ25v?oc=5",
+    "source": "lincolnjournal.com",
+    "language": "en",
+    "published": "2026-11-23T11:47:27+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "ExcelMindCyber ​​agrega capacitación en gobernanza de IA mientras crea el mejor campo de entrenamiento en ciberseguridad en los EE. UU. para personas que cambian de carrera",
+    "summary_es": "ExcelMindCyber ​​agrega capacitación en gobernanza de IA mientras crea el mejor campo de entrenamiento en ciberseguridad en los EE. UU. para personas que cambian de carrera lincolnjournal.com"
+  },
+  {
+    "id": "12166b1cafeb",
+    "title": "La gobernanza de la IA ofrece un marco de trabajo seguro",
+    "summary": "La gobernanza de la IA ofrece un marco de trabajo seguro Expansión",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFhiaVhyNjM4QW00ZTR3TzVGV1Q5T045LXBRWE41Y3VTRWhLaFQydHYxdzhfdjJlQTJZcHJ0TjZIV1ViSmcwaWZNUU1MQW94V3ltYnZ5SWpsTjZIeWFncjFOQTc4amZBSmxTTGw4TTNGTHkxcmViSEFBd3BnRmI5aS1yUHFuUEc1VHladXM5ZlJrSUh0TnRhMHZ30gGaAUFVX3lxTE9Hanp5M054UzZxYjRsVUt6ZHBGZVBrY3dIWll1MXd0d2E2aWI4MGR2b1dwT0x4aHJ1UjlIMDM1bzNCczFwZ1RnZ2R5YTJMbUxXdklCNTBlNGZyUE9CTlpMTy1oWU53ckhVWnpGOHhncUdEc1NKWXpNUkdUUlpkbWc0YzFtUjQ4ZjUwLXpVeloyLXRZRTRCd3Q4eHc?oc=5",
+    "source": "Expansión",
+    "language": "es",
+    "published": "2026-11-23T11:43:23+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "sociedad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "La gobernanza de la IA ofrece un marco de trabajo seguro",
+    "summary_es": "La gobernanza de la IA ofrece un marco de trabajo seguro Expansión"
+  },
+  {
+    "id": "a4a97c31946f",
+    "title": "Meta executive says superintelligence is arriving, urges AI safety focus",
+    "summary": "Meta executive says superintelligence is arriving, urges AI safety focus Free Press Kashmir",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDNWNEVFRzEzemFkWTlvREJOUjNaSG5aWW0wSmZ0NklDM0c5ZVpBWUpoR0s4c3BIRERzV095RGV1RWNFR1p3SlZCTE03NmlVX0liV1BQdkFYaUZtNDlHbHBvNGRFNlRPSXd0S0cwSG1icndZekcteV83a3Ffc3ZZbWtBVk5mVExVaWVVdnFwdVN5RGZnV2NFTEZrV0tpclhyMTdQaUxZU0NaNllHVzdwREUwa9IBuAFBVV95cUxQVWxHQWlMaEJ3cXFKckFBcUt1bjlMd18wMUtnZVVYSnM5YnlGWWlNR0E5eTFNMk03V0pOZk1RR3c5Nlg2LTlaN1dCY3lMSEFhZUpyN245UkNRdy13SmFuNFNFZVRjdUVTbERwQ3NhWTJ1bXY2RjNoeDkzX0JNTy1jdTFocDdnVnlGbm9QZHMwUm1fWjlYcDRES1ZSd0hHSVdWV2RuV0JPU0plcmJ2Sk85aFp5RnNaSmst?oc=5",
+    "source": "Free Press Kashmir",
+    "language": "en",
+    "published": "2026-11-23T11:40:58+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "opensource"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "Un ejecutivo de Meta dice que la superinteligencia está llegando e insta a centrarse en la seguridad de la IA",
+    "summary_es": "Un ejecutivo de Meta dice que la superinteligencia está llegando e insta a centrarse en la seguridad de la IA Free Press Kashmir"
+  },
+  {
+    "id": "235a649f0db9",
+    "title": "AI Godfather Calls Dario Amodei's Mindset 'Medieval', Questions OpenAI exit",
+    "summary": "AI Godfather Calls Dario Amodei's Mindset 'Medieval', Questions OpenAI exit NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTW9BQ0RWRThfUEVjYmpQRXpYbkY0WjNBd05UZi0tMlZFYkdtQlQ1bUdDVjYwQXZ2XzQ1Ukh0WjZuR19TZklxV01DeUQ1WEswb3ptb1BpcWNWOE5qaE9MUy1LNmVPa3NnQUFabm1FRXJ6MHlway1paGVZVmlySEhicFpPcmtmOTZOX3k4WUZ6SWZTTHg5anlFb1pnaWpTbDU4WXB6QWNRUUg1LTF4NVJlZkZSemtHb2FHNDYxc2sxdjFCRHfSAcsBQVVfeXFMUHhjc1dUYm8wYk9IWXhkRHliaW5rU0V2RFIyZExNZS1jZFBKdl9hZFZKeTdQTy1vVDB2Y0VNeV8zRU85NUNXTTEtZEtGb29Db2dFS1hReFVaNzVvZUhSRUo4SUtvdWVFLUVuYXNhSS1vZ2NUMTNNNzJtQzdENTBvMDZzOXRYOGhvYjhuZ1lKNFJVZC0zaEFJRUdjUVVzOE1TQzhZZFBqZDFwbVctT2lROTdHVkE5RHNyQkYydUp3MVFVUm5SSWhkWmZIa1U?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-23T11:22:24+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-23",
+    "title_es": "El padrino de la IA califica la mentalidad de Dario Amodei como \"medieval\" y cuestiona la salida de OpenAI",
+    "summary_es": "El padrino de la IA califica la mentalidad de Dario Amodei como \"medieval\" y cuestiona la salida de OpenAI NDTV"
+  },
+  {
+    "id": "3722e6ee5ecf",
+    "title": "OpenAI Chief Scientist Proposes Perplexity Thresholds for Shared AI Safety Limits",
+    "summary": "OpenAI Chief Scientist Proposes Perplexity Thresholds for Shared AI Safety Limits CASRAI",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmdLeThyY3NkTThyOE9SLWk4b251cmVHTXN6eW1RN2NJTTJGWGg5aVdwdjBlakVVb0FybHN2ZG9OSEVRRk5mMWRNTktfazJWUzFBR3BULUFOdG1EZW5KTWVrd0ZpMFNOYkRNbHFqTWlkSVVMenBDdTR5dlFZNVVyZWhFRmFmeVlJWWtrbmRMMmhkbTN1TGFrWlF3?oc=5",
+    "source": "CASRAI",
+    "language": "en",
+    "published": "2026-11-23T11:17:49+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "El científico jefe de OpenAI propone umbrales de perplejidad para los límites de seguridad de la IA compartida",
+    "summary_es": "El científico jefe de OpenAI propone umbrales de perplejidad para los límites de seguridad de la IA compartida CASRAI"
+  },
+  {
+    "id": "62d700d0b76d",
+    "title": "NY AG announces creation of AI safety unit",
+    "summary": "NY AG announces creation of AI safety unit The Post Star",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGVSNXkxY3VVYXVsOTUtX0YtSHZicHZxVnBXU2RZX2FUUEd6Qmo2d0dsME5sRVh0ak5yOGttYUZvZF9zOFNVaWUtM2w3Rnl1NFVSY0R4MjVpZEpfbzVabEt6SzRzREtZeHBpSXJhN2NVNTR3Sy1vSmRHYkxuLVgyeVJiaExoRFlXcGNoU3lVb2dNV21OQjRnMlJfdmdQdTluSS13?oc=5",
+    "source": "The Post Star",
+    "language": "en",
+    "published": "2026-11-23T10:45:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "NY AG anuncia la creación de una unidad de seguridad de IA",
+    "summary_es": "NY AG anuncia la creación de una unidad de seguridad de IA The Post Star"
+  },
+  {
+    "id": "83916abd8923",
+    "title": "Governing Together: AI Governance in Pakistan: Policies, Progress and Global Relevance (w/ The AI Collective) (w/ The AI Collective)",
+    "summary": "Governing Together: AI Governance in Pakistan: Policies, Progress and Global Relevance (w/ The AI Collective) (w/ The AI Collective) Superpower Daily",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZVlmS0R0MlFfNkwxMkc1UEJQUS1DNEItaDZvdTA4dl92cF9wRmRCVkY0T0NYZXE2QnR2SkdnN1JadmltQnZhTnVDYlJoUjBvTlRDaXVTdEg3S194djFnUnJqaXR4aEMxM1pWVEd4S251ZEFVX0ZhbXRHZzRKakhNZEJGU1c4T1RnQjlkeUhYd3haOWNQZUtmVGloSWxOMFFPWUt1anVRMXg3ejRiMUFzY1o3UWV4dF9SdjZtSEFseDVXNnkyM1ZDLXVTcTc5Y3lhWHNVYWxkaHNpV1dWVVBNY1JVVERmeXMxTVBPaDZWZmFnbWdtd1FVTV9uYW4xV01HYWFMUGN0RlM4ODROODllemxtWnZydWVreUJzOA?oc=5",
+    "source": "Superpower Daily",
+    "language": "en",
+    "published": "2026-11-23T10:11:08+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "Gobernando juntos: Gobernanza de la IA en Pakistán: políticas, progreso y relevancia global (con The AI ​​Collective) (con The AI ​​Collective)",
+    "summary_es": "Gobernando juntos: Gobernanza de la IA en Pakistán: políticas, progreso y relevancia global (con The AI ​​Collective) (con The AI ​​Collective) Superpower Daily"
+  },
+  {
+    "id": "809b15488e5d",
+    "title": "AI godfather Yann LeCun accuses Anthropic CEO Dario Amodei of wanting open AI models banned; says: It sto",
+    "summary": "AI godfather Yann LeCun accuses Anthropic CEO Dario Amodei of wanting open AI models banned; says: It sto The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPQnVSWG94TnpJTFZNZFc1cGJlWGhCOUQ2ZGVtQktCdFlCVzJaYmxWS09NdjVCQjV1WFNTUmFCUDZYNVhQQlQyZTIyaHlyNHAxYmVyZ0gzZmxiaFFVRHhUZzFQQTZkQnd5cE1JVk5MR2NtRFozbWdXdEZaVmFwVE1aeEE5U2pNYUM5VDZJcE5hZnhqZmwtblVvNWgxQnVrSU1KdDdTOG1ScGtLVDFJMFlKcFRRM0tzWlJvQjBrbm9UOGZMdl85WW1XSXpWSnV1dnBzYlFONzE2RFdFMzJBYmtmQi10WFpyMGcxWWxqMGh3NUJydlcyTzhSd1NySmFqSEFHQVhhSmQzckdoRWhickhTWkc2SFFoNVdacHBmR3FEM1dRN2wwblhSMGhzbDNqa01PaURZ0gG4AkFVX3lxTE5ESFFIeHBHcWtOUDMwQXZWU1VQQ0VMMnlMZHhfVlAwZU1NOWVIZklZS2FRcnpySUJBcmtfaEJ5cXl3OFNUNU1CcDRmYjVmeEJ4eldHVUJ1T0xzODNDM0JpWEV6ZXE2alJjeUd5R0dGeXVuT2FPdi1Rb0pPS2xYdS1tR0NWMmdSR3J2d0RvdkQ1UjByOTY5T0Q0UmtIeGZYb1dqVWlDSk4zRFA1U3hjNmN5bnlld3VleDEwRTRDOUtxbGh1YzZHN0xkc3FNcWo1ZXRWNXdOLUpjR0piMXFiclJfTUxONTdSMmZjSXFrSnpfTmllR3Z5OE5weHVSRDl3dXlaUEI1RS13clQweFhYalNsRy1Jbk1RZ2J1VWEtcndNNVBmX3pUYW8tMUpnQkJfUEptXzh5eDMyMw?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-11-23T10:10:00+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-23",
+    "title_es": "El padrino de la IA, Yann LeCun, acusa al director ejecutivo de Anthropic, Dario Amodei, de querer prohibir los modelos abiertos de IA; dice: esto",
+    "summary_es": "El padrino de la IA, Yann LeCun, acusa al director ejecutivo de Anthropic, Dario Amodei, de querer prohibir los modelos abiertos de IA; dice: Esto es The Times of India"
+  },
+  {
+    "id": "a9852f22512f",
+    "title": "Human reality will just collapse because of AI, warns author Yuval | 'All humans to become unemployable' | Inshorts",
+    "summary": "Human reality will just collapse because of AI, warns author Yuval | 'All humans to become unemployable' | Inshorts Inshorts",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHdmRjZJd0tZWDlJLXV0eERfaHdOR2JseFlyZzlqSWlRTEZZYmR2MFVTNFU1dDdJUVZiWEFhZnNyMHNaZWc4bnJCcEpFTjNadVZTWTRRa2p1R3NMWWZzdDZTd1lyWkxJaVh4dzBGWUF4b3R1Y0RucXJHalZ0dUM3ZmFrMGdrYjJTclM0ZThmVjFsMDJlUnlkVXFqRUxtTTRibzAyaktWcTBadVdfaWfSAbMBQVVfeXFMTU1OMnU5Vkl5WDNPYmtFQmM1Nm5YMWVMNkV5UUZSRFJ4WnN4WkxNQW1EaDdrdEY3cE5vVlRGZm4xaFRvNHFvNWRpY1V4VlVRRzIySWhiR1pPTVJjTGxodndKMWtvY0pHakduVlJ0Q0JlWDFWOHdjR3A3V29EcnMtNTRfNHJmd3RpWEVsOWlBSFBpVk1BNHBDQWxLbnJrOHJwUkJldFdXZEFTaGg3QWMtSUZ0OUU?oc=5",
+    "source": "Inshorts",
+    "language": "en",
+    "published": "2026-11-23T09:16:12+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-23",
+    "title_es": "La realidad humana simplemente colapsará debido a la IA, advierte el autor Yuval | 'Todos los seres humanos se volverán desempleados' | pantalones cortos",
+    "summary_es": "La realidad humana simplemente colapsará debido a la IA, advierte el autor Yuval | 'Todos los seres humanos se volverán desempleados' | Pantalones cortos"
+  },
+  {
+    "id": "34aa7bb5ca55",
+    "title": "Solo is not small today: why a solo founder's name is now the whole brand",
+    "summary": "Solo is not small today: why a solo founder's name is now the whole brand Startup Fortune",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVW53eVN0ME1wbzQyUXhCMW1kRjc2U3hkMUJJZEZVQlphSzktSHlkUTJZUVBaVk5tb2VPOHZPaUZfeUd1TFFrNWlTcXhza1pFVlY0ajczeWkzSXNPRDBfZ0FGVXQtbWhRRzdteTBMRTdoa1B3UFhYLU9pREo3V05PMXVrVGhscU01bXVpWXNvckppZGVpLXo3ZHk2ekV6R2gt?oc=5",
+    "source": "Startup Fortune",
+    "language": "en",
+    "published": "2026-11-23T09:06:24+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-23",
+    "title_es": "Solo no es pequeño hoy: por qué el nombre de un fundador en solitario es ahora toda la marca",
+    "summary_es": "Solo no es pequeño hoy: por qué el nombre de un fundador en solitario ahora es toda la marca Startup Fortune"
+  },
+  {
+    "id": "9ed3389437a4",
+    "title": "Separate missing evidence from unfinished AI governance work",
+    "summary": "Separate missing evidence from unfinished AI governance work IT Brief UK",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFIzUk9lMWZHdXo4TnJOdko5ek5JUUVLZDRaZEZTci1mLTZjc0ZfMVZVZURqOXRuemF3SkJNWU9mNGNza3pSbnFGbXppbmFzMzBBVVJxZmVNS2tLcXVmY3dYM2RYNE50Q1RJYlVFdy1rM2F5Yk5mMWV4OWw1T21ZaXY3WmtSNVBRZl9OWlFMMl9Fdw?oc=5",
+    "source": "IT Brief UK",
+    "language": "en",
+    "published": "2026-11-23T08:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-23",
+    "title_es": "Separe la evidencia faltante del trabajo inconcluso de gobernanza de la IA",
+    "summary_es": "Separar la evidencia faltante del trabajo inconcluso de gobernanza de la IA IT Brief UK"
+  },
+  {
+    "id": "a3076c02c5e9",
+    "title": "California Attorney General Takes OpenAI to Court Over Alleged AI Safety Failures",
+    "summary": "California Attorney General Takes OpenAI to Court Over Alleged AI Safety Failures Arise News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUtZOWhReXlkYkZRUmo1TVJpSk5jWUFJUWhnT2RxWkN4Z2oxRmJFY0lDNml2ZDRBalBYNTFoZ1dMSlBsRlByd3JIMlphNUtxRnlvS25keVhqQ21IcmJtT1pjN2FkZk4wdlAxYmpJOU9iSTNtLXhiZjEtanN3cXhzNFA5TjhLSzFFOWJNSzBVNThZQzltWXB3bXhNcS1kT0ljbk54bWdB?oc=5",
+    "source": "Arise News",
+    "language": "en",
+    "published": "2026-11-23T06:43:05+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "El Fiscal General de California lleva a OpenAI a los tribunales por supuestas fallas de seguridad de la IA",
+    "summary_es": "El Fiscal General de California lleva a OpenAI a los tribunales por supuestas fallas de seguridad de la IA Arise News"
+  },
+  {
+    "id": "86d7b0641547",
+    "title": "Transcript: AI and the Future of Humanity – Mustafa Suleyman & Yuval Noah Harari",
+    "summary": "Transcript: AI and the Future of Humanity – Mustafa Suleyman & Yuval Noah Harari The Singju Post",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjhTZDR5OUUwekdlSnNyaDhDUUxTOVY2RVgxRlg1WURyWjVSMEMyR042bXg1dGIwZXlQUGFqdHJjU0FTeXZkRTROYTFhZkdhbm5ZNzlrRkNPWENhaTE1Um02bDhSYlZDQW1KSDcxU0wyck03Mlo0MjNMMlB6dndWYWh3WkRvLTBOUm1XZEE5d3hHRjJBaVY4SzE4UjJYM0NV?oc=5",
+    "source": "The Singju Post",
+    "language": "en",
+    "published": "2026-11-23T06:15:40+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Mustafa Suleyman",
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-23",
+    "title_es": "Transcripción: La IA y el futuro de la humanidad – Mustafa Suleyman y Yuval Noah Harari",
+    "summary_es": "Transcripción: La IA y el futuro de la humanidad – Mustafa Suleyman y Yuval Noah Harari The Singju Post"
+  },
+  {
+    "id": "be7a78be3c8b",
+    "title": "AI Safety Summit Monday: Only Six Low-Income Countries Have Cyber Incident Teams in Global Network",
+    "summary": "AI Safety Summit Monday: Only Six Low-Income Countries Have Cyber Incident Teams in Global Network Tech Times",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmFoSUxMcUpwYmNjYlJMS2ZBSW5wSXoxWnJzSnhmX3JEc1lHZTg5OWJTZExoRDFhWXVvcTMzMHVRQ0pfeGFUUTd0dDcwdThVM0hzOVlHWGF0aXJJZUhkWWNzWDRlN05fM29pOUhaNnJRMTBwd2xiZDNUa3ZFRTRJMEkwV051eHFLcVI4d0xKZEpTQWZvbUUwVDdlVW0zVlVmTmRWVUZvR1VNZTBtM09TaXNldGhQTEkxQm9tLU1fYjNybVBYTlRLUlZTYldTRzQxZFktMWJSa1JkOFZ6UWU4RmVSdw?oc=5",
+    "source": "Tech Times",
+    "language": "en",
+    "published": "2026-11-23T06:15:10+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-23",
+    "title_es": "Lunes sobre la seguridad de la IA: solo seis países de bajos ingresos tienen equipos de incidentes cibernéticos en la red global",
+    "summary_es": "Lunes sobre la seguridad de la IA: solo seis países de bajos ingresos tienen equipos de incidentes cibernéticos en Global Network Tech Times"
+  },
+  {
     "id": "3af4a6357247",
     "title": "Beyond our understanding: Yuval Noah Harari warns AI could destroy humanity without killing anyone",
     "summary": "Beyond our understanding: Yuval Noah Harari warns AI could destroy humanity without killing anyone India Today",
@@ -117,6 +511,26 @@
     "date_added": "2026-11-23",
     "title_es": "La fiscal general Letitia James anuncia una unidad para vigilar las empresas de IA antes de que la ley de seguridad de IA de Nueva York entre en vigor el 1 de enero.",
     "summary_es": "La fiscal general Letitia James anuncia una unidad para vigilar las empresas de IA antes de que entre en vigor la ley de seguridad de IA de Nueva York el 1 de enero Bushwick Daily"
+  },
+  {
+    "id": "790b392a2e06",
+    "title": "The AI talent war: China is the factory, America the magnet, India an also-ran",
+    "summary": "The AI talent war: China is the factory, America the magnet, India an also-ran The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUQ2U2llUGZkMTZKcEUyd2NMY3VSa2ZUcjIxTTBIazJ5UUtqZktJUVViNktRWHNsNmR1WE5TenNlSjlULWl5NXBIb0NNR1lxVTNDRm9ReTlyZTd1SDRJMHZFc21JUXpRaEV0cUNkeG1rSXV3NE5DV1FwOEpwekZTQ1V2VnBSOUFTRVZ0MFg5aG1ZV2dseHIwdS1XSmxPY1FVaVUwRG1aZVhuYi1SdHlLamtNWk9qWEVyZnV2enZ5YUVVMnNGNFJ4dllJVUFJVER0ekVqa2J3Z2JuRWh1Y3ZJ0gHkAUFVX3lxTE5DeDRLRURUVWVKc09tOGlGdzc1SjlyNVBzaUwyUjVYLUtYblV3ZXVRTDVHQXdkTnZqVk1jaDNhVTl4eG02SEFrRkhOS05RNFRIc3hlVENWSFItN2pRYi15aGRHOTBmNTEzTzB1MGpFUFc0aFB6ZFd2WFIyTXJMclluT2VsN1VsZGZxMDJSQTZrRHIzZFozZE1NQUkzZlo2ZG5FZWliVlBsUnk4RXlCa2pmdVlKOE5jaVJhWnYwZjdycG54ZnJERTZsWnVhTGxNS2U0LWtITVVhanQ0ejByWS1nTkl5Ng?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-11-22T16:22:00+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-23",
+    "title_es": "La guerra de talentos de la IA: China es la fábrica, Estados Unidos el imán, India un rival",
+    "summary_es": "La guerra de talentos de la IA: China es la fábrica, Estados Unidos el imán, India un país también dirigido The Times of India"
   },
   {
     "id": "06b4b547b2fa",
