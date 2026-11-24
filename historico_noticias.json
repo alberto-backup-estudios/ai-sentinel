@@ -1,5 +1,319 @@
 [
   {
+    "id": "d8573aade52b",
+    "title": "Geoffrey Hinton’s AI warning: “Chernobyl” explained",
+    "summary": "Geoffrey Hinton’s AI warning: “Chernobyl” explained NeoTeo",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wd2loa3JNRzBKLVoxc2l3bGJRZGdqa2VpYjBGMHNubFBSQ0ZnLVZjUGctbElOSGczRzVnT0JfMWpOS3NSaHVzTHJpSFdnQVg0eThXYnZXU0V3RjQ0SHNPYnZTazBOZmFiR2YweHQ4dVZHSjNFZEN2ZWxQMA?oc=5",
+    "source": "NeoTeo",
+    "language": "en",
+    "published": "2026-11-24T03:00:43+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Advertencia de IA de Geoffrey Hinton: “Chernobyl” explicado",
+    "summary_es": "Advertencia de IA de Geoffrey Hinton: “Chernobyl” explicó NeoTeo"
+  },
+  {
+    "id": "110bdd3a65c2",
+    "title": "Comparing AI R&D compute caps and deployment lags",
+    "summary": "I’m publishing this a bit rougher than usual because it’s very pertinent to Evan Hubinger’s recent shortform , which advocates for blocking internal deployment as a pacing mechanism over compute reallocation (he mostly discusses it in the context of a risk-assessment-based regime, while this post discusses the policies standalone). (see my respo...",
+    "link": "https://www.alignmentforum.org/posts/e758PJCpwAwyodvEj/comparing-ai-r-and-d-compute-caps-and-deployment-lags",
+    "source": "Alignment Forum (Técnico)",
+    "language": "en",
+    "published": "2026-11-24T02:23:44+00:00",
+    "feed_name": "Alignment Forum (Técnico)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Comparación de los límites de computación de I+D de IA y los retrasos en la implementación",
+    "summary_es": "Estoy publicando esto un poco más brusco de lo habitual porque es muy pertinente para la reciente versión abreviada de Evan Hubinger, que aboga por bloquear la implementación interna como un mecanismo de ritmo sobre la reasignación de cómputo (lo analiza principalmente en el contexto de un régimen basado en la evaluación de riesgos, mientras que esta publicación analiza las políticas de forma independiente). (ver mi respuesta..."
+  },
+  {
+    "id": "fd89562bd737",
+    "title": "Anthropic Expands Availability of AI Safety Monitoring With Zero Data Retention",
+    "summary": "Anthropic Expands Availability of AI Safety Monitoring With Zero Data Retention PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERNQjY5bDlaWWF2Z3QxLTJPMzkzX1V3aXFxQW9MVTdmLUsyT2Y5bW9OcXhNU1BHeTlBQlFUenpVQkZrYVVJZHJyNDhrcVFVa0tpQ1pKYzBsX0FEaXphdEhwR2tGY1pkdjd2OWNPWXF2TlZRMG5Wa2hXdHhyTFl5bVFiQUJkSFRBVWNsWHU2bUZxQjljdUtudDVhNllXRFZEQUtjTU1RcGN5aGFhM3IxajVhVnI5anREZm1MMFJRRmk3SXh4QmthM1p5SHhpQk10UExZ?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-11-24T00:33:45+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Anthropic amplía la disponibilidad de monitoreo de seguridad mediante IA sin retención de datos",
+    "summary_es": "Anthropic amplía la disponibilidad de monitoreo de seguridad mediante IA sin retención de datos PYMNTS.com"
+  },
+  {
+    "id": "ef1268260836",
+    "title": "Investors weigh Anthropic IPO risks and AI safety concerns",
+    "summary": "Investors weigh Anthropic IPO risks and AI safety concerns Ticker News",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3BTTXBPbGNiZ1BSUW9XQUtxaHZSd05yNDdaNGlYQ2tfWkc2Qk5jWVkwQXZFMGxjaVhDSkp2QlVXaGVoSzF2QkkzcXBSYkZvMGpZQUtGckloR3k0Q0Y3b2FURGxlQkIyRGMzTjcwQ0JTODk2bnJvM3pEeDJSbklOaHIxZkp2R1Ux?oc=5",
+    "source": "Ticker News",
+    "language": "en",
+    "published": "2026-11-23T22:40:26+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Los inversores sopesan los riesgos de las OPI antrópicas y las preocupaciones sobre la seguridad de la IA",
+    "summary_es": "Los inversores sopesan los riesgos de las OPI antrópicas y las preocupaciones sobre la seguridad de la IA Ticker News"
+  },
+  {
+    "id": "904bcc786894",
+    "title": "Barbados and United Nations to co-host Special Summit on AI Safety on 23 November",
+    "summary": "Barbados and United Nations to co-host Special Summit on AI Safety on 23 November Welcome to the United Nations",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXUtRjM5RTA0NG1KNkttd0FBMEhrcWdTb3piSEdMaWpSQ3R2czB1c2RiazVfX3hsVkJhSVM0cjJHQmVZMnVqMlB4cU9NY3EwQ3drRVE2V05DWEsyLTBtQi1PVGt1aGlPYWprX2tJalktMnlQWnA1RjRKcjdQSUlSLVZMd3h6QWpCRlFlclV6aWhwN1ROSDdTOGp2S2JwRW1uZXlNTks3NXFnNTJBYUlyWU92WGFXRzFHVjZodXdLd1JKQW1pa2NQNA?oc=5",
+    "source": "Welcome to the United Nations",
+    "language": "en",
+    "published": "2026-11-23T22:40:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Barbados y las Naciones Unidas serán coanfitriones de la Cumbre Especial sobre Seguridad de la IA el 23 de noviembre",
+    "summary_es": "Barbados y las Naciones Unidas serán coanfitriones de la Cumbre Especial sobre Seguridad de la IA el 23 de noviembre Bienvenido a las Naciones Unidas"
+  },
+  {
+    "id": "d591d047be3c",
+    "title": "OpenAI Pitches Perplexity Score to Set AI Safety Limits",
+    "summary": "OpenAI Pitches Perplexity Score to Set AI Safety Limits PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHlMalVqVFZXTWVIMmdLZDVFLUYtZUk3aW5uTEJQUEhRdFdUUlVreGJ2SmlQM2FVOWtORkNDakc4bU8xUHVkUUR0dnZYcDJ5MldYWXNRNk1zSGxpUXZJTmszUnQ1RWdub3RRRkNCOUMtRTJzTm5OUHBfazlYS2RlbTQwWGVnVDVuVnp0Um5UaTE2MmxGLURvU1dtNGNsWU1IOWY1OC1fZDhfVFp4WHhKSkFjdw?oc=5",
+    "source": "PYMNTS.com",
+    "language": "en",
+    "published": "2026-11-23T21:56:15+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "OpenAI lanza puntuación de perplejidad para establecer límites de seguridad de la IA",
+    "summary_es": "OpenAI lanza puntuación de perplejidad para establecer límites de seguridad de la IA PYMNTS.com"
+  },
+  {
+    "id": "ece1f7d01e17",
+    "title": "AWS Chief Preaches AI Safety by Design, Warns Against Overreliance on 'Kill Switches'",
+    "summary": "AWS Chief Preaches AI Safety by Design, Warns Against Overreliance on 'Kill Switches' BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ESTZSVXN3UzZDbDBINUF0aUZkaXVwMmU3R2JFMDJaR0ZsYWVMeU42VVA5WkhmRVpIZ25UVGg1dHZhdGdYVmlmU191RktNbE9xV3p5dXpMVDNDX3JDa1F5ZkxOdThXb3F4VjRRU1l1OFhsakZCY0E?oc=5",
+    "source": "BigGo Finance",
+    "language": "en",
+    "published": "2026-11-23T21:25:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "El jefe de AWS predica la seguridad de la IA desde el diseño y advierte contra la dependencia excesiva de los \"interruptores de apagado\"",
+    "summary_es": "El jefe de AWS predica la seguridad de la IA desde el diseño y advierte contra la dependencia excesiva de los 'interruptores de apagado' BigGo Finance"
+  },
+  {
+    "id": "872e2345cb3c",
+    "title": "Insurers to drive AI governance by 2030",
+    "summary": "Insurers to drive AI governance by 2030 Insurance Asia",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWpWVDVSUUFrTmR0UGREbi1iQWh2d0xRWHpXY2xIUC1KTWZoOTFVZ0kwOG1MRDYxV2YtNk5MZ1R4SDZZNXNDME1NTmZmS0ZNYU5LbUlORGZBVTdnTEJGd3dRcndyRlRIc3pwRjhZR2F0Y2JNVjBwM1Y1MUFieVZ0bnhJOEo?oc=5",
+    "source": "Insurance Asia",
+    "language": "en",
+    "published": "2026-11-23T21:00:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Las aseguradoras impulsarán la gobernanza de la IA para 2030",
+    "summary_es": "Las aseguradoras impulsarán la gobernanza de la IA para 2030 Insurance Asia"
+  },
+  {
+    "id": "3778dd62de4f",
+    "title": "New York attorney general launches AI safety unit to enforce RAISE Act",
+    "summary": "New York attorney general launches AI safety unit to enforce RAISE Act JD Supra",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTjBmR0ExX05zQXp5dVROODNlMWRGS1ZTd1kyZGstYkhjUGJ0VkYxLXNSTTdxR0xCWm9zZjNveFhCUmFUbGVFX081RXpYM080SGdwTldrYmptbGlCQzdMYWpPbDEwYno2SUg4WW9JZ0hXTWpzM1EwcnN3VEFQRnNzTXBCWVpaQ3c?oc=5",
+    "source": "JD Supra",
+    "language": "en",
+    "published": "2026-11-23T20:50:48+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "El fiscal general de Nueva York lanza una unidad de seguridad de IA para hacer cumplir la Ley RAISE",
+    "summary_es": "El fiscal general de Nueva York lanza una unidad de seguridad de IA para hacer cumplir la Ley RAISE JD Supra"
+  },
+  {
+    "id": "beafb3dfb420",
+    "title": "Management consulting is not a thin wrapper on intelligence",
+    "summary": "Consulting as a test case for AI's impact on knowledge work",
+    "link": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+    "source": "AI Snake Oil (Princeton)",
+    "language": "en",
+    "published": "2026-11-23T20:12:32+00:00",
+    "feed_name": "AI Snake Oil (Princeton)",
+    "thinkers": [],
+    "categories": [
+      "newsletter"
+    ],
+    "slot": "analisis",
+    "date_added": "2026-11-24",
+    "title_es": "La consultoría de gestión no es una fina capa de inteligencia",
+    "summary_es": "La consultoría como caso de prueba del impacto de la IA en el trabajo del conocimiento"
+  },
+  {
+    "id": "5042db2039de",
+    "title": "AWS's Garman says AI safety can't hang on an emergency brake",
+    "summary": "AWS's Garman says AI safety can't hang on an emergency brake PPC Land",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFF1SVo3cGRyY1V3UkFMRWlfTUFHTVk2bFVpTzR3MHVVYU5fT25fY0hjQklYYTRMLVo1OENwT2I1bDY1cnREUFhzekpnLVZOWVRuS3lyanh3TGVWWEJXc21qWEpZTC1SblpBa3JnTGduRHpYVjJLcFBldkJMOTFEQ0pR?oc=5",
+    "source": "PPC Land",
+    "language": "en",
+    "published": "2026-11-23T19:45:44+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Garman de AWS dice que la seguridad de la IA no puede depender de un freno de emergencia",
+    "summary_es": "Garman de AWS dice que la seguridad de la IA no puede depender de un freno de emergencia PPC Land"
+  },
+  {
+    "id": "97016620a6eb",
+    "title": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
+    "summary": "'Maintain control': UN chief calls for creation of global AI safety framework within a year France 24",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOTRCUmI5ODFrVUFodUViUDJ4QTh6MDJ2YmFhaHp1bFgtb3BNQl9oN2FfR0dVOFZjYUJ2Q01TQkZabGxwV3I0TGtXdlVKYkd2Szl1U2xJUUdoeGVhdmZRZTgwc0Z2UF80cHdkZXRseTlkOWFmM1VWYjctVXpxV1lmeFdLWUR3QnhLNDZCNkc1TERfQzVrMElFMzc0TGZZUjhOTXVUREk2NGpsUUVlb3J4ZjZ2b2JjVGJralFDVXhDVQ?oc=5",
+    "source": "France 24",
+    "language": "en",
+    "published": "2026-11-23T19:06:15+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "'Mantener el control': el jefe de la ONU pide la creación de un marco global de seguridad de la IA en el plazo de un año",
+    "summary_es": "\"Mantener el control\": el jefe de la ONU pide la creación de un marco global de seguridad de la IA en un año France 24"
+  },
+  {
+    "id": "8e35e52349b3",
+    "title": "OpenTelemetry and AI Governance Telemetry | Kovrr",
+    "summary": "OpenTelemetry and AI Governance Telemetry | Kovrr Security Boulevard",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOThjQ1dwZjlwUWwxbWVlejNzVlB3eTJsUG1SenV0QmI1c0RWeDJzemRNR0x4TWc4VmdSaVpJdEZjVVNtUGlPZ0E4a3FLNW9FQ2FmcEotTUNEc1dBZG10V3VZQlpXblgzR0FnZTRtWWtxeUxGVnZnakd0WXg3UW1vTVlnanVUZVhUZFZBSlFkS0xpdw?oc=5",
+    "source": "Security Boulevard",
+    "language": "en",
+    "published": "2026-11-23T18:51:31+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "OpenTelemetry y telemetría de gobernanza de IA | Kovrr",
+    "summary_es": "OpenTelemetry y telemetría de gobernanza de IA | Bulevar de seguridad Kovrr"
+  },
+  {
+    "id": "f92a0bbfcb70",
+    "title": "Rappler. . ‘A new imperial age': Yuval Harari warns Philippines of foreign AI dependence Historian and best-selling author Yuval Noah Harari warns AI could usher in a new age of empires and leave countries like the Philippines dependent on foreign powers.",
+    "summary": "Rappler. . ‘A new imperial age': Yuval Harari warns Philippines of foreign AI dependence Historian and best-selling author Yuval Noah Harari warns AI could usher in a new age of empires and leave countries like the Philippines dependent on foreign powers. Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZUNhZlkxUHhDZFlfdXpxMDFTdU1QdTk4MTFZbXdlTHJ1ME5BRUNWZ25JaURwMUNWSXV6LWJBZHQzQVR2U3cxc3FqRTZIbjRYNm9yQjYtb0tIYnVZWDFyem8yV3Fkcld6ekVWeWIwaGFQRklkMUNqTkVBaFRIWTA5MGVUTEVfLUR2YlNaWkFweFJPSXJtaHJ1alotRDJmSDM5TXZwWnZEQjdWTVhNeHA5T2k4YUNvMmFlRm5yakRRVWV5dFNSSVBNdUdiSWhaTkx3LVBpaUlEUnI4Y3l1?oc=5",
+    "source": "Facebook",
+    "language": "en",
+    "published": "2026-11-23T18:25:24+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Rappler. . ‘Una nueva era imperial’: Yuval Harari advierte a Filipinas sobre la dependencia extranjera de la IA El historiador y autor de best sellers Yuval Noah Harari advierte que la IA podría marcar el comienzo de una nueva era de imperios y dejar a países como Filipinas dependientes de potencias extranjeras.",
+    "summary_es": "Rappler. . ‘Una nueva era imperial’: Yuval Harari advierte a Filipinas sobre la dependencia extranjera de la IA El historiador y autor de best sellers Yuval Noah Harari advierte que la IA podría marcar el comienzo de una nueva era de imperios y dejar a países como Filipinas dependientes de potencias extranjeras. Facebook"
+  },
+  {
+    "id": "9214c713722f",
+    "title": "Mona Lew (’20): From Statecraft to AI Governance",
+    "summary": "Mona Lew (’20): From Statecraft to AI Governance The Institute of World Politics",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWJSVndqSkJsekJhVHRpdnFiM0JPOHVZZzZjOWp3MjFTT25nbVZHUnR1UEZFaDNZcUJIdUM4ZWxlWTRNSFZWMlVxbHZNSWRsQkhHejZGQnc5b181cDQwMFZXUnZqblRUZklDLXBMVmZaNUlROTV0Zl95RTByTlZwN2picFZNNGZJZGtILWVfTk1IbUdOZUQtQnhWZ2NfSUZP?oc=5",
+    "source": "The Institute of World Politics",
+    "language": "en",
+    "published": "2026-11-23T17:42:43+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Mona Lew (2020): del arte de gobernar a la gobernanza de la IA",
+    "summary_es": "Mona Lew (2020): Del arte de gobernar a la gobernanza de la IA The Institute of World Politics"
+  },
+  {
+    "id": "b47bba7bebb0",
+    "title": "Managing AI governance in healthcare: What boards need to know",
+    "summary": "Managing AI governance in healthcare: What boards need to know Norton Rose Fulbright",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV2RPcGRZeHhETnNocjlmd1MwZ29FNjJRVkROMGNPWUhVU2FJRG85YzEwai1mVHpkVVZORWo1OG12VU53TEdZLTd3ZDNNc0w0VjRNMldQX3dXR2ZpdXVfTWp3eWttcXVvU3hFaU1UeHN3UEl6VlJkUTYwcWZnRHdfWExRRkZ2WS1BenJQOHlNTzdlaXVta0wxMzBHZGo4Y0x1N2J2Ni1IUWo?oc=5",
+    "source": "Norton Rose Fulbright",
+    "language": "en",
+    "published": "2026-11-23T13:12:11+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Gestión de la gobernanza de la IA en la atención sanitaria: lo que las juntas directivas deben saber",
+    "summary_es": "Gestión de la gobernanza de la IA en la atención sanitaria: lo que las juntas directivas deben saber Norton Rose Fulbright"
+  },
+  {
+    "id": "f55d0fd0a6a4",
+    "title": "From ImageNet to Spatial AI",
+    "summary": "From ImageNet to Spatial AI USBE and Information Technology",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlBLQXNXd3RXNkVLRUVfT0huR1pnakNwM3FxaEF5QTVVOEpDSnpwa0g1WGt6T3ZaOVJlc2JaWjV5SHoxeTZYbEtuaTctVHNTVm9LTmRmbHFZcElTalZ5S2VoRXhTM1Z2cWxCMXVId214ZEdDczk2RVlFdmxkZ2JlZ1JDSi1yNWvSAZIBQVVfeXFMT0loQWVoMFRzVG5KbFZEZTdqV0xBRm5MRmtIWUgxMmRHOEZGbU9ianpFWGJkMG1jZ3RzVlNUb0UzRVlZNTVHTk8xcWtYSmZyMGNiUVRfNU5WSnZ0b2sySmxFc1FPR3V4NjRBa1pLSFE5N1dUclVBcE9kT2c5dUR5a3JJc2lJcjZ1MmFUV1FFQklFMXc?oc=5",
+    "source": "USBE and Information Technology",
+    "language": "en",
+    "published": "2026-11-22T15:39:51+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "De ImageNet a la IA espacial",
+    "summary_es": "De ImageNet a la IA espacial, USBE y tecnología de la información"
+  },
+  {
     "id": "56bef4e5d453",
     "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety",
     "summary": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety 93.3 The Drive",
