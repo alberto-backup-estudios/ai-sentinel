@@ -1,5 +1,423 @@
 [
   {
+    "id": "02f15f9339f7",
+    "title": "Yoshua Bengio backs global AI governance as Guterres puts oversight on the to-do list",
+    "summary": "Yoshua Bengio backs global AI governance as Guterres puts oversight on the to-do list Digg",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tUFpYc19ocTUzUWJhX0s2djBNX0VIeE1CVmlnQTRRUnltQ1NYMXQ2VEYtSEI0WERabFc4YVhMYlA3UQ?oc=5",
+    "source": "Digg",
+    "language": "en",
+    "published": "2026-11-24T16:13:32+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Yoshua Bengio respalda la gobernanza global de la IA mientras Guterres pone la supervisión en la lista de tareas pendientes",
+    "summary_es": "Yoshua Bengio respalda la gobernanza global de la IA mientras Guterres pone la supervisión en la lista de tareas pendientes Digg"
+  },
+  {
+    "id": "80f0d15cb15a",
+    "title": "House Lawmakers Launch Bipartisan AI Safety & Innovation Caucus",
+    "summary": "House Lawmakers Launch Bipartisan AI Safety & Innovation Caucus ExecutiveGov",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFZ0bl91WFI1V2NLcDFBcTdZZERCWkdXY2J2YW9qcktxTW0xdHVqbnpQdTl3WXViZ0RCN2dzeEdzdThVQzBKNzdlVjdXYXZ4SkttVThwaHJ5R1FEeDVTRXQyQ2xPMzdhd1o2MjY4SUl2d1lPUzVpbHpCUTRkWGVadjN5UkZIVmtFTnc?oc=5",
+    "source": "ExecutiveGov",
+    "language": "en",
+    "published": "2026-11-24T15:58:13+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Legisladores de la Cámara de Representantes lanzan un grupo bipartidista de innovación y seguridad en IA",
+    "summary_es": "Legisladores de la Cámara de Representantes lanzan un comité bipartidista de seguridad e innovación en IA ExecutiveGov"
+  },
+  {
+    "id": "fa42184c880d",
+    "title": "AWS: la seguridad de la IA no puede depender de un freno de emergencia",
+    "summary": "AWS: la seguridad de la IA no puede depender de un freno de emergencia Infosertec",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR0ZpbEtoaWVueWFlTUJNZFZ4eEpJd0ZleTloSEUxYWN3NG9ETzhWOEttUVY3VVA1a1hkSXZtTDFyQ1RqNWZpNXlBbHlETTExdXNsVm02UTIyOEJvdl9GTkwtQnVXdWJFb01HakRwYzFQTmc2MmNBRXE5eUVkcUVlSGx4VU5YVFQ3SFdFNGFpS09XQ2UyYV90c2tOU29BRXdtYjlNQXhlU3lrUQ?oc=5",
+    "source": "Infosertec",
+    "language": "es",
+    "published": "2026-11-24T15:00:00+00:00",
+    "feed_name": "Seguridad y Riesgo Existencial (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "AWS: la seguridad de la IA no puede depender de un freno de emergencia",
+    "summary_es": "AWS: la seguridad de la IA no puede depender de un freno de emergencia Infosertec"
+  },
+  {
+    "id": "ca8bcb133ca1",
+    "title": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
+    "summary": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says CBS News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHppUHFENjRTVWpQN2ZSR2dKbmdHQ2hhaXBuWC1FU05rRkxYSzR1ZXpYZDR5aTJvc0pEUTZDdFBuWkZvR3dUaERXNFZSWV9JTkE5WkJqR2lGaGhqRDY3VjY4d002dFZNV3BaRVVKN2JvSVluVUdGV1FWY0Z1ajVVS292SncyeHVGaExpQQ?oc=5",
+    "source": "CBS News",
+    "language": "en",
+    "published": "2026-11-24T14:50:33+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Yoshua Bengio",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "\"Estamos corriendo hacia peligros enormes\", afirma el pionero de la IA, Yoshua Bengio",
+    "summary_es": "\"Estamos corriendo hacia enormes peligros\", dice el pionero de la IA Yoshua Bengio CBS News"
+  },
+  {
+    "id": "a18c8ea376a5",
+    "title": "The hidden cost of manual AI governance",
+    "summary": "The hidden cost of manual AI governance CFO.com",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XQ0ptLTlWRTM4eVEybnptU0xoa2pBR2xBNEZjekYtVUdnc0RjQ0pDUDI5R1hSWEhVb0N3YUhPY0VsUllpYTdZeXZEdGFJdzRNcFM1SkJDYlE4eFRTX2kwMEx2REpPNkZFWjB2bC1CSWhVeGpMVWhwTmg5cHo?oc=5",
+    "source": "CFO.com",
+    "language": "en",
+    "published": "2026-11-24T14:07:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "El costo oculto de la gobernanza manual de la IA",
+    "summary_es": "El coste oculto del gobierno manual de la IA CFO.com"
+  },
+  {
+    "id": "0162acd8e4cc",
+    "title": "Riverain Technologies Launches aiStream Analytics, Bringing Bialogics AIQ Framework and AI Governance ClearRead™ Suite",
+    "summary": "Riverain Technologies Launches aiStream Analytics, Bringing Bialogics AIQ Framework and AI Governance ClearRead™ Suite The Tennessean",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTTQxWm1kakpJdUtibVRZMmNBLVdubVFZbkVnMV9iWFJQdE1xbVllZVNnU1hBa05Gb25scVU0WGJaejVfc1FuWXNfdjFlVmNDcmktRW8wR2hzZVBIRDlwLXd1NnluVGVlQVd4a3k0ZDBSN3M5QXJLSF9GYVVfMzhfRnA3V2xqaUtBeGRyRGxTd3ljQm9tcEdLRjlla19RVDlzQldoYjh1SWMzQjl5Mm5pWDIxMUUzbi1oLV9TWDhLS1R0S3hXbXV4MVBONmM5ZDhjdmQ5akRKV2wyZ2ZOWXk2RF9NeFR1SU9HRE1BM2ctRFVBd2k3bDFNZWR6R05VaDlN?oc=5",
+    "source": "The Tennessean",
+    "language": "en",
+    "published": "2026-11-24T13:49:28+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Riverain Technologies lanza aiStream Analytics, que incorpora Bialogics AIQ Framework y AI Governance ClearRead™ Suite",
+    "summary_es": "Riverain Technologies lanza aiStream Analytics, que incorpora Bialogics AIQ Framework y AI Governance ClearRead™ Suite The Tennessean"
+  },
+  {
+    "id": "8840ee5ff617",
+    "title": "Geoffrey Hinton said to stop training radiologists. A decade later, the Bay Area is 600 imaging techs short",
+    "summary": "Geoffrey Hinton said to stop training radiologists. A decade later, the Bay Area is 600 imaging techs short Fortune",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3QzdmVmZnllcE82OXk1SFk3bDAxZHpYNmtCR2hJYWNfWm1tX0lNUjFFZFJWNWk1VWV2dFMtU3BOZlVyMFppZ1FuYThMNVprYVY5MlpfSGt5a05KQUlsQmhmWGRLZFo2Z3J4c1Z2MnJsNHVRRHJYMGR0ZVdQZzY0dg?oc=5",
+    "source": "Fortune",
+    "language": "en",
+    "published": "2026-11-24T13:30:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Geoffrey Hinton dijo que se dejara de formar radiólogos. Una década después, al Área de la Bahía le faltan 600 técnicos de imágenes",
+    "summary_es": "Geoffrey Hinton dijo que se dejara de formar radiólogos. Una década después, al Área de la Bahía le faltan 600 técnicos de imágenes Fortune"
+  },
+  {
+    "id": "3d1f261095a1",
+    "title": "Johnson Lambert launches AI governance and third-party risk practices",
+    "summary": "Johnson Lambert launches AI governance and third-party risk practices Captive Insurance Times",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaUFFajl1NG13a0ZNOW9aLVdMeENDeS1FV01tbFFfR00zVVFsUW9Hb2x0NW4zWklXUmtjUjg1akh6bFl0SE1nanZsWUpmdldZT3FQTDFPZkdDQURNemlaeVNQRVZkWEVJZmozc2c3SjJKN1NNLUo3WHd2a0JnaWZTcmpnamQ3aXUxRlJSV0s0WVM0ZWRJLWF1UHpYX2V5Q0FaZVU5UzBjMHEwRUYyelNQLW92WExDYnpSeEVsM0FITlNyVlkyU0ViYWJkcHBlVTNsNUNzVVVadWJuYTF3Mk5CbQ?oc=5",
+    "source": "Captive Insurance Times",
+    "language": "en",
+    "published": "2026-11-24T13:10:04+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Johnson Lambert lanza prácticas de gobernanza de IA y riesgos de terceros",
+    "summary_es": "Johnson Lambert lanza prácticas de gobernanza de IA y riesgos de terceros Captive Insurance Times"
+  },
+  {
+    "id": "165b835b7d25",
+    "title": "Australia sets out 46 recommendations for AI governance",
+    "summary": "Australia sets out 46 recommendations for AI governance Digital Watch Observatory",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FbjE3VHh1ZEQ4dzREU0tmOUNSck5JOGdHQ2F4bUNscHdqME1QXzk2bnlIVnpxLVNMWEVfWFFDUjJlMldkNElvME5nMHBzWHY1c2RTeVNPdWZhQmpsbnV2RUZwMFhNbDFzNWxZN2JLRXk0SjJtS3RjQ0pSekc?oc=5",
+    "source": "Digital Watch Observatory",
+    "language": "en",
+    "published": "2026-11-24T12:58:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Australia establece 46 recomendaciones para la gobernanza de la IA",
+    "summary_es": "Australia establece 46 recomendaciones para la gobernanza de la IA Digital Watch Observatory"
+  },
+  {
+    "id": "f456304c5d3d",
+    "title": "Amazon Web Services CEO Matt Garman has advice for tech companies on AI safety: ‘No one relies on …’",
+    "summary": "Amazon Web Services CEO Matt Garman has advice for tech companies on AI safety: ‘No one relies on …’ The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQckRTUzh4OWlWdXZIdGZmdkhzOFhzTWkxY1RkN1ZSLXhRWWtHSFBYOUo4M2JjN1ExMnVmckYtZkdrSHdpZy1sckh2T2NOR1podXJIWHphM251bWphU084MjhKV05YYjZuVFF6VEVZWXMycnN4MUkycEpMaUhiNi13dXpMQTdxODdQbGdFY21wZEhPSUlvMXh0dGI3eVlRMC15QVhaOXVlZkI2U0FtZVZ6Sll1cGV2RV93cFJrNXQwWXVxM0x1ZzJnVDNqa2cySkFkM00tTktQV0hkOFpnLUUxc1hSazBxSFR2cVh5bklzZFVRaVE3cF9fb2pMcWpaWXFad2tISkN2emtHR28?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-11-24T12:22:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Matt Garman, director ejecutivo de Amazon Web Services, ofrece consejos a las empresas de tecnología sobre la seguridad de la IA: \"Nadie confía en...\"",
+    "summary_es": "El director ejecutivo de Amazon Web Services, Matt Garman, ofrece consejos a las empresas de tecnología sobre la seguridad de la IA: \"Nadie confía en...\" The Times of India"
+  },
+  {
+    "id": "438a38e05962",
+    "title": "East Texas Congressman To Co-Chair AI Safety Caucus",
+    "summary": "East Texas Congressman To Co-Chair AI Safety Caucus EastTexasRadio.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEcxeVY3Y3JiT2l2dVEyTW5uUGxVbXM5VnlFUFp1OXp3a3NYN29RUFhiT2Q0cjRWUXp2cmhUWXdzdlV4aTd1MHprUGp0YXp4dTNlOGJVTnRMN3RzTFBuemRjaXA4RFYyXy1WOUY0R3VBOXEtM2k2SFhkMF9MQnhwRzdGeVhCUQ?oc=5",
+    "source": "EastTexasRadio.com",
+    "language": "en",
+    "published": "2026-11-24T12:20:09+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Congresista del Este de Texas copresidirá el grupo de seguridad de AI",
+    "summary_es": "Congresista del Este de Texas copresidirá el Caucus de Seguridad de AI EastTexasRadio.com"
+  },
+  {
+    "id": "9b82b462c163",
+    "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+    "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release Axios",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
+    "source": "Axios",
+    "language": "en",
+    "published": "2026-11-24T11:54:48+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Scoop: Los empleados de Anthropic y OpenAI temen que los modelos de IA inéditos sean demasiado inseguros para publicarlos",
+    "summary_es": "Scoop: Los empleados de Anthropic y OpenAI temen que los modelos de IA inéditos sean demasiado inseguros para lanzar Axios"
+  },
+  {
+    "id": "8ac4cc9a4539",
+    "title": "Hinton, Nobel de IA: ‘estamos en el último segundo’",
+    "summary": "Hinton, Nobel de IA: ‘estamos en el último segundo’ El Ecosistema Startup",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0NjMDViYmh6RUFOVHd0eTVCRW9mbmItQktXN3lLOUc0aVExVEhzSVUweWZKUFIxLVFxTUJnQ0dFNDU2bUZwSElNSmJ1bXBsTU5fOEE0bGRObG1hakJpVTd0QnByVEtTSjhHZExSV2QzRW9uVFVfUFZGNXA3MWd0dWtBLXI?oc=5",
+    "source": "El Ecosistema Startup",
+    "language": "es",
+    "published": "2026-11-24T11:51:44+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Hinton, Nobel de IA: ‘estamos en el último segundo’",
+    "summary_es": "Hinton, Nobel de IA: ‘estamos en el último segundo’ El Ecosistema Startup"
+  },
+  {
+    "id": "3c5d7f39fdbf",
+    "title": "Geoffrey Hinton, Nobel y \"padre\" de la IA: \"Si la historia de la humanidad fuera un día, probablemente estaríamos en el último segundo\"",
+    "summary": "Geoffrey Hinton, Nobel y \"padre\" de la IA: \"Si la historia de la humanidad fuera un día, probablemente estaríamos en el último segundo\" Xataka",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQk5RS1VVWXlQS1RqMTlObnFTTjh3ZHRRQmkwaS1oYmdBd0tHck1BRUhGVFg4d2lWanA2Yi12bnBhQzBfV0VRNmRBeDdHWWtvUmF6aE5pUFNyU285SmRHOFJTbV96c0tVUXcxOTZGakkyRWs1ZTN2OHltU2hNX0l2cjNBTlRudk16RFBsbnF2TE5JMk9mVnF5Rzk3VERqWTU5OFVrWk5sT21JbENBTXpnVGVxLTJWQkhWb1lxWlRGdzhNMUloLXVzX2IzTWIzTXBjV1HSAdcBQVVfeXFMT1U3cGREdngxSzY2MEtLdTJKNUNVVlE0R2hGYWRJQWFkZjJWUUVwaW9MdUUwSnVIeWV3eEhvVDE2MUpzZVowbXJMMDdZUTZMSE9KbnJoZUVXcnhfenVDS0hrS1dTMUdHNGxNS0xGZGgzQmVwTmo1ajV6X0RRY1lBZ0xzZE1uVEw1ZkNFbmZBaGVEMzZ1ckRUZXFBcXZsVmN1QlRFMDhZQ2lUQVVHdUdpMEhDRm1vWmRNREtYd0U4X2lvLTQ1cUNPenU1WG5UdWZYeTBZME5xY0k?oc=5",
+    "source": "Xataka",
+    "language": "es",
+    "published": "2026-11-24T11:30:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Geoffrey Hinton, Nobel y \"padre\" de la IA: \"Si la historia de la humanidad fuera un día, probablemente estaríamos en el último segundo\"",
+    "summary_es": "Geoffrey Hinton, Nobel y \"padre\" de la IA: \"Si la historia de la humanidad fuera un día, probablemente estaríamos en el último segundo\" Xataka"
+  },
+  {
+    "id": "d13e326e2e4f",
+    "title": "AWS’s Matt Garman: AI Safety Needs Engineering Over Policy",
+    "summary": "AWS’s Matt Garman: AI Safety Needs Engineering Over Policy AI Magazine",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzhlZEhpRXlid04xVU85MVJHQm5GZ3RkQ1l4M19yM2VNLXQ3ZmwteWFJX1Fhc0RMQ3Mza3pfWExYdUJJZHRGSGJrbVB0VVYwQ0xLeUJKbHh5cHl5c0V2Tmd2ZzZ3MzV1bXJ1dHF4THcwdmMybGZmZ1ZBUmwxVXRGbVktUVItTzdKX3BhUA?oc=5",
+    "source": "AI Magazine",
+    "language": "en",
+    "published": "2026-11-24T10:57:18+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza",
+      "seguridad"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "Matt Garman de AWS: La seguridad de la IA necesita ingeniería por encima de la política",
+    "summary_es": "Matt Garman de AWS: La seguridad de la IA necesita ingeniería por encima de las políticas Revista AI"
+  },
+  {
+    "id": "98421ec90e72",
+    "title": "China leads push for global generative AI governance standards",
+    "summary": "China leads push for global generative AI governance standards China Daily",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPWGdwd2dibTFOZjhhWFNKT1hiNnFrWEkxWFI2MnBVYWpaN0ZHQnNnQ2xCZzdueTRrZ2I2YTUtUGh3LXZkTWI2ZVNpNXZodVJIcDNhcDdDT0hZNndELUNkNE1NY20xam9pcDhZQi1XcDF3T2w3N2c4RU1NMDdBQQ?oc=5",
+    "source": "China Daily",
+    "language": "en",
+    "published": "2026-11-24T10:54:50+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "China lidera la iniciativa para estándares globales de gobernanza de IA generativa",
+    "summary_es": "China lidera la iniciativa para estándares globales de gobernanza de IA generativa China Daily"
+  },
+  {
+    "id": "0516bdf6d0bd",
+    "title": "IQ-EQ launches AI governance services in US",
+    "summary": "IQ-EQ launches AI governance services in US Asset Servicing Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnhqYXY0WkdndnducUdZV0Jxdl9ZNHV2d0EtdUp0b21jWlBJQUNZaWJIbDdMNHNxUjVNTnJsaVRYZWpsb1FuRFhRX2g2a1ZkRDNOcXZBUUcyRWFRWEFYbDZIR0ZFdHo1d2wtYkRNTXRUTEZycG9vV3Z3VzdlNXRkY3FjMl90d0NZWjg3VUNydDUwSGpITi1j?oc=5",
+    "source": "Asset Servicing Times",
+    "language": "en",
+    "published": "2026-11-24T10:11:12+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "IQ-EQ lanza servicios de gobernanza de IA en EE. UU.",
+    "summary_es": "IQ-EQ lanza servicios de gobernanza de IA en EE. UU. Asset Servicing Times"
+  },
+  {
+    "id": "ebd5137ec633",
+    "title": "Critical News & Insights on European Politics, Economy, Foreign Affairs, Business & Technology - europeansting.com UN chief urges talks on global AI safety framework",
+    "summary": "Critical News & Insights on European Politics, Economy, Foreign Affairs, Business & Technology - europeansting.com UN chief urges talks on global AI safety framework The European Sting",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUNJNGJYVUc5OEhVOHY3WHc5b3BEekFQVmFYMUU2T2ZoZ1RISFFwNGNOYzA4QUpVT3Q0UDYxZlAtVkZzUlp3OUZPZmVJSkZoWDdtWXNLTkNuWE9mQmVQc0NzWGZhOG14dE53QTg0dFQwblhHWmdVRENFSmk0ZURCNlY1VnEzdFpi?oc=5",
+    "source": "The European Sting",
+    "language": "en",
+    "published": "2026-11-24T09:22:16+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "Noticias y conocimientos críticos sobre política, economía, asuntos exteriores, negocios y tecnología europeos - europeansting.com El jefe de la ONU insta a conversaciones sobre el marco global de seguridad de la IA",
+    "summary_es": "Noticias y conocimientos críticos sobre política, economía, asuntos exteriores, negocios y tecnología europeos - europeansting.com El jefe de la ONU insta a conversaciones sobre el marco global de seguridad de la IA The European Sting"
+  },
+  {
+    "id": "93e4225780e1",
+    "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+    "summary": "UN chief urges talks on global AI safety framework, warns of historic shift in power The European Sting",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0tJNTdVcGJyNHlsNUpaVmJtUTktRG1hdUJNWVJEQkZvR1JqZ0ppQlViOGN3ZE1RQXhuRF8xRjZ0VjZ5amo0QmZkUks0UmZCem8zTEJGLVg2bDBxX0lFU3pYdW1xRVgtVGVZMDdYaThSMjBhSXJjRkVKc1RpOHNXa2NycEE5b2U4SnlnN1lYcVlzU1N4bzBWcWY5YTJ4TjVpZXpMOTN4d19XZWtJSzViM0JLRjFYVGNycU1UbEln?oc=5",
+    "source": "The European Sting",
+    "language": "en",
+    "published": "2026-11-24T09:13:18+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-24",
+    "title_es": "El jefe de la ONU insta a conversaciones sobre el marco global de seguridad de la IA y advierte sobre un cambio histórico en el poder",
+    "summary_es": "El jefe de la ONU insta a conversaciones sobre el marco global de seguridad de la IA y advierte sobre un cambio histórico en el poder"
+  },
+  {
+    "id": "fb0df07e3546",
+    "title": "APEC 2026, la gobernanza de la IA y la economía digital",
+    "summary": "APEC 2026, la gobernanza de la IA y la economía digital Rebelión",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaThCM214aEtfMnZwdzVtNVRzT1VJdHFJdUY5X3AtVTJ2SXFBUzlzdXhWajhhdFo0Qml5VVpKaDEtOW00XzlXcm5ETU0zQkY1cE01NklKTHVjVG16LVF1bHhFVkd2VGR2TExkTXNGTF9FWU41aWdFVElwLVdQczFtTU1B?oc=5",
+    "source": "Rebelión",
+    "language": "es",
+    "published": "2026-11-24T09:06:34+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-24",
+    "title_es": "APEC 2026, la gobernanza de la IA y la economía digital",
+    "summary_es": "APEC 2026, la gobernanza de la IA y la economía digital Rebelión"
+  },
+  {
+    "id": "355781442c9c",
+    "title": "Microsoft AI CEO Mustafa Suleyman says that he is really, really nervous; calls last three months a water",
+    "summary": "Microsoft AI CEO Mustafa Suleyman says that he is really, really nervous; calls last three months a water The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNbEU0cWd2ZUV1QXh6OVhtYWZ3NzF1TkNvdDRPRGFDUEZjY3lTTUZvaDB1UUJPSFBYNy1PQV92Wkt0R2VQZ1BzNlA3eGVwSHpIbExndzBQSk9DZDdxRC03SUVpcVc2amtzSXFrUHpoRENPVzRVUTh3T3BuRENyd09fUHBiVGNTU0gtWDVNbDlEQVUyUkhKU09Zc3RmQ19NaUhCaS1yTHprZm5MQzRuSkFNenNEMnRSVE9UUk51ODZkSWZDNVI5bXYwcXE5RUl5SzQ2UFdrOGQ3LUFSLUNXV0E5QnpkN2RocEcxNnRaTTZJcnoxaFVJLXZfMjVQcFJFM2dUV2k3ejZpeXVlZ0lsZkZuOW1JV3VjSS14UVc3YWpHY2xFaGMxZUVUbjlHTWN6WVphOGI3bVFBVkx2RU9LcGFjWHVVR1VwMVlMVkJzZUVuMm5oRUhrak54MU5jbDV3TVJTRjE1M2hIV3YyYWdZZ3RR0gH0AkFVX3lxTE9qazVFc1BaOWl1OWpZMzNjT2tLT1N0X3htQVpjZ25obTRqbW85YUp5YUY0aXRwZE13TDhBbm5DdHg1OU9QcXNuUWxTWkQxWi1ZdDVJREdTUjNzUjJEZm5OR0JFVU01Mlg1MUlfVUtaY1g5aWxrV3h0b0Myem5zZHZaaWZjU1lQeTZjUWdyS2liMlEyQnVTWWNnaTBUMjVqUElLa3J3TlY5V0JSRVkxNDBGdnhPX3NtUGVjbmIzbWE3ZVlLZUFIYXBKU3hOSkpidWFPWTQ5Z2hxazhiYWQ4bnJkaTJKQkJhTVRrSkw4QzhMZC1RN3ZOVlBuYWF3VDIwUF9QaEE5anRmbXhJaDZtVTF0VURWcWRjMnUtejN5bUQ3cWZKejBNbmtsZXFjQjliWmh4Y3JuV2JpSmduT0Z1Q20tcXp2VVlsM21aSGxRQ0wtYXNkMEk0QnVfR054WWtYMVNER2tyQWlDRHVlVTRlSl93UElDdA?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-11-24T06:40:00+00:00",
+    "feed_name": "Mustafa Suleyman (English)",
+    "thinkers": [
+      "Mustafa Suleyman"
+    ],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "El director ejecutivo de Microsoft AI, Mustafa Suleyman, dice que está muy, muy nervioso; llama a los últimos tres meses un agua",
+    "summary_es": "El director ejecutivo de Microsoft AI, Mustafa Suleyman, dice que está muy, muy nervioso; llama agua a los últimos tres meses The Times of India"
+  },
+  {
+    "id": "bed9db3fbe34",
+    "title": "AI's Mathematical Feat Sparks Superintelligence Debate Between Elon Musk, AI 'Godfather'",
+    "summary": "AI's Mathematical Feat Sparks Superintelligence Debate Between Elon Musk, AI 'Godfather' NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGlIZUtDNUNSdXNVSko5dnRfLUdCTGdIaXNncDhNYXlMTjZMTVI1c1ZvQ0tPRWpjRGdKMTR0RVlWQkZtclJQdUphcGM5eFVEY1gwWThmcS00SW5lX1M1aXdsYnY2MURlNE1NMWZhWjhNZHI3OHh0TVItRkxTa3FHb0tCMEN5MVFncUZvY3Q1Z1JWTFduemQyS1V0SE5GbW9Sc3lSYWNhcGRKdE9pT3ZMbHVVZVRyUk1wMXliMjZaT1NuTE3SAcsBQVVfeXFMT3YxcUxWUWJpajc0WHBsVTA1aWFPa1BQaHhtYWlVUHQzUUJ1VmJHeC1nTWcyT2ZYU1ViUnNPd3dPeDJzWHJVUmxVMF96QzhUV0FUUHQ3RUVNb3VWUXJPSTFtWHJkOGxXQWV1aG5nZmJSVG9pTjZrdXZZOGMzNXVXUGtBQzBwRTZJUGQ4bE8zTkZ0bXM0RGNNVFJlVmVjcVY4bHBjeDlyZDRxeGwzMnl0TTBFMzVYY053NEt6d1ZBRGxyUERKWVJzdWlUUzg?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-24T05:33:36+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource",
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "La hazaña matemática de la IA desata un debate sobre superinteligencia entre Elon Musk y el 'padrino' de la IA",
+    "summary_es": "La hazaña matemática de la IA desata un debate sobre superinteligencia entre Elon Musk y el 'padrino' de la IA NDTV"
+  },
+  {
     "id": "d8573aade52b",
     "title": "Geoffrey Hinton’s AI warning: “Chernobyl” explained",
     "summary": "Geoffrey Hinton’s AI warning: “Chernobyl” explained NeoTeo",
@@ -294,6 +712,26 @@
     "summary_es": "Gestión de la gobernanza de la IA en la atención sanitaria: lo que las juntas directivas deben saber Norton Rose Fulbright"
   },
   {
+    "id": "539919b3ec85",
+    "title": "Progressives are not radical enough on economics",
+    "summary": "Progressives are not radical enough on economics Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUTNlcHBCeVpscFJETmFRaDJ1V0pNQWE1Z3ZFSUl1RUdxLUdZUzcxRjdPMGFsVDZDWmZ2MFQzWHNkdHJhcVNKYTRDUmZqcTdUczlGSHdxTVBnUm9FLVExemJUUkNVSERkTTlxUUFoeXM?oc=5",
+    "source": "Financial Times",
+    "language": "en",
+    "published": "2026-11-23T09:35:42+00:00",
+    "feed_name": "Daron Acemoglu (English)",
+    "thinkers": [
+      "Daron Acemoglu"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Los progresistas no son lo suficientemente radicales en economía",
+    "summary_es": "Los progresistas no son lo suficientemente radicales en economía Financial Times"
+  },
+  {
     "id": "f55d0fd0a6a4",
     "title": "From ImageNet to Spatial AI",
     "summary": "From ImageNet to Spatial AI USBE and Information Technology",
@@ -312,6 +750,26 @@
     "date_added": "2026-11-24",
     "title_es": "De ImageNet a la IA espacial",
     "summary_es": "De ImageNet a la IA espacial, USBE y tecnología de la información"
+  },
+  {
+    "id": "2bb48d24386b",
+    "title": "Former Restaurant Worker Sold Her Company for $8.2 Billion Less Than 3 Years After Launching Her Startup",
+    "summary": "Former Restaurant Worker Sold Her Company for $8.2 Billion Less Than 3 Years After Launching Her Startup 36Kr",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mSFlwOTJmSHVMWlZLRlc1VVBITV9kUXpNOGI0dHVleVpLeHFpd0M1ekF5MWxncTBQZHlfTWU3MmtpRFVtME5MeV83SFA5clBEOGNV?oc=5",
+    "source": "36Kr",
+    "language": "en",
+    "published": "2026-11-22T08:22:46+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-24",
+    "title_es": "Una ex trabajadora de un restaurante vendió su empresa por 8.200 millones de dólares menos de tres años después de lanzar su startup",
+    "summary_es": "Una ex trabajadora de un restaurante vendió su empresa por 8.200 millones de dólares menos de 3 años después de lanzar su startup 36Kr"
   },
   {
     "id": "56bef4e5d453",
