@@ -1,5 +1,409 @@
 [
   {
+    "id": "beb0d30224b9",
+    "title": "Antitrust after the Midterms: Merger Enforcement, AI Safety Coordination and College Sports Take Center Stage",
+    "summary": "Antitrust after the Midterms: Merger Enforcement, AI Safety Coordination and College Sports Take Center Stage McGuireWoods",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbGY4QmpuYjdvR056aERXQUc5dG8zM0pfUnFUUFJ5TU9CM3M5UUsxVkZvY1UwYjc2UTRSclJCXzJncHZtVWt6aHBpcHJmVW5BcWtpeFpqRzJTQWV5cWF2N0kxNEJRcEhQRGQzNDJ1UWY2THVDQ0xzVDhqXzVuM2psdjdzVTQtdFpzVVl0NEo5Sk9OLXd0R0ptQVpaaEdsNkpVdkNoR3hEQU1DZGc3R2VzYW84Qm5mTUFoREppNDZoSmNrN2pNakZEdC04dHpVVG5BaHlTZ0x5UFJ2UFIxeU50TjJrU2txX1FtYnB2eGxGVHZzV3J6a1c3M0NUODlEQQ?oc=5",
+    "source": "McGuireWoods",
+    "language": "en",
+    "published": "2026-11-24T22:52:55+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "Antimonopolio después de las elecciones intermedias: la aplicación de las fusiones, la coordinación de la seguridad de la IA y los deportes universitarios ocupan un lugar central",
+    "summary_es": "Antimonopolio después de las elecciones intermedias: la aplicación de las fusiones, la coordinación de la seguridad de la IA y los deportes universitarios ocupan un lugar central McGuireWoods"
+  },
+  {
+    "id": "2d935ac2aeee",
+    "title": "Geoffrey Hinton Warns About the Risks of Advanced AI",
+    "summary": "Geoffrey Hinton Warns About the Risks of Advanced AI cwibc.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwN0w2c1FDd21iWDRiZHk5amZPUE1PVV96bUJyYWMzY2I3d1BGX041V0l2RnlnVXk3MldTQzU4enNYRThlbVNJdWpVaHRjTU5icU9DVEFJaDVyTHc?oc=5",
+    "source": "cwibc.co.id",
+    "language": "en",
+    "published": "2026-11-24T22:41:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "Geoffrey Hinton advierte sobre los riesgos de la IA avanzada",
+    "summary_es": "Geoffrey Hinton advierte sobre los riesgos de la IA avanzada cwibc.co.id"
+  },
+  {
+    "id": "b5270ac69b84",
+    "title": "Geoffrey Hinton Warns AI Could Outpace Human Understanding",
+    "summary": "Geoffrey Hinton Warns AI Could Outpace Human Understanding Demokratis.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMGUtWjlMN09PQkxSdlkxMG5UejhtWDJfM0l1bHg1SHk0bzdBVV9IU29QdHRDYTBKYzlsVWdXaHhCaVpvS01DV2VZTFMwbXFMMXZidzBPZ2E1RzFwejBzMC1ZZDI1UzdH?oc=5",
+    "source": "Demokratis.co.id",
+    "language": "en",
+    "published": "2026-11-24T22:19:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Geoffrey Hinton"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "Geoffrey Hinton advierte que la IA podría superar la comprensión humana",
+    "summary_es": "Geoffrey Hinton advierte que la IA podría superar la comprensión humana Demokratis.co.id"
+  },
+  {
+    "id": "0846c031ed20",
+    "title": "OpenAI and Anthropic Employees Are Reportedly Clashing With Company Leaders Over AI Safety",
+    "summary": "OpenAI and Anthropic Employees Are Reportedly Clashing With Company Leaders Over AI Safety Gizmodo",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2d6Tkh0dTFIMEJ0QW80OHlCZWRoWGtBN3Z1cUdTQV9rM3ZTU0JWdVBhM3NYcnJJaFlkcjYwaG5nczA2RHczQ2FpcXNMWDRyTFRYMFZ4dkZCaXdmaEdvU3dQb1B1d1N3RjZyX3ZRQS1rX3dDdzd4THlpYWJkeXh5dlB3ZXBqT01PeU0ycUdHUUpJaW9meThYTEY3NHRhUVdUYU55b2lpZGtiVFVpeFNPcVdCVXdwSVJaakRBcmx3?oc=5",
+    "source": "Gizmodo",
+    "language": "en",
+    "published": "2026-11-24T22:15:30+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "Según se informa, OpenAI y los empleados de Anthropic están chocando con los líderes de la empresa por la seguridad de la IA",
+    "summary_es": "Se informa que OpenAI y los empleados de Anthropic están chocando con los líderes de la empresa por la seguridad de la IA"
+  },
+  {
+    "id": "eebc3ea2aa8f",
+    "title": "Insurance advisory firm Johnson Lambert launches AI governance services",
+    "summary": "Insurance advisory firm Johnson Lambert launches AI governance services Beinsure",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQm1YdVp0SlhGZno0aW1UblNITnR3NFM1M0ktR0Vxb2tYek1TNTR3R1NnWTRwaTZQRC1mNThKT1BzcEJTTF9JeG5KeGRCa21TZkhNSUNSUlh3OC03MGYtQ0pkcFhXY2xqbzdwQWJxTVY3Y2FITWNqZnhKMG15U3pjNDl0MU1jTzFKZXhTbjRWS1pwZDNNX3RsSnZjcmozRlk?oc=5",
+    "source": "Beinsure",
+    "language": "en",
+    "published": "2026-11-24T22:08:30+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-25",
+    "title_es": "La firma de asesoría de seguros Johnson Lambert lanza servicios de gobernanza de IA",
+    "summary_es": "La firma de asesoría de seguros Johnson Lambert lanza los servicios de gobernanza de IA Beinsure"
+  },
+  {
+    "id": "c8d43415cd73",
+    "title": "AMD acquires World Labs for $8.2B",
+    "summary": "AMD acquires World Labs for $8.2B Daily Tribune",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqZlo2eF9YY01XbjlobFF3M25WXzZoeE4wbGJVUGduMWJaVm5lNGM2NXo5cXJfeldOaEZuc1pQSlVQb1BzYWNLaU12ZDNwbHFNZmNJTXVVbExDT3lndDN5enlLQTktcmw4Zm1HaHFiRmY3LVE?oc=5",
+    "source": "Daily Tribune",
+    "language": "en",
+    "published": "2026-11-24T21:21:14+00:00",
+    "feed_name": "Fei-Fei Li (English)",
+    "thinkers": [
+      "Fei-Fei Li"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "AMD adquiere World Labs por 8.200 millones de dólares",
+    "summary_es": "AMD adquiere World Labs por 8.200 millones de dólares Daily Tribune"
+  },
+  {
+    "id": "49098094cb47",
+    "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
+    "summary": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping The Register",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGMyZ0prdjVoQTlEU1lsM0k2dnk5OFVOeXV4dEthVzdzSFBsVG1zYnItanhLSi1lNFNGcjRhZ1lOLUR2STk1WFdQMTI2Z0hJZURjYTFpaWtDRE0tYkxyV2JQb3VKbm9NRHhHOW0zY2JPdmxqdVpxSUhuWEhHeUpnUnAzM0huQ2dvVmhWYnV6VUpOTFFjQngybWtxUkI0ZndwUXBiX0VnaVZXTzNvZVBVY1ZrZ1hDUjVRZE85b0FxZw?oc=5",
+    "source": "The Register",
+    "language": "en",
+    "published": "2026-11-24T20:57:08+00:00",
+    "feed_name": "Yann LeCun (English)",
+    "thinkers": [
+      "Yann LeCun"
+    ],
+    "categories": [
+      "opensource"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "El padrino de la IA, Yann LeCun, incendia al director ejecutivo de Anthropic por el control de la IA",
+    "summary_es": "El padrino de la IA, Yann LeCun, incendia al director ejecutivo de Anthropic por el control de la IA The Register"
+  },
+  {
+    "id": "518fb83c3e28",
+    "title": "AI governance has to follow the work",
+    "summary": "AI governance has to follow the work Health Data Management",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzgwUk53NG1sNDlEM2lTbFc5eGN1NGs0RVNIVjJJMUI0Q3plclNDVWs4OWJNSk1yNjh2Q1UyOFVsTTJpQXVkd0JpV3drUUFtSmFEcVlpVHBvTXU5MUVYY2R4TkUxbkVVVGFkMi1USDNUdEpDQkkxRGpPWVltVW8xY214WTNaOFpnQVcw?oc=5",
+    "source": "Health Data Management",
+    "language": "en",
+    "published": "2026-11-24T20:32:18+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-25",
+    "title_es": "La gobernanza de la IA debe seguir el trabajo",
+    "summary_es": "La gobernanza de la IA debe seguir el trabajo de Gestión de datos de salud"
+  },
+  {
+    "id": "adaa5787f7a1",
+    "title": "Geoffrey Hinton & Yuval Noah Harari: AI and Humanity’s Future",
+    "summary": "Geoffrey Hinton & Yuval Noah Harari: AI and Humanity’s Future Superpower Daily",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0tVd1diTTdmbzAzc0NiVlo2a25vNVZ0bWUzMV9UbDdPZ0huVDgtSzMyeGJSWUxLdDVha2t5T3hzaDhXX3hnUlpfXy13RnJoTU8wU1gteDZGV2JndnJ5QXJfWk5CME81amw4SEIxMl81UWticUVJbXFWUVkwNXpEOFRaRlFyUEw2R1VuaWRQNE1HdnB6clBlM2VqbnhfWmpVZXl4cEU4bUtEbmp4U3hDU3B6eFRVVk55TjQ1WUdPRWVSSHphdERzU1Vn?oc=5",
+    "source": "Superpower Daily",
+    "language": "en",
+    "published": "2026-11-24T19:24:12+00:00",
+    "feed_name": "Yuval Noah Harari (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Yuval Noah Harari"
+    ],
+    "categories": [
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "Geoffrey Hinton y Yuval Noah Harari: la IA y el futuro de la humanidad",
+    "summary_es": "Geoffrey Hinton y Yuval Noah Harari: La IA y la futura superpotencia de la humanidad"
+  },
+  {
+    "id": "17d9b8af98bf",
+    "title": "Yoshua Bengio Urges AI Industry to Slow Development",
+    "summary": "Yoshua Bengio Urges AI Industry to Slow Development cwibc.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wZzJ3VE80aHJKTUhNeWZ4S3dMR1JGS3J2SG1FLW1PZkY2NnN2ZzNrRDE1bGljU1phd3RaZjJ2dWYzNFJ4UlpvNUdwRDkwUUJVcnk5QW54M2NweDhVWEJEbGZxcw?oc=5",
+    "source": "cwibc.co.id",
+    "language": "en",
+    "published": "2026-11-24T19:20:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Hinton & Bengio",
+      "Yoshua Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "Yoshua Bengio insta a la industria de la IA a desacelerar el desarrollo",
+    "summary_es": "Yoshua Bengio insta a la industria de la IA a desacelerar el desarrollo cwibc.co.id"
+  },
+  {
+    "id": "db6f8c5e787f",
+    "title": "This California GOA report may shape frontier AI safety nationwide. Here are 5 big takeaways",
+    "summary": "This California GOA report may shape frontier AI safety nationwide. Here are 5 big takeaways Transparency Coalition",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVpuY1luamhubE9wZi1feE5pU05aNC1IOE44N0ZZOXdsdGdoRm1zeGJSS2dVQkZ4aTdIYkQ0MEowQ1pGNlhfZUtOWXlqMUZON1NISTZwQXp3QnlGWXZTNWp5VzNib1R3R0hVQWY5bnpfZjNTRDZtaWU5UWk2Q3FLX3ZuUzRJNWpidnYyN1Q4Q2VxQ2FUd0Y5R2RwTW9aSHl4?oc=5",
+    "source": "Transparency Coalition",
+    "language": "en",
+    "published": "2026-11-24T19:09:04+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "Este informe del GOA de California puede dar forma a la seguridad de la IA en la frontera en todo el país. Aquí hay 5 grandes conclusiones",
+    "summary_es": "Este informe del GOA de California puede dar forma a la seguridad de la IA en la frontera en todo el país. Aquí hay cinco conclusiones importantes Coalición para la Transparencia"
+  },
+  {
+    "id": "decb31f62d5f",
+    "title": "Democratic attorneys general sue over Grok AI safety measures",
+    "summary": "Democratic attorneys general sue over Grok AI safety measures cbs19.tv",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTG5ZNXRNS0E3dldlZHdZNUdmdVA5N3ZkSk9tRHFlMmgyRGNuWkFHSmJJVzJ5NEtoUGtjQmJfenliWWJwR2pQTjF6d1VrQm5WOVNZeEhFdlpseEF0U29vWFRMSlp1aFItSTlLZXN0dml5Vjg4VkVMbHdnUlRUNjdmUElmbTdOVDJpNk85ZG1NS2FreGF3M09lcjBWSmhhYzlGdWN5T013Mml5enUyNG41NVFVQmMtSE9lUm5YZElMaTRzSklQTFVfSWw1dWlmbEVhTGRjUWNmTQ?oc=5",
+    "source": "cbs19.tv",
+    "language": "en",
+    "published": "2026-11-24T19:03:56+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "Los fiscales generales demócratas demandan por las medidas de seguridad de Grok AI",
+    "summary_es": "Fiscales generales demócratas demandan por medidas de seguridad de Grok AI cbs19.tv"
+  },
+  {
+    "id": "6dbc043a53e5",
+    "title": "Can AI Destroy Humanity? US Professor Explains \"Losing Control\" To Machines",
+    "summary": "Can AI Destroy Humanity? US Professor Explains \"Losing Control\" To Machines NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYU95bnhRWkVhZl9HVjBRN1BUOGVybU5OV0FYS3RpdDN0MDE0enhGcDhWd0EtUDFVR2JhYUZfRjExVlNzQmh4dzQ0TWp5NEJNS2hjWkkwblZZekF5aXNEZ3BQX3NvVjdFTnU1MDY5SWRKanlUSkV4Z1ZCQl90aldCQ2h4U0p4SW9RaWxxWkdiZnBpVThiOFE3ZEdYRk9BZWtHaHF6WDIxTGZxWDNIUVNjOTA3RdIBuwFBVV95cUxNM1Buc2M0NHNmQkx1VXh5a2R1bHZLbHNvNzZSbGw0Z1RxSlFqc3dCUGJJTU9xbGpCZktuYlk4M09rU0NFMTZTWFgyT2VLMTF5OXVDVVlGV1ptM3BsNGQ5OFFOYnRvdnpMVTBpSGRJSktkSUJ2cldGRkUwSXBVMlhUS3BRRTJ1dklxRUVoNDdoZXpuWUN4TndFZFUxbWF2UTdtNGRNZHBkZnV6dGt6UTgxZ2VMMW9pajB5bjBN?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-24T18:56:57+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "¿Puede la IA destruir a la humanidad? Profesor estadounidense explica \"perder el control\" a las máquinas",
+    "summary_es": "¿Puede la IA destruir a la humanidad? Profesor estadounidense explica \"perder el control\" de las máquinas NDTV"
+  },
+  {
+    "id": "95a086afa3a0",
+    "title": "'Get the foundation right': AWS CEO Matt Garman says AI safety can't rely on an 'emergency brake', calls for companies to be bold in their deployment",
+    "summary": "'Get the foundation right': AWS CEO Matt Garman says AI safety can't rely on an 'emergency brake', calls for companies to be bold in their deployment TechRadar",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTWhkZGpLeklGSzhpQXY1ZDdaVk9Gc2VXNmI5QmpCZ2pBbXgzZS1WMFNzc09rNGpBTzJxVUhEQk81Q0ZLS3BJLTdzNHRPdnJ2Qm1nbC1POHVINGFPTEc0M09ON2ZSYWs1cmtUelFybDZRWnFNZE5haHpmVTlKd213SDg0TFpVSGY2OVJWbGxKTktDeV9pRS1XOVpTX3FTbTc3ZVkxc1BVUTZvZHBwbUtFOWV4MDdwcUxKZG54MHc0VjJQUXgzdUlReXVjd3FmZXk4RzNHWHQtblZYY3drM0VRZGFJcFRZTzJLVHdrdGx4bzR3aFJsU1ZHTDRxNktOWUEwWXc?oc=5",
+    "source": "TechRadar",
+    "language": "en",
+    "published": "2026-11-24T18:05:00+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "'Conseguir los cimientos correctos': el director ejecutivo de AWS, Matt Garman, dice que la seguridad de la IA no puede depender de un 'freno de emergencia' y pide a las empresas que sean audaces en su implementación",
+    "summary_es": "\"Consiga las bases correctas\": Matt Garman, director ejecutivo de AWS, dice que la seguridad de la IA no puede depender de un \"freno de emergencia\" y pide a las empresas que sean audaces en su implementación LaComparacion"
+  },
+  {
+    "id": "b8edcf580175",
+    "title": "'AI Could Control Governments, Corporations And Universities': Stuart Russell",
+    "summary": "'AI Could Control Governments, Corporations And Universities': Stuart Russell NDTV",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWY2NWp0a3J6ZE5feVNCZUVRZHUtaklWNjZrX1dtNlRnd19MVm5zUXVLd2JkWDFEOHROY2RUUi1HMl9vajdIUFJzUmo4QXVWMVE4R3RBMGQ2ZXlMT3VGVzN3a1RyWDRXSkhjdi0tMDBDN1VkcWdYN2RhWWZvUHBXSFRTdlNTUG44N3Y5WDYtMV9xWXlVNHNBcFFuT0p5Zk1RWmVxdWFnZjRXVTVn?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-24T17:39:41+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-25",
+    "title_es": "'La IA podría controlar gobiernos, corporaciones y universidades': Stuart Russell",
+    "summary_es": "'La IA podría controlar gobiernos, corporaciones y universidades': Stuart Russell NDTV"
+  },
+  {
+    "id": "c7fc6c4ba682",
+    "title": "Video | Can AI Cure Diseases In Years? Stuart Russell Explains",
+    "summary": "Video | Can AI Cure Diseases In Years? Stuart Russell Explains NDTV",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakpfelUxMEhnRkVocFVpWTRONDUzbFVrZ2huVi1kRVhKSGNOSHlVNkZ4dEtOQXBTZ3lqcHlLNUprcWk4R091dWJyekx2UlVGbTc5ZDlWSEV5RjRhY2tHSzB0WkY2TTZTeTFGWDRCZE5PbkR3M1NhWnpfZ3FWb2IxMDQxU3lNR2xFenNHdVctUEY4Zw?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-24T17:32:26+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "Vídeo | ¿Puede la IA curar enfermedades en años? Stuart Russell explica",
+    "summary_es": "Vídeo | ¿Puede la IA curar enfermedades en años? Stuart Russell explica NDTV"
+  },
+  {
+    "id": "7806c4bba0b1",
+    "title": "'AI Could Take Control Of Human Civilisation': Stuart Russell On The Existential Threat",
+    "summary": "'AI Could Take Control Of Human Civilisation': Stuart Russell On The Existential Threat NDTV",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDljVS1kaTFpREtDOGZfS2FQNzZqTktIOG9oSDZaaU5GNUNiekpVS3E4OHFwU08zSnlXSFVZWHE3X3JXbzB5a2dtN0tJTGRMYzB6UmFDMl9HN21aZkVuN05relpXVGpWSE55dzJJbFJ6YXdLRldlNDNOZklsWHNHeXBzT0tNV041MWdOQ0RCVmR0ZHZ0SWN2cGNjdm9nUWpJR1pjNHNGM1JEa01xYjN4M1RLVktmRUZqeHZ3?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-24T17:22:09+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "'La IA podría tomar el control de la civilización humana': Stuart Russell sobre la amenaza existencial",
+    "summary_es": "'La IA podría tomar el control de la civilización humana': Stuart Russell sobre la amenaza existencial NDTV"
+  },
+  {
+    "id": "ffc3f869bf01",
+    "title": "Video | Superintelligent AI: Why Stuart Russell Wants Urgent Government Action",
+    "summary": "Video | Superintelligent AI: Why Stuart Russell Wants Urgent Government Action NDTV",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2pwanFTaDVzYnRjZ1g4NXBnRnk2QmdyZmlibmVLZGpNT2pSaXVzNlozcUZIaTVZYV9hWjlXc2RNVjJGMFRLQTkxMkx6d0VyMHAzMzJ1akIzY1p6a0VXMzQ2bW9BNjh3cHNoaW81dXpGQ1JGQ3RFNUJZb3VKcFVhUVpTYjMzWHlFSUROeUttUHg0bnV6c3BtQ1VrMDdnUEJCUGNKQkFpRQ?oc=5",
+    "source": "NDTV",
+    "language": "en",
+    "published": "2026-11-24T17:16:19+00:00",
+    "feed_name": "Stuart Russell (English)",
+    "thinkers": [
+      "Stuart Russell"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-25",
+    "title_es": "Vídeo | IA superinteligente: por qué Stuart Russell quiere una acción gubernamental urgente",
+    "summary_es": "Vídeo | IA superinteligente: por qué Stuart Russell quiere una acción gubernamental urgente NDTV"
+  },
+  {
+    "id": "410e89cceca7",
+    "title": "AI Governance Integrations, Platform vs Stack | Kovrr",
+    "summary": "AI Governance Integrations, Platform vs Stack | Kovrr Security Boulevard",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEhFTUlhcC1pUjFKUGx4SFlNVEZYQkRTeGFMdE8yR0pUczlMeWk0VTgzUzhWaE9zN2RpVGZublNmTzhWMUQtcG5oRS1RTWt0UFBhTm1La21paVI5OGpFMXF4YUxhdUt3dVRULUI3c3VUcFlRUUhVdlpMeWhmWnkxNkJYUkZvZUtpRi15SUJwZ1luQmc?oc=5",
+    "source": "Security Boulevard",
+    "language": "en",
+    "published": "2026-11-24T17:16:01+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-25",
+    "title_es": "Integraciones de gobernanza de IA, plataforma frente a pila | Kovrr",
+    "summary_es": "Integraciones de gobernanza de IA, plataforma frente a pila | Bulevar de seguridad Kovrr"
+  },
+  {
+    "id": "a84a97c854b9",
+    "title": "AI innovation is accelerating. AI governance can’t wait.",
+    "summary": "AI innovation is accelerating. AI governance can’t wait. Everbridge",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnMwSjAtMXpZWjZyekxsSk9iTV9KRl8tRDU2eEQtYjZoTXFmbTFMTFA4eExyLVBLY1VPQlY5RVZZSkxfdFgxNmV4UTNNbG5iTVpmVG1jazZlOEZ6TjlnaDhWNmxPeEdpemlKMENEeTJpNGVWQ2Z3WE5VZ09TVWZlcFJ6WDdRZmFKdFJLYm54bw?oc=5",
+    "source": "Everbridge",
+    "language": "en",
+    "published": "2026-11-24T14:47:33+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-25",
+    "title_es": "La innovación en IA se está acelerando. La gobernanza de la IA no puede esperar.",
+    "summary_es": "La innovación en IA se está acelerando. La gobernanza de la IA no puede esperar. Everbridge"
+  },
+  {
+    "id": "3f437dc85851",
+    "title": "AI committee in Australia presents 46 recommendations for AI governance",
+    "summary": "AI committee in Australia presents 46 recommendations for AI governance Digital Watch Observatory",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FbjE3VHh1ZEQ4dzREU0tmOUNSck5JOGdHQ2F4bUNscHdqME1QXzk2bnlIVnpxLVNMWEVfWFFDUjJlMldkNElvME5nMHBzWHY1c2RTeVNPdWZhQmpsbnV2RUZwMFhNbDFzNWxZN2JLRXk0SjJtS3RjQ0pSekc?oc=5",
+    "source": "Digital Watch Observatory",
+    "language": "en",
+    "published": "2026-11-24T12:58:37+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-25",
+    "title_es": "El comité de IA en Australia presenta 46 recomendaciones para la gobernanza de la IA",
+    "summary_es": "El comité de IA de Australia presenta 46 recomendaciones para la gobernanza de la IA Digital Watch Observatory"
+  },
+  {
     "id": "02f15f9339f7",
     "title": "Yoshua Bengio backs global AI governance as Guterres puts oversight on the to-do list",
     "summary": "Yoshua Bengio backs global AI governance as Guterres puts oversight on the to-do list Digg",
