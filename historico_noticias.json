@@ -1,5 +1,303 @@
 [
   {
+    "id": "52b7068e0cf7",
+    "title": "Governance Is the Missing Piece in AI Security",
+    "summary": "Governance Is the Missing Piece in AI Security Sophos",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0N6eF9NUnJ6UUhkSUwyMUhldHBaQkQzck9qMFUtZGVkOG1aV0EtT2otVXI1TWhVTDFSZDhsTzJON2gzZnV4LW13ZjY1UzdyaTNQQURSakZaRU1ueGhtVE5CRjZsWlZsbERYQlEzT1A4bWZrX2pSTnZKMnJ5akZaN3BzOHdqLTZCZHBiQTNGVWlNZ3F1a25aZUNWc1hwUQ?oc=5",
+    "source": "Sophos",
+    "language": "en",
+    "published": "2026-11-26T16:14:09+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "La gobernanza es la pieza que falta en la seguridad de la IA",
+    "summary_es": "La gobernanza es la pieza que falta en la seguridad de la IA Sophos"
+  },
+  {
+    "id": "bbacf821039b",
+    "title": "Hochul vetoes AI safety bill; sets ban on chatbot toys",
+    "summary": "Hochul vetoes AI safety bill; sets ban on chatbot toys The Black Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHBQZFlGWVpWd0xhdnNPV3pFTmxybW5zeGdLMUF5SWhfcmdWRExqazVpMmVfRjNJOExmUFowU2dMbmhOYl9RTXFNYnQ3RmxhZGU2Q3FLT0N2bTVIVkJHVXJNekVHMEI3ZVM2WDFYT3dBUDgyMW4xNGYwNnNfTURtcWF1X01Qd3NpaE9XWDYtQ3lqNGVGdm9XRjNITEpyRHdnaGc?oc=5",
+    "source": "The Black Chronicle",
+    "language": "en",
+    "published": "2026-11-26T15:46:11+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-26",
+    "title_es": "Hochul veta el proyecto de ley de seguridad de la IA; establece la prohibición de los juguetes chatbot",
+    "summary_es": "Hochul veta el proyecto de ley de seguridad de la IA; establece la prohibición de los juguetes chatbot The Black Chronicle"
+  },
+  {
+    "id": "4e5a97c71d0b",
+    "title": "DIFC Proposes AI Adequacy Protocol Shaping AI Governance And Opens Stakeholder Survey",
+    "summary": "DIFC Proposes AI Adequacy Protocol Shaping AI Governance And Opens Stakeholder Survey Legal 500",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1RpZjB2ZEQ4bzhPXzUySGx0SmIwQ1FXeW5FaGtpWTdvbXNBdHRwLVBVN1V0NzlFSFhTQ0t0LVFRWEI1dGs3YWY5dG9IX0xkWUs4Ym1KSWRUZG50Vlk1M3d5LVp6TFJOME5GSUxlTEtZQlMtTFlwelBfZGpGdnd3SnFqdFpqNEtyRGUxblZyNFJWN0Y2NlktRWtZQWZha1VDc3UtRTU2dVpDQUkzVFdocUNfWFZNY2s5d1FrVGFhZ0RxTmU1QzJmRS1IMzk2bmw5QWtaUg?oc=5",
+    "source": "Legal 500",
+    "language": "en",
+    "published": "2026-11-26T15:24:23+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "DIFC propone un protocolo de adecuación de la IA que da forma a la gobernanza de la IA y abre una encuesta entre las partes interesadas",
+    "summary_es": "DIFC propone un protocolo de adecuación de la IA que configura la gobernanza de la IA y abre una encuesta entre las partes interesadas Legal 500"
+  },
+  {
+    "id": "fe2ffa26a4d6",
+    "title": "California Governor Seeks Action on AI Safety Bills Within 30 Days",
+    "summary": "California Governor Seeks Action on AI Safety Bills Within 30 Days Broadband Breakfast",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlNXeGJOdjYxcmY5T3VWcG93N2JpQUYzUmtnSUw1cVpKaG9BVm5qeFROb2Q3dTBjTXAzbFV6ZkZlcFYxeVl1MmRGeWxyUXUyXzItOURfM0xwbjBPY1JPQ21TQTJUZEItMEExbmNnRUpzUUxUMTZOQk1nVUJ5bUhfT2JiTmlIeGN5eUdUd2xtVGRZd0hCSG1BMllYTk15Z1E?oc=5",
+    "source": "Broadband Breakfast",
+    "language": "en",
+    "published": "2026-11-26T15:19:43+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-26",
+    "title_es": "El gobernador de California busca medidas sobre los proyectos de ley de seguridad de la IA en un plazo de 30 días",
+    "summary_es": "El gobernador de California busca medidas sobre los proyectos de ley de seguridad de la IA en un plazo de 30 días Desayuno de banda ancha"
+  },
+  {
+    "id": "55c1d2a8d429",
+    "title": "Anthropic CEO Dario Amodei — Defends AI Safety Amid Stock Slump",
+    "summary": "Anthropic CEO Dario Amodei — Defends AI Safety Amid Stock Slump The Korea Daily",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NeTV0eHp0ZDB5NkxONmFfWGdWTERPdFVSVWhiV1JubjN2MlZGS2M4UjI4T2pyOGVSdVlkRmZJdXJoQmJORzNUZXUyTkVuNmhBcHdZWjVGQjc3OWNwdmRWcXJmMjVkSzNtYWpPbmFzREo?oc=5",
+    "source": "The Korea Daily",
+    "language": "en",
+    "published": "2026-11-26T15:12:36+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-26",
+    "title_es": "El director ejecutivo de Anthropic, Dario Amodei, defiende la seguridad de la IA en medio de la caída de las acciones",
+    "summary_es": "El CEO de Anthropic, Dario Amodei, defiende la seguridad de la IA en medio de la caída de las acciones The Korea Daily"
+  },
+  {
+    "id": "2a64fba4ce63",
+    "title": "Council of Europe Urges Responsible AI Governance at UN Security Council",
+    "summary": "Council of Europe Urges Responsible AI Governance at UN Security Council Mirage News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KT3B6UmVZWHBrbHVsbHRTRlNnLUFKQjZFY3FEUURiV1FMXzhjcmwyMWE5dElGMnZZNGxXOGhKQlhpWnFubF9ZU1lWRFlfam1yVy10Z0Utc05NODFCbXRMZUN3M3cwZVF4eTVWd1I3NElseU45MkJ1anJ6MFJBMXc?oc=5",
+    "source": "Mirage News",
+    "language": "en",
+    "published": "2026-11-26T13:30:00+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "El Consejo de Europa insta a una gobernanza responsable de la IA en el Consejo de Seguridad de la ONU",
+    "summary_es": "El Consejo de Europa insta a una gobernanza responsable de la IA en el Consejo de Seguridad de la ONU Mirage News"
+  },
+  {
+    "id": "1150b618c70b",
+    "title": "Anthropic loses favour with AI safety advocates as METR finds its R&D pace has doubled and early backer Dustin Moskovitz says 'stop racing'",
+    "summary": "Anthropic loses favour with AI safety advocates as METR finds its R&D pace has doubled and early backer Dustin Moskovitz says 'stop racing' Dealroom",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWDhYc0Y2Y1Y5TlNzNVFKVlRzSFV1cjcxa2dXNDNiMGY2M20zaWNJdlZqOS04TXEzMnloVFhNTDdsbjYzU3hSSkZsLTVMaDJnQWswLThWRDhjcXFzaTVtR0hRRkdHNTdEc3pnUmRpQzZtS3hmME5kdkJ3VldIb1lhZDlEWVhycWVEWmpJSGFrbVBwRVA1VEV2V056SzRLSjNpOWsyMzVTNVdlWE9iMjM0LXdfekExSGRwVnFIZnFRMXRZY0dhRUxXcnM0WW1JUnVVTHFCMWdWQ1ZHQkJncl9mbVpFdHVyM0FhYVUyZEdRWEwwUnd4elJhc19QOHNxeEdz?oc=5",
+    "source": "Dealroom",
+    "language": "en",
+    "published": "2026-11-26T12:55:01+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-26",
+    "title_es": "Anthropic pierde el favor de los defensores de la seguridad de la IA cuando METR descubre que su ritmo de I+D se ha duplicado y su primer patrocinador, Dustin Moskovitz, dice \"dejen de correr\".",
+    "summary_es": "Anthropic pierde el favor de los defensores de la seguridad de la IA cuando METR descubre que su ritmo de I+D se ha duplicado y su primer patrocinador, Dustin Moskovitz, dice \"dejen de correr\" Dealroom"
+  },
+  {
+    "id": "609a83063e69",
+    "title": "The Paris Call for AI Safety and Security: What It Says and Who Signed It",
+    "summary": "The Paris Call for AI Safety and Security: What It Says and Who Signed It Cyber Peace",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjFkVEZXR0ZjS3ZXaHFWazN6TkNIVUFFdzB1eDktLVYtVUQydkRMR09jS3dEV1NEcFUxQmZjcWNOdG5JQWE3RTZMVWVkMEdqSUpwRk1JS3Vybzh4VGotWnIwaENMR3RMcUtmZTg2Q3ljaFhZdFZzREI2SkZoOXFramZYVmdLNlM2eVhISC1iUXFUSWpnb2dscUNTYldPTVdObTZRSlpjRlVkNnpCZ3V5LQ?oc=5",
+    "source": "Cyber Peace",
+    "language": "en",
+    "published": "2026-11-26T12:28:46+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-26",
+    "title_es": "El llamado de París para la seguridad de la IA: qué dice y quién lo firmó",
+    "summary_es": "El Llamado de París para la seguridad de la IA: qué dice y quién lo firmó Cyber ​​Peace"
+  },
+  {
+    "id": "ba9335d0cf8c",
+    "title": "Who watches the NHS robots? Britain launches national AI safety crackdown",
+    "summary": "Who watches the NHS robots? Britain launches national AI safety crackdown Distilled Post",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzBfTDN2LVdYeVRTaXltTENCdllEdWhwdU1qd3pVYjJCSHJRaC1RVVVuTzZ0Y2lCS0M3OERWZFplWEFwNGtPdmVDd0U0WXRPUkJGVUNjeXZQQ2RVdm5wTUhyUGlnX3VOM3lBRldKODlVazNvUlNxZlhuaUtTRHlGMjUtMjFxLUNrcVVVZ253Z1hCWTMzVlMwRkVZVFV6aG9PcGJKZXhrRG1QTDQ?oc=5",
+    "source": "Distilled Post",
+    "language": "en",
+    "published": "2026-11-26T11:54:19+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "seguridad",
+    "date_added": "2026-11-26",
+    "title_es": "¿Quién vigila los robots del NHS? Gran Bretaña lanza medidas enérgicas nacionales contra la seguridad de la IA",
+    "summary_es": "¿Quién vigila los robots del NHS? Gran Bretaña lanza medidas enérgicas nacionales contra la seguridad de la IA Distilled Post"
+  },
+  {
+    "id": "5271f61f3cad",
+    "title": "How Wipro, PwC and bp Solve the AI Governance Trust Gap",
+    "summary": "How Wipro, PwC and bp Solve the AI Governance Trust Gap AI Magazine",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDcxc014Vlc3cnRpQ0xuQUFFRTJFWnhQNV9zcTdVbmhSY0VFTFFVRThxb3QxTWlYZERLd3FDY0xkc1ZwMVRmYUdqaXRfTjg5b29KMktVcXpZQnhCTFl2M1luOTlRbFBrRTRrLWdlNWUyTzlTRzZRZUpKU3lpUUhUcE5PWm55UjRaeFE?oc=5",
+    "source": "AI Magazine",
+    "language": "en",
+    "published": "2026-11-26T11:49:39+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "Cómo Wipro, PwC y bp resuelven la brecha de confianza en la gobernanza de la IA",
+    "summary_es": "Cómo Wipro, PwC y bp resuelven la brecha de confianza en la gobernanza de la IA Revista AI"
+  },
+  {
+    "id": "54db1b251648",
+    "title": "In 2016, ‘Godfather of AI’ Geoffrey Hinton said to ‘stop training radiologists’; a decade later, San Fran",
+    "summary": "In 2016, ‘Godfather of AI’ Geoffrey Hinton said to ‘stop training radiologists’; a decade later, San Fran The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQM3pkYnZnQ21ST0xHVXVFbERpdDlQYnFUUnc0VTNGM2ppVlp3c05pYXNiNkt0UFFxbmx0MGdzdDg0MTFLclJ6R3ZvMWgyTHVSX05ycU5kVGNlMi10N1pyZmc3NlhJSUQyZnp5VWpiQ0x6dTY2RmFUcDdHcHpkem1TU1dDSlc2QThIMjk5X0c4WHdNMGdUZjZFWmFXeFJ6dVlRbGU0cEZ0UGpZRjQ3c1djVTg3bGprX0VmMTFJTTRxcmNfSWJHak9KcEdfR1FJWTltcUxqSEdFcWVWYlhsSjdndmN6c3dWMk54TEZlR2Y0TnIyeENfUGg5WUg4MGllRGpaTWc4T3RFdDRETzR3ZTFlSC0wYW1USWY3MWZ1WW1GLU1PY1lkOTNndk5UYl9fcURmSWV2X0NnYzYzYjRhT1F0V1FGT2w3OVdnOHhkcTZiY0xCNzRQYVA3bDlSb3I5Ujlsd1B4eGFR0gHrAkFVX3lxTE1iRWthdlNjemlWVjR5Nms3WjlGTnlscjZLWmZBRmJqeHU0SVY1OTJkMFlOTmZEZDNzRzR0SzJZNmNfZjhleVR0VHdhNVNEZF9YcHIzV1NUSlJhbGY0QkJPYm1IY0lubXJuVFl6a1BGZk5uTUpOMzBTNHZsV3dqb2xLMWs0OFl0bUoxbEV0a05rWVRnbHlKR2ljZUwxVGN1clNyeGRvaEJfZVhxMG9MRTVmMkhzY1NUdGt4cGdwRFJjazNienBUbEh0dndKUmhxM3JSMVRra29KWldjMjZEY0lhX1NfSUttSzVwYlNZV3dudlNSYTYwS0NyN2J3dW9tQVRqSHZtRjZDelQwQjltMEdoZV8zU0VKZmNKS0V4Y0loXzdZX2E0SWlDLW9WYlhoeTVOZVZBakV2QmlERnlJbExQYTExcUVYZUxBRkt4ZlVmSVVhYlNOTTZpZEhoM0x0bFNlTVhjSXFMTjZKaw?oc=5",
+    "source": "The Times of India",
+    "language": "en",
+    "published": "2026-11-26T10:56:00+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (English)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-26",
+    "title_es": "En 2016, el “padrino de la IA”, Geoffrey Hinton, dijo que “dejáramos de formar radiólogos”; una década después, San Francisco",
+    "summary_es": "En 2016, el “padrino de la IA”, Geoffrey Hinton, dijo que “dejáramos de formar radiólogos”; una década después, San Francisco The Times of India"
+  },
+  {
+    "id": "edb5d65f3f42",
+    "title": "UN Special Summit on AI Safety stresses need for human-centric and well-governed development",
+    "summary": "UN Special Summit on AI Safety stresses need for human-centric and well-governed development Telecompaper",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaURxb3hTdTBEeVBoVUtGNUZtbHU0eFg2UkV5ZVZuSjVaVldabUN5ZzVaeDBmcFlxaUppS1JHSGRjdmhubHZBNmk0eUstclhIc2RUY3dfZ1Q1RU1VNU1temM0Sl9ldmh6b0p5MTk2Y21KS0t3WWxHQk01YWdoWWJ1cFFOMko2RFFxdDJFV3QzTzZQZkJid2ZuMXFHSU9UeEpwWGRPc3E0bWl2d0x3Y3FTeGs0c2dGNDA4RW9vekJLLTRDMXRlajBvU0lEb3ZyLUZf?oc=5",
+    "source": "Telecompaper",
+    "language": "en",
+    "published": "2026-11-26T10:55:21+00:00",
+    "feed_name": "AI Safety & Alignment (Global)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "La Cumbre Especial de las Naciones Unidas sobre la Seguridad de la IA destaca la necesidad de un desarrollo bien gobernado y centrado en las personas",
+    "summary_es": "La Cumbre Especial de las Naciones Unidas sobre la Seguridad de la IA destaca la necesidad de un desarrollo centrado en las personas y bien gobernado Telecompaper"
+  },
+  {
+    "id": "efd356f6d7b5",
+    "title": "La ciberresiliencia empresarial en España pondrá el foco en la gobernanza de la IA, el control de costes y la continuidad operativa en 2027",
+    "summary": "La ciberresiliencia empresarial en España pondrá el foco en la gobernanza de la IA, el control de costes y la continuidad operativa en 2027 Corresponsables",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3IyeWl2eEdqVVdva0lxTnBfcFFZa3JyZExyT3IyVTNlR3pyV2Vod1Z4SG5BY3dQc1o5S3NVRTd0aTdoQzdJQ0lnWnVROGZBR3Bmck4yT29ER3g2aDEyOURtR1gwb011YTdTbklPc2RjRFVhYWpkNThtZDNnZlJhQ3NpYVJScG5LTmNpdEpOX1J0VG9WRWlNUDJ1STAxSWY3X2FseHJnRWpiUnhLTmN1bGlibC1CV1E?oc=5",
+    "source": "Corresponsables",
+    "language": "es",
+    "published": "2026-11-26T09:43:42+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "seguridad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "La ciberresiliencia empresarial en España pondrá el foco en la gobernanza de la IA, el control de costes y la continuidad operativa en 2027",
+    "summary_es": "La ciberresiliencia empresarial en España pondrá el foco en la gobernanza de la IA, el control de costes y la continuidad operativa en 2027 Corresponsables"
+  },
+  {
+    "id": "97264c42379b",
+    "title": "Geoffrey Hinton, premio Nobel y padre de la Inteligencia Artificial, sobre sus riesgos: \"Se está escapando del control humano\"",
+    "summary": "Geoffrey Hinton, premio Nobel y padre de la Inteligencia Artificial, sobre sus riesgos: \"Se está escapando del control humano\" La Razón",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaDZqbTN3RTNzQVBBaU1nNkh4M3Y0a1Utdk5LYkl3bnZSNTJ4NVpJX25CLXdwVlNQZ1BpbWR6LWlFcmtHd1hTeVZzeU0zSHkzb2FoX2hSOHNpOWczcnhwX2pIcS1qZ25LSVB5MUo3dEhCR2hNWHpaSW83UktnV09NRU5wdjBqbTlMZ196SDUydlBLMHp3TkdFcTJpYW9JWWdzVWxSUWFjOWRCRXJvYzQ3b2RlVEtQQ3ZrQ2NOZW5wQzhvcDNSZXFROUR6dlZUaGQtdjdabjFQbjY4RFU2T3lGanQ5eXhyd2V4YWVEWlpFYmxxbnV5cXI0cnA0Q3l1cTFYdnfSAZYCQVVfeXFMTWpUNS1mWndCN1BRUmpucms1djUxcUNVSC00S0dwV2Y2UC1abHBMaUJkelJsdnBQelp0N2I4bi11bEl4Qi1Da1dZQ0FiV0VOUkJOUzI3elc3MUtMeTEyRFhqaEdFdGpnRWpITjFrXzRIZ3d4anhFZFRTamlwajkxZFJ1RU1DOTktUzlEaEh1VmE4LXVqdktUS1J0YjVvM19UMjlEbTRvd2otSU9RSWJrR2VpcHhGX0l4akZnSnZFTjVlUnp1YklWTXZjcm9KNTFoWGJOemI1Y1BGbHV1R3ozZ2hQVzZHTjNTVThXcDJ4OUowNFFSLWhlZG84VFVEektid3F2WDc4ODVGdVZHU2VBanFQem9YdEE?oc=5",
+    "source": "La Razón",
+    "language": "es",
+    "published": "2026-11-26T06:30:16+00:00",
+    "feed_name": "Geoffrey Hinton & Yoshua Bengio (Español)",
+    "thinkers": [
+      "Geoffrey Hinton",
+      "Hinton & Bengio"
+    ],
+    "categories": [
+      "seguridad",
+      "sociedad"
+    ],
+    "slot": "pensadores",
+    "date_added": "2026-11-26",
+    "title_es": "Geoffrey Hinton, premio Nobel y padre de la Inteligencia Artificial, sobre sus riesgos: \"Se está escapando del control humano\"",
+    "summary_es": "Geoffrey Hinton, premio Nobel y padre de la Inteligencia Artificial, sobre sus riesgos: \"Se está escapando del control humano\" La Razón"
+  },
+  {
+    "id": "d5a098f84c9c",
+    "title": "Por qué la regulación de la IA es importante para los inversores, según Wellington",
+    "summary": "Por qué la regulación de la IA es importante para los inversores, según Wellington Funds Society",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEdIZ1pfOHVRSlcyMmhNWklnLVR0c084NWw4cmNHckVJV2o1UThMRzdvUHNlcHI5YmxleDJPUHRzLTFUeXdWOVBNanhfMElYWkx3d1VaVDJka1hadkJlY2o5OUxfWGxvMHNnQ0hXUndCNnZmZ2hXeWF1VmluUTQ2UG1kcExRbDM1SFhLQnBocklOYWhDMUxDb3FueVpOREFMX2FsN0hvaG1KQmxXM0taOWhGckFLOHhucjZWRmhHMnpPa0h1cVJ4Nw?oc=5",
+    "source": "Funds Society",
+    "language": "es",
+    "published": "2026-11-26T06:00:58+00:00",
+    "feed_name": "Gobernanza y Regulación IA (Español)",
+    "thinkers": [],
+    "categories": [
+      "sociedad",
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "Por qué la regulación de la IA es importante para los inversores, según Wellington",
+    "summary_es": "Por qué la regulación de la IA es importante para los inversores, según Wellington Funds Society"
+  },
+  {
+    "id": "7c2be901d0b3",
+    "title": "AI governance must remain democratic, humans should not surrender free will to systems: Anthropic CEO Dario ..",
+    "summary": "AI governance must remain democratic, humans should not surrender free will to systems: Anthropic CEO Dario .. ET BrandEquity",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTXFoSVJBRUlwampJLVhIaS1oSDB0QXJhek5icFR4cnN3VE1oOEJnaEdMVXQ3SHctaExISDgtdzFoS3pRVHhhamZvY3lvN2RDOXpjZVo5aFdlYURWR2d3ZHEycThpLTd4eTliVWg5cWU1ejFxeUg4aFZseDZ1aEFHaVUwVFNFTk5CTHFHU20zYWFjQXFwQjJVb3RKR3VIbkFib2FQdlFQNWF6bTE3QjhQX2x2UzhMUEEtNUJ4WWdOVUR1TXhhOXgyd0pxWHNWclVyTkVnR00tVC1nS0dBcUdxNDh6MmxFcGR0cjN3RkFaeW1Mak5BMXVoRTlJbzNvSlJtU25GdWNKRlhBRjJ0Zk1pdzBn0gGXAkFVX3lxTFBscWF6MVktRXkxOFR5NDVQSFdYVy0xT1RCV0RXMWhybDNRbk1KYkhtSXQ2V2JIbmJOYWR5UXlvNTExQUNnbUhVWWMtRjBVbnkwSnBwbmF3UjdFRjFyNjhvQXlTTmt3aHEtOTRMcXZfcVIzZjN4N1BDY0pHcHJPYW9xNXFMOHN1N3FYRi1xMVZ2RUZGVW12Zjk4UVRGbGY1bFRxQTJETkFHTWlYSmxpZnVwQmNOR0dZZXd1SGlJb2RBLUI5cUFqd2lEWFFVNnAzVENiX3hVN1hjTnFmRV9fcFBuVFVVTXh1M25paGdCZDlKNldvMHQxMGIwZnBNUEppdjhwenJTbHZUSmpuS2wyMmJ6UWZZSWEwWQ?oc=5",
+    "source": "ET BrandEquity",
+    "language": "en",
+    "published": "2026-11-26T05:32:40+00:00",
+    "feed_name": "AI Governance & Policy (Global)",
+    "thinkers": [],
+    "categories": [
+      "gobernanza"
+    ],
+    "slot": "gobernanza",
+    "date_added": "2026-11-26",
+    "title_es": "La gobernanza de la IA debe seguir siendo democrática, los humanos no deben ceder el libre albedrío a los sistemas: Darío, CEO de Anthropic.",
+    "summary_es": "La gobernanza de la IA debe seguir siendo democrática, los humanos no deben ceder el libre albedrío a los sistemas: Dario, CEO de Anthropic. ET BrandEquity"
+  },
+  {
     "id": "6ed71428c489",
     "title": "OpenAI AI development limits: what perplexity measures",
     "summary": "OpenAI AI development limits: what perplexity measures NeoTeo",
